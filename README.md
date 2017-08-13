@@ -1,3 +1,8 @@
-# My Awesome Book
+# Off-Grid Shed
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+![](04 Wall Exterior/images/D03.svg)
+
+
+## Requirements
+
+Needs to be able to hold 16' dimensional lumber.
