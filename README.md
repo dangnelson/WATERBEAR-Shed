@@ -2,7 +2,9 @@
 
 ![](04 Wall Exterior/images/D03.svg)
 
+## Features
 
-## Requirements
-
-Needs to be able to hold 16' dimensional lumber.
+* Holds 16' dimensional lumber.
+* Plastic-free construction
+* Perfect for rainwater collection
+* Charred-wood siding
