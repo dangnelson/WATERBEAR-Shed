@@ -141,7 +141,7 @@ Insert the floor joists back into place using your marks.
 
 Load the *Nail Gun* with *3.5" Exterior Nails* and use 2 on each end of each joist.
 
-### Joist Connections (IRC Table 602.3(1))
+### Joist Connections `IRC Table 602.3(1)`
 
 | Placement | Technique | Nail Size | Nail Frequency / Number | Occurances | 3.5" Nails
 |---|---|---|---|---|---|---|
@@ -151,13 +151,11 @@ Load the *Nail Gun* with *3.5" Exterior Nails* and use 2 on each end of each joi
 
 ![](images/B02.svg)
 
-Lay *5/8" (19/32) Plywood* (IRC TABLE R503.1) down on top of the joists end to end.
+Lay *5/8" (19/32) Plywood* `IRC TABLE R503.1` down on top of the joists end to end.
 
-### Plywood Connection (IRC TABLE R602.3(1))
+### Plywood Connection `IRC TABLE R602.3(1)`
 
 Load the *Nail Gun* with *2.5" Exterior Nails* and nail using the following schedule:
-
-
 
 | Placement | Nail Size | Nail Frequency / Number | Occurances | Nails/Sheet | 2.5"  Nails
 |---|---|---|---|---|---|
