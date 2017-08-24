@@ -11,17 +11,17 @@ Concrete deck blocks for support with corner piers as hold downs.
 * 8 2 ft 2x4s
 * Exterior Nails
 * 7 4x8 5/8" (19/32) Plywood
+* Shims
 
-#### Estimate
 
 |Item | Amount |
 |---|---|---|---|
-| Concrete Deck Block | 30
+| Concrete Deck Block | 28
 | Concrete Tube Forms | 4 
-| 4x4 Post Base | 4
+| Treated 4x4x8 | 1
 | Gravel | 1 yard
 | Concrete 80 lb bags | 4
-| Water | 22.4 liters
+| 5 gallon Water Jugs or Water Source |  3
 | 2x6x12 treated | 14
 | 2x6x16 treated | 2
 | 4x4x8 treated | 1
@@ -35,12 +35,14 @@ Concrete deck blocks for support with corner piers as hold downs.
 * Nail Gun
 
 
-### Surveying Tools
+### Surveying / Marking Tools
+
 * Marking Spray Paint
 * 4 or more 2 ft Stakes
 * Measuring Tape
 * String on Reel
 * 4 String Levels
+* Chalk Line
 
 ### Digging Tools
 * Small Clamshell Digger
@@ -115,15 +117,17 @@ Wait a day and remove the *Cardboard Concrete Form Tubes* from around the piers.
 
 ![](images/A04.svg)
 
+Place the end plates on two blocks and use shims to level them until they all line up with each other at the corners.
+
 Drill the holes for the bolts then bolt the 4x4s to the post bases, and bolt the side beams to the post bases.
 
 ## Blocks
 
 ![](images/A05.svg)
 
-Mark the long side beams on center for the floor joists. Roughly place the blocks in place by inserting the floor joists into them.
+Mark the long end plates for the floor joists. Roughly place the *concrete blocks* in place by inserting the floor joists into them, and aligning the joists roughly with the marks.
 
-After each board is roughly lined up, remove an inch of soil under each block and add *All Purpose Gravel* under each block until the joists are even with the side beams.
+After each board is lined up, remove an inch of soil under each block and add *All Purpose Gravel* under each block until the joists are level with the side beams.
 
 Carefully mark the unattached floor joists so you can place them back where they belong and remove them for the next step.
 
@@ -139,9 +143,9 @@ Use the *Shovel* and the *Garden Hoe* to spread a layer of gravel around the blo
 
 Insert the floor joists back into place using your marks.
 
-Load the *Nail Gun* with *3.5" Exterior Nails* and use 2 on each end of each joist.
-
 ### Joist Connections `IRC Table 602.3(1)`
+
+Hammer 2 *3.5" Exterior Nails* into each end of each joist.
 
 | Placement | Technique | Nail Size | Nail Frequency / Number | Occurances | 3.5" Nails
 |---|---|---|---|---|---|---|
@@ -151,11 +155,15 @@ Load the *Nail Gun* with *3.5" Exterior Nails* and use 2 on each end of each joi
 
 ![](images/B02.svg)
 
-Lay *5/8" (19/32) Plywood* `IRC TABLE R503.1` down on top of the joists end to end.
+Load the *Nail Gun* with *2.5" Nails*.
+
+Lay *5/8" (19/32) Plywood* `IRC TABLE R503.1` down on top of the joists end to end, nailing the corners as you go.
+
+Mark a *Chalk Line* across the plywood for each joist using the nails on either end as a guide.  
 
 ### Plywood Connection `IRC TABLE R602.3(1)`
 
-Load the *Nail Gun* with *2.5" Exterior Nails* and nail using the following schedule:
+Nail the plywood in using the following nailing schedule:
 
 | Placement | Nail Size | Nail Frequency / Number | Occurances | Nails/Sheet | 2.5"  Nails
 |---|---|---|---|---|---|
