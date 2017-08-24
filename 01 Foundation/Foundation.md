@@ -10,12 +10,29 @@ Concrete deck blocks for support with corner piers as hold downs.
 * 4 Post Beam Connectors
 * 8 2 ft 2x4s
 * Exterior Nails
+* 7 4x8 5/8" (19/32) Plywood
+
+#### Estimate
+
+|Item | Amount |
+|---|---|---|---|
+| Concrete Deck Block | 30
+| Concrete Tube Forms | 4 
+| 4x4 Post Base | 4
+| Gravel | 1 yard
+| Concrete 80 lb bags | 4
+| Water | 22.4 liters
+| 2x6x12 treated | 14
+| 2x6x16 treated | 2
+| 4x4x8 treated | 1
 
 ## Tools Needed
 
 * Hammer
 * Hand Saw
 * Garden Hoe
+* Circular Saw
+* Nail Gun
 
 
 ### Surveying Tools
@@ -73,7 +90,7 @@ Rent an auger and use the *Digging Tools* if you have rocky soil.
 
 Dig out the bottom of the hole so it flares out at the bottom to resist frost heave and lift from strong winds.
 
-##Piers
+## Piers
 
 ![](images/A02.svg)
 
@@ -84,68 +101,66 @@ Nail the sides of the *Cardboard Concrete Form Tubes* to the center of 2 2x4s so
 
 Slowly pour *Water* over 1 *Bag of Concrete* in the *Wheel Barrow* and mix using the *Garden Hoe* until you have a thick consistency.
 
-Make sure to wear a *Respitory Mask* to avoid breathing in concrete dust, and 
+Make sure to wear a *Respitory Mask* to avoid breathing in concrete dust. 
 
-Then shovel the concrete 
+Shovel the concrete into the forms and occasionally insert the *Tile Spade* into the concrete to remove any air pockets.
 
-###Fill
+Insert a *Galvanized Post Base* into the form at the right angle.
 
-## Joist Side Beams
+### Fill
+
+Wait a day and remove the *Cardboard Concrete Form Tubes* from around the piers. Backfill with *Compactable Fill* and tamp using the *Digging Bar*.
+
+## Joist End Plates
 
 ![](images/A04.svg)
+
+Drill the holes for the bolts then bolt the 4x4s to the post bases, and bolt the side beams to the post bases.
 
 ## Blocks
 
 ![](images/A05.svg)
 
+Mark the long side beams on center for the floor joists. Roughly place the blocks in place by inserting the floor joists into them.
 
+After each board is roughly lined up, remove an inch of soil under each block and add *All Purpose Gravel* under each block until the joists are even with the side beams.
+
+Carefully mark the unattached floor joists so you can place them back where they belong and remove them for the next step.
 
 ## Gravel
 
 ![](images/A06.svg)
 
-Use the *Garden Hoe* to spread a layer of gravel around the blocks to improve drainage.
+Use the *Shovel* and the *Garden Hoe* to spread a layer of gravel around the blocks to improve drainage.
 
 ## Floor Joists
 
 ![](images/B01.svg)
 
-Treated
+Insert the floor joists back into place using your marks.
 
-Garden Hoe
+Load the *Nail Gun* with *3.5" Exterior Nails* and use 2 on each end of each joist.
 
-#### Estimate
+### Joist Connections (IRC Table 602.3(1))
 
-|Item | Amount |
-|---|---|---|---|
-| Concrete Deck Block | 30
-| Concrete Tube Forms | 4 
-| 4x4 Post Base | 4
-| Gravel | 1 yard
-| Concrete 80 lb bags | 4
-| Water | 22.4 liters
-| 2x6x12 treated | 14
-| 2x6x16 treated | 2
-| 4x4x8 treated | 1
-
+| Placement | Technique | Nail Size | Nail Frequency / Number | Occurances | 3.5" Nails
+|---|---|---|---|---|---|---|
+| End Plate | End Nail | 3.5" | 2 nails | 26 | 60
 
 ## Plywood Flooring
 
 ![](images/B02.svg)
 
-5/8 (19/32) Plywood (TABLE R503.1)
+Lay *5/8" (19/32) Plywood* (IRC TABLE R503.1) down on top of the joists end to end.
 
-| Item | Amount |
-|---|---|---|---|
-|4x8 5/8" | 7
+### Plywood Connection (IRC TABLE R602.3(1))
 
-#### Estimate
+Load the *Nail Gun* with *2.5" Exterior Nails* and nail using the following schedule:
 
-* 24' edge length for each 4x8 = 48 nails per sheet
-* Two 8' center lengths for each 4x8 = 16 nails per sheet
 
-| Placement | Nail Size | Nail Frequency / Number | Occurances | 2.5"  Nails
-|---|---|---|---|---|
-| Edges on Studs | 2 or 2.5" | Every 6" on center | 6 sheets | 288
-| Center on Studs | 2 or 2.5" | Every 12" on center | 6 sheets | 96
+
+| Placement | Nail Size | Nail Frequency / Number | Occurances | Nails/Sheet | 2.5"  Nails
+|---|---|---|---|---|---|
+| Edges on Studs | 2 or 2.5" | Every 6" on center | 6 sheets | 48 | 288
+| Center on Studs | 2 or 2.5" | Every 12" on center | 6 sheets | 16 | 96
 |**Total**||| | 384

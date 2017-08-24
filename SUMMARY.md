@@ -6,8 +6,3 @@
 * [Roof](03 Roof/Roof.md)
 * [Wall Exterior](04 Wall Exterior/Wall Exterior.md)
 * [Electric](05 Electric/Electric.md)
-
-
-
-
-1
