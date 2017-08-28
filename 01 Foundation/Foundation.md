@@ -170,3 +170,5 @@ Nail the plywood in using the following nailing schedule:
 | Edges on Studs | 2 or 2.5" | Every 6" on center | 6 sheets | 48 | 288
 | Center on Studs | 2 or 2.5" | Every 12" on center | 6 sheets | 16 | 96
 |**Total**||| | 384
+
+## Cover until next step

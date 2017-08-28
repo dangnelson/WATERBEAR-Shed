@@ -63,7 +63,12 @@ Drip Cap for the Top
 | Deadbolt for Door | 1
 | 6 in Galvanized Barrel Bolt | 3
 
+##Gables
 
+| Item | Amount |
+|---|---|---|---|
+| 2x4x8 | 12
+| 2x4x12 | 2
 
 ##Roof
 

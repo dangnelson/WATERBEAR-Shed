@@ -25,9 +25,9 @@
 | Item | Amount |
 |---|---|---|---|
 | 2x6x12 | 32
-| 2x10x12 | 1
-| 2x10x8 | 1
-| Hurricane Ties | 13
+| 1x10x12 | 1
+| 1x10x8 | 1
+| Hurricane Ties | 26
 
 ### Outriggers
 

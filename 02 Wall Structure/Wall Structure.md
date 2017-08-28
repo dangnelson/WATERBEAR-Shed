@@ -1,8 +1,8 @@
 ## Wall Structure
 
-### Framing
+## Framing
 
-![](images/B03.svg)
+![](images/B01.svg)
 
 | Item | Amount |
 |---|---|---|---|
@@ -10,7 +10,7 @@
 |2x4x16 | 4
 |2x4x7.5" | 45
 
-#### Headers
+### Headers
 
 TABLE R502.5(1)
 
@@ -21,7 +21,7 @@ TABLE R502.5(1)
 |2x12x8 | 3
 
 
-#### Stud & Header Fastening (IRC Table 602.3(1))
+### Stud & Header Fastening (IRC Table 602.3(1))
 
 ![nailing](images/Nailing.svg)
 
@@ -34,15 +34,15 @@ TABLE R502.5(1)
 | Top or bottomplate to stud, end nail | End Nail | 3.5" | 2 nails | 82 | | 164
 |**Total**| | | | | 12 | 214
 
-### Top Plate
+## Top Plate
 
-![](images/B04.svg)
+![](images/B02.svg)
 
 | Item | Amount |
 |---|---|---|---|
 |2x4x8 | 7
 
-#### Fastening (IRC Table 602.3(1))
+### Fastening (IRC Table 602.3(1))
 
 | Placement | Technique | Nail Size | Nail Frequency / Number | Occurances | 3" Nails | 3.5" Nails
 |---|---|---|---|---|---|---|
@@ -51,15 +51,15 @@ TABLE R502.5(1)
 | Top plates, overlaps at corners | Face Nail | 3" | 2 nails | 4 | 8
 |**Total**||||| 36 | 
 
-### Sheathing
+## Sheathing
 
-![](images/B05.svg)
+![](images/B03.svg)
 
 | Item | Amount |
 |---|---|---|---|
 |4x8 3/8" plywood | 13
 
-#### Estimate
+### Estimate
 
 * 24' edge length for each 4x8 = 48 nails per sheet
 * Two 8' center lengths for each 4x8 = 16 nails per sheet
@@ -71,9 +71,9 @@ TABLE R502.5(1)
 |**Total**||||832
 
 
-### Ceiling Joists
+## Ceiling Joists
 
-![](images/B06.svg)
+![](images/B04.svg)
 
 IRC Table 802.4(1)
 
@@ -83,7 +83,7 @@ IRC Table 802.4(1)
 |2x6x8 | 4
 | Post Frame Hangers | 4
 
-#### Joist Connections (IRC Table 602.3(1))
+### Joist Connections (IRC Table 602.3(1))
 Distance between the raised top plate and the top of the parrallel rafter is 7 & 1/8". So no blocking is needed (IRC 602.10.6.2).
 
 | Placement | Technique | Nail Size | Nail Frequency / Number | Occurances | 2.5" Nails | 3.5" Nails
@@ -94,15 +94,15 @@ Distance between the raised top plate and the top of the parrallel rafter is 7 &
 
 The ends of each joist must touch the top plate for at least 1.5 inches (IRC 802.6).
 
-### Ceiling Sheathing
+## Ceiling Sheathing
 
-![](images/B07.svg)
+![](images/B05.svg)
 
 | Item | Amount |
 |---|---|---|---|
 |4x8 5/8" plywood | 7
 
-#### Estimate
+### Estimate
 
 * 24' edge length for each 4x8 = 48 nails per sheet
 * Two 8' center lengths for each 4x8 = 16 nails per sheet
@@ -113,18 +113,18 @@ The ends of each joist must touch the top plate for at least 1.5 inches (IRC 802
 | Center on Studs | 2 or 2.5" | Every 12" on center | 7 sheets | 112
 |**Total**|||| 448
 
-### Door Jamb
+## Door Jamb
+
+![](images/B06.svg)
+
+## Door Flashing
+
+![](images/B07.svg)
+
+
+## Doors
 
 ![](images/B08.svg)
-
-### Door Flashing
-
-![](images/B09.svg)
-
-
-### Doors
-
-![](images/B10.svg)
 
 | Item | Amount |
 |---|---|---|---|
@@ -137,9 +137,9 @@ The ends of each joist must touch the top plate for at least 1.5 inches (IRC 802
 | Hinges | 6
 | Handle | 1
 
-### Wall Felt
+## Wall Felt
 
-![](images/B11.svg)
+![](images/B09.svg)
 
 | Item | Amount |
 |---|---|---|---|
