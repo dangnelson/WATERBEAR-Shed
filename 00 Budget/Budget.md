@@ -84,12 +84,20 @@ Drip Cap for the Top
 | 1x3x7 | 3
 
 
-
 ##Roof Felt
 
 |Item | Amount |
 |---|---|
 | Roof Felt | 380 sq ft
+
+##Roofing
+
+|Item | Length Needed | Amount Needed | Cost Per | Total |
+|---|---|---|---|---|---|
+| Advantage-Lok | 28 10' 3 1/8" lengths | 287' | &#36;2.53 | &#36;726.11
+| Drip Edge | 80' | 8 | &#36;23 | &#36;184
+| Ridge Vent | 19' | 8 | &#36;15.90 | &#36;127.2
+
 
 ##Ramp
 |Item | Amount |

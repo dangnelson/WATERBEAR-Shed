@@ -37,6 +37,8 @@
 |---|---|---|---|
 | 2x4x2.5' | 28
 
+10 2x4x8s
+
 ### Collar Ties
 
 ![](images/C05.svg)
@@ -54,6 +56,8 @@
 | Item | Amount |
 |---|---|---|---|
 | 2x4x1.5' | 28
+
+6 2x4x8s
 
 ### Roof Sheathing
 

@@ -4,20 +4,11 @@ Concrete deck blocks for support with corner piers as hold downs.
 
 ## Materials Needed
 
-* 28 Deck Blocks
-* 2 5 gallon Water Jugs or Water Source
-* 4 Cardboard Concrete Form Tubes
-* 4 Post Beam Connectors
-* 8 2 ft 2x4s
-* Exterior Nails
-* 7 4x8 5/8" (19/32) Plywood
-* Shims
-
-
 |Item | Amount |
 |---|---|---|---|
-| Concrete Deck Block | 28
+| Concrete Deck Blocks | 28
 | Concrete Tube Forms | 4 
+| Post Beam Connectors | 4
 | Treated 4x4x8 | 1
 | Gravel | 1 yard
 | Concrete 80 lb bags | 4
@@ -25,28 +16,32 @@ Concrete deck blocks for support with corner piers as hold downs.
 | 2x6x12 treated | 14
 | 2x6x16 treated | 2
 | 4x4x8 treated | 1
+| Exterior Nails |
+| 2x4x8 | 2
+| 4x8 5/8" (19/32) Plywood | 7
+| Shims
 
 ## Tools Needed
 
-* Hammer
-* Hand Saw
-* Garden Hoe
-* Circular Saw
-* Nail Gun
+* [Hammer](https://en.wikipedia.org/wiki/Hammer)
+* [Hand Saw](https://en.wikipedia.org/wiki/Hand_saw)
+* [Hoe](https://en.wikipedia.org/wiki/Hoe_(tool))
+* [Hand-held Circular Saw](https://en.wikipedia.org/wiki/Circular_saw)
+* [Nail Gun](https://en.wikipedia.org/wiki/Nail_gun)
 
 
 ### Surveying / Marking Tools
 
-* Marking Spray Paint
+* Marking Chalk Spray Paint
 * 4 or more 2 ft Stakes
 * Measuring Tape
-* String on Reel
-* 4 String Levels
+* String Line
+* 4 String Line Levels
 * Chalk Line
 
 ### Digging Tools
-* Small Clamshell Digger
-* Digging Bar
+* [Post Hole Digger](https://en.wikipedia.org/wiki/Post_hole_digger)
+* [Digging Bar](https://en.wikipedia.org/wiki/Digging_bar)
 * Shovel(s)
 
 ### Concrete Pouring Tools
@@ -71,6 +66,10 @@ To avoid major excavation, find a location which is fairly level. You can do thi
 Use *Marking Spray Paint* and a *Measuring Tape* to roughly mark the locations of the piers. Press *Stakes* into marked corners, then measure from corner to corner and adjust the stakes until all the measurements are correct. When your finished pound the stakes several inches in with a *Hammer* to keep them from moving.
 
 Use the *String on Reel* to connect the stakes to make a square. Measure out 12 inches from the string and mark several points then use the marking spray paint to connect the points to create a box.
+
+[![](blueprints/A01.svg)](blueprints/A01.pdf)
+
+
 
 ### Remove Grass & Debris
 
@@ -109,6 +108,8 @@ Shovel the concrete into the forms and occasionally insert the *Tile Spade* into
 
 Insert a *Galvanized Post Base* into the form at the right angle.
 
+[![](blueprints/A02.svg)](blueprints/A02.pdf)
+
 ### Fill
 
 Wait a day and remove the *Cardboard Concrete Form Tubes* from around the piers. Backfill with *Compactable Fill* and tamp using the *Digging Bar*.
@@ -120,6 +121,8 @@ Wait a day and remove the *Cardboard Concrete Form Tubes* from around the piers.
 Place the end plates on two blocks and use shims to level them until they all line up with each other at the corners.
 
 Drill the holes for the bolts then bolt the 4x4s to the post bases, and bolt the side beams to the post bases.
+
+[![](blueprints/A04.svg)](blueprints/A04.pdf)
 
 ## Blocks
 
@@ -139,7 +142,7 @@ Use the *Shovel* and the *Garden Hoe* to spread a layer of gravel around the blo
 
 ## Floor Joists
 
-![](images/B01.svg)
+![](images/A07.svg)
 
 Insert the floor joists back into place using your marks.
 
@@ -153,22 +156,26 @@ Hammer 2 *3.5" Exterior Nails* into each end of each joist.
 
 ## Plywood Flooring
 
-![](images/B02.svg)
+![](images/A08.svg)
 
 Load the *Nail Gun* with *2.5" Nails*.
 
-Lay *5/8" (19/32) Plywood* `IRC TABLE R503.1` down on top of the joists end to end, nailing the corners as you go.
+Lay *5/8" (19/32) Plywood* down on top of the joists end to end, nailing the corners as you go. `IRC TABLE R503.1`
 
 Mark a *Chalk Line* across the plywood for each joist using the nails on either end as a guide.  
+
+[![](blueprints/A09.svg)](blueprints/A09.pdf)
 
 ### Plywood Connection `IRC TABLE R602.3(1)`
 
 Nail the plywood in using the following nailing schedule:
 
-| Placement | Nail Size | Nail Frequency / Number | Occurances | Nails/Sheet | 2.5"  Nails
+| Placement | Nail Size | Nail Frequency / Number | Occurances | Nails / Sheet | 2.5"  Nails
 |---|---|---|---|---|---|
 | Edges on Studs | 2 or 2.5" | Every 6" on center | 6 sheets | 48 | 288
 | Center on Studs | 2 or 2.5" | Every 12" on center | 6 sheets | 16 | 96
 |**Total**||| | 384
 
 ## Cover until next step
+
+Bricks on tarp
