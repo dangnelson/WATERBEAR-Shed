@@ -29,6 +29,12 @@
 | 1x10x8 | 1
 | Hurricane Ties | 26
 
+| Placement | Nail Size | Frequency | Occurances | 3.5"  Nails
+|---|---|---|---|---|
+| Rafter to plate, toe nail | 3.5" | 2 | 32 | 64
+| Rafter to ridge, toe nail | 3.5" | 4 | 32 | 128
+|**Total**|||| 192
+
 ### Outriggers
 
 ![](images/C04.svg)
