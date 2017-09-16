@@ -100,6 +100,10 @@ Use Scrap
 |---|---|---|---|
 |4x8 3/8" plywood | 6
 
+### Gable Felt
+
+![](images/C11.svg)
+
 ### Roof Felt
 
 ![](images/C10.svg)
@@ -107,10 +111,6 @@ Use Scrap
 | Item | Amount |
 |---|---|---|---|
 |Roof Felt | 380 sq ft
-
-### Gable Felt
-
-![](images/C11.svg)
 
 ### Fascia
 
@@ -128,7 +128,48 @@ Drip Edge
 &#36;23 / piece 10 ft
 
 Ridge Vent
-&#36;15.90 / each 32" long 
+&#36;15.90 / each 32" long
+
+
+-----
+
+####Panels
+
+Standing Seam Panels
+
+####Roof Ridge
+
+Ridge Flashing
+
+Vented Ridge Closure
+
+Ventco Ridge Cap Anchor Clip
+
+Pop Rivet
+
+1" #10 Pancake Head Woodscrew
+
+2" Pancake Head Woodscrew
+
+Double Beaded Butyl Tape
+
+####Roof Eave
+
+Plumb Eave Flashing
+
+Standing Seam Clip
+
+Double Beaded Butyl Tape
+
+Sealant
+
+1" #10 Pancake Head Woodscrew
+
+####Floating Rake
+
+Square Eave Flashing
+
+1" #10 Pancake Head Woodscrew
 
 ### Soffit Vents
 
