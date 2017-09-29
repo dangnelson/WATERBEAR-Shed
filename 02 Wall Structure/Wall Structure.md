@@ -1,4 +1,4 @@
-## Wall Structure
+# Wall Structure
 
 ## Framing
 
@@ -10,9 +10,9 @@
 |2x4x16 | 4
 |2x4x7.5" | 45
 
-### Headers
+### Headers `IRC TABLE R502.5(1)`
 
-TABLE R502.5(1)
+
 
 2-2x12 = 7'6"
 
@@ -21,7 +21,7 @@ TABLE R502.5(1)
 |2x12x8 | 3
 
 
-### Stud & Header Fastening (IRC Table 602.3(1))
+### Stud & Header Fastening `IRC Table 602.3(1)`
 
 ![nailing](images/Nailing.svg)
 
@@ -42,7 +42,7 @@ TABLE R502.5(1)
 |---|---|---|---|
 |2x4x8 | 7
 
-### Fastening (IRC Table 602.3(1))
+### Fastening `IRC Table 602.3(1)`
 
 | Placement | Technique | Nail Size | Nail Frequency / Number | Occurances | 3" Nails | 3.5" Nails
 |---|---|---|---|---|---|---|
@@ -75,7 +75,7 @@ TABLE R502.5(1)
 
 ![](images/B04.svg)
 
-IRC Table 802.4(1)
+###16 Inch Spacing `IRC Table 802.4(1)`
 
 | Item | Amount |
 |---|---|---|---|
@@ -83,7 +83,7 @@ IRC Table 802.4(1)
 |2x6x8 | 4
 | Post Frame Hangers | 4
 
-### Joist Connections (IRC Table 602.3(1))
+### Joist Connections `IRC Table 602.3(1)`
 Distance between the raised top plate and the top of the parrallel rafter is 7 & 1/8". So no blocking is needed (IRC 602.10.6.2).
 
 | Placement | Technique | Nail Size | Nail Frequency / Number | Occurances | 2.5" Nails | 3.5" Nails
@@ -144,3 +144,5 @@ The ends of each joist must touch the top plate for at least 1.5 inches (IRC 802
 | Item | Amount |
 |---|---|---|---|
 |Wall Felt | 558 sq ft
+
+## Cover until next step

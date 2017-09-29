@@ -116,6 +116,12 @@ Use Scrap
 
 ![](images/C12.svg)
 
+| Item | Amount |
+|---|---|---|---|
+| 1x6x12 | 2
+| 1x6x8 | 2
+| 1x8x12 | 4
+
 ### Roofing
 
 ![](images/C13.svg)
