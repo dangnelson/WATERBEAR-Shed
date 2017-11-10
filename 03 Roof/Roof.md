@@ -1,5 +1,7 @@
 ## Roof
 
+![](images/RoofVocab.svg)
+
 ### Raised Top Plate
 
 ![](images/C01.svg)
@@ -131,10 +133,12 @@ Advantage-Lok
 &#36;2.53 / linear ft
 
 Drip Edge
-&#36;23 / piece 10 ft
+&#36;23 / piece 10.5 ft
+
+Drip edge is 10.5 feet long regardless
 
 Ridge Vent
-&#36;15.90 / each 32" long
+&#36;15.90 / each 32" wide
 
 
 -----
@@ -176,7 +180,3 @@ Sealant
 Square Eave Flashing
 
 1" #10 Pancake Head Woodscrew
-
-### Soffit Vents
-
-![](images/C14.svg)
