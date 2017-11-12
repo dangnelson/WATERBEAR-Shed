@@ -16,23 +16,31 @@
 
 ![](images/D03.svg)
 
+1x8 Siding
+
  16V-Joint	3/4" x 6-7/8"	Yellow Pine
 Tongue & Groove
 V-Joint
 
-&#36;1.85 / linear ft
+Sold in precut lengths:
+8, 10, 12, 14, 16
+
+&#36;2.05 / linear ft
 
 22.5 - north/south
 
 22 - east west
 
-| Item | Area |Amount | Cost | Price
-|---|---|---|---|---|
-| 13' lengths | east / west |  20 | &#36;24.05 /piece | &#36;481
-| 12' lengths | east / west | 12 | 22.2 | 266.4
-| 5' | north / south | 30 | 9.25 | 277
-| 12' lengths | north / south | 30 | 22.2 | 666
-| **Total** | ||&#36;1690.4
+| Item | Order | Area |Amount | Cost / Piece | Price
+|---|---|---|---|---|---|
+| 13' lengths | 14' | east / west |  20 | &#36;25.90 | &#36;518
+| 12' lengths | 12'  | east / west | 12 | 22.2 | 266.4
+| 30 5' | 10' | north / south | 15 | 18.5 | 277
+| 12' lengths | 12' | north / south | 30 | 22.2 | 666
+| **Total** | ||&#36;1727.4
+
+Steve Marsh
+804 358 2103
 
 ####Shou Sugi Ban
 
