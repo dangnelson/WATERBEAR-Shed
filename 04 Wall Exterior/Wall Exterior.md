@@ -4,6 +4,12 @@
 
 ![](images/D01.svg)
 
+12 4' strips on bottom
+
+16 4' strips for top
+
+28 4' strips total
+
 ### Furring Strips
 
 ![](images/D02.svg)
@@ -33,10 +39,10 @@ Sold in precut lengths:
 
 | Item | Order | Area |Amount | Cost / Piece | Price
 |---|---|---|---|---|---|
-| 13' lengths | 14' | east / west |  20 | &#36;25.90 | &#36;518
-| 12' lengths | 12'  | east / west | 12 | 22.2 | 266.4
-| 30 5' | 10' | north / south | 15 | 18.5 | 277
-| 12' lengths | 12' | north / south | 30 | 22.2 | 666
+| 13' lengths | 14' | north / south |  20 | &#36;25.90 | &#36;518
+| 12' lengths | 12'  | north / south | 12 | 22.2 | 266.4
+| 30 2.5' | 14' | east / west | 6 | 18.5 | 277
+| 12' lengths | 14' | east / west | 30 | 22.2 | 666
 | **Total** | ||&#36;1727.4
 
 Steve Marsh
