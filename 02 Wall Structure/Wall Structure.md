@@ -4,6 +4,8 @@
 
 ![](images/B01.svg)
 
+Build an east/west wall first. Stand it up and nail spare 2x4s somewhere close to 45 degrees on either side to the end of the floor joists after leveling. Next stand up the north/south walls, and finally the other east/west wall.
+
 | Item | Amount |
 |---|---|---|---|
 |2x4x12 | 3
@@ -14,7 +16,7 @@
 
 
 
-2-2x12 = 7'6"
+Two 2x12 = 7'6"
 
 | Item | Amount |
 |---|---|---|---|
@@ -54,6 +56,8 @@
 ## Sheathing
 
 ![](images/B03.svg)
+
+The structure will have give when it's just studs. Sheathing adds shear strength. This means you'll want to level while installing the sheathing.
 
 | Item | Amount |
 |---|---|---|---|
@@ -113,6 +117,11 @@ The ends of each joist must touch the top plate for at least 1.5 inches (IRC 802
 | Center on Studs | 2 or 2.5" | Every 12" on center | 7 sheets | 112
 |**Total**|||| 448
 
+
+## Cover with Tarp
+
+This is a good time to figure out how to cover the structure with a tarp so you are protected and can work towards prepping the framing for the roof.
+
 ## Door Jamb
 
 ![](images/B06.svg)
@@ -120,7 +129,6 @@ The ends of each joist must touch the top plate for at least 1.5 inches (IRC 802
 ## Door Flashing
 
 ![](images/B07.svg)
-
 
 ## Doors
 

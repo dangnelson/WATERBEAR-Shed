@@ -1,5 +1,7 @@
 ## Electric
 
+### Heated Closet
+
 ### Electric
 
 * Compressor for Nail Gun
