@@ -53,7 +53,7 @@ Dig out the bottom of the hole so it flares to create a footing. This helps resi
 
 ### Rebar
 
-In retrospect we should of added rebar into the footings for additional strength. This could also be solved by using a slab foundation.
+In retrospect we should have added rebar into the footings for additional strength. This could also be solved by using a slab foundation.
 
 ### Pour Piers
 Cut the *Concrete Tube Forms* to size using a *Hand Saw*.
