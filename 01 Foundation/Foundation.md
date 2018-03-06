@@ -1,6 +1,11 @@
 # Foundation
 
-Concrete deck blocks for support with corner piers as hold downs.
+## Intro (Slab might be better)
+This design uses Concrete deck blocks for support with corner piers as hold downs.
+
+In retrospect, concrete slab seems like it a better choice and will likely be the only major revision to our shed design. We used treated wood because of the proximity to the ground (which is not compostable or repurposable), and feel the bottom is too exposed and may threaten the lifespan of the rest of the structure. In the future, we'll likely contract out a the excavation and pouring of monolithic slab and are interested in [Roman Concrete](https://en.wikipedia.org/wiki/Roman_concrete#Modern_use).
+
+Keep reading if your interested in what we did, and expect an update in the future.
 
 ## Survey
 
