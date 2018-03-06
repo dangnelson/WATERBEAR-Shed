@@ -1,19 +1,19 @@
 # Foundation
 
 ## Intro (Slab might be better)
-This design uses Concrete deck blocks for support with corner piers as hold downs.
+This design uses concrete deck blocks for support with scorner piers to hold down the structure during high winds.
 
-In retrospect, concrete slab seems like it a better choice and will likely be the only major revision to our shed design. We used treated wood because of the proximity to the ground (which is not compostable or repurposable), and feel the bottom is too exposed and may threaten the lifespan of the rest of the structure. In the future, we'll likely contract out a the excavation and pouring of monolithic slab and are interested in [Roman Concrete](https://en.wikipedia.org/wiki/Roman_concrete#Modern_use).
+In retrospect, concrete slab seems like it's a better choice and will likely be the only major revision to our shed design. We used treated wood because of the proximity to the ground (which is not compostable or repurposable). The bottom feels too exposed and may threaten the lifespan of the rest of the structure. In the future, we'll likely contract out the excavation and pouring of monolithic slab and are interested in [Roman Concrete](https://en.wikipedia.org/wiki/Roman_concrete#Modern_use).
 
 Keep reading if your interested in what we did, and expect an update in the future.
 
 ## Survey
 
 ### Zoning Setbacks
-Check your local zoning regulations for `Setback Requirements` to find the minimum distance from your property line and other structures before deciding on a location.
+Check your local zoning regulations for `Setback Requirements`. Find the minimum distance from your property line and other structures before deciding on a location.
 
 ### Find Level Location
-To avoid major excavation, find a location which is fairly level. You can do this easiley by using the *String Line* tied between two stakes. Once you've found a rough location, attach a *String Line Level* to the string to gauge how much excavation will be needed.
+To avoid major excavation, find a location which is fairly level. You can do this easily by using a *String Line* tied between two stakes. Once you've found a rough location, attach a *String Line Level* to the string to gauge how much excavation will be needed.
 
 ## Excavation
 
@@ -187,7 +187,7 @@ Total cost does not include Tax or Delivery fees. Materials noted as "Cost Varie
 | 2 ft [Stakes](https://en.wikipedia.org/wiki/Survey_stakes) | 4 | 4.97
 | [25' Tape Measure](https://en.wikipedia.org/wiki/Tape_measure) | 1 | 9.88
 | 100' String Line | 1 | 2.98
-| String Line Levels | 4 | 5.86
+| [String Line Levels](https://en.wikipedia.org/wiki/Spirit_level#Line_level) | 4 | 5.86
 | [Plumb Chalk Line](https://en.wikipedia.org/wiki/Chalk_line) | 1 | 5.97
 | [8" Auger](https://en.wikipedia.org/wiki/Auger_(drill)) | Rent | 50.00
 | [Small Post Hole Digger](https://en.wikipedia.org/wiki/Post_hole_digger) | 1 | 24.97
