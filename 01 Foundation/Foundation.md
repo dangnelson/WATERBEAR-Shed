@@ -1,13 +1,13 @@
 # Foundation
 
-## Intro (Slab might be better)
+## 1. Intro (Slab might be better)
 This design uses concrete deck blocks for support with scorner piers to hold down the structure during high winds.
 
 In retrospect, concrete slab seems like it's a better choice and will likely be the only major revision to our shed design. We used treated wood because of the proximity to the ground (which is not compostable or repurposable). The bottom feels too exposed and may threaten the lifespan of the rest of the structure. In the future, we'll likely contract out the excavation and pouring of monolithic slab and are interested in [Roman Concrete](https://en.wikipedia.org/wiki/Roman_concrete#Modern_use).
 
 Keep reading if your interested in what we did, and expect an update in the future.
 
-## Survey
+## 2. Survey
 
 ### Zoning Setbacks
 Check your local zoning regulations for `Setback Requirements`. Find the minimum distance from your property line and other structures before deciding on a location.
@@ -15,7 +15,7 @@ Check your local zoning regulations for `Setback Requirements`. Find the minimum
 ### Find Level Location
 To avoid major excavation, find a location which is fairly level. You can do this easily by using a *String Line* tied between two stakes. Once you've found a rough location, attach a *String Line Level* to the string to gauge how much excavation will be needed.
 
-## Excavation
+## 3. Excavation
 
 ![](images/A01.svg)
 
@@ -47,7 +47,7 @@ Rent an *Auger* and use the *Digging Tools* if you have rocky soil.
 
 Dig out the bottom of the hole so it flares out at the bottom to resist frost heave and lift from strong winds.
 
-## Piers
+## 4. Piers
 
 ![](images/A02.svg)
 
@@ -76,7 +76,7 @@ Wait a day and remove the *Cardboard Concrete Form Tubes* from around the piers.
 
 Cut the *Treated 4x4x8s* to size and insert them into the *Galvanized Post Bases*
 
-## Joist End Plates
+## 5. Joist End Plates
 
 ![](images/A04.svg)
 
@@ -86,7 +86,7 @@ Drill the holes for the bolts then bolt the 4x4s to the post bases, and bolt the
 
 [![](blueprints/A04.svg)](blueprints/A04.pdf)
 
-## Blocks
+## 6. Blocks
 
 ![](images/A05.svg)
 
@@ -96,13 +96,13 @@ After each board is lined up, remove an inch of soil under each block and add *A
 
 Carefully mark the unattached floor joists so you can place them back where they belong and remove them for the next step.
 
-## Gravel
+## 7. Gravel
 
 ![](images/A06.svg)
 
 Use the *Shovel* and the *Hoe* to spread a layer of gravel around the blocks to improve drainage.
 
-## Floor Joists
+## 8. Floor Joists
 
 ![](images/A07.svg)
 
@@ -116,7 +116,7 @@ Hammer 2 *3.5" Exterior Nails* into each end of each joist.
 |---|---|---|---|---|---|---|
 | End Plate | End Nail | 3.5" | 2 nails | 26 | 60
 
-## Plywood Flooring
+## 9. Plywood Flooring
 
 ![](images/A08.svg)
 
@@ -140,7 +140,7 @@ Nail the plywood in using the following nailing schedule:
 | Center on Studs | 2 or 2.5" | Every 12" on center | 6 sheets | 16 | 96
 |**Total**||| | |384
 
-## Cover until next step
+## 10. Cover until next step
 
 Bricks on tarp
 
