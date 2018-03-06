@@ -65,7 +65,7 @@ Gloves
 Coarse Brush
 
 
-Burn until black, ash patches means your overdone. Not a big deal, it will come off with brushing. Brush all excess off until you see the grain. Wash the dust off. Oil the wood using a rag or brush and install.
+Burn until black, ash patches means your overdone. Not a big deal, it will come off with brushing. Burn from the female side, it will reduce how often the sides catch fire. Brush all excess off until you see the grain. Wash the dust off. Oil the wood using a rag or brush and install.
 
 ### Soffit Vents
 

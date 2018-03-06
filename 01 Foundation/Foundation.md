@@ -2,62 +2,6 @@
 
 Concrete deck blocks for support with corner piers as hold downs.
 
-## Materials Needed
-
-
-|Item | Amount | Note | 2017 Cost
-|---|---|---|---|
-| Concrete Deck Blocks | 28 | Heavy | 193.20
-| Cubic Yard of #57 Drainage Gravel| 1 | Heavy | 29.00
-| 40 lb bags of Compactable Fill / Top Soil | 6 | | 9.42
-| All Purpose Gravel 50 lb Bag | 6 | Heavy | 24.90
-| Concrete 80 lb bags | 8 | Heavy, Cost Varies | 39.76
-| 8" x 4' Concrete Tube Forms | 2 | Cost Varies | 19.00
-| 1/2" x 2' Rebar | 4 | Cost Varies | 7.88
-| 5 gallon Water Jugs or Water Source |  3 | Cost Varies |50.82
-| 4" x 4" Galvanized Post Base | 4 | | 45.48
-| 2x4x8 | 2 | | 6.22
-| Treated 2x6x12 | 14 | Large | 124.32
-| Treated 2x6x16 | 2 | Large | 23.14
-| Treated 4x4x8 | 1 | | 7.98 
-| 4x8 5/8" (19/32) Plywood | 7 || 141.19
-| 2.5" Interior Nails for Nail Gun | 384 | | 37.97
-| 3.5" Exterior Nails | 60 | | 4.97
-| Shims | | | 4.95
-| 1/2" x 6" Galvanized Carriage Bolt | 16 ||40.48
-| 1/2" Galvanized Washer | 16 | | 5.28
-| 1/2" Galvanized Nut | 16 | | 6.08
-|**Estimated Total**|||**822.04**
-
-Total cost does not include Tax or Delivery fees. Materials noted as "Cost Varies" depends on the frost depth for your location.
-
-## Tools Needed
-
-|Item | Amount | 2017 Cost
-|---|---|---|---|
-| [Hammer](https://en.wikipedia.org/wiki/Hammer) | 1 | 4.98
-| [Hand Saw](https://en.wikipedia.org/wiki/Hand_saw) | 1 | 9.94
-| [Hoe](https://en.wikipedia.org/wiki/Hoe_(tool)) | 1 | 15.97
-| [Hand-held Circular Saw](https://en.wikipedia.org/wiki/Circular_saw) (Battery Powered)| 1 | 279.00
-| [Nail Gun](https://en.wikipedia.org/wiki/Nail_gun)  (Battery Powered)| 1 | 399.00
-| Marking Spray Paint | 1 | 5.27
-| 2 ft [Stakes](https://en.wikipedia.org/wiki/Survey_stakes) | 4 | 4.97
-| [25' Tape Measure](https://en.wikipedia.org/wiki/Tape_measure) | 1 | 9.88
-| 100' String Line | 1 | 2.98
-| String Line Levels | 4 | 5.86
-| [Plumb Chalk Line](https://en.wikipedia.org/wiki/Chalk_line) | 1 | 5.97
-| [8" Auger](https://en.wikipedia.org/wiki/Auger_(drill)) | Rent | 50.00
-| [Small Post Hole Digger](https://en.wikipedia.org/wiki/Post_hole_digger) | 1 | 24.97
-| [Digging Bar](https://en.wikipedia.org/wiki/Digging_bar) | 1 | 31.97
-| [Digging Shovel](https://en.wikipedia.org/wiki/Shovel) | 1 | 5.98
-| Margin Trowel | 1 | 5.77
-| [Wheel Barrow](https://en.wikipedia.org/wiki/Wheelbarrow) | 1 | 49.97
-| [N95 Dust Mask](https://en.wikipedia.org/wiki/Dust_mask) | 2 | 7.47
-| Pair of Cleaning Gloves | 1 | 1.98
-| Drill | 1| 159.00
-| Bit for Drilling Bolt holes | 1 | 9.97
-| 1/2" Socket Wrench | 1| 26.19
-
 ## Survey
 
 ### Zoning Setbacks
@@ -80,7 +24,7 @@ Use the *String Line* to connect the stakes to make a square. Measure out 12 inc
 
 ### Remove Grass & Debris
 
-Carefully choose a location for a soil pile and sod pile that's well out of the way.
+Carefully choose a location for a soil pile and sod pile that's at least 9' out of the way. You'll need that space to do roofing later.
 
 Use the *Shovel(s)* and *Wheel Barrow* to remove any grass, shrubs or debris from the top layer of the marked out box.
 
@@ -90,7 +34,7 @@ Attach *String Line Levels* to the four sides on the string and level starting r
 
 ### Retaining Wall
 
-If building on an incline you may end up with a soil ledge on one side and will need to build a retaining wall to avoid erosion. You may also want to dig a trench for a french drain on the inside of the retaining wall and filling it with crushed stone. This will increase your build time and is not recommended for that reason.
+If building on an incline you may end up with a soil ledge on one side and may need to build a retaining wall to avoid erosion. You may also want to dig a trench for a french drain on the inside of the retaining wall and filling it with crushed stone. This will increase your build time and is not recommended for that reason.
 
 ### Dig Pier Holes
 
@@ -194,3 +138,60 @@ Nail the plywood in using the following nailing schedule:
 ## Cover until next step
 
 Bricks on tarp
+
+## Supplies
+
+### Materials Needed
+
+|Item | Amount | Note | 2017 Cost
+|---|---|---|---|
+| Concrete Deck Blocks | 28 | Heavy | 193.20
+| Cubic Yard of #57 Drainage Gravel| 1 | Heavy | 29.00
+| 40 lb bags of Compactable Fill / Top Soil | 6 | | 9.42
+| All Purpose Gravel 50 lb Bag | 6 | Heavy | 24.90
+| Concrete 80 lb bags | 8 | Heavy, Cost Varies | 39.76
+| 8" x 4' Concrete Tube Forms | 2 | Cost Varies | 19.00
+| 1/2" x 2' Rebar | 4 | Cost Varies | 7.88
+| 5 gallon Water Jugs or Water Source |  3 | Cost Varies |50.82
+| 4" x 4" Galvanized Post Base | 4 | | 45.48
+| 2x4x8 | 2 | | 6.22
+| Treated 2x6x12 | 14 | Large | 124.32
+| Treated 2x6x16 | 2 | Large | 23.14
+| Treated 4x4x8 | 1 | | 7.98 
+| 4x8 5/8" (19/32) Plywood | 7 || 141.19
+| 2.5" Interior Nails for Nail Gun | 384 | | 37.97
+| 3.5" Exterior Nails | 60 | | 4.97
+| Shims | | | 4.95
+| 1/2" x 6" Galvanized Carriage Bolt | 16 ||40.48
+| 1/2" Galvanized Washer | 16 | | 5.28
+| 1/2" Galvanized Nut | 16 | | 6.08
+|**Estimated Total**|||**822.04**
+
+Total cost does not include Tax or Delivery fees. Materials noted as "Cost Varies" depends on the frost depth for your location.
+
+### Tools Needed
+
+|Item | Amount | 2017 Cost
+|---|---|---|---|
+| [Hammer](https://en.wikipedia.org/wiki/Hammer) | 1 | 4.98
+| [Hand Saw](https://en.wikipedia.org/wiki/Hand_saw) | 1 | 9.94
+| [Hoe](https://en.wikipedia.org/wiki/Hoe_(tool)) | 1 | 15.97
+| [Hand-held Circular Saw](https://en.wikipedia.org/wiki/Circular_saw) (Battery Powered)| 1 | 279.00
+| [Nail Gun](https://en.wikipedia.org/wiki/Nail_gun)  (Battery Powered)| 1 | 399.00
+| Marking Spray Paint | 1 | 5.27
+| 2 ft [Stakes](https://en.wikipedia.org/wiki/Survey_stakes) | 4 | 4.97
+| [25' Tape Measure](https://en.wikipedia.org/wiki/Tape_measure) | 1 | 9.88
+| 100' String Line | 1 | 2.98
+| String Line Levels | 4 | 5.86
+| [Plumb Chalk Line](https://en.wikipedia.org/wiki/Chalk_line) | 1 | 5.97
+| [8" Auger](https://en.wikipedia.org/wiki/Auger_(drill)) | Rent | 50.00
+| [Small Post Hole Digger](https://en.wikipedia.org/wiki/Post_hole_digger) | 1 | 24.97
+| [Digging Bar](https://en.wikipedia.org/wiki/Digging_bar) | 1 | 31.97
+| [Digging Shovel](https://en.wikipedia.org/wiki/Shovel) | 1 | 5.98
+| Margin Trowel | 1 | 5.77
+| [Wheel Barrow](https://en.wikipedia.org/wiki/Wheelbarrow) | 1 | 49.97
+| [N95 Dust Mask](https://en.wikipedia.org/wiki/Dust_mask) | 2 | 7.47
+| Pair of Cleaning Gloves | 1 | 1.98
+| Drill | 1| 159.00
+| Bit for Drilling Bolt holes | 1 | 9.97
+| 1/2" Socket Wrench | 1| 26.19

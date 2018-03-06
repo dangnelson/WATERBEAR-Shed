@@ -77,6 +77,10 @@ Roof plywood must be at least 5/8 inches thick (IRC TABLE R803.1)
 |---|---|---|---|
 |4x8 19/32" | 12
 
+#### H-Clips
+
+#### Stagger plywood for strength
+
 #### Estimate
 
 * 24' edge length for each 4x8 = 48 nails per sheet

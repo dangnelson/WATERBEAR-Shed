@@ -59,6 +59,8 @@ Two 2x12 = 7'6"
 
 The structure will have give when it's just studs. Sheathing adds shear strength. This means you'll want to level while installing the sheathing.
 
+1/8 inch gap between boards for expansion.
+
 | Item | Amount |
 |---|---|---|---|
 |4x8 3/8" plywood | 13
