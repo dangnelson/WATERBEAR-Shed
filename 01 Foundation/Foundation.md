@@ -21,21 +21,21 @@ To avoid major excavation, find a location which is fairly level. You can do thi
 
 ### Mark Pier Locations
 
-Use *Marking Chalk Spray Paint* and a *Tape Measure* to roughly mark the locations of the piers. Press *Stakes* into marked corners, then measure from corner to corner and adjust the stakes until all the measurements are correct. When your finished pound the stakes several inches in with a *Hammer* to keep them from moving.
+Use *Marking Chalk Spray Paint* and a *Tape Measure* to roughly mark the locations of the piers. Press *Stakes* into marked corners, then measure from corner to corner and adjust the stakes until all the measurements are correct. When you're finished, pound the stakes several inches in with a *Hammer* to keep them from moving.
 
-Use the *String Line* to connect the stakes to make a square. Measure out 12 inches from the string and mark several points then use the marking spray paint to connect the points to create a box.
+Use the *String Line* to connect the stakes to make a rectangle. Measure out 12 inches from the string and mark several points then use the marking spray paint to connect the points to create a box.
 
 [![](blueprints/A01.svg)](blueprints/A01.pdf)
 
 ### Remove Grass & Debris
 
-Carefully choose a location for a soil pile and sod pile that's at least 9' out of the way. You'll need that space to do roofing later.
+Carefully choose a location for a soil pile and sod pile that's at least 9 feet out of the way (you'll need that space for ladders to do roofing later).
 
 Use the *Shovel(s)* and *Wheel Barrow* to remove any grass, shrubs or debris from the top layer of the marked out box.
 
 ### Level Ground
 
-Attach *String Line Levels* to the four sides on the string and level starting roughly an inch above the ground at the highest point. Use this as a guide to remove top soil until the ground is leveled.
+Attach *String Line Levels* to the strings on all four sides. Level starting roughly an inch above the ground at the highest point. Use this as a guide to remove top soil until the ground is leveled.
 
 ### Retaining Wall
 
