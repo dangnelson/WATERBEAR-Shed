@@ -25,7 +25,7 @@ Use *Marking Chalk Spray Paint* and a *Tape Measure* to roughly mark the locatio
 
 Use the *String Line* to connect the stakes to make a rectangle. Measure out 12 inches from the string and mark several points then use the marking spray paint to connect the points to create a box.
 
-[![](blueprints/A01.svg)](blueprints/A01.pdf)
+[![](blueprints/A01.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/01%20Foundation/blueprints/A01.pdf)
 
 ### Remove Grass & Debris
 
@@ -45,28 +45,30 @@ We built on an incline, and ended up with a soil ledge on one side, and had to b
 
 Rent an 8-12" *Auger* and use the *Digging Tools* if you have rocky soil.
 
-Dig out the bottom of the hole so it flares out at the bottom to resist frost heave and lift from strong winds.
+Dig out the bottom of the hole so it flares to create a footing. This helps resist frost heave and lift from strong winds.
 
 ## 4. Piers
 
 ![](images/A02.svg)
 
+### Rebar
+
+In retrospect we should of added rebar into the footings for additional strength. This could also be solved by using a slab foundation.
+
 ### Pour Piers
 Cut the *Concrete Tube Forms* to size using a *Hand Saw*.
 
-Nail the sides of the *Cardboard Concrete Form Tubes* to the center of 2 2x4s so the tube is about 12 inches up from the bottom of the footing.
+Nail the sides of the *Cardboard Concrete Form Tubes* to the center of 2 2x4s. The tube should hang about 12 inches up from the bottom of the footing.
 
-Slowly pour *Water* over 1 *Bag of Concrete* in the *Wheel Barrow* and mix using the *Garden Hoe* until you have a thick consistency.
+Make sure to wear a *Respiratory Mask* to avoid breathing in  concrete dust, and *Cleaning Gloves* to protect your skin for this next step.
 
-Make sure to wear a *Respitory Mask* to avoid breathing in concrete dust, and *Cleaning Gloves* to protect your skin.
+Slowly pour *Water* over 1 *Bag of Concrete* in the *Wheel Barrow*. Mix the contents using the *Garden Hoe* and add water gradually until you have a thick consistency.
 
 Shovel the concrete into the forms and occasionally insert the *Margin Trowel* into the concrete to remove any air pockets.
 
-Once full, smooth out the top of the form with the *Margin Trowel* and insert a *Galvanized Post Base* into the form, lining it up center with where the post should be.
+Once full, smooth out the top of the form with the *Margin Trowel*. Then insert a *Galvanized Post Base* into the form, squaring it up with the other corners, centering it with where the post should be.
 
-[![](blueprints/A02.svg)](blueprints/A02.pdf)
-
-###Rebar?
+[![](blueprints/A02.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/01%20Foundation/blueprints/A02.pdf)
 
 ### Fill
 
@@ -80,21 +82,23 @@ Cut the *Treated 4x4x8s* to size and insert them into the *Galvanized Post Bases
 
 ![](images/A04.svg)
 
-Place the end plates on temporarily on two *Concrete Deck Blocks* and use *Shims* to level them until they all line up with each other at the corners.
+Place the end plates temporarily on two *Concrete Deck Blocks* and use *Shims* to level them until they all line up with each other at the corners.
 
-Drill the holes for the bolts then bolt the 4x4s to the post bases, and bolt the side beams to the post bases.
+Drill the holes for the bolts. Then bolt the 4x4s to the end plates.
 
-[![](blueprints/A04.svg)](blueprints/A04.pdf)
+[![](blueprints/A04.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/01%20Foundation/blueprints/A04.pdf)
 
 ## 6. Blocks
 
 ![](images/A05.svg)
 
-Mark the long end plates for the floor joists. Roughly place the *concrete blocks* in place by inserting the floor joists into them, and aligning the joists roughly with the marks.
+Mark the longer end plates for the floor joists. 
+
+Roughly place the *concrete blocks* in place by inserting the floor joists into them, and aligning the joists roughly with the marks.
 
 After each board is lined up, remove an inch of soil under each block and add *All Purpose Gravel* under each block until the joists are level with the side beams.
 
-Carefully mark the unattached floor joists so you can place them back where they belong and remove them for the next step.
+Carefully mark the unattached floor joists with numbers so you can place them back in the same place later. Then remove them for the next step.
 
 ## 7. Gravel
 
@@ -126,9 +130,9 @@ Lay *5/8" (19/32) Plywood* down on top of the joists end to end, nailing the cor
 
 Plywood should be run so the direction of the grain runs perpendicular to the joists to increase strength.
 
-Mark a *Chalk Line* across the plywood for each joist using the nails on either end as a guide.  
+Once in place Mark a *Chalk Line* across the plywood for each joist using the nails on either end as a guide for nailing.
 
-[![](blueprints/A09.svg)](blueprints/A09.pdf)
+[![](blueprints/A09.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/01%20Foundation/blueprints/A09.pdf)
 
 ### Plywood Connection `IRC TABLE R602.3(1)`
 
@@ -142,6 +146,7 @@ Nail the plywood in using the following nailing schedule:
 
 ## 10. Cover until next step
 
+Place a 
 Bricks on tarp
 
 ## Supplies
