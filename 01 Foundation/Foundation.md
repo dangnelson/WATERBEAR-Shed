@@ -37,13 +37,13 @@ Use the *Shovel(s)* and *Wheel Barrow* to remove any grass, shrubs or debris fro
 
 Attach *String Line Levels* to the strings on all four sides. Level starting roughly an inch above the ground at the highest point. Use this as a guide to remove top soil until the ground is leveled.
 
-### Retaining Wall
+### Retaining Wall (avoid)
 
-If building on an incline you may end up with a soil ledge on one side and may need to build a retaining wall to avoid erosion. You may also want to dig a trench for a french drain on the inside of the retaining wall and filling it with crushed stone. This will increase your build time and is not recommended for that reason.
+We built on an incline, and ended up with a soil ledge on one side, and had to build a retaining wall to avoid erosion. We also dug a trench for a french drain on the inside of the retaining wall and filled it with crushed stone. This increased our build time, and building on an incline is not recommended for that reason. This could also be solved by using a slab foundation.
 
 ### Dig Pier Holes
 
-Rent an *Auger* and use the *Digging Tools* if you have rocky soil.
+Rent an 8-12" *Auger* and use the *Digging Tools* if you have rocky soil.
 
 Dig out the bottom of the hole so it flares out at the bottom to resist frost heave and lift from strong winds.
 
@@ -193,7 +193,7 @@ Total cost does not include Tax or Delivery fees. Materials noted as "Cost Varie
 | [Small Post Hole Digger](https://en.wikipedia.org/wiki/Post_hole_digger) | 1 | 24.97
 | [Digging Bar](https://en.wikipedia.org/wiki/Digging_bar) | 1 | 31.97
 | [Digging Shovel](https://en.wikipedia.org/wiki/Shovel) | 1 | 5.98
-| Margin Trowel | 1 | 5.77
+| [Margin Trowel](https://en.wikipedia.org/wiki/Trowel) | 1 | 5.77
 | [Wheel Barrow](https://en.wikipedia.org/wiki/Wheelbarrow) | 1 | 49.97
 | [N95 Dust Mask](https://en.wikipedia.org/wiki/Dust_mask) | 2 | 7.47
 | Pair of Cleaning Gloves | 1 | 1.98
