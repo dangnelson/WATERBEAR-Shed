@@ -1,27 +1,24 @@
 # Wall Structure
 
-## Framing
+## 1. Framing
 
 ![](images/B01.svg)
 
 Build an east/west wall first. Stand it up and nail spare 2x4s somewhere close to 45 degrees on either side to the end of the floor joists after leveling. Next stand up the north/south walls, and finally the other east/west wall.
 
-| Item | Amount |
-|---|---|---|---|
-|2x4x12 | 3
-|2x4x16 | 4
-|2x4x7.5" | 45
+[![](blueprints/B01A.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/02%20WallStructure/blueprints/B01a.pdf)
+
+[![](blueprints/B01B.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/02%20WallStructure/blueprints/B01b.pdf)
+
+[![](blueprints/B01C.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/02%20WallStructure/blueprints/B01c.pdf)
 
 ### Headers `IRC TABLE R502.5(1)`
-
-
 
 Two 2x12 = 7'6"
 
 | Item | Amount |
 |---|---|---|---|
 |2x12x8 | 3
-
 
 ### Stud & Header Fastening `IRC Table 602.3(1)`
 
@@ -36,13 +33,15 @@ Two 2x12 = 7'6"
 | Top or bottomplate to stud, end nail | End Nail | 3.5" | 2 nails | 82 | | 164
 |**Total**| | | | | 12 | 214
 
-## Top Plate
+## 2. Top Plate
 
 ![](images/B02.svg)
 
 | Item | Amount |
 |---|---|---|---|
 |2x4x8 | 7
+
+[![](blueprints/B02.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/02%20WallStructure/blueprints/B02.pdf)
 
 ### Fastening `IRC Table 602.3(1)`
 
@@ -53,13 +52,13 @@ Two 2x12 = 7'6"
 | Top plates, overlaps at corners | Face Nail | 3" | 2 nails | 4 | 8
 |**Total**||||| 36 | 
 
-## Sheathing
+## 3. Sheathing
 
 ![](images/B03.svg)
 
 The structure will have give when it's just studs. Sheathing adds shear strength. This means you'll want to level while installing the sheathing.
 
-1/8 inch gap between boards for expansion.
+Leave an 1/8 inch gap between boards for expansion.
 
 | Item | Amount |
 |---|---|---|---|
@@ -77,7 +76,7 @@ The structure will have give when it's just studs. Sheathing adds shear strength
 |**Total**||||832
 
 
-## Ceiling Joists
+## 4. Ceiling Joists
 
 ![](images/B04.svg)
 
@@ -100,7 +99,7 @@ Distance between the raised top plate and the top of the parrallel rafter is 7 &
 
 The ends of each joist must touch the top plate for at least 1.5 inches (IRC 802.6).
 
-## Ceiling Sheathing
+## 5. Ceiling Sheathing
 
 ![](images/B05.svg)
 
@@ -124,15 +123,15 @@ The ends of each joist must touch the top plate for at least 1.5 inches (IRC 802
 
 This is a good time to figure out how to cover the structure with a tarp so you are protected and can work towards prepping the framing for the roof.
 
-## Door Jamb
+## 6. Door Jamb
 
 ![](images/B06.svg)
 
-## Door Flashing
+## 7. Door Flashing
 
 ![](images/B07.svg)
 
-## Doors
+## 8. Doors
 
 ![](images/B08.svg)
 
@@ -147,7 +146,7 @@ This is a good time to figure out how to cover the structure with a tarp so you 
 | Hinges | 6
 | Handle | 1
 
-## Wall Felt
+## 9. Wall Felt
 
 ![](images/B09.svg)
 
@@ -156,3 +155,12 @@ This is a good time to figure out how to cover the structure with a tarp so you 
 |Wall Felt | 558 sq ft
 
 ## Cover until next step
+
+## Materials & Tools
+
+| Item | Amount |
+|---|---|---|---|
+|2x4x12 | 3
+|2x4x16 | 4
+|2x4x7.5" | 45
+
