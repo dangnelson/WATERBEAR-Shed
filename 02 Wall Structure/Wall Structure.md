@@ -61,6 +61,12 @@ The structure will be flexible when it's just studs. Sheathing adds shear streng
 
 Hammer a nail lightly in between each panel. This will create an 1/8 inch gap between boards to allow for expansion and prevent buckling.
 
+[![](blueprints/B03A.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/02%20WallStructure/blueprints/B03A.pdf)
+
+[![](blueprints/B03B.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/02%20WallStructure/blueprints/B03B.pdf)
+
+[![](blueprints/B03C.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/02%20WallStructure/blueprints/B03C.pdf)
+
 ### Sheathing Fastening
 
 **Number of Nails**
@@ -73,6 +79,7 @@ Hammer a nail lightly in between each panel. This will create an 1/8 inch gap be
 | Edges on Studs | 2 or 2.5" | Every 6" on center | 13 sheets (624 Nails)
 | Center on Studs | 2 or 2.5" | Every 12" on center | 13 sheets (208 Nails)
 |**Total**|||832 Nails
+
 
 
 ## 4. Ceiling Joists
@@ -111,7 +118,7 @@ Lay one sheet up first and secure it to the joists enough to be able to get on t
 
 ## Cover with Tarp
 
-This is a good time to figure out how to cover the structure with a tarp so you are protected and can work towards prepping the framing for the roof.
+This is a good time to figure out how to cover the structure with a tarp so you are protected and can work towards prepping the framing for the roof. We tied a tarp down with 6 stakes and some rope.
 
 ## 6. Door Jamb
 
@@ -139,7 +146,7 @@ Use a *2 1/8-inch Hole Saw Bit* to drill a hole for a deadbolt. Use a *1-inch Ho
 
 ![](images/B09.svg)
 
-Install from the bottom up overlapping 
+Install from the bottom up overlap horizontally 4 at least inches and vertically 2 inches. Use a *Staple Hammer* to get the paper up and hammer in cap nails every 6 feet to keep the paper from blowing off. Install paper on the doors to protect them temporarily until the siding can be installed over top. 
 
 ## Cover until next step
 
@@ -155,54 +162,29 @@ Handheld Sprayer
 Tung Oil
 Rag
 Protective Gloves
+Staple Hammer
 
 
 ## Materials
 
 | Item | Amount |
-|---|---|---|---|
-|2x4x12 | 3
-|2x4x16 | 4
-|2x4x7.5" | 45
-
-| Item | Amount |
-|---|---|---|---|
-|2x12x8 | 3
-
-| Item | Amount |
-|---|---|---|---|
-|2x4x8 | 7
-
-| Item | Amount |
-|---|---|---|---|
-|4x8 3/8" plywood | 13
-
-
-
-| Item | Amount |
-|---|---|---|---|
-|2x6x12 | 16
-|2x6x8 | 4
+|---|---|
+| 2x4x12 | 3
+| 2x4x16 | 4
+| 2x4x7.5" | 45
+| 2x12x8 | 3
+| 2x4x8 | 7
+| 4x8 3/8" plywood | 13
+| 2x6x12 | 16
+| 2x6x8 | 4
 | Post Frame Hangers | 4
-
-| Item | Amount |
-|---|---|---|---|
-|4x8 5/8" plywood | 7
-
-
-
-
-| Item | Amount |
-|---|---|---|---|
-|4x8 3/8" plywood | 3
-|2x4x6'9" | 6
-|2x4x8 | 3
-|1x6x8 | 6
+| 4x8 5/8" plywood | 7
+| 4x8 3/8" plywood | 3
+| 2x4x6'9" | 6
+| 2x4x8 | 3
+| 1x6x8 | 6
 | Deadbolt for Door | 1
 | 6 in Galvanized Barrel Bolt | 3
 | Hinges | 6
 | Handle | 1
-
-| Item | Amount |
-|---|---|---|---|
-|Wall Felt | 558 sq ft
+| Wall Felt | 558 sq ft
