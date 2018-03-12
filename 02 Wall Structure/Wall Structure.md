@@ -20,6 +20,8 @@ Build an east/west wall first on the shed floor. Cut studs to size using a *Batt
 | Top or Bottom Plate to Stud| End Nail | 3.5" | 2 nails | 82 (164 Nails)
 |**Total**| | | | 12 3" Nails, <br/>196 3.5" Nails
 
+[![](blueprints/B01A.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/02%20WallStructure/blueprints/B01A.pdf)
+
 [![](blueprints/B01B.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/02%20WallStructure/blueprints/B01b.pdf)
 
 ### Headers `IRC TABLE R502.5(1)`
@@ -33,8 +35,6 @@ Sandwich 1/2" plywood between 2 2x12s and attach them Face Nail to build the hea
 | Placement  | Size | Frequency | Occurrences 
 |---|---|---|---|
 | Header with 1/2" plywood spacer | 3.5" | 16" on center along each edge | 260" length (18 Nails)
-
-[![](blueprints/B01B.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/02%20WallStructure/blueprints/B01b.pdf)
 
 ## 2. Top Plate
 
@@ -86,7 +86,9 @@ Hammer a nail lightly in between each panel. This will create an 1/8 inch gap be
 
 ![](images/B04.svg)
 
-2x6 joists should line up with the wall studs, 16 inches on center `IRC Table 802.4(1)`. Mark the end plates first, then prop up the joists over the ceiling span. Be careful not to stand in the shed while you do this in case the joists fall. Frame enough to form a box and toe nail the box into place. This should give you enough structure to add in the remaining joists.
+[![](blueprints/B04.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/02%20WallStructure/blueprints/B04.pdf)
+
+2x6 joists should just about line up with the wall studs, 16 inches on center `IRC Table 802.4(1)`. Mark the end plates first, then prop up the joists over the ceiling span. Be careful not to stand in the shed while you do this in case the joists fall. Frame enough to form a box and toe nail the box into place. This should give you enough structure to add in the remaining joists.
 
 ### Joist Fastening `IRC Table 602.3(1)`
 No blocking is needed because the distance between the raised top plate and the top of the parallel rafter is 7 & 1/8".  (IRC 602.10.6.2). The ends of each joist must touch the top plate for at least 1.5 inches (IRC 802.6).
