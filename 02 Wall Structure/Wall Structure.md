@@ -103,6 +103,8 @@ No blocking is needed because the distance between the raised top plate and the 
 
 ![](images/B05.svg)
 
+[![](blueprints/B05.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/02%20WallStructure/blueprints/B05.pdf)
+
 Lay one sheet up first and secure it to the joists enough to be able to get on top of it and finish fastening. Have one person pass sheets up while the other fastens. For the access hole lay the sheet on before fastening and mark the edges of the hole from the bottom. Measure out 3/4" from your line to increase the panel size and cut it out with the circular saw.
 
 ### Sheathing Fastening
@@ -126,7 +128,9 @@ This is a good time to figure out how to cover the structure with a tarp so you 
 
 ![](images/B06.svg)
 
-Burn the outside of 1x6s using a *Propane Torch* attached to a *Propane Tank* until the surface begins to char. Once cool, brush the soot off with a deck brush, you may want to wear a mask. Wash the remaining soot off with a *Handheld Sprayer* filled with water. Once dry, coat the wood with an oil (we used tung oil) using a rag (rip up an old towel) and protective gloves. Let the oil dry before installing. Install 3/4" out from the doorway so it will match up with the rain screen later.
+Burn the outside of 1x6s using a *Propane Torch* attached to a *Propane Tank* until the surface begins to char. Once cool, brush the soot off with a deck brush, you may want to wear a mask. Wash the remaining soot off with a *Handheld Sprayer* filled with water. Once dry, coat the wood with an oil (we used tung oil) using a rag (rip up an old towel) and protective gloves. Let the oil dry before installing. Install 3/4" out from the doorway so it will match up with the rain screen later. Hang up used rags to dry before throwing them away, rags soaked in tung oil can spontaneously combust.
+
+[![](blueprints/B06.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/02%20WallStructure/blueprints/B06.pdf)
 
 ## 7. Door Flashing
 
@@ -148,23 +152,25 @@ Use a *2 1/8-inch Hole Saw Bit* to drill a hole for a deadbolt. Use a *1-inch Ho
 
 ![](images/B09.svg)
 
-Install from the bottom up overlap horizontally 4 at least inches and vertically 2 inches. Use a *Staple Hammer* to get the paper up and hammer in cap nails every 6 feet to keep the paper from blowing off. Install paper on the doors to protect them temporarily until the siding can be installed over top. 
+Install from the bottom up overlap horizontally 4 at least inches and vertically 2 inches. Use a *Staple Hammer* to get the paper up and hammer in cap nails every 6 feet to keep the paper from blowing off. Install spare felt paper on the doors to protect them temporarily until the siding can be installed over top. 
 
 ## Cover until next step
 
 ## Tools
 
-Battery Powered Circular Saw
-Carpenter's Pencil
-Battery Powered Nail Gun
-8 ft Step Ladder
-Propane Torch
-Propane Tank
-Handheld Sprayer
-Tung Oil
-Rag
-Protective Gloves
-Staple Hammer
+| Item | Amount |
+|---|---|
+| [Battery Powered Handheld Circular Saw](https://en.wikipedia.org/wiki/Circular_saw)
+| [Carpenter's Pencil](https://en.wikipedia.org/wiki/Carpenter_pencil)
+| [Battery Powered Electric Nail Gun](https://en.wikipedia.org/wiki/Nail_gun)
+| 8 ft Step Ladder
+| [Large Propane Torch](https://en.wikipedia.org/wiki/Propane_torch)
+| [20 lb Propane Tank](https://en.wikipedia.org/wiki/Propane)
+| Handheld Weed Sprayer
+| [Tung Oil](https://en.wikipedia.org/wiki/Tung_oil)
+| Rag
+| [Thick / Long Rubber Gloves](https://en.wikipedia.org/wiki/Rubber_glove)
+| [Hammer Tacker](https://en.wikipedia.org/wiki/Hammer_tacker)
 
 
 ## Materials
