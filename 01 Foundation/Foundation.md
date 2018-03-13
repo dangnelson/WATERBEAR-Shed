@@ -11,7 +11,7 @@ Pier and Block foundation was chosen for the shed since it's an uninsulated stru
 * [Blocks](#blocks)
 * [Gravel](#gravel)
 * [Floor Joists](#floorjoists)
-* [Plywood Flooring](#plywoodflooring)
+* [Floor Sheathing](#floorsheathing)
 
 [Supplies List](#supplies)
 
@@ -110,13 +110,13 @@ Carefully mark the unattached floor joists with numbers so you can place them ba
 
 [![](blueprints/A04.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/01%20Foundation/blueprints/A04.pdf)
 
-## 6. Gravel
+## <a name="gravel">6. Gravel</a>
 
 ![](images/A06.svg)
 
 Use the *Shovel* and the *Hoe* to spread a layer of gravel around the blocks to improve drainage.
 
-## 7. Floor Joists
+## <a name="floorjoists">7. Floor Joists</>
 
 ![](images/A07.svg)
 
@@ -130,7 +130,7 @@ Hammer 2 *3.5" Exterior Nails* into each end of each joist.
 |---|---|---|---|---|---|---|
 | End Plate | End Nail | 3.5" | 2 nails | 26 | 60
 
-## 8. Flooring Sheathing
+## <a name="floorsheathing">8. Flooring Sheathing</a>
 
 ![](images/A08.svg)
 
