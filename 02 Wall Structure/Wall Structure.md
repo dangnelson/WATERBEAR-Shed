@@ -1,11 +1,23 @@
 # Wall Structure
 
-## 1. Framing
+1. [Framing](#framing)
+* [Top Plate](#topplate)
+* [Sheathing](#sheathing)
+* [Ceiling Joists](#ceilingjoists)
+* [Ceiling Sheathing](#ceilingsheathing)
+* [Door Jams](#doorjambs)
+* [Door Flashing](#doorflashing)
+* [Doors](#doors)
+* [Wall Felt](#wallfelt)
+
+[Supplies List](#supplies)
+
+## <a name="framing">1. Framing</a>
 
 ![](images/B01.svg)
 
-### Stand Up Walls
-Build an east/west wall first on the shed floor. Cut studs to size using a *Battery Powered Circular Saw*, mark the top and bottom plates using a *Carpenter's Pencil* and nail them together using a *Battery Powered Nail Gun*. Use a *Hammer* to finish driving any nails that stick out. Stand up the wall and nail spare 2x4s at about a 45 degree angle on either side to the end of the floor joists while leveling. Next stand up the north/south walls, and finally the other east/west wall.
+### Build Walls
+Build the west back wall (Blueprint B.01A) first using the shed floor as a surface. Cut studs to size using a *Battery Powered Circular Saw*. Mark the top and bottom plates using a *Carpenter's Pencil* and *Measuring Tape* and nail them together using a *Battery Powered Nail Gun*. Use a *Hammer* to finish driving any nails that stick out. Stand up the wall and nail spare 2x4s at about a 45 degree angle on either side to the end of the floor joists while leveling. Next stand up the north/south walls (Blueprint B.01B), and finally the other east/west wall (Blueprint B.01C).
 
 [![](blueprints/B01A.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/02%20WallStructure/blueprints/B01a.pdf)
 
@@ -36,7 +48,7 @@ Sandwich 1/2" plywood between 2 2x12s and attach them Face Nail to build the hea
 |---|---|---|---|
 | Header with 1/2" plywood spacer | 3.5" | 16" on center along each edge | 260" length (18 Nails)
 
-## 2. Top Plate
+## <a name="topple">2. Top Plate</a>
 
 ![](images/B02.svg)
 
@@ -53,7 +65,7 @@ Walls must be capped with a second top plate, offset at least 24 inches at joint
 | Top plates, overlaps at corners | 3" | 2 nails | 4 (8 Nails)
 |**Total**||| 36 Nails | 
 
-## 3. Sheathing
+## <a name="sheathing">3. Sheathing</a>
 
 ![](images/B03.svg)
 
@@ -82,7 +94,7 @@ Hammer a nail lightly in between each panel. This will create an 1/8 inch gap be
 
 
 
-## 4. Ceiling Joists
+## <a name="ceiling joists">4. Ceiling Joists</a>
 
 ![](images/B04.svg)
 
@@ -99,7 +111,7 @@ No blocking is needed because the distance between the raised top plate and the 
 | End Plate | End Nail | 3.5" | 2 nails | 30 (60 Nails)
 |**Total**| |||60 2.5" Nails<br/>60 3.5" Nails
 
-## 5. Ceiling Sheathing
+## <a name="ceilingsheathing">5. Ceiling Sheathing<a/>
 
 ![](images/B05.svg)
 
@@ -124,7 +136,7 @@ Lay one sheet up first and secure it to the joists enough to be able to get on t
 
 This is a good time to figure out how to cover the structure with a tarp so you are protected and can work towards prepping the framing for the roof. We tied a tarp down with 6 stakes and some rope.
 
-## 6. Door Jamb
+## <a name="doorjambs">6. Door Jambs<a/>
 
 ![](images/B06.svg)
 
@@ -132,13 +144,13 @@ Burn the outside of 1x6s using a *Propane Torch* attached to a *Propane Tank* un
 
 [![](blueprints/B06.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/02%20WallStructure/blueprints/B06.pdf)
 
-## 7. Door Flashing
+## <a name="door flashing">7. Door Flashing<a/>
 
 ![](images/B07.svg)
 
 Cut a roll of flashing for the top and bottom of the doorway. Notch it so it can fold into place and overlap the edges. Place a board over it and hammer the board to shape the flashing.
 
-## 8. Doors
+## <a name="doors">8. Doors</a>
 
 ![](images/B08.svg)
 
@@ -148,7 +160,7 @@ This door installation will be temporary to make the shed lockable until you can
 
 Use a *2 1/8-inch Hole Saw Bit* to drill a hole for a deadbolt. Use a *1-inch Hole Saw Bit* to drill the holes needed for the bolt latch.
 
-## 9. Wall Felt
+## <a name="wallfelt">9. Wall Felt</a>
 
 ![](images/B09.svg)
 
@@ -156,13 +168,15 @@ Install from the bottom up overlap horizontally 4 at least inches and vertically
 
 ## Cover until next step
 
-## Tools
+## <a name="supplies">Supplies List<a/>
+### Tools
 
-| Item | Amount |
+| Item | Amount | 2018 Cost
 |---|---|
-| [Battery Powered Handheld Circular Saw](https://en.wikipedia.org/wiki/Circular_saw)
+| Battery Powered Handheld Circular Saw | -
+| Battery Powered Electric Nail Gun | -
+| Hammer |
 | [Carpenter's Pencil](https://en.wikipedia.org/wiki/Carpenter_pencil)
-| [Battery Powered Electric Nail Gun](https://en.wikipedia.org/wiki/Nail_gun)
 | 8 ft Step Ladder
 | [Large Propane Torch](https://en.wikipedia.org/wiki/Propane_torch)
 | [20 lb Propane Tank](https://en.wikipedia.org/wiki/Propane)
@@ -173,10 +187,10 @@ Install from the bottom up overlap horizontally 4 at least inches and vertically
 | [Hammer Tacker](https://en.wikipedia.org/wiki/Hammer_tacker)
 
 
-## Materials
+### Materials
 
-| Item | Amount |
-|---|---|
+| Item | Amount | 2018 Cost |
+|---|---|---|
 | 2x4x12 | 3
 | 2x4x16 | 4
 | 2x4x7.5" | 45
@@ -196,3 +210,9 @@ Install from the bottom up overlap horizontally 4 at least inches and vertically
 | Hinges | 6
 | Handle | 1
 | Wall Felt | 558 sq ft
+| 2.5" Nails for nail cup | 
+| 3" Nails for nail gun|
+| 3.5" Nails for nail gun
+| Cap Nails 
+| Stakes | 6
+| Rope | 

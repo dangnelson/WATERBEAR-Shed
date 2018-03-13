@@ -1,13 +1,21 @@
 # Foundation
 
-## 1. Intro (Slab might be better)
-This design uses concrete deck blocks for support with scorner piers to hold down the structure during high winds.
+Pier and Block foundation was chosen for the shed since it's an uninsulated structure which needs to work in a variety of climates. Piers prevent the structure from lifting out during heavy winds, while the blocks carry the load. The depth of the piers is vary based on the frost depth location the shed will be built in, and may increase the budget.
 
-In retrospect, concrete slab seems like it's a better choice and will likely be the only major revision to our shed design. We used treated wood because of the proximity to the ground (which is not compostable or repurposable). The bottom feels too exposed and may threaten the lifespan of the rest of the structure. In the future, we'll likely contract out the excavation and pouring of monolithic slab and are interested in [Roman Concrete](https://en.wikipedia.org/wiki/Roman_concrete#Modern_use).
+[Survey](#survey)
 
-Keep reading if your interested in what we did, and expect an update in the future.
+1. [Excavation](#excavation)
+* [Piers](#piers)
+* [Fill](#fill)
+* [Joist End Plates](#joistendplates)
+* [Blocks](#blocks)
+* [Gravel](#gravel)
+* [Floor Joists](#floorjoists)
+* [Plywood Flooring](#plywoodflooring)
 
-## 2. Survey
+[Supplies List](#supplies)
+
+## Survey
 
 ### Zoning Setbacks
 Check your local zoning regulations for `Setback Requirements`. Find the minimum distance from your property line and other structures before deciding on a location.
@@ -15,7 +23,7 @@ Check your local zoning regulations for `Setback Requirements`. Find the minimum
 ### Find Level Location
 To avoid major excavation, find a location which is fairly level. You can do this easily by using a *String Line* tied between two stakes. Once you've found a rough location, attach a *String Line Level* to the string to gauge how much excavation will be needed.
 
-## 3. Excavation
+## <a name="excavation">1. Excavation</a>
 
 ![](images/A01.svg)
 
@@ -39,7 +47,7 @@ Attach *String Line Levels* to the strings on all four sides. Level starting rou
 
 ### Retaining Wall (avoid)
 
-We built on an incline, and ended up with a soil ledge on one side, and had to build a retaining wall to avoid erosion. We also dug a trench for a french drain on the inside of the retaining wall and filled it with crushed stone. This increased our build time, and building on an incline is not recommended for that reason. This could also be solved by using a slab foundation.
+We built on an incline, and ended up with a soil ledge on one side, and had to build a retaining wall to avoid erosion. We also dug a trench for a french drain on the inside of the retaining wall and filled it with crushed stone. This increased our build time, and building on an incline is not recommended for that reason.
 
 ### Dig Pier Holes
 
@@ -47,13 +55,15 @@ Rent an 8-12" *Auger* and use the *Digging Tools* if you have rocky soil.
 
 Dig out the bottom of the hole so it flares to create a footing. This helps resist frost heave and lift from strong winds.
 
-## 4. Piers
+The depth will need to change based on the region you build in. Correct the Frost Depth based on your local code.
+
+## <a name="piers">2. Piers<a/>
 
 ![](images/A02.svg)
 
 ### Rebar
 
-In retrospect we should have added rebar into the footings for additional strength. This could also be solved by using a slab foundation.
+In retrospect we should have added rebar into the footings for additional strength. This will be fixed in a future version.
 
 ### Pour Piers
 Cut the *Concrete Tube Forms* to size using a *Hand Saw*.
@@ -70,7 +80,7 @@ Once full, smooth out the top of the form with the *Margin Trowel*. Then insert 
 
 [![](blueprints/A02.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/01%20Foundation/blueprints/A02.pdf)
 
-### Fill
+## 3. Fill
 
 Wait a day and remove the *Cardboard Concrete Form Tubes* from around the piers. Backfill with *Compactable Fill* and tamp using the *Digging Bar*.
 
@@ -78,7 +88,7 @@ Wait a day and remove the *Cardboard Concrete Form Tubes* from around the piers.
 
 Cut the *Treated 4x4x8s* to size and insert them into the *Galvanized Post Bases*
 
-## 5. Joist End Plates
+## <a name="joistendplates">4. Joist End Plates</a>
 
 ![](images/A04.svg)
 
@@ -86,9 +96,7 @@ Place the end plates temporarily on two *Concrete Deck Blocks* and use *Shims* t
 
 Drill the holes for the bolts. Then bolt the 4x4s to the end plates.
 
-[![](blueprints/A04.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/01%20Foundation/blueprints/A04.pdf)
-
-## 6. Blocks
+## <a name="blocks">5. Deck Blocks</a>
 
 ![](images/A05.svg)
 
@@ -100,13 +108,15 @@ After each board is lined up, remove an inch of soil under each block and add *A
 
 Carefully mark the unattached floor joists with numbers so you can place them back in the same place later. Then remove them for the next step.
 
-## 7. Gravel
+[![](blueprints/A04.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/01%20Foundation/blueprints/A04.pdf)
+
+## 6. Gravel
 
 ![](images/A06.svg)
 
 Use the *Shovel* and the *Hoe* to spread a layer of gravel around the blocks to improve drainage.
 
-## 8. Floor Joists
+## 7. Floor Joists
 
 ![](images/A07.svg)
 
@@ -120,7 +130,7 @@ Hammer 2 *3.5" Exterior Nails* into each end of each joist.
 |---|---|---|---|---|---|---|
 | End Plate | End Nail | 3.5" | 2 nails | 26 | 60
 
-## 9. Plywood Flooring
+## 8. Flooring Sheathing
 
 ![](images/A08.svg)
 
@@ -144,12 +154,12 @@ Nail the plywood in using the following nailing schedule:
 | Center on Studs | 2 or 2.5" | Every 12" on center | 6 sheets | 16 | 96
 |**Total**||| | |384
 
-## 10. Cover until next step
+## Cover until next step
 
 Place a 
 Bricks on tarp
 
-## Supplies
+## <a name="supplies">Supplies List</a>
 
 ### Materials Needed
 
@@ -182,7 +192,7 @@ Total cost does not include Tax or Delivery fees. Materials noted as "Cost Varie
 ### Tools Needed
 
 |Item | Amount | 2017 Cost
-|---|---|---|---|
+|---|---|---|
 | [Hammer](https://en.wikipedia.org/wiki/Hammer) | 1 | 4.98
 | [Hand Saw](https://en.wikipedia.org/wiki/Hand_saw) | 1 | 9.94
 | [Hoe](https://en.wikipedia.org/wiki/Hoe_(tool)) | 1 | 15.97
@@ -205,3 +215,4 @@ Total cost does not include Tax or Delivery fees. Materials noted as "Cost Varie
 | Drill | 1| 159.00
 | Bit for Drilling Bolt holes | 1 | 9.97
 | 1/2" Socket Wrench | 1| 26.19
+|**Estimated Total**||**1117.09**
