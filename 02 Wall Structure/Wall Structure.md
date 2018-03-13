@@ -19,7 +19,7 @@
 ### Build Walls
 Build the west back wall (Blueprint B.01A) first using the shed floor as a surface. Cut studs to size using a *Battery Powered Circular Saw*. Mark the top and bottom plates using a *Carpenter's Pencil* and *Measuring Tape* and nail them together using a *Battery Powered Nail Gun*. Use a *Hammer* to finish driving any nails that stick out. Stand up the wall and nail spare 2x4s at about a 45 degree angle on either side to the end of the floor joists while leveling. Next stand up the north/south walls (Blueprint B.01B), and finally the other east/west wall (Blueprint B.01C).
 
-[![](blueprints/B01A.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/02%20WallStructure/blueprints/B01a.pdf)
+[![](blueprints/B01A.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/02%20Wall%20Structure/blueprints/B01a.pdf)
 
 ### Stud & Header Nail Fastening `IRC Table 602.3(1)`
 
@@ -32,15 +32,15 @@ Build the west back wall (Blueprint B.01A) first using the shed floor as a surfa
 | Top or Bottom Plate to Stud| End Nail | 3.5" | 2 nails | 82 (164 Nails)
 |**Total**| | | | 12 3" Nails, <br/>196 3.5" Nails
 
-[![](blueprints/B01A.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/02%20WallStructure/blueprints/B01A.pdf)
+[![](blueprints/B01A.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/02%20Wall%20Structure/blueprints/B01A.pdf)
 
-[![](blueprints/B01B.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/02%20WallStructure/blueprints/B01b.pdf)
+[![](blueprints/B01B.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/02%20Wall%20Structure/blueprints/B01b.pdf)
 
 ### Headers `IRC TABLE R502.5(1)`
 
 Sandwich 1/2" plywood between 2 2x12s and attach them Face Nail to build the headers which support the wall above the doorways before installing them in the wall.
 
-[![](blueprints/B01C.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/02%20WallStructure/blueprints/B01c.pdf)
+[![](blueprints/B01C.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/02%20Wall%20Structure/blueprints/B01c.pdf)
 
 #### Header Fastening
 
@@ -54,7 +54,7 @@ Sandwich 1/2" plywood between 2 2x12s and attach them Face Nail to build the hea
 
 Walls must be capped with a second top plate, offset at least 24 inches at joints (IRC 602.3.2). Overlap the corners so they overlap the wall joints. Attach them by nailing Face Nail downwards stepping on a *8 ft Step Ladder*.
 
-[![](blueprints/B02.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/02%20WallStructure/blueprints/B02.pdf)
+[![](blueprints/B02.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/02%20Wall%20Structure/blueprints/B02.pdf)
 
 ### Top Plate Fastening `IRC Table 602.3(1)`
 
@@ -73,11 +73,11 @@ The structure will be flexible when it's just studs. Sheathing adds shear streng
 
 Hammer a nail lightly in between each panel. This will create an 1/8 inch gap between boards to allow for expansion and prevent buckling.
 
-[![](blueprints/B03A.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/02%20WallStructure/blueprints/B03A.pdf)
+[![](blueprints/B03A.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/02%20Wall%20Structure/blueprints/B03A.pdf)
 
-[![](blueprints/B03B.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/02%20WallStructure/blueprints/B03B.pdf)
+[![](blueprints/B03B.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/02%20Wall%20Structure/blueprints/B03B.pdf)
 
-[![](blueprints/B03C.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/02%20WallStructure/blueprints/B03C.pdf)
+[![](blueprints/B03C.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/02%20Wall%20Structure/blueprints/B03C.pdf)
 
 ### Sheathing Fastening
 
@@ -98,7 +98,7 @@ Hammer a nail lightly in between each panel. This will create an 1/8 inch gap be
 
 ![](images/B04.svg)
 
-[![](blueprints/B04.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/02%20WallStructure/blueprints/B04.pdf)
+[![](blueprints/B04.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/02%20Wall%20Structure/blueprints/B04.pdf)
 
 2x6 joists should just about line up with the wall studs, 16 inches on center `IRC Table 802.4(1)`. Mark the end plates first, then prop up the joists over the ceiling span. Be careful not to stand in the shed while you do this in case the joists fall. Frame enough to form a box and toe nail the box into place. This should give you enough structure to add in the remaining joists.
 
@@ -115,7 +115,7 @@ No blocking is needed because the distance between the raised top plate and the 
 
 ![](images/B05.svg)
 
-[![](blueprints/B05.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/02%20WallStructure/blueprints/B05.pdf)
+[![](blueprints/B05.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/02%20Wall%20Structure/blueprints/B05.pdf)
 
 Lay one sheet up first and secure it to the joists enough to be able to get on top of it and finish fastening. Have one person pass sheets up while the other fastens. For the access hole lay the sheet on before fastening and mark the edges of the hole from the bottom. Measure out 3/4" from your line to increase the panel size and cut it out with the circular saw.
 
@@ -142,7 +142,7 @@ This is a good time to figure out how to cover the structure with a tarp so you 
 
 Burn the outside of 1x6s using a *Propane Torch* attached to a *Propane Tank* until the surface begins to char. Once cool, brush the soot off with a deck brush, you may want to wear a mask. Wash the remaining soot off with a *Handheld Sprayer* filled with water. Once dry, coat the wood with an oil (we used tung oil) using a rag (rip up an old towel) and protective gloves. Let the oil dry before installing. Install 3/4" out from the doorway so it will match up with the rain screen later. Hang up used rags to dry before throwing them away, rags soaked in tung oil can spontaneously combust.
 
-[![](blueprints/B06.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/02%20WallStructure/blueprints/B06.pdf)
+[![](blueprints/B06.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/02%20Wall%20Structure/blueprints/B06.pdf)
 
 ## 7. Door Flashing <a name="doorflashing"></a>
 
