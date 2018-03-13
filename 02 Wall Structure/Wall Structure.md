@@ -19,7 +19,7 @@
 ### Build Walls
 Build the west back wall (Blueprint B.01A) first using the shed floor as a surface. Cut studs to size using a *Battery Powered Circular Saw*. Mark the top and bottom plates using a *Carpenter's Pencil* and *Measuring Tape* and nail them together using a *Battery Powered Nail Gun*. Use a *Hammer* to finish driving any nails that stick out. Stand up the wall and nail spare 2x4s at about a 45 degree angle on either side to the end of the floor joists while leveling. Next stand up the north/south walls (Blueprint B.01B), and finally the other east/west wall (Blueprint B.01C).
 
-[![](blueprints/B01A.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/02%20Wall%20Structure/blueprints/B01a.pdf)
+[![](blueprints/B01A.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/02%20Wall%20Structure/blueprints/B01A.pdf)
 
 ### Stud & Header Nail Fastening `IRC Table 602.3(1)`
 
@@ -32,15 +32,15 @@ Build the west back wall (Blueprint B.01A) first using the shed floor as a surfa
 | Top or Bottom Plate to Stud| End Nail | 3.5" | 2 nails | 82 (164 Nails)
 |**Total**| | | | 12 3" Nails, <br/>196 3.5" Nails
 
-[![](blueprints/B01A.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/02%20Wall%20Structure/blueprints/B01a.pdf)
+[![](blueprints/B01A.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/02%20Wall%20Structure/blueprints/B01A.pdf)
 
-[![](blueprints/B01B.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/02%20Wall%20Structure/blueprints/B01b.pdf)
+[![](blueprints/B01B.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/02%20Wall%20Structure/blueprints/B01B.pdf)
 
 ### Headers `IRC TABLE R502.5(1)`
 
 Sandwich 1/2" plywood between 2 2x12s and attach them Face Nail to build the headers which support the wall above the doorways before installing them in the wall.
 
-[![](blueprints/B01C.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/02%20Wall%20Structure/blueprints/B01c.pdf)
+[![](blueprints/B01C.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/02%20Wall%20Structure/blueprints/B01C.pdf)
 
 #### Header Fastening
 
@@ -73,11 +73,11 @@ The structure will be flexible when it's just studs. Sheathing adds shear streng
 
 Hammer a nail lightly in between each panel. This will create an 1/8 inch gap between boards to allow for expansion and prevent buckling.
 
-[![](blueprints/B03A.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/02%20Wall%20Structure/blueprints/B03a.pdf)
+[![](blueprints/B03A.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/02%20Wall%20Structure/blueprints/B03A.pdf)
 
-[![](blueprints/B03B.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/02%20Wall%20Structure/blueprints/B03b.pdf)
+[![](blueprints/B03B.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/02%20Wall%20Structure/blueprints/B03B.pdf)
 
-[![](blueprints/B03C.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/02%20Wall%20Structure/blueprints/B03c.pdf)
+[![](blueprints/B03C.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/02%20Wall%20Structure/blueprints/B03C.pdf)
 
 ### Sheathing Fastening
 
