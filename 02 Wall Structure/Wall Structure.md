@@ -32,7 +32,7 @@ Build the west back wall (Blueprint B.01A) first using the shed floor as a surfa
 | Top or Bottom Plate to Stud| End Nail | 3.5" | 2 nails | 82 (164 Nails)
 |**Total**| | | | 12 3" Nails, <br/>196 3.5" Nails
 
-[![](blueprints/B01A.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/02%20Wall%20Structure/blueprints/B01A.pdf)
+[![](blueprints/B01A.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/02%20Wall%20Structure/blueprints/B01a.pdf)
 
 [![](blueprints/B01B.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/02%20Wall%20Structure/blueprints/B01b.pdf)
 
@@ -73,11 +73,11 @@ The structure will be flexible when it's just studs. Sheathing adds shear streng
 
 Hammer a nail lightly in between each panel. This will create an 1/8 inch gap between boards to allow for expansion and prevent buckling.
 
-[![](blueprints/B03A.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/02%20Wall%20Structure/blueprints/B03A.pdf)
+[![](blueprints/B03A.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/02%20Wall%20Structure/blueprints/B03a.pdf)
 
-[![](blueprints/B03B.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/02%20Wall%20Structure/blueprints/B03B.pdf)
+[![](blueprints/B03B.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/02%20Wall%20Structure/blueprints/B03b.pdf)
 
-[![](blueprints/B03C.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/02%20Wall%20Structure/blueprints/B03C.pdf)
+[![](blueprints/B03C.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/02%20Wall%20Structure/blueprints/B03c.pdf)
 
 ### Sheathing Fastening
 
