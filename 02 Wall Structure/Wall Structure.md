@@ -144,7 +144,7 @@ Burn the outside of 1x6s using a *Propane Torch* attached to a *Propane Tank* un
 
 [![](blueprints/B06.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/02%20WallStructure/blueprints/B06.pdf)
 
-## 7. Door Flashing <a name="door flashing"></a>
+## 7. Door Flashing <a name="doorflashing"></a>
 
 ![](images/B07.svg)
 

@@ -15,7 +15,7 @@ Pier and Block foundation was chosen for the shed since it's an uninsulated stru
 
 [Supplies List](#supplies)
 
-## Survey
+## Survey <a name="survey"></a>
 
 ### Zoning Setbacks
 Check your local zoning regulations for `Setback Requirements`. Find the minimum distance from your property line and other structures before deciding on a location.
