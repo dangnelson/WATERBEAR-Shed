@@ -15,7 +15,7 @@ Pier and Block foundation was chosen for the shed since it's an uninsulated stru
 
 [Supplies List](#supplies)
 
-## Survey
+## Survey <a name="survey"></a>
 
 ### Zoning Setbacks
 Check your local zoning regulations for `Setback Requirements`. Find the minimum distance from your property line and other structures before deciding on a location.
@@ -96,7 +96,7 @@ Place the end plates temporarily on two *Concrete Deck Blocks* and use *Shims* t
 
 Drill the holes for the bolts. Then bolt the 4x4s to the end plates.
 
-## 5. Deck Blocks <a name="blocks"</a>
+## 5. Deck Blocks <a name="blocks"></a>
 
 ![](images/A05.svg)
 
