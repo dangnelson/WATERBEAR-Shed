@@ -140,7 +140,7 @@ This is a good time to figure out how to cover the structure with a tarp so you 
 
 ![](images/B06.svg)
 
-Burn the outside of 1x6s using a *Propane Torch* attached to a *Propane Tank* until the surface begins to char. Once cool, brush the soot off with a deck brush, you may want to wear a mask. Wash the remaining soot off with a *Handheld Sprayer* filled with water. Once dry, coat the wood with an oil (we used tung oil) using a rag (rip up an old towel) and protective gloves. Let the oil dry before installing. Install 3/4" out from the doorway so it will match up with the rain screen later. Hang up used rags to dry before throwing them away, rags soaked in tung oil can spontaneously combust.
+Wearing proper attire, scorch the 1x6s using a *Propane Torch* attached to a *Propane Tank* until the surface begins to char. Avoid plastic or loose hanging clothing. Once cool, brush the soot off with a deck brush, you may want to wear a mask. Wash the remaining soot off with a *Handheld Sprayer* filled with water. Once dry, coat the wood with an oil (we used tung oil) using a rag (rip up an old towel) and protective gloves. Let the oil dry before installing. Install 3/4" out from the doorway so it will match up with the rain screen later. Hang up used rags to dry before throwing them away, rags soaked in tung oil can spontaneously combust.
 
 [![](blueprints/B06.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/02%20Wall%20Structure/blueprints/B06.pdf)
 

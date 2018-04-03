@@ -1,8 +1,14 @@
 ## Roof
 
+Wait to start the roof until you have a good few days to work on it. It will be hard to cover until at least the sheathing is up. 
+
+Now that the shed is enclosed, you can store the supplies for the roof inside. To help with organization we recommend building a simple lumber rack to accommodate the large materials. It also is helpful to precut the rafters at this stage. You can also assemble the gables in advance since they aren’t too heavy to lift up to the roof with two people.
+
 ![](images/RoofVocab.svg)
 
 ### Raised Top Plate
+
+Install the raised top plates first in preparation for the rafters.
 
 ![](images/C01.svg)
 
@@ -13,6 +19,8 @@
 
 ### Gables
 
+Assemble the gables on a flat surface. Stand them up one at a time, squaring them to the edge. Cut a forty five degree edge onto a 2x4 and attach to the roof floor and gable to keep it from tipping until the rafters are installed..
+
 ![](images/C02.svg)
 
 | Item | Amount |
@@ -21,6 +29,16 @@
 | 2x4x8 | 2
 
 ### Rafters
+
+Precut the rafters to size using the dimensions provided. Make sure to cut notches in four of the rafters for the outriggers to sit into. This could be done by cutting multiple grooves to the depth required until it is easy to chisel out the excess. 
+
+Assemble three of the rafters, which connect to the outriggers, with the blocking before lifting them into place. Repeat for all four corners.
+
+Next, run a line east to west to determine a straight ridge line. Install one of the ridge beams. Because of the length of the ridge beam, it is built in two pieces. Cut one of the pieces and measure out and mark where the last two rafters should sit. Install the ridge beam by placing it on a gable and nailing two additional rafters at the end in place. Make sure the ridge beam stays true to your line to keep your roof from being warped.Nail the ridge beam to the rafters that are supported by the outriggers. Repeat for other side.
+
+For additional support nail connecting plates to the ridge beam joint. Install the remaining rafters singing the provided nailing schedule. Attach hurricane ties using screws where the rafters meet the raised top plate.
+
+
 
 ![](images/C03.svg)
 
@@ -49,6 +67,8 @@
 
 ### Collar Ties
 
+Install collar ties to help prevent the rafters from coming apart at the top. 
+
 ![](images/C05.svg)
 
 | Item | Amount |
@@ -69,6 +89,11 @@
 
 ### Roof Sheathing
 
+Installing the roof sheathing is the most laborious part of this design. Make sure to have at least two additional people helping you. Build simple slides out of four 2x6x12’s, this will help you guild the sheathing up to the roof. Notch a square corner out of spare 2x4 to use as a pushing stick. 
+
+Tack the slide to the rafters ends,then have one to two people life the plywood up to the 2 people on the roof. Have one person on the roof tack the plywood into place using the nail gun, once you confirm it is square to the bottom of the rafters. Finish the nailing schedule for each piece before continuing to the next.
+
+Start with installing the bottom pieces before the top. 
 ![](images/C07.svg)
 
 Roof plywood must be at least 5/8 inches thick (IRC TABLE R803.1)

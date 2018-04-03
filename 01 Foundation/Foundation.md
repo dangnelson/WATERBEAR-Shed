@@ -88,6 +88,12 @@ Wait a day and remove the *Cardboard Concrete Form Tubes* from around the piers.
 
 Cut the *Treated 4x4x8s* to size and insert them into the *Galvanized Post Bases*
 
+### Treated wood
+
+Treated wood can’t be composted or burned because of its toxicity and must be thrown away. 
+
+We’re open to alternatives to improve this design. 
+
 ## 4. Joist End Plates <a name="joistendplates"></a>
 
 ![](images/A04.svg)
