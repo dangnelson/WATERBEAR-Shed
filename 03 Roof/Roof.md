@@ -6,7 +6,7 @@ Now that the shed is enclosed, you can store the supplies for the roof inside. T
 
 ![](images/RoofVocab.svg)
 
-### Raised Top Plate
+### 01 Raised Top Plate
 
 Install the raised top plates first in preparation for the rafters.
 
@@ -17,7 +17,7 @@ Install the raised top plates first in preparation for the rafters.
 |2x4x12 | 2
 |2x4x8 | 5
 
-### Gables
+### 02 Gables
 
 Assemble the gables on a flat surface. Stand them up one at a time, squaring them to the edge. Cut a forty five degree edge onto a 2x4 and attach to the roof floor and gable to keep it from tipping until the rafters are installed..
 
@@ -28,19 +28,47 @@ Assemble the gables on a flat surface. Stand them up one at a time, squaring the
 | 2x4x6 | 10
 | 2x4x8 | 2
 
-### Rafters
+### 03 Rafter Overhangs
+
+![](images/C03.svg)
 
 Precut the rafters to size using the dimensions provided. Make sure to cut notches in four of the rafters for the outriggers to sit into. This could be done by cutting multiple grooves to the depth required until it is easy to chisel out the excess. 
 
 Assemble three of the rafters, which connect to the outriggers, with the blocking before lifting them into place. Repeat for all four corners.
 
+#### Overhang Blocking
+
+
+
+| Item | Amount |
+|---|---|---|---|
+| 2x4x1.5' | 28
+
+6 2x4x8s
+
+#### Outriggers
+
+
+| Item | Amount |
+|---|---|---|---|
+| 2x4x2.5' | 28
+
+10 2x4x8s
+
+
+### 04 Ridge Beam
+
+![](images/C04.svg)
+
 Next, run a line east to west to determine a straight ridge line. Install one of the ridge beams. Because of the length of the ridge beam, it is built in two pieces. Cut one of the pieces and measure out and mark where the last two rafters should sit. Install the ridge beam by placing it on a gable and nailing two additional rafters at the end in place. Make sure the ridge beam stays true to your line to keep your roof from being warped.Nail the ridge beam to the rafters that are supported by the outriggers. Repeat for other side.
 
-For additional support nail connecting plates to the ridge beam joint. Install the remaining rafters singing the provided nailing schedule. Attach hurricane ties using screws where the rafters meet the raised top plate.
+For additional support nail connecting plates to the ridge beam joint. 
 
+## 05 Rafters
 
+Install the remaining rafters singing the provided nailing schedule. Attach hurricane ties using screws where the rafters meet the raised top plate.
 
-![](images/C03.svg)
+![](images/C05.svg)
 
 | Item | Amount |
 |---|---|---|---|
@@ -55,21 +83,11 @@ For additional support nail connecting plates to the ridge beam joint. Install t
 | Rafter to ridge, toe nail | 3.5" | 4 | 32 | 128
 |**Total**|||| 192
 
-### Outriggers
-
-![](images/C04.svg)
-
-| Item | Amount |
-|---|---|---|---|
-| 2x4x2.5' | 28
-
-10 2x4x8s
-
 ### Collar Ties
 
 Install collar ties to help prevent the rafters from coming apart at the top. 
 
-![](images/C05.svg)
+![](images/C06.svg)
 
 | Item | Amount |
 |---|---|---|---|
@@ -77,15 +95,7 @@ Install collar ties to help prevent the rafters from coming apart at the top.
 
 
 
-### Overhang Blocking
 
-![](images/C06.svg)
-
-| Item | Amount |
-|---|---|---|---|
-| 2x4x1.5' | 28
-
-6 2x4x8s
 
 ### Roof Sheathing
 
@@ -117,7 +127,7 @@ Roof plywood must be at least 5/8 inches thick (IRC TABLE R803.1)
 | Center on Studs | 2 or 2.5" | Every 12" on center | 12 sheets | 192
 |**Total**|||| 768
 
-### Eave End Block
+### Eave End Blocking
 
 ![](images/C08.svg)
 
@@ -172,11 +182,11 @@ Ridge Vent
 
 -----
 
-####Panels
+#### Panels
 
 Standing Seam Panels
 
-####Roof Ridge
+#### Roof Ridge
 
 Ridge Flashing
 
@@ -192,7 +202,7 @@ Pop Rivet
 
 Double Beaded Butyl Tape
 
-####Roof Eave
+#### Roof Eave
 
 Plumb Eave Flashing
 
@@ -204,7 +214,7 @@ Sealant
 
 1" #10 Pancake Head Woodscrew
 
-####Floating Rake
+#### Floating Rake
 
 Square Eave Flashing
 
