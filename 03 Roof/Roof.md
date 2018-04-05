@@ -12,6 +12,8 @@ Install the raised top plates first in preparation for the rafters.
 
 ![](images/C01.svg)
 
+![](blueprints/C01.svg)
+
 | Item | Amount |
 |---|---|---|---|
 |2x4x12 | 2
@@ -23,6 +25,8 @@ Assemble the gables on a flat surface. Stand them up one at a time, squaring the
 
 ![](images/C02.svg)
 
+![](blueprints/C02.svg)
+
 | Item | Amount |
 |---|---|---|---|
 | 2x4x6 | 10
@@ -31,6 +35,12 @@ Assemble the gables on a flat surface. Stand them up one at a time, squaring the
 ### 03 Rafter Overhangs
 
 ![](images/C03.svg)
+
+![](blueprints/C03C.svg)
+![](blueprints/C03A.svg)
+![](blueprints/C03B.svg)
+![](blueprints/C03D.svg)
+
 
 Precut the rafters to size using the dimensions provided. Make sure to cut notches in four of the rafters for the outriggers to sit into. This could be done by cutting multiple grooves to the depth required until it is easy to chisel out the excess. 
 
