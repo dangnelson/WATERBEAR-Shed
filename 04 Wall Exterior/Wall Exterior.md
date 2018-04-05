@@ -1,6 +1,14 @@
 ## Wall Exterior
 
+The space between wall paper and siding is called a rain screen. It assumes that water will eventually get behind the siding, and when it does, gives the water a place to go, and enough ventilation for it to dry.
+
 ### Insect Screen
+
+Insect screen is installed at the top and bottom of the rain screen to keep insects from living behind your siding.
+
+We used a product called Coravent, which is corrugated plastic with a plastic fabric mesh on one side. We’re currently looking for a plastic-free alternative. Please contact us if you’re aware of one.
+
+Attachment schedule?
 
 ![](images/D01.svg)
 
@@ -12,6 +20,10 @@
 
 ### Furring Strips
 
+Furring strips are attached vertically inline with the studs. Since the rafters line up with the studs, simply place the top of a strip inline with the rafter center at the top and then level, resting the bottom on the insect screen.
+
+Attachment schedule?
+
 ![](images/D02.svg)
 
 | Item | Amount |
@@ -19,6 +31,8 @@
 |1x2x8 Furring Strips | 50
 
 ### Siding
+
+
 
 ![](images/D03.svg)
 
@@ -45,9 +59,6 @@ Sold in precut lengths:
 | 12' lengths | 14' | east / west | 30 | 22.2 | 666
 | **Total** | ||&#36;1727.4
 
-Steve Marsh
-804 358 2103
-
 ####Shou Sugi Ban
 
 Propane Torch
@@ -65,7 +76,7 @@ Gloves
 Coarse Brush
 
 
-Burn until black, ash patches means your overdone. Not a big deal, it will come off with brushing. Burn from the female side, it will reduce how often the sides catch fire. Brush all excess off until you see the grain. Wash the dust off. Oil the wood using a rag or brush and install.
+Burn until black, ash patches means your overdone. Not a big deal, it will come off with brushing. Burn from the female side, it will reduce how often the sides catch fire. Brush all excess off until you see the grain. Wash the remaining dust off. Oil the wood using a rag or brush and install.
 
 ### Soffit Vents
 
