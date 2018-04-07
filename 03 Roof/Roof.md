@@ -10,14 +10,11 @@ Now that the shed is enclosed, you can store the supplies for the roof inside. T
 
 Install the raised top plates first in preparation for the rafters.
 
+Attachment schedule?
+
 ![](images/C01.svg)
 
 ![](blueprints/C01.svg)
-
-| Item | Amount |
-|---|---|---|---|
-|2x4x12 | 2
-|2x4x8 | 5
 
 ### 02 Gables
 
@@ -27,44 +24,22 @@ Assemble the gables on a flat surface. Stand them up one at a time, squaring the
 
 ![](blueprints/C02.svg)
 
-| Item | Amount |
-|---|---|---|---|
-| 2x4x6 | 10
-| 2x4x8 | 2
 
 ### 03 Rafter Overhangs
 
 ![](images/C03.svg)
 
-![](blueprints/C03C.svg)
-![](blueprints/C03A.svg)
-![](blueprints/C03B.svg)
-![](blueprints/C03D.svg)
-
-
 Precut the rafters to size using the dimensions provided. Make sure to cut notches in four of the rafters for the outriggers to sit into. This could be done by cutting multiple grooves to the depth required until it is easy to chisel out the excess. 
 
 Assemble three of the rafters, which connect to the outriggers, with the blocking before lifting them into place. Repeat for all four corners.
 
-#### Overhang Blocking
+![](blueprints/C03C.svg)
 
+![](blueprints/C03A.svg)
 
+![](blueprints/C03B.svg)
 
-| Item | Amount |
-|---|---|---|---|
-| 2x4x1.5' | 28
-
-6 2x4x8s
-
-#### Outriggers
-
-
-| Item | Amount |
-|---|---|---|---|
-| 2x4x2.5' | 28
-
-10 2x4x8s
-
+![](blueprints/C03D.svg)
 
 ### 04 Ridge Beam
 
@@ -76,16 +51,11 @@ For additional support nail connecting plates to the ridge beam joint.
 
 ## 05 Rafters
 
-Install the remaining rafters singing the provided nailing schedule. Attach hurricane ties using screws where the rafters meet the raised top plate.
-
 ![](images/C05.svg)
 
-| Item | Amount |
-|---|---|---|---|
-| 2x6x12 | 32
-| 1x10x12 | 1
-| 1x10x8 | 1
-| Hurricane Ties | 26
+Install the remaining rafters singing the provided nailing schedule. Attach hurricane ties using screws where the rafters meet the raised top plate.
+
+![](blueprints/C05.svg)
 
 | Placement | Nail Size | Frequency | Occurances | 3.5"  Nails
 |---|---|---|---|---|
@@ -93,38 +63,30 @@ Install the remaining rafters singing the provided nailing schedule. Attach hurr
 | Rafter to ridge, toe nail | 3.5" | 4 | 32 | 128
 |**Total**|||| 192
 
-### Collar Ties
-
-Install collar ties to help prevent the rafters from coming apart at the top. 
-
+### 06 Collar Ties
+ 
 ![](images/C06.svg)
 
-| Item | Amount |
-|---|---|---|---|
-| 1x3x7 | 3
+Install collar ties to help prevent the rafters from coming apart at the top.
 
+### 07 Roof Sheathing
 
-
-
-
-### Roof Sheathing
+![](images/C07.svg)
 
 Installing the roof sheathing is the most laborious part of this design. Make sure to have at least two additional people helping you. Build simple slides out of four 2x6x12’s, this will help you guild the sheathing up to the roof. Notch a square corner out of spare 2x4 to use as a pushing stick. 
 
-Tack the slide to the rafters ends,then have one to two people life the plywood up to the 2 people on the roof. Have one person on the roof tack the plywood into place using the nail gun, once you confirm it is square to the bottom of the rafters. Finish the nailing schedule for each piece before continuing to the next.
+Tack the slide to the rafters ends, then have one to two people life the plywood up to the 2 people on the roof. Have one person on the roof tack the plywood into place using the nail gun, once you confirm it is square to the bottom of the rafters. Finish the nailing schedule for each piece before continuing to the next.
 
 Start with installing the bottom pieces before the top. 
-![](images/C07.svg)
+
+Plywood is staggered for strength.
 
 Roof plywood must be at least 5/8 inches thick (IRC TABLE R803.1)
 
-| Item | Amount |
-|---|---|---|---|
-|4x8 19/32" | 12
+![](blueprints/C07.svg) 
 
 #### H-Clips
 
-#### Stagger plywood for strength
 
 #### Estimate
 
@@ -141,15 +103,11 @@ Roof plywood must be at least 5/8 inches thick (IRC TABLE R803.1)
 
 ![](images/C08.svg)
 
-Use Scrap
+Use Scrap lumber from the rafters to build out the eave end blocking. This will give you something to attach the fascia to.
 
 ### Gable Sheathing
 
 ![](images/C09.svg)
-
-| Item | Amount |
-|---|---|---|---|
-|4x8 3/8" plywood | 6
 
 ### Gable Felt
 
@@ -159,19 +117,9 @@ Use Scrap
 
 ![](images/C10.svg)
 
-| Item | Amount |
-|---|---|---|---|
-|Roof Felt | 380 sq ft
-
 ### Fascia
 
 ![](images/C12.svg)
-
-| Item | Amount |
-|---|---|---|---|
-| 1x6x12 | 2
-| 1x6x8 | 2
-| 1x8x12 | 4
 
 ### Roofing
 
@@ -229,3 +177,25 @@ Sealant
 Square Eave Flashing
 
 1" #10 Pancake Head Woodscrew
+
+## Supplies
+
+| Item | Amount | Use 
+|---|---|---|---|
+| 2x4x8 | 5 | Raised Top Plate
+| 2x4x6 | 10 | Gables
+| 2x4x8 | 2 | Gables
+| 2x4x12 | 2 | Gables
+| 2x4x1.5' | 28 (6 2x4x8s) | Overhang Blocking
+| 2x4x2.5' | 28 (10 2x4x8s) | Outriggers
+| 2x6x12 | 32 | Rafters
+| 1x10x12 | 1 | Ridge Beam
+| 1x10x8 | 1 | Ridge Beam
+| Hurricane Ties | 26 | Tie-down Rafters
+|4x8 19/32" | 12 | Roof Sheathing
+| 1x3x7 | 3 | Collar Ties
+| 4x8 3/8" plywood | 6 | Gable Sheathing
+| Roof Felt | 380 sq ft
+| 1x6x12 | 2 | Fascia
+| 1x6x8 | 2 | Fascia
+| 1x8x12 | 4 | Fascia
