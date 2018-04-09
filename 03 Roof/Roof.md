@@ -1,31 +1,51 @@
-## Roof
+# Roof
 
-Wait to start the roof until you have a good few days to work on it. It will be hard to cover until at least the sheathing is up. 
+1. [Raised Top Plate](#raisedtopplate)
+* [Gables](#gables)
+* [Rafter Overhangs](#rafteroverhangs)
+* [Ridge Beam](#ridgebeam)
+* [Rafters](#rafters)
+* [Collar Ties](#collarties)
+* [Roof Sheathing](#roofsheathing)
+* [Eave End Blocking](#eaveendblocking)
+* [Gable Sheathing](#gablesheathing)
+* [Gable Felt](#gablefelt)
+* [Roof Felt](#rooffelt)
+* [Roofing](#roofing)
+
+[Supplies List](#supplies)
+
+Wait to start the roof until you have a good few days to work on it. It will be hard to cover until at least the roof sheathing is up. 
 
 Now that the shed is enclosed, you can store the supplies for the roof inside. To help with organization we recommend building a simple lumber rack to accommodate the large materials. It also is helpful to precut the rafters at this stage. You can also assemble the gables in advance since they aren’t too heavy to lift up to the roof with two people.
 
 ![](images/RoofVocab.svg)
 
-### 01 Raised Top Plate
+## 01 Raised Top Plate <a name="raisedtopplate"></a>
 
 Install the raised top plates first in preparation for the rafters.
 
-Attachment schedule?
+### Fastening
+
+| Placement | Nail Size | Frequency | Occurances 
+|---|---|---|---
+| Raised Top Plate | 3" | 24" on center | 38' (19 Nails)
+|**Total**||| 19 Nails | 
 
 ![](images/C01.svg)
 
 ![](blueprints/C01.svg)
 
-### 02 Gables
+## 02 Gables <a name="gables"></a>
 
-Assemble the gables on a flat surface. Stand them up one at a time, squaring them to the edge. Cut a forty five degree edge onto a 2x4 and attach to the roof floor and gable to keep it from tipping until the rafters are installed..
+Assemble the gables on a flat surface. Stand them up one at a time, squaring them to the edge. Cut a forty five degree edge onto a 2x4 and attach to the roof floor and gable to keep it from tipping until the rafters are installed.
 
 ![](images/C02.svg)
 
 ![](blueprints/C02.svg)
 
 
-### 03 Rafter Overhangs
+## 03 Rafter Overhangs <a name="rafteroverhangs"></a>
 
 ![](images/C03.svg)
 
@@ -41,7 +61,7 @@ Assemble three of the rafters, which connect to the outriggers, with the blockin
 
 ![](blueprints/C03D.svg)
 
-### 04 Ridge Beam
+## 04 Ridge Beam <a name="ridgebeam"></a>
 
 ![](images/C04.svg)
 
@@ -49,13 +69,15 @@ Next, run a line east to west to determine a straight ridge line. Install one of
 
 For additional support nail connecting plates to the ridge beam joint. 
 
-## 05 Rafters
+## 05 Rafters <a name="rafters"></a>
 
 ![](images/C05.svg)
 
-Install the remaining rafters singing the provided nailing schedule. Attach hurricane ties using screws where the rafters meet the raised top plate.
+Install the remaining rafters using the provided nailing schedule. Attach hurricane ties using screws where the rafters meet the raised top plate.
 
 ![](blueprints/C05.svg)
+
+### Rafter Nail Fastening
 
 | Placement | Nail Size | Frequency | Occurances | 3.5"  Nails
 |---|---|---|---|---|
@@ -63,13 +85,16 @@ Install the remaining rafters singing the provided nailing schedule. Attach hurr
 | Rafter to ridge, toe nail | 3.5" | 4 | 32 | 128
 |**Total**|||| 192
 
-### 06 Collar Ties
+## 06 Collar Ties <a name="collarties"></a>
  
 ![](images/C06.svg)
 
 Install collar ties to help prevent the rafters from coming apart at the top.
 
-### 07 Roof Sheathing
+![](blueprints/C06A.svg)
+![](blueprints/C06B.svg)
+
+## 07 Roof Sheathing <a name="roofsheathing"></a>
 
 ![](images/C07.svg)
 
@@ -85,10 +110,10 @@ Roof plywood must be at least 5/8 inches thick (IRC TABLE R803.1)
 
 ![](blueprints/C07.svg) 
 
-#### H-Clips
+### H-Clips
 
 
-#### Estimate
+### Estimate
 
 * 24' edge length for each 4x8 = 48 nails per sheet
 * Two 8' center lengths for each 4x8 = 16 nails per sheet
@@ -99,33 +124,51 @@ Roof plywood must be at least 5/8 inches thick (IRC TABLE R803.1)
 | Center on Studs | 2 or 2.5" | Every 12" on center | 12 sheets | 192
 |**Total**|||| 768
 
-### Eave End Blocking
+## 08 Eave End Blocking <a name="eaveendblocking"></a>
 
 ![](images/C08.svg)
 
-Use Scrap lumber from the rafters to build out the eave end blocking. This will give you something to attach the fascia to.
+Use Scrap lumber from the rafters to build out the eave end blocking. This will give you something to attach the fascia to.  
 
-### Gable Sheathing
+![](blueprints/C08.svg)
+
+## 09 Gable Sheathing <a name="gablesheathing"></a>
 
 ![](images/C09.svg)
 
-### Gable Felt
+![](blueprints/C09.svg)
+
+### Sheathing Fastening
+
+**Number of Nails**
+
+* 24' edge length for each 4x8 = 48 nails per sheet
+* Two 8' center lengths for each 4x8 = 16 nails per sheet
+
+| Placement | Nail Size | Frequency | Occurrences
+|---|---|---|---|
+| Edges on Studs | 2 or 2.5" | Every 6" on center | 13 sheets (624 Nails)
+| Center on Studs | 2 or 2.5" | Every 12" on center | 13 sheets (208 Nails)
+|**Total**|||832 Nails
+
+
+## 10 Gable Felt <a name="gablefelt"></a>
 
 ![](images/C11.svg)
 
-### Roof Felt
+## 11 Roof Felt <a name="rooffelt"></a>
 
 ![](images/C10.svg)
 
-### Fascia
+## 12 Fascia <a name="fascia"></a>
 
 ![](images/C12.svg)
 
-### Roofing
+## 13 Roofing <a name="roofing"></a>
 
 ![](images/C13.svg)
 
-#### Pricing
+### Pricing
 Advantage-Lok
 &#36;2.53 / linear ft
 
@@ -140,11 +183,11 @@ Ridge Vent
 
 -----
 
-#### Panels
+### Panels
 
 Standing Seam Panels
 
-#### Roof Ridge
+### Roof Ridge
 
 Ridge Flashing
 
@@ -160,7 +203,7 @@ Pop Rivet
 
 Double Beaded Butyl Tape
 
-#### Roof Eave
+### Roof Eave
 
 Plumb Eave Flashing
 
@@ -172,13 +215,13 @@ Sealant
 
 1" #10 Pancake Head Woodscrew
 
-#### Floating Rake
+### Floating Rake
 
 Square Eave Flashing
 
 1" #10 Pancake Head Woodscrew
 
-## Supplies
+## Supplies <a name="supplies"></a>
 
 | Item | Amount | Use 
 |---|---|---|---|
