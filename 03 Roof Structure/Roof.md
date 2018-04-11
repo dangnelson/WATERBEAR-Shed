@@ -7,11 +7,9 @@
 * [Rafters](#rafters)
 * [Collar Ties](#collarties)
 * [Roof Sheathing](#roofsheathing)
-* [Eave End Blocking](#eaveendblocking)
 * [Gable Sheathing](#gablesheathing)
 * [Gable Felt](#gablefelt)
 * [Roof Felt](#rooffelt)
-* [Roofing](#roofing)
 
 [Supplies List](#supplies)
 
@@ -124,9 +122,16 @@ Tack the slide to the rafters ends, then have one to two people life the plywood
 | Center on Studs | 2 or 2.5" | Every 12" on center | 12 sheets (192 Nails)
 |**Total**|||768 Nails
 
+### Sheathing Fastening `IRC TABLE R602.3(1)`
+
+| Placement | Size | Frequency
+| --- | --- | --- | ---
+| Plywood to Rafters | 2.5" | Every 6" on Center
+
+
 ## Cover with Tarp
 
-This is a good time to figure out how to cover the structure with a tarp so you are protected and can take a break before starting the roofing. We wrapped a tarp over the roof and under the rake overhangs, tying off to the overhang blocking. Until we had the gable felt installed, we tied a tarp off starting with a corner under the ridge overhang and down to the eaves.
+This is a good time to figure out how to cover the structure with a tarp so you are protected and can take a break while finishing the gables. We wrapped a tarp over the roof and under the rake overhangs, tying off to the overhang blocking. Until we had the gable felt installed, we tied another tarp off starting with a corner under the ridge overhang and down to the eaves.
 
 ## 08 Gable Sheathing <a name="gablesheathing"></a>
 
@@ -145,12 +150,6 @@ This is a good time to figure out how to cover the structure with a tarp so you 
 | Center on Studs | 2 or 2.5" | Every 12" on center | 4 sheets (64 Nails)
 |**Total**|||256 Nails
 
-### Sheathing Fastening `IRC TABLE R602.3(1)`
-
-| Placement | Size | Frequency
-| --- | --- | --- | ---
-| Plywood to Rafters | 2.5" | Every 6" on Center
-
 
 
 ## 09 Gable Felt <a name="gablefelt"></a>
@@ -161,74 +160,9 @@ This is a good time to figure out how to cover the structure with a tarp so you 
 
 ![](images/C10.svg) 
 
-## 11 Eave End Blocking <a name="eaveendblocking"></a>
+## Cover Until Next Step
 
-![](images/C11.svg)
-
-Use Scrap lumber from the rafters to build out the eave end blocking. This will give you something to attach the fascia to.  
-
-![](blueprints/C11.svg)
-
-## 12 Fascia <a name="fascia"></a>
-
-![](images/C12.svg)
-
-## 13 Roofing <a name="roofing"></a>
-
-![](images/C13.svg)
-
-### Pricing
-Advantage-Lok
-&#36;2.53 / linear ft
-
-Drip Edge
-&#36;23 / piece 10.5 ft
-
-Drip edge is 10.5 feet long regardless
-
-Ridge Vent
-&#36;15.90 / each 32" wide
-
-
------
-
-### Panels
-
-Standing Seam Panels
-
-### Roof Ridge
-
-Ridge Flashing
-
-Vented Ridge Closure
-
-Ventco Ridge Cap Anchor Clip
-
-Pop Rivet
-
-1" #10 Pancake Head Woodscrew
-
-2" Pancake Head Woodscrew
-
-Double Beaded Butyl Tape
-
-### Roof Eave
-
-Plumb Eave Flashing
-
-Standing Seam Clip
-
-Double Beaded Butyl Tape
-
-Sealant
-
-1" #10 Pancake Head Woodscrew
-
-### Floating Rake
-
-Square Eave Flashing
-
-1" #10 Pancake Head Woodscrew
+Cut an 8 inch strip of Roof Felt to cover the ridge beam. This will make the structure water proof enough for you to no longer have to use a tarp as cover. Nail it down with cap nails as it will be prone to fly off in heavy wind. You'll remove this piece once you're ready to install the ridge cap for the roofing.
 
 ## Supplies <a name="supplies"></a>
 
@@ -258,6 +192,3 @@ Square Eave Flashing
 | 1x3x7 | 3 | Collar Ties
 | 4x8 3/8" plywood | 6 | Gable Sheathing
 | Roof Felt | 380 sq ft
-| 1x6x12 | 2 | Fascia
-| 1x6x8 | 2 | Fascia
-| 1x8x12 | 4 | Fascia
