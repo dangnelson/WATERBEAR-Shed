@@ -17,7 +17,7 @@
 ![](images/B01.svg)
 
 ### Build Walls
-Build the west back wall (Blueprint B.01A) first using the shed floor as a surface. Cut studs to size using a *Battery Powered Circular Saw*. Mark the top and bottom plates using a *Carpenter's Pencil* and *Measuring Tape* and nail them together using a *Battery Powered Nail Gun*. Use a *Hammer* to finish driving any nails that stick out. Stand up the wall and nail spare 2x4s at about a 45 degree angle on either side to the end of the floor joists while leveling. Next stand up the north/south walls (Blueprint B.01B), and finally the other east/west wall (Blueprint B.01C).
+Build the west back wall (Blueprint B.01A) first using the shed floor as a surface. Cut studs to size using a *Battery Powered Circular Saw*. Mark the top and bottom plates using a *Carpenter's Pencil* and *Measuring Tape* and nail them together using a *Battery Powered Nail Gun*. Use a *Hammer* to finish driving any nails that stick out. Stand up the wall and nail spare 2x4s at about a 45 degree angle on either side to the end of the floor joists while leveling using a *48 Inch Level*. Next stand up the north/south walls (Blueprint B.01B), and finally the other east/west wall (Blueprint B.01C).
 
 [![](blueprints/B01A.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/02%20Wall%20Structure/blueprints/B01a.pdf)
 
@@ -167,6 +167,7 @@ Install from the bottom up overlap horizontally 4 at least inches and vertically
 ## Cover until next step
 
 ## Supplies List <a name="supplies"></a>
+
 ### Tools
 
 | Item | Amount | 2018 Cost
@@ -174,6 +175,7 @@ Install from the bottom up overlap horizontally 4 at least inches and vertically
 | Battery Powered Handheld Circular Saw | -
 | Battery Powered Electric Nail Gun | -
 | Hammer |
+| 48 Inch Level |
 | [Carpenter's Pencil](https://en.wikipedia.org/wiki/Carpenter_pencil)
 | 8 ft Step Ladder
 | [Large Propane Torch](https://en.wikipedia.org/wiki/Propane_torch)

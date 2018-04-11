@@ -23,14 +23,13 @@ Now that the shed is enclosed, you can store the supplies for the roof inside. T
 
 ## 01 Raised Top Plate <a name="raisedtopplate"></a>
 
-Install the raised top plates first in preparation for the rafters.
+Cut the 2x4s to size using the *Battery Powered Handheld Circular Saw* and install them using the *Battery Powered Electric Nail Gun*.
 
 ### Fastening
 
 | Placement | Nail Size | Frequency | Occurances 
 |---|---|---|---
 | Raised Top Plate | 3" | 24" on center | 38' (19 Nails)
-|**Total**||| 19 Nails | 
 
 ![](images/C01.svg)
 
@@ -38,7 +37,7 @@ Install the raised top plates first in preparation for the rafters.
 
 ## 02 Gables <a name="gables"></a>
 
-Assemble the gables on a flat surface. Stand them up one at a time, squaring them to the edge. Cut a forty five degree edge onto a 2x4 and attach to the roof floor and gable to keep it from tipping until the rafters are installed.
+Cut, then assemble the gables on a flat surface. Stand them up one at a time, squaring them to the edge. Cut a forty five degree edge onto the end of a 2x4x8. Attach it to the roof floor first, then while using a gable using the Nail Gun to keep it from tipping until the rafters are installed.
 
 ![](images/C02.svg)
 
@@ -49,15 +48,15 @@ Assemble the gables on a flat surface. Stand them up one at a time, squaring the
 
 ![](images/C03.svg)
 
-Precut the rafters to size using the dimensions provided. Make sure to cut notches in four of the rafters for the outriggers to sit into. This could be done by cutting multiple grooves to the depth required until it is easy to chisel out the excess. 
+Precut the rafters to size using the dimensions provided (C.03A). Make sure to cut notches in four of the rafters for the outriggers to sit into (C.03C). To remove the notches, cut multiple grooves to the depth required until it is easy to use a *Chisel* and *Hammer* to remove the excess.
 
-Assemble three of the rafters, which connect to the outriggers, with the blocking before lifting them into place. Repeat for all four corners.
-
-![](blueprints/C03C.svg)
+Assemble three of the rafters, which connect to the outriggers, with the overhang blocking (C.03D) before lifting them into place. Nail the rafter bottoms into the raised top plate and nail up from below the gable to secure the center rafter. Repeat for all four corners.
 
 ![](blueprints/C03A.svg)
 
 ![](blueprints/C03B.svg)
+
+![](blueprints/C03C.svg)
 
 ![](blueprints/C03D.svg)
 
@@ -65,9 +64,11 @@ Assemble three of the rafters, which connect to the outriggers, with the blockin
 
 ![](images/C04.svg)
 
-Next, run a line east to west to determine a straight ridge line. Install one of the ridge beams. Because of the length of the ridge beam, it is built in two pieces. Cut one of the pieces and measure out and mark where the last two rafters should sit. Install the ridge beam by placing it on a gable and nailing two additional rafters at the end in place. Make sure the ridge beam stays true to your line to keep your roof from being warped.Nail the ridge beam to the rafters that are supported by the outriggers. Repeat for other side.
+Next, run a line east to west to determine a straight ridge line. Because of the length of the ridge beam, it is built in two pieces. Cut one of the pieces and measure out and mark where the last two rafters should sit. Install the ridge beam by placing it on a gable and nailing two additional rafters at the end in place. Make sure the ridge beam stays true to your line to keep your roof from being warped.Nail the ridge beam to the rafters that are supported by the outriggers. Repeat for other side.
 
-For additional support nail connecting plates to the ridge beam joint. 
+For additional support nail *Connecting Plates* to the ridge beam joint.
+
+![](blueprints/C04.svg)
 
 ## 05 Rafters <a name="rafters"></a>
 
@@ -89,10 +90,16 @@ Install the remaining rafters using the provided nailing schedule. Attach hurric
  
 ![](images/C06.svg)
 
-Install collar ties to help prevent the rafters from coming apart at the top.
+Install collar ties to help prevent the rafters from coming apart at the top. 
 
 ![](blueprints/C06A.svg)
 ![](blueprints/C06B.svg)
+
+### Collar Tie Fastening `IRC Table 602.3(1)`
+
+| Placement | Size | Frequency
+| --- | --- | ---
+| Collar tie to rafter, face nail | 3" | 3 nails on each side | 6 connections (9 Nails)
 
 ## 07 Roof Sheathing <a name="roofsheathing"></a>
 
@@ -137,6 +144,13 @@ This is a good time to figure out how to cover the structure with a tarp so you 
 | Edges on Studs | 2 or 2.5" | Every 6" on center | 4 sheets (192 Nails)
 | Center on Studs | 2 or 2.5" | Every 12" on center | 4 sheets (64 Nails)
 |**Total**|||256 Nails
+
+### Sheathing Fastening `IRC TABLE R602.3(1)`
+
+| Placement | Size | Frequency
+| --- | --- | --- | ---
+| Plywood to Rafters | 2.5" | Every 6" on Center
+
 
 
 ## 09 Gable Felt <a name="gablefelt"></a>
@@ -217,6 +231,16 @@ Square Eave Flashing
 1" #10 Pancake Head Woodscrew
 
 ## Supplies <a name="supplies"></a>
+
+### Tools
+
+| Item | Amount | 2018 Cost
+|---|---|
+| Battery Powered Handheld Circular Saw | | See Chapter 1
+| Battery Powered Electric Nail Gun | | See Chapter 1
+| 48 Inch Level | | | See Chapter 2
+
+### Materials
 
 | Item | Amount | Use 
 |---|---|---|---|
