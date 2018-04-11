@@ -98,67 +98,62 @@ Install collar ties to help prevent the rafters from coming apart at the top.
 
 ![](images/C07.svg)
 
+Roof sheathing must be at least 5/8 inches thick (IRC TABLE R803.1)
+
 Installing the roof sheathing is the most laborious part of this design. Make sure to have at least two additional people helping you. Build simple slides out of four 2x6x12’s, this will help you guild the sheathing up to the roof. Notch a square corner out of spare 2x4 to use as a pushing stick. 
 
-Tack the slide to the rafters ends, then have one to two people life the plywood up to the 2 people on the roof. Have one person on the roof tack the plywood into place using the nail gun, once you confirm it is square to the bottom of the rafters. Finish the nailing schedule for each piece before continuing to the next.
-
-Start with installing the bottom pieces before the top. 
-
-Plywood is staggered for strength.
-
-Roof plywood must be at least 5/8 inches thick (IRC TABLE R803.1)
+Tack the slide to the rafters ends, then have one to two people life the plywood up to the 2 people on the roof. Have one person on the roof tack the plywood into place using the nail gun, once you confirm it is square to the bottom of the rafters. Install H-Clips between the panels to add spacing between the panels so they can expand. Plywood is staggered for strength. Finish the nailing schedule for each piece before continuing to the next. Start with installing the bottom pieces before the top. 
 
 ![](blueprints/C07.svg) 
-
-### H-Clips
-
 
 ### Estimate
 
 * 24' edge length for each 4x8 = 48 nails per sheet
 * Two 8' center lengths for each 4x8 = 16 nails per sheet
 
-| Placement | Nail Size | Nail Frequency / Number | Occurances | 2.5"  Nails
-|---|---|---|---|---|
-| Edges on Studs | 2 or 2.5" | Every 6" on center | 12 sheets | 576
-| Center on Studs | 2 or 2.5" | Every 12" on center | 12 sheets | 192
-|**Total**|||| 768
+| Placement | Size | Frequency | Occurrences
+|---|---|---|---|
+| Edges on Studs | 2 or 2.5" | Every 6" on center | 12 sheets (576 Nails)
+| Center on Studs | 2 or 2.5" | Every 12" on center | 12 sheets (192 Nails)
+|**Total**|||768 Nails
 
-## 08 Eave End Blocking <a name="eaveendblocking"></a>
+## Cover with Tarp
+
+This is a good time to figure out how to cover the structure with a tarp so you are protected and can take a break before starting the roofing. We wrapped a tarp over the roof and under the rake overhangs, tying off to the overhang blocking. Until we had the gable felt installed, we tied a tarp off starting with a corner under the ridge overhang and down to the eaves.
+
+## 08 Gable Sheathing <a name="gablesheathing"></a>
 
 ![](images/C08.svg)
 
-Use Scrap lumber from the rafters to build out the eave end blocking. This will give you something to attach the fascia to.  
-
 ![](blueprints/C08.svg)
 
-## 09 Gable Sheathing <a name="gablesheathing"></a>
-
-![](images/C09.svg)
-
-![](blueprints/C09.svg)
-
 ### Sheathing Fastening
-
-**Number of Nails**
 
 * 24' edge length for each 4x8 = 48 nails per sheet
 * Two 8' center lengths for each 4x8 = 16 nails per sheet
 
 | Placement | Nail Size | Frequency | Occurrences
 |---|---|---|---|
-| Edges on Studs | 2 or 2.5" | Every 6" on center | 13 sheets (624 Nails)
-| Center on Studs | 2 or 2.5" | Every 12" on center | 13 sheets (208 Nails)
-|**Total**|||832 Nails
+| Edges on Studs | 2 or 2.5" | Every 6" on center | 4 sheets (192 Nails)
+| Center on Studs | 2 or 2.5" | Every 12" on center | 4 sheets (64 Nails)
+|**Total**|||256 Nails
 
 
-## 10 Gable Felt <a name="gablefelt"></a>
+## 09 Gable Felt <a name="gablefelt"></a>
+
+![](images/C09.svg)
+
+## 10 Roof Felt <a name="rooffelt"></a>
+
+![](images/C10.svg) 
+
+## 11 Eave End Blocking <a name="eaveendblocking"></a>
 
 ![](images/C11.svg)
 
-## 11 Roof Felt <a name="rooffelt"></a>
+Use Scrap lumber from the rafters to build out the eave end blocking. This will give you something to attach the fascia to.  
 
-![](images/C10.svg)
+![](blueprints/C11.svg)
 
 ## 12 Fascia <a name="fascia"></a>
 

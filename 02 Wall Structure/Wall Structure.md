@@ -81,8 +81,6 @@ Hammer a nail lightly in between each panel. This will create an 1/8 inch gap be
 
 ### Sheathing Fastening
 
-**Number of Nails**
-
 * 24' edge length for each 4x8 = 48 nails per sheet
 * Two 8' center lengths for each 4x8 = 16 nails per sheet
 
