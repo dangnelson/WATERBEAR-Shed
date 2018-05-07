@@ -204,7 +204,7 @@ Install from the bottom up overlap horizontally 4 at least inches and vertically
 | 4x8 3/8" plywood | 3
 | 2x4x6'9" | 6
 | 2x4x8 | 3
-| 1x6x8 | 6
+| 1x6x8 Cedar | 6
 | Deadbolt for Door | 1
 | 6 in Galvanized Barrel Bolt | 3
 | Hinges | 6

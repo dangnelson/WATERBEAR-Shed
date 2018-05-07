@@ -19,6 +19,7 @@ Use Scrap lumber from the rafters to build out the eave end blocking. This will 
 
 ![](images/C12.svg)
 
+Install flashing over the fascia to keep carpenter bees away
 
 ## 3 Roofing <a name="roofing"></a>
 

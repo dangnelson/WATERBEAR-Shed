@@ -13,9 +13,9 @@
 
 [Supplies List](#supplies)
 
-Wait to start the roof until you have a good few days to work on it. It will be hard to cover until at least the roof sheathing is up. 
+Wait to start the roof until you have a good few days to work on it. It will be hard to cover until at least the roof sheathing is up because of wind.
 
-Now that the shed is enclosed, you can store the supplies for the roof inside. To help with organization we recommend building a simple lumber rack to accommodate the large materials. It also is helpful to precut the rafters at this stage. You can also assemble the gables in advance since they aren’t too heavy to lift up to the roof with two people.
+Now that the shed is enclosed, you can store the supplies for the roof inside. To help with organization we recommend building a simple lumber rack to accommodate the large materials. Precut the rafters and assemble the gables in advance.
 
 ![](images/RoofVocab.svg)
 
@@ -78,7 +78,7 @@ Install the remaining rafters using the provided nailing schedule. Attach hurric
 
 ### Rafter Nail Fastening
 
-| Placement | Nail Size | Frequency | Occurances | 3.5"  Nails
+| Placement | Nail Size | Frequency | Occurances | Nails
 |---|---|---|---|---|
 | Rafter to plate, toe nail | 3.5" | 2 | 32 | 64
 | Rafter to ridge, toe nail | 3.5" | 4 | 32 | 128
@@ -101,7 +101,7 @@ Install collar ties to help prevent the rafters from coming apart at the top.
 
 ## 07 Roof Sheathing <a name="roofsheathing"></a>
 
-![](images/C07.svg)
+![](images/C07.svg) 
 
 Roof sheathing must be at least 5/8 inches thick (IRC TABLE R803.1)
 
@@ -111,23 +111,16 @@ Tack the slide to the rafters ends, then have one to two people life the plywood
 
 ![](blueprints/C07.svg) 
 
-### Estimate
+### Sheathing Fastening  `IRC TABLE R602.3(1)`
 
 * 24' edge length for each 4x8 = 48 nails per sheet
 * Two 8' center lengths for each 4x8 = 16 nails per sheet
 
 | Placement | Size | Frequency | Occurrences
 |---|---|---|---|
-| Edges on Studs | 2 or 2.5" | Every 6" on center | 12 sheets (576 Nails)
-| Center on Studs | 2 or 2.5" | Every 12" on center | 12 sheets (192 Nails)
+| Edges on Studs | 2.5" | Every 6" on center | 12 sheets (576 Nails)
+| Center on Studs | 2.5" | Every 12" on center | 12 sheets (192 Nails)
 |**Total**|||768 Nails
-
-### Sheathing Fastening `IRC TABLE R602.3(1)`
-
-| Placement | Size | Frequency
-| --- | --- | --- | ---
-| Plywood to Rafters | 2.5" | Every 6" on Center
-
 
 ## Cover with Tarp
 
