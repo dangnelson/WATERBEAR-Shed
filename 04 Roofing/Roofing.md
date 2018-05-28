@@ -78,6 +78,10 @@ Square Eave Flashing
 
 1" #10 Pancake Head Woodscrew
 
+## gutters
+
+gutter slope is set at 1/4-inch per 10 feet of guttering.
+
 ## Supplies <a name="supplies"></a>
 
 
