@@ -1,6 +1,6 @@
 # Foundation
 
-Pier and Block foundation was chosen for the shed since it's an uninsulated structure which needs to work in a variety of climates. Piers prevent the structure from lifting out during heavy winds, while the blocks carry the load. The depth of the piers is vary based on the frost depth location the shed will be built in, and may increase the budget.
+Pier and Block foundation was chosen for the shed since it's an uninsulated structure which needs to work in a variety of climates. Piers prevent the structure from lifting out during heavy winds, while the blocks carry the load. The depth of the piers is vary based on the frost depth location the shed will be built in, which may increase the budget.
 
 [Survey](#survey)
 

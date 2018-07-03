@@ -1,6 +1,7 @@
 # Off-Grid Shed
 
-![](04 Wall Exterior/images/D03.svg)
+![Shed Exterior](05%20Wall%20Exterior/images/D03.svg)
+
 
 ## Features
 
@@ -11,8 +12,6 @@
 * Charred-wood siding.
 * Off-grid solar power.
 
-## Materials and Tools
+## Supplies Lists
 
-Materials and Tools are italicized and listed with a rough budget is at the end of each chapter.
-
-Each Tool or Material has a link to Wikipedia article explaining what it is.
+Materials and Tools are italicized and listed  at the end of each chapter with their estimated cost. The tools budget only includes new tools needed for each chapter. The lists are kept separate in case you already own the tools needed for the chapter.

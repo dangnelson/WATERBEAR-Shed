@@ -80,7 +80,11 @@ Square Eave Flashing
 
 ## gutters
 
-gutter slope is set at 1/4-inch per 10 feet of guttering.
+gutter slope is set between 1/4 to 1/2 inch per 10 feet of guttering.
+
+75 degree elbows are standard
+
+You’ll need 3 for outlets and 4 for rain barrels
 
 ## Supplies <a name="supplies"></a>
 
