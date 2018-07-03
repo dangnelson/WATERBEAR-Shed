@@ -168,13 +168,18 @@ Install from the bottom up overlap horizontally 4 at least inches and vertically
 
 ## Supplies List <a name="supplies"></a>
 
-### Tools
+### Existing Tools
 
-| Item | Amount | 2018 Cost
-|---|---|
-| Battery Powered Handheld Circular Saw | -
-| Battery Powered Electric Nail Gun | -
+| Item 
+|---|
+| Battery Powered Handheld Circular Saw 
+| Battery Powered Electric Nail Gun 
 | Hammer |
+
+### New Tools
+
+| Item | # | Cost
+|---|---|
 | 48 Inch Level |
 | [Carpenter's Pencil](https://en.wikipedia.org/wiki/Carpenter_pencil)
 | 8 ft Step Ladder
@@ -189,7 +194,7 @@ Install from the bottom up overlap horizontally 4 at least inches and vertically
 
 ### Materials
 
-| Item | Amount | 2018 Cost |
+| Item | # | Cost |
 |---|---|---|
 | 2x4x12 | 3
 | 2x4x16 | 4

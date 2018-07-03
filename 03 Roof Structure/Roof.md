@@ -13,11 +13,12 @@
 
 [Supplies List](#supplies)
 
+![](images/RoofVocab.svg)
+
 Wait to start the roof until you have a good few days to work on it. It will be hard to cover until at least the roof sheathing is up because of wind.
 
 Now that the shed is enclosed, you can store the supplies for the roof inside. To help with organization we recommend building a simple lumber rack to accommodate the large materials. Precut the rafters and assemble the gables in advance.
 
-![](images/RoofVocab.svg)
 
 ## 01 Raised Top Plate <a name="raisedtopplate"></a>
 
@@ -35,7 +36,7 @@ Cut the 2x4s to size using the *Battery Powered Handheld Circular Saw* and insta
 
 ## 02 Gables <a name="gables"></a>
 
-Cut, then assemble the gables on a flat surface. Stand them up one at a time, squaring them to the edge. Cut a forty five degree edge onto the end of a 2x4x8. Attach it to the roof floor first, then while using a gable using the Nail Gun to keep it from tipping until the rafters are installed.
+Cut, then assemble the gables on a flat surface. Stand them up one at a time, squaring them to the edge. Cut a forty five degree edge onto the end of a spare 2x4x8. Nail it to the roof floor first, then while leveling the gable, attach it to the center beam to keep it from tipping until the rafters are installed.
 
 ![](images/C02.svg)
 
@@ -46,7 +47,7 @@ Cut, then assemble the gables on a flat surface. Stand them up one at a time, sq
 
 ![](images/C03.svg)
 
-Precut the rafters to size using the dimensions provided (C.03A). Make sure to cut notches in four of the rafters for the outriggers to sit into (C.03C). To remove the notches, cut multiple grooves to the depth required until it is easy to use a *Chisel* and *Hammer* to remove the excess.
+Precut the rafters to size using the dimensions provided (C.03A). Make sure to cut notches in four of the rafters for the outriggers to sit into (C.03C). To remove the notches, adjust the *Circular Saw* to the depth required and cut multiple grooves until it is easy to use a *Chisel* and *Hammer* to remove the excess.
 
 Assemble three of the rafters, which connect to the outriggers, with the overhang blocking (C.03D) before lifting them into place. Nail the rafter bottoms into the raised top plate and nail up from below the gable to secure the center rafter. Repeat for all four corners.
 
@@ -159,13 +160,20 @@ Cut an 8 inch strip of Roof Felt to cover the ridge beam. This will make the str
 
 ## Supplies <a name="supplies"></a>
 
-### Tools
+### Existing Tools
 
-| Item | Amount | 2018 Cost
+| Item 
 |---|---|
-| Battery Powered Handheld Circular Saw | | See Chapter 1
-| Battery Powered Electric Nail Gun | | See Chapter 1
-| 48 Inch Level | | | See Chapter 2
+| Battery Powered Handheld Circular Saw 
+| Battery Powered Electric Nail Gun 
+| 48 Inch Level 
+| Hammer
+
+### New Tools
+
+|Item | # | Cost
+|---|---|---|
+| [1" Chisel](https://en.wikipedia.org/wiki/Chisel) | 1 | 10.96
 
 ### Materials
 
