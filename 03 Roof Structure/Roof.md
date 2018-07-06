@@ -1,5 +1,7 @@
 # Roof
 
+The roof is designed with a steep 45 degree pitch to shed water and debris quickly, allowing it to last longer. It has wide overhangs to help keep the siding dry. The roofing material used is mill finish Galvalume steel, which is perfect for rainwater harvesting.
+
 1. [Raised Top Plate](#raisedtopplate)
 * [Gables](#gables)
 * [Rafter Overhangs](#rafteroverhangs)
@@ -15,10 +17,7 @@
 
 ![](images/RoofVocab.svg)
 
-Wait to start the roof until you have a good few days to work on it. It will be hard to cover until at least the roof sheathing is up because of wind.
-
-Now that the shed is enclosed, you can store the supplies for the roof inside. To help with organization we recommend building a simple lumber rack to accommodate the large materials. Precut the rafters and assemble the gables in advance.
-
+Wait to start the roof until you have a good few days to work on it. It will be hard to cover until at least the roof sheathing is up because of wind. Precut the rafters and assemble the gables in advance. Now that the shed is enclosed, you can store the supplies for the roof inside. To help with organization we recommend building a simple lumber rack to accommodate the larger materials. 
 
 ## 01 Raised Top Plate <a name="raisedtopplate"></a>
 
@@ -47,9 +46,9 @@ Cut, then assemble the gables on a flat surface. Stand them up one at a time, sq
 
 ![](images/C03.svg)
 
-Precut the rafters to size using the dimensions provided (C.03A). Make sure to cut notches in four of the rafters for the outriggers to sit into (C.03C). To remove the notches, adjust the *Circular Saw* to the depth required and cut multiple grooves until it is easy to use a *Chisel* and *Hammer* to remove the excess.
+Cut the rafters to size using the dimensions provided (C.03A). Make sure to cut notches in four of the rafters for the outriggers to sit into (C.03C). To remove the notches, adjust the *Circular Saw* to the depth required and cut multiple grooves until it is easy to use a *Chisel* and *Hammer* to remove the excess.
 
-Assemble three of the rafters, which connect to the outriggers, with the overhang blocking (C.03D) before lifting them into place. Nail the rafter bottoms into the raised top plate and nail up from below the gable to secure the center rafter. Repeat for all four corners.
+Assemble three of the rafters, which connect to the outriggers, with the overhang blocking (C.03D) before lifting them into place. Nail the rafter bottoms into the raised top plate and nail up from under the gable to secure the center rafter. Repeat for all four corners. See Rafter section for fastening.
 
 ![](blueprints/C03A.svg)
 
@@ -63,9 +62,9 @@ Assemble three of the rafters, which connect to the outriggers, with the overhan
 
 ![](images/C04.svg)
 
-Next, run a line east to west to determine a straight ridge line. Because of the length of the ridge beam, it is built in two pieces. Cut one of the pieces and measure out and mark where the last two rafters should sit. Install the ridge beam by placing it on a gable and nailing two additional rafters at the end in place. Make sure the ridge beam stays true to your line to keep your roof from being warped.Nail the ridge beam to the rafters that are supported by the outriggers. Repeat for other side.
+Next, run a *String Line* east to west to determine a straight ridge line. Because of the length of the ridge beam, it is built in two pieces. Cut one of the pieces to size (C.04) and measure out and mark where the last two rafters should sit. Install the ridge beam by placing it on a gable and nailing two additional rafters at the end in place. Make sure the ridge beam stays true to your line to keep your roof from being warped.Nail the ridge beam to the rafters that are supported by the outriggers. Repeat for other side.
 
-For additional support nail *Connecting Plates* to the ridge beam joint.
+For additional support during construction, add *Connecting Plates* to the ridge beam joint.
 
 ![](blueprints/C04.svg)
 
@@ -73,7 +72,7 @@ For additional support nail *Connecting Plates* to the ridge beam joint.
 
 ![](images/C05.svg)
 
-Install the remaining rafters using the provided nailing schedule. Attach hurricane ties using screws where the rafters meet the raised top plate.
+Install the remaining rafters using the provided nailing schedule. Attach *Hurricane Ties* using *Hurricane Tie Screws* where the rafters meet the raised top plate.
 
 ![](blueprints/C05.svg)
 
@@ -106,9 +105,15 @@ Install collar ties to help prevent the rafters from coming apart at the top.
 
 Roof sheathing must be at least 5/8 inches thick (IRC TABLE R803.1)
 
-Installing the roof sheathing is the most laborious part of this design. Make sure to have at least two additional people helping you. Build simple slides out of four 2x6x12’s, this will help you guild the sheathing up to the roof. Notch a square corner out of spare 2x4 to use as a pushing stick. 
+Installing the roof sheathing is the most laborious part of this design. Make sure to have at least two additional people helping you. Build simple slides out of four 2x6x12’s, this will help you guide the sheathing up to the roof. Notch a square corner out of a spare 2x4 to use as a pushing stick.
 
-Tack the slide to the rafters ends, then have one to two people life the plywood up to the 2 people on the roof. Have one person on the roof tack the plywood into place using the nail gun, once you confirm it is square to the bottom of the rafters. Install H-Clips between the panels to add spacing between the panels so they can expand. Plywood is staggered for strength. Finish the nailing schedule for each piece before continuing to the next. Start with installing the bottom pieces before the top. 
+Tack the slide to the rafters ends, then have one or two people lift the plywood up to the 2 people on the roof. Have one person on the roof tack the plywood into place using the nail gun once you confirm it is square to the bottom of the rafters. 
+
+Never have anyone stand under or in the slide in case someone on the roof loses their grip. Never have anyone reach out over the edge of the roof to grab a piece of sheathing. A good setup shouldn't require comprising safety.
+
+Install H-Clips between the panels to add spacing between the panels so they can expand. Plywood is staggered for strength. Finish the nailing schedule for each piece before continuing to the next. Start with installing the bottom pieces before the top. 
+
+It may be difficult to reach across far enough to nail each piece in completely. In this case secure each piece as much as possible and make a note to finish the nailing schedule with a ladder once you're done.
 
 ![](blueprints/C07.svg) 
 
@@ -122,6 +127,10 @@ Tack the slide to the rafters ends, then have one to two people life the plywood
 | Edges on Studs | 2.5" | Every 6" on center | 12 sheets (576 Nails)
 | Center on Studs | 2.5" | Every 12" on center | 12 sheets (192 Nails)
 |**Total**|||768 Nails
+
+## Using a Ladder
+
+Ladder safety is extremely important, especially with a roof of this slope. You'll need to use an *Extension Ladder* at an angle of one foot back for every four feet of height. I'd also recommend attaching the ladder at the top using something like a *Ladder Lock* to help prevent side to side movement. You'll need a second *8 ft Straight Ladder* to rest on the roof itself with 2 *Ladder Hooks with Wheels* attached. The wheels help you get the ladder up the roof until you can flip it over the ridge. Watch ladder safety videos and makes sure you're knowledgeable and comfortable before starting.
 
 ## Cover with Tarp
 
@@ -163,17 +172,22 @@ Cut an 8 inch strip of Roof Felt to cover the ridge beam. This will make the str
 ### Existing Tools
 
 | Item 
-|---|---|
+|---|
 | Battery Powered Handheld Circular Saw 
 | Battery Powered Electric Nail Gun 
 | 48 Inch Level 
 | Hammer
+| String Line
 
 ### New Tools
 
 |Item | # | Cost
 |---|---|---|
 | [1" Chisel](https://en.wikipedia.org/wiki/Chisel) | 1 | 10.96
+| 24' Extension Ladder | 1
+| Ladder Lock | 1
+| 8' Straight Ladder | 1
+| Ladder Hook with Wheel | 2
 
 ### Materials
 
@@ -189,7 +203,9 @@ Cut an 8 inch strip of Roof Felt to cover the ridge beam. This will make the str
 | 1x10x12 | 1 | Ridge Beam
 | 1x10x8 | 1 | Ridge Beam
 | Hurricane Ties | 26 | Tie-down Rafters
+| Hurricane Tie Screws | 260 | With Hurricane Ties
 |4x8 19/32" | 12 | Roof Sheathing
 | 1x3x7 | 3 | Collar Ties
 | 4x8 3/8" plywood | 6 | Gable Sheathing
 | Roof Felt | 380 sq ft
+| Connecting Plates
