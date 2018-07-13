@@ -28,3 +28,8 @@ This guide has made an attempt to document the associated code requirements in t
 
 You can find a version of the code adopted for your area here:
 [International Code Council](https://codes.iccsafe.org/public/)
+
+## Off-Grid Tools
+
+Purchase Battery-Powered Tools from the same manufacturer that use the same batteries. This will save you money as you can buy "Tool-Only" versions online once you have a 3-4 batteries on hand. Make sure the manufacturer makes a car charger for the batteries. Car cigarette lighter outlets provide DC power and are common ports used by simple solar panel setups. This will allow you to charge your batteries directly off a solar panel with a charge controller rather than having to use a more expensive power inverter setup.
+

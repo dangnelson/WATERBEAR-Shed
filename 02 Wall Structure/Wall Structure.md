@@ -162,7 +162,11 @@ Use a *2 1/8-inch Hole Saw Bit* to drill a hole for a deadbolt. Use a *1-inch Ho
 
 ![](images/B09.svg)
 
-Install from the bottom up overlap horizontally 4 at least inches and vertically 2 inches. Use a *Staple Hammer* to get the paper up and hammer in cap nails every 6 feet to keep the paper from blowing off. Install spare felt paper on the doors to protect them temporarily until the siding can be installed over top. 
+Install from the bottom up overlap horizontally 4 at least inches and vertically 2 inches. Use a *Hammer Tacker* to get the paper up and hammer in cap nails every 6 feet to keep the paper from blowing off. Install spare felt paper on the doors to protect them temporarily until the siding can be installed over top. 
+
+## Tie-Downs
+
+Using a *Battery-Powered Drill* drill through the bottom plates and into the floor joists using a *1/2" Drill Bit* a few inches from the end of each cut and once in the center of the western wall. Insert a *1/2" x 4" Galvanized Hex Lag Screw* with a  *1/2" Washer* into each hole and tighten using a *3/4" Ratchet Bit* inserted into a *Battery-Powered Impact Driver* with a *1/4" Male Hex to 1/4" Square Drive Adapter*. This will help keep the framing from pulling off in high-winds.
 
 ## Cover until next step
 
@@ -180,9 +184,9 @@ Install from the bottom up overlap horizontally 4 at least inches and vertically
 
 | Item | # | Cost
 |---|---|
-| 48 Inch Level |
-| [Carpenter's Pencil](https://en.wikipedia.org/wiki/Carpenter_pencil)
-| 8 ft Step Ladder
+| 48 Inch Level | 1
+| [Carpenter's Pencils] (https://en.wikipedia.org/wiki/Carpenter_pencil) with sharpener | 1
+| 8 ft Step Ladder | 1
 | [Large Propane Torch](https://en.wikipedia.org/wiki/Propane_torch)
 | [20 lb Propane Tank](https://en.wikipedia.org/wiki/Propane)
 | Handheld Weed Sprayer
@@ -190,7 +194,11 @@ Install from the bottom up overlap horizontally 4 at least inches and vertically
 | Rag
 | [Thick / Long Rubber Gloves](https://en.wikipedia.org/wiki/Rubber_glove)
 | [Hammer Tacker](https://en.wikipedia.org/wiki/Hammer_tacker)
-
+| Battery-Powered Drill | 1 |
+| 3/4" Ratchet Bit | 1
+| Battery-Powered Impact Driver | 1
+| 1/4" Male Hex to 1/4" Square Drive Adapter | 1
+| 1/2" Drill Bit | 
 
 ### Materials
 
@@ -221,3 +229,6 @@ Install from the bottom up overlap horizontally 4 at least inches and vertically
 | Cap Nails 
 | Stakes | 6
 | Rope | 
+| 1/2" x 4 in. Galvanized Hex Lag Screw | 11
+| 1/2" Galvanized Washer | 11
+| T50 Staples |
