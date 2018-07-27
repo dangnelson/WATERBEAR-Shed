@@ -1,6 +1,6 @@
 # Foundation
 
-Pier and Block foundation was chosen for the shed since it's an uninsulated structure which needs to work in a variety of climates. Piers prevent the structure from lifting out during heavy winds, while the blocks carry the load. The depth of the piers is vary based on the frost depth location the shed will be built in, and may increase the budget.
+Pier and Block foundation was chosen for the shed since it's an uninsulated structure which needs to work in a variety of climates. Piers prevent the structure from lifting out during heavy winds, while the blocks carry the load. The depth of the piers is vary based on the frost depth location the shed will be built in, which may increase the budget.
 
 [Survey](#survey)
 
@@ -21,7 +21,7 @@ Pier and Block foundation was chosen for the shed since it's an uninsulated stru
 Check your local zoning regulations for `Setback Requirements`. Find the minimum distance from your property line and other structures before deciding on a location.
 
 ### Find Level Location
-To avoid major excavation, find a location which is fairly level. You can do this easily by using a *String Line* tied between two stakes. Once you've found a rough location, attach a *String Line Level* to the string to gauge how much excavation will be needed.
+To avoid major excavation, find a location which is fairly level. You can do this easily by using a *String Line* tied between two stakes with a *String Line Level* attached to the string to gauge slope.
 
 ## 1. Excavation <a name="excavation"></a>
 
@@ -87,6 +87,12 @@ Wait a day and remove the *Cardboard Concrete Form Tubes* from around the piers.
 ### Cut & Insert Piers
 
 Cut the *Treated 4x4x8s* to size and insert them into the *Galvanized Post Bases*
+
+### Treated wood
+
+Treated wood can’t be composted or burned because of its toxicity and must be thrown away. 
+
+We’re open to alternatives to improve this design. 
 
 ## 4. Joist End Plates <a name="joistendplates"></a>
 
@@ -161,13 +167,41 @@ Bricks on tarp
 
 ## Supplies List <a name="supplies"></a>
 
-### Materials Needed
+### New Tools
 
-|Item | Amount | Note | 2017 Cost
+|Item | # | Cost
+|---|---|---|
+| [Hammer](https://en.wikipedia.org/wiki/Hammer) | 1 | 4.98
+| [Hand Saw](https://en.wikipedia.org/wiki/Hand_saw) | 1 | 9.94
+| [Hoe](https://en.wikipedia.org/wiki/Hoe_(tool)) | 1 | 15.97
+| [Hand-held Circular Saw](https://en.wikipedia.org/wiki/Circular_saw) (Battery Powered)| 1 | 279.00
+| [Nail Gun](https://en.wikipedia.org/wiki/Nail_gun)  (Battery Powered)| 1 | 399.00
+| Marking Spray Paint | 1 | 5.27
+| 2 ft Wooden [Stakes](https://en.wikipedia.org/wiki/Survey_stakes) | 4 | 4.97
+| 25' or greater [Tape Measure](https://en.wikipedia.org/wiki/Tape_measure) | 1 | 9.88
+| 100' String Line | 1 | 2.98
+| [String Line Levels](https://en.wikipedia.org/wiki/Spirit_level#Line_level) | 4 | 5.86
+| [Plumb Chalk Line](https://en.wikipedia.org/wiki/Chalk_line) | 1 | 5.97
+| [8" Auger](https://en.wikipedia.org/wiki/Auger_(drill)) | Rent | 50.00
+| [Small Post Hole Digger](https://en.wikipedia.org/wiki/Post_hole_digger) | 1 | 24.97
+| [Digging Bar](https://en.wikipedia.org/wiki/Digging_bar) | 1 | 31.97
+| [Digging Shovel](https://en.wikipedia.org/wiki/Shovel) | 1 | 5.98
+| [Margin Trowel](https://en.wikipedia.org/wiki/Trowel) | 1 | 5.77
+| [Wheel Barrow](https://en.wikipedia.org/wiki/Wheelbarrow) | 1 | 49.97
+| [N95 Dust Mask](https://en.wikipedia.org/wiki/Dust_mask) | 2 | 7.47
+| Pair of Cleaning Gloves | 1 | 1.98
+| Drill | 1| 159.00
+| Bit for Drilling Bolt holes | 1 | 9.97
+| 1/2" Socket Wrench | 1| 26.19
+|**Estimated Total**||**1117.09**
+
+### Materials
+
+|Item | # | Note | Cost
 |---|---|---|---|
 | Concrete Deck Blocks | 28 | Heavy | 193.20
-| Cubic Yard of #57 Drainage Gravel| 1 | Heavy | 29.00
-| 40 lb bags of Compactable Fill / Top Soil | 6 | | 9.42
+| 1 Cubic Yard of #57 Drainage Gravel|  | Heavy | 29.00 | 
+| 1/4 Cubic Yard of Compactable Fill / Top Soil |  | | 9.42
 | All Purpose Gravel 50 lb Bag | 6 | Heavy | 24.90
 | Concrete 80 lb bags | 8 | Heavy, Cost Varies | 39.76
 | 8" x 4' Concrete Tube Forms | 2 | Cost Varies | 19.00
@@ -188,31 +222,3 @@ Bricks on tarp
 |**Estimated Total**|||**822.04**
 
 Total cost does not include Tax or Delivery fees. Materials noted as "Cost Varies" depends on the frost depth for your location.
-
-### Tools Needed
-
-|Item | Amount | 2017 Cost
-|---|---|---|
-| [Hammer](https://en.wikipedia.org/wiki/Hammer) | 1 | 4.98
-| [Hand Saw](https://en.wikipedia.org/wiki/Hand_saw) | 1 | 9.94
-| [Hoe](https://en.wikipedia.org/wiki/Hoe_(tool)) | 1 | 15.97
-| [Hand-held Circular Saw](https://en.wikipedia.org/wiki/Circular_saw) (Battery Powered)| 1 | 279.00
-| [Nail Gun](https://en.wikipedia.org/wiki/Nail_gun)  (Battery Powered)| 1 | 399.00
-| Marking Spray Paint | 1 | 5.27
-| 2 ft [Stakes](https://en.wikipedia.org/wiki/Survey_stakes) | 4 | 4.97
-| [25' Tape Measure](https://en.wikipedia.org/wiki/Tape_measure) | 1 | 9.88
-| 100' String Line | 1 | 2.98
-| [String Line Levels](https://en.wikipedia.org/wiki/Spirit_level#Line_level) | 4 | 5.86
-| [Plumb Chalk Line](https://en.wikipedia.org/wiki/Chalk_line) | 1 | 5.97
-| [8" Auger](https://en.wikipedia.org/wiki/Auger_(drill)) | Rent | 50.00
-| [Small Post Hole Digger](https://en.wikipedia.org/wiki/Post_hole_digger) | 1 | 24.97
-| [Digging Bar](https://en.wikipedia.org/wiki/Digging_bar) | 1 | 31.97
-| [Digging Shovel](https://en.wikipedia.org/wiki/Shovel) | 1 | 5.98
-| [Margin Trowel](https://en.wikipedia.org/wiki/Trowel) | 1 | 5.77
-| [Wheel Barrow](https://en.wikipedia.org/wiki/Wheelbarrow) | 1 | 49.97
-| [N95 Dust Mask](https://en.wikipedia.org/wiki/Dust_mask) | 2 | 7.47
-| Pair of Cleaning Gloves | 1 | 1.98
-| Drill | 1| 159.00
-| Bit for Drilling Bolt holes | 1 | 9.97
-| 1/2" Socket Wrench | 1| 26.19
-|**Estimated Total**||**1117.09**

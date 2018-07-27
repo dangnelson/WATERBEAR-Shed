@@ -17,9 +17,9 @@
 ![](images/B01.svg)
 
 ### Build Walls
-Build the west back wall (Blueprint B.01A) first using the shed floor as a surface. Cut studs to size using a *Battery Powered Circular Saw*. Mark the top and bottom plates using a *Carpenter's Pencil* and *Measuring Tape* and nail them together using a *Battery Powered Nail Gun*. Use a *Hammer* to finish driving any nails that stick out. Stand up the wall and nail spare 2x4s at about a 45 degree angle on either side to the end of the floor joists while leveling. Next stand up the north/south walls (Blueprint B.01B), and finally the other east/west wall (Blueprint B.01C).
+Build the west back wall (Blueprint B.01A) first using the shed floor as a surface. Cut studs to size using a *Battery Powered Circular Saw*. Mark the top and bottom plates using a *Carpenter's Pencil* and *Measuring Tape* and nail them together using a *Battery Powered Nail Gun*. Use a *Hammer* to finish driving any nails that stick out. Stand up the wall and nail spare 2x4s at about a 45 degree angle on either side to the end of the floor joists while leveling using a *48 Inch Level*. Next stand up the north/south walls (Blueprint B.01B), and finally the other east/west wall (Blueprint B.01C).
 
-[![](blueprints/B01A.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/02%20Wall%20Structure/blueprints/B01A.pdf)
+[![](blueprints/B01A.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/02%20Wall%20Structure/blueprints/B01a.pdf)
 
 ### Stud & Header Nail Fastening `IRC Table 602.3(1)`
 
@@ -32,15 +32,15 @@ Build the west back wall (Blueprint B.01A) first using the shed floor as a surfa
 | Top or Bottom Plate to Stud| End Nail | 3.5" | 2 nails | 82 (164 Nails)
 |**Total**| | | | 12 3" Nails, <br/>196 3.5" Nails
 
-[![](blueprints/B01A.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/02%20Wall%20Structure/blueprints/B01A.pdf)
+[![](blueprints/B01A.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/02%20Wall%20Structure/blueprints/B01a.pdf)
 
-[![](blueprints/B01B.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/02%20Wall%20Structure/blueprints/B01B.pdf)
+[![](blueprints/B01B.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/02%20Wall%20Structure/blueprints/B01b.pdf)
 
 ### Headers `IRC TABLE R502.5(1)`
 
 Sandwich 1/2" plywood between 2 2x12s and attach them Face Nail to build the headers which support the wall above the doorways before installing them in the wall.
 
-[![](blueprints/B01C.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/02%20Wall%20Structure/blueprints/B01C.pdf)
+[![](blueprints/B01C.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/02%20Wall%20Structure/blueprints/B01c.pdf)
 
 #### Header Fastening
 
@@ -73,15 +73,13 @@ The structure will be flexible when it's just studs. Sheathing adds shear streng
 
 Hammer a nail lightly in between each panel. This will create an 1/8 inch gap between boards to allow for expansion and prevent buckling.
 
-[![](blueprints/B03A.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/02%20Wall%20Structure/blueprints/B03A.pdf)
+[![](blueprints/B03A.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/02%20Wall%20Structure/blueprints/B03a.pdf)
 
-[![](blueprints/B03B.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/02%20Wall%20Structure/blueprints/B03B.pdf)
+[![](blueprints/B03B.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/02%20Wall%20Structure/blueprints/B03b.pdf)
 
-[![](blueprints/B03C.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/02%20Wall%20Structure/blueprints/B03C.pdf)
+[![](blueprints/B03C.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/02%20Wall%20Structure/blueprints/B03c.pdf)
 
 ### Sheathing Fastening
-
-**Number of Nails**
 
 * 24' edge length for each 4x8 = 48 nails per sheet
 * Two 8' center lengths for each 4x8 = 16 nails per sheet
@@ -140,7 +138,7 @@ This is a good time to figure out how to cover the structure with a tarp so you 
 
 ![](images/B06.svg)
 
-Burn the outside of 1x6s using a *Propane Torch* attached to a *Propane Tank* until the surface begins to char. Once cool, brush the soot off with a deck brush, you may want to wear a mask. Wash the remaining soot off with a *Handheld Sprayer* filled with water. Once dry, coat the wood with an oil (we used tung oil) using a rag (rip up an old towel) and protective gloves. Let the oil dry before installing. Install 3/4" out from the doorway so it will match up with the rain screen later. Hang up used rags to dry before throwing them away, rags soaked in tung oil can spontaneously combust.
+Wearing proper attire, scorch the 1x6s using a *Propane Torch* attached to a *Propane Tank* until the surface begins to char. Avoid plastic or loose hanging clothing. Once cool, brush the soot off with a deck brush, you may want to wear a mask. Wash the remaining soot off with a *Handheld Sprayer* filled with water. Once dry, coat the wood with an oil (we used tung oil) using a rag (rip up an old towel) and protective gloves. Let the oil dry before installing. Install 3/4" out from the doorway so it will match up with the rain screen later. Hang up used rags to dry before throwing them away, rags soaked in tung oil can spontaneously combust.
 
 [![](blueprints/B06.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/02%20Wall%20Structure/blueprints/B06.pdf)
 
@@ -164,20 +162,31 @@ Use a *2 1/8-inch Hole Saw Bit* to drill a hole for a deadbolt. Use a *1-inch Ho
 
 ![](images/B09.svg)
 
-Install from the bottom up overlap horizontally 4 at least inches and vertically 2 inches. Use a *Staple Hammer* to get the paper up and hammer in cap nails every 6 feet to keep the paper from blowing off. Install spare felt paper on the doors to protect them temporarily until the siding can be installed over top. 
+Install from the bottom up overlap horizontally 4 at least inches and vertically 2 inches. Use a *Hammer Tacker* to get the paper up and hammer in *Metal Cap Nails* every 6 feet to keep the paper from blowing off. Install spare felt paper on the doors to protect them temporarily until the siding can be installed over top. 
+
+## Tie-Downs
+
+Using a *Battery-Powered Drill* drill through the bottom plates and into the floor joists using a *1/2" Drill Bit* a few inches from the end of each cut and once in the center of the western wall. Insert a *1/2" x 4" Galvanized Hex Lag Screw* with a  *1/2" Washer* into each hole and tighten using a *3/4" Ratchet Bit* inserted into a *Battery-Powered Impact Driver* with a *1/4" Male Hex to 1/4" Square Drive Adapter*. This will help keep the framing from pulling off in high-winds.
 
 ## Cover until next step
 
 ## Supplies List <a name="supplies"></a>
-### Tools
 
-| Item | Amount | 2018 Cost
-|---|---|
-| Battery Powered Handheld Circular Saw | -
-| Battery Powered Electric Nail Gun | -
+### Existing Tools
+
+| Item 
+|---|
+| Battery Powered Handheld Circular Saw 
+| Battery Powered Electric Nail Gun 
 | Hammer |
-| [Carpenter's Pencil](https://en.wikipedia.org/wiki/Carpenter_pencil)
-| 8 ft Step Ladder
+
+### New Tools
+
+| Item | # | Cost
+|---|---|
+| 48 Inch Level | 1
+| [Carpenter's Pencils] (https://en.wikipedia.org/wiki/Carpenter_pencil) with sharpener | 1
+| 8 ft Step Ladder | 1
 | [Large Propane Torch](https://en.wikipedia.org/wiki/Propane_torch)
 | [20 lb Propane Tank](https://en.wikipedia.org/wiki/Propane)
 | Handheld Weed Sprayer
@@ -185,11 +194,15 @@ Install from the bottom up overlap horizontally 4 at least inches and vertically
 | Rag
 | [Thick / Long Rubber Gloves](https://en.wikipedia.org/wiki/Rubber_glove)
 | [Hammer Tacker](https://en.wikipedia.org/wiki/Hammer_tacker)
-
+| Battery-Powered Drill | 1 |
+| 3/4" Ratchet Bit | 1
+| Battery-Powered Impact Driver | 1
+| 1/4" Male Hex to 1/4" Square Drive Adapter | 1
+| 1/2" Drill Bit | 
 
 ### Materials
 
-| Item | Amount | 2018 Cost |
+| Item | # | Cost |
 |---|---|---|
 | 2x4x12 | 3
 | 2x4x16 | 4
@@ -204,7 +217,7 @@ Install from the bottom up overlap horizontally 4 at least inches and vertically
 | 4x8 3/8" plywood | 3
 | 2x4x6'9" | 6
 | 2x4x8 | 3
-| 1x6x8 | 6
+| 1x6x8 Cedar | 6
 | Deadbolt for Door | 1
 | 6 in Galvanized Barrel Bolt | 3
 | Hinges | 6
@@ -213,6 +226,9 @@ Install from the bottom up overlap horizontally 4 at least inches and vertically
 | 2.5" Nails for nail cup | 
 | 3" Nails for nail gun|
 | 3.5" Nails for nail gun
-| Cap Nails 
+| Metal Cap Nails 
 | Stakes | 6
 | Rope | 
+| 1/2" x 4 in. Galvanized Hex Lag Screw | 11
+| 1/2" Galvanized Washer | 11
+| T50 Staples |
