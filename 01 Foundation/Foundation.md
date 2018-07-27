@@ -15,7 +15,7 @@ Pier and Block foundation was chosen for the shed since it's an uninsulated stru
 
 [Supplies List](#supplies)
 
-## Survey <a name="survey"></a>
+## Survey {#survey}
 
 ### Zoning Setbacks
 Check your local zoning regulations for `Setback Requirements`. Find the minimum distance from your property line and other structures before deciding on a location.
@@ -23,7 +23,7 @@ Check your local zoning regulations for `Setback Requirements`. Find the minimum
 ### Find Level Location
 To avoid major excavation, find a location which is fairly level. You can do this easily by using a *String Line* tied between two stakes with a *String Line Level* attached to the string to gauge slope.
 
-## 1. Excavation <a name="excavation"></a>
+## 1. Excavation {#excavation}
 
 ![](images/A01.svg)
 
@@ -57,7 +57,7 @@ Dig out the bottom of the hole so it flares to create a footing. This helps resi
 
 The depth will need to change based on the region you build in. Correct the Frost Depth based on your local code.
 
-## 2. Piers <a name="piers"></a>
+## 2. Piers {#piers}
 
 ![](images/A02.svg)
 
@@ -80,7 +80,7 @@ Once full, smooth out the top of the form with the *Margin Trowel*. Then insert 
 
 [![](blueprints/A02.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/01%20Foundation/blueprints/A02.pdf)
 
-## 3. Fill <a name="fill"></a>
+## 3. Fill {#fill}
 
 Wait a day and remove the *Cardboard Concrete Form Tubes* from around the piers. Backfill with *Compactable Fill* and tamp using the *Digging Bar*.
 
@@ -94,7 +94,7 @@ Treated wood can’t be composted or burned because of its toxicity and must be 
 
 We’re open to alternatives to improve this design. 
 
-## 4. Joist End Plates <a name="joistendplates"></a>
+## 4. Joist End Plates {#joistendplates}
 
 ![](images/A04.svg)
 
@@ -102,7 +102,7 @@ Place the end plates temporarily on two *Concrete Deck Blocks* and use *Shims* t
 
 Drill the holes for the bolts. Then bolt the 4x4s to the end plates.
 
-## 5. Deck Blocks <a name="blocks"></a>
+## 5. Deck Blocks {#blocks}
 
 ![](images/A05.svg)
 
@@ -116,13 +116,13 @@ Carefully mark the unattached floor joists with numbers so you can place them ba
 
 [![](blueprints/A04.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/01%20Foundation/blueprints/A04.pdf)
 
-## 6. Gravel <a name="gravel"></a>
+## 6. Gravel {#gravel}
 
 ![](images/A06.svg)
 
 Use the *Shovel* and the *Hoe* to spread a layer of gravel around the blocks to improve drainage.
 
-## 7. Floor Joists <a name="floorjoists"></a>
+## 7. Floor Joists {#floorjoists}
 
 ![](images/A07.svg)
 
@@ -136,7 +136,7 @@ Hammer 2 *3.5" Exterior Nails* into each end of each joist.
 |---|---|---|---|---|---|---|
 | End Plate | End Nail | 3.5" | 2 nails | 26 | 60
 
-## 8. Flooring Sheathing <a name="floorsheathing"></a>
+## 8. Flooring Sheathing {#floorsheathing}
 
 ![](images/A08.svg)
 
@@ -165,7 +165,7 @@ Nail the plywood in using the following nailing schedule:
 Place a 
 Bricks on tarp
 
-## Supplies List <a name="supplies"></a>
+## Supplies List {#supplies}
 
 ### New Tools
 

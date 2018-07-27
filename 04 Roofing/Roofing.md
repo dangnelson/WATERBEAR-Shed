@@ -11,13 +11,13 @@
 
 
 
-## Fascia <a name="fascia"></a>
+## Fascia {#fascia}
 
 ![](images/C12.svg)
 
 Install flashing over the fascia to keep carpenter bees away
 
-## Roofing <a name="roofing"></a>
+## Roofing {#roofing}
 
 ![](images/C13.svg)
 
@@ -33,7 +33,7 @@ Drip edge is 10.5 feet long regardless
 Ridge Vent
 &#36;15.90 / each 32" wide
 
-## Eave End Blocking <a name="eaveendblocking"></a>
+## Eave End Blocking {#eaveendblocking}
 
 ![](images/C11.svg)
 
@@ -89,7 +89,7 @@ gutter slope is set between 1/4 to 1/2 inch per 10 feet of guttering.
 
 You’ll need 3 for outlets and 4 for rain barrels
 
-## Supplies <a name="supplies"></a>
+## Supplies {#supplies}
 
 
 | Item | Amount | Use 
