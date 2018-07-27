@@ -164,7 +164,7 @@ This is a good time to figure out how to cover the structure with a tarp so the 
 
 ![](images/C10.svg) 
 
-Installing the *Roof Felt* can be tricky because of the angle of the roof. The roll has a tendency to slip down to roof. We gerry-rigged a tool to keep the roll at the right height by screwing a dowel to a horizontal stake at the bottom and a vertical stake at the top. This allowed us to slide the roll across the entire roof. We adjusted the tool for the higher roll, It also makes sense to precut sections for the roof length to reduce the roll weight.
+Installing the *Roof Felt* can be tricky because of the angle of the roof. The roll has a tendency to slip down to roof. We gerry-rigged a tool to keep the roll at the right height by screwing a dowel to a horizontal stake at the bottom inserting it through the roll and then screwing a vertical stake at the top. This allowed us to slide the roll across the entire roof. We adjusted the tool for the higher roll, It also makes sense to precut sections for the roof length to reduce the roll weight.
 
 ## Cover Until Next Step
 
@@ -189,15 +189,15 @@ Cut an 8 inch strip of Roof Felt to cover the ridge beam. This will make the str
 |Item | # | Cost
 |---|---|---|
 | [1" Chisel](https://en.wikipedia.org/wiki/Chisel) | 1 | 10.96
-| 24' Extension Ladder | 1
-| Ladder Lock | 1
-| 8' Straight Ladder | 1
-| Ladder Hook with Wheel | 2
+| 24' Extension Ladder | 1 | 169.99
+| Ladder Lock | 1 | 39.39
+| 8' Straight Ladder | 1 | 86.22
+| Ladder Hook with Wheel | 2 | 45.50
 
 ### Materials
 
 | Item | Amount | Use 
-|---|---|---|---|
+|---|---|---|
 | 2x4x8 | 5 | Raised Top Plate
 | 2x4x6 | 10 | Gables
 | 2x4x8 | 2 | Gables
