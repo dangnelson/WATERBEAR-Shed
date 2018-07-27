@@ -1,6 +1,6 @@
 ## Wall Exterior
 
-The space between wall paper and siding is called a rain screen. It assumes that water will eventually get behind the siding, and when it does, gives the water a place to go, and enough ventilation for it to dry.
+The space between wall paper and siding is called a rain screen. It assumes that water will eventually get behind the siding due to horizontal rain, and when it does, gives the water a place to go, and enough ventilation for it to dry.
 
 ### Insect Screen
 

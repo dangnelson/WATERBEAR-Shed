@@ -162,7 +162,7 @@ Use a *2 1/8-inch Hole Saw Bit* to drill a hole for a deadbolt. Use a *1-inch Ho
 
 ![](images/B09.svg)
 
-Install from the bottom up overlap horizontally 4 at least inches and vertically 2 inches. Use a *Hammer Tacker* to get the paper up and hammer in cap nails every 6 feet to keep the paper from blowing off. Install spare felt paper on the doors to protect them temporarily until the siding can be installed over top. 
+Install from the bottom up overlap horizontally 4 at least inches and vertically 2 inches. Use a *Hammer Tacker* to get the paper up and hammer in *Metal Cap Nails* every 6 feet to keep the paper from blowing off. Install spare felt paper on the doors to protect them temporarily until the siding can be installed over top. 
 
 ## Tie-Downs
 
@@ -226,7 +226,7 @@ Using a *Battery-Powered Drill* drill through the bottom plates and into the flo
 | 2.5" Nails for nail cup | 
 | 3" Nails for nail gun|
 | 3.5" Nails for nail gun
-| Cap Nails 
+| Metal Cap Nails 
 | Stakes | 6
 | Rope | 
 | 1/2" x 4 in. Galvanized Hex Lag Screw | 11

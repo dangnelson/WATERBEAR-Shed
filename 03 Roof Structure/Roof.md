@@ -1,6 +1,6 @@
-# Roof
+# Roof Structure
 
-The roof is designed with a steep 45 degree pitch to shed water and debris quickly, allowing it to last longer. It has wide overhangs to help keep the siding dry. The roofing material used is mill finish Galvalume steel, which is perfect for rainwater harvesting.
+The roof is designed with a steep 45 degree pitch to shed water and debris quickly so it will last longer. It has wide overhangs to help keep the siding dry. The roofing material used is mill finish Galvalume steel, which is perfect for rainwater harvesting.
 
 1. [Raised Top Plate](#raisedtopplate)
 * [Gables](#gables)
@@ -164,7 +164,7 @@ This is a good time to figure out how to cover the structure with a tarp so the 
 
 ![](images/C10.svg) 
 
-Installing the *Roof Felt* can be tricky because of the angle of the roof since the roll has a tendency to slip down to roof.
+Installing the *Roof Felt* can be tricky because of the angle of the roof. The roll has a tendency to slip down to roof. We gerry-rigged a tool to keep the roll at the right height by screwing a dowel to a horizontal stake at the bottom and a vertical stake at the top. This allowed us to slide the roll across the entire roof. We adjusted the tool for the higher roll, It also makes sense to precut sections for the roof length to reduce the roll weight.
 
 ## Cover Until Next Step
 
