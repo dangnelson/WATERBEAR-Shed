@@ -1,6 +1,6 @@
 # Roof Structure
 
-The roof is designed with a steep 45 degree pitch to shed water and debris quickly so it will last longer. It has wide overhangs to help keep the siding dry. The roofing material used is mill finish Galvalume steel, which is perfect for rainwater harvesting.
+The roof is designed with a steep 45 degree pitch to shed water and debris quickly so it will last longer. It has wide overhangs to help keep the siding dry. The roofing material used is mill finish Galvalume steel, which is perfect for rainwater harvesting. 
 
 1. [Raised Top Plate](#raisedtopplate)
 * [Gables](#gables)
