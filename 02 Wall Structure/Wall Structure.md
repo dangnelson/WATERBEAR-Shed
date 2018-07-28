@@ -1,18 +1,6 @@
 # Wall Structure
 
-1. [Framing](#framing)
-* [Top Plate](#topplate)
-* [Sheathing](#sheathing)
-* [Ceiling Joists](#ceilingjoists)
-* [Ceiling Sheathing](#ceilingsheathing)
-* [Door Jams](#doorjambs)
-* [Door Flashing](#doorflashing)
-* [Doors](#doors)
-* [Wall Felt](#wallfelt)
-
-[Supplies List](#supplies)
-
-## 1. Framing {#framing}
+## 1. Framing 
 
 ![](images/B01.svg)
 
@@ -48,7 +36,7 @@ Sandwich 1/2" plywood between 2 2x12s and attach them Face Nail to build the hea
 |---|---|---|---|
 | Header with 1/2" plywood spacer | 3.5" | 16" on center along each edge | 260" length (18 Nails)
 
-## 2. Top Plate {#topplate}
+## 2. Top Plate 
 
 ![](images/B02.svg)
 
@@ -65,7 +53,7 @@ Walls must be capped with a second top plate, offset at least 24 inches at joint
 | Top plates, overlaps at corners | 3" | 2 nails | 4 (8 Nails)
 |**Total**||| 36 Nails | 
 
-## 3. Sheathing {#sheathing}
+## 3. Sheathing 
 
 ![](images/B03.svg)
 
@@ -92,7 +80,7 @@ Hammer a nail lightly in between each panel. This will create an 1/8 inch gap be
 
 
 
-## 4. Ceiling Joists {#ceilingjoists}
+## 4. Ceiling Joists 
 
 ![](images/B04.svg)
 
@@ -109,7 +97,7 @@ No blocking is needed because the distance between the raised top plate and the 
 | End Plate | End Nail | 3.5" | 2 nails | 30 (60 Nails)
 |**Total**| |||60 2.5" Nails<br/>60 3.5" Nails
 
-## 5. Ceiling Sheathing {#ceilingsheathing}
+## 5. Ceiling Sheathing 
 
 ![](images/B05.svg)
 
@@ -134,7 +122,7 @@ Lay one sheet up first and secure it to the joists enough to be able to get on t
 
 This is a good time to figure out how to cover the structure with a tarp so you are protected and can work towards prepping the framing for the roof. We tied a tarp down with 6 stakes and some rope.
 
-## 6. Door Jambs {#doorjambs}
+## 6. Door Jambs 
 
 ![](images/B06.svg)
 
@@ -142,13 +130,13 @@ Wearing proper attire, scorch the 1x6s using a *Propane Torch* attached to a *Pr
 
 [![](blueprints/B06.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/02%20Wall%20Structure/blueprints/B06.pdf)
 
-## 7. Door Flashing {#doorflashing}
+## 7. Door Flashing 
 
 ![](images/B07.svg)
 
 Cut a roll of flashing for the top and bottom of the doorway. Notch it so it can fold into place and overlap the edges. Place a board over it and hammer the board to shape the flashing.
 
-## 8. Doors {#doors}
+## 8. Doors 
 
 ![](images/B08.svg)
 
@@ -158,7 +146,7 @@ This door installation will be temporary to make the shed lockable until you can
 
 Use a *2 1/8-inch Hole Saw Bit* to drill a hole for a deadbolt. Use a *1-inch Hole Saw Bit* to drill the holes needed for the bolt latch.
 
-## 9. Wall Felt {#wallfelt}
+## 9. Wall Felt 
 
 ![](images/B09.svg)
 
@@ -170,7 +158,7 @@ Using a *Battery-Powered Drill* drill through the bottom plates and into the flo
 
 ## Cover until next step
 
-## Supplies List {#supplies}
+## Supplies List 
 
 ### Existing Tools
 
