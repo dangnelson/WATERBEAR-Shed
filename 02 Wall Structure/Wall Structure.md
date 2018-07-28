@@ -7,7 +7,7 @@
 ### Build Walls
 Build the west back wall (Blueprint B.01A) first using the shed floor as a surface. Cut studs to size using a *Battery Powered Circular Saw*. Mark the top and bottom plates using a *Carpenter's Pencil* and *Measuring Tape* and nail them together using a *Battery Powered Nail Gun*. Use a *Hammer* to finish driving any nails that stick out. Stand up the wall and nail spare 2x4s at about a 45 degree angle on either side to the end of the floor joists while leveling using a *48 Inch Level*. Next stand up the north/south walls (Blueprint B.01B), and finally the other east/west wall (Blueprint B.01C).
 
-[![](blueprints/B01A.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/02%20Wall%20Structure/blueprints/B01a.pdf)
+[![Blueprint B01A](blueprints/B01A.svg)](blueprints/B01a.pdf)
 
 ### Stud & Header Nail Fastening `IRC Table 602.3(1)`
 
@@ -20,9 +20,9 @@ Build the west back wall (Blueprint B.01A) first using the shed floor as a surfa
 | Top or Bottom Plate to Stud| End Nail | 3.5" | 2 nails | 82 (164 Nails)
 |**Total**| | | | 12 3" Nails, <br/>196 3.5" Nails
 
-[![](blueprints/B01A.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/02%20Wall%20Structure/blueprints/B01a.pdf)
+[![Blueprint B01A](blueprints/B01A.svg)](blueprints/B01a.pdf)
 
-[![](blueprints/B01B.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/02%20Wall%20Structure/blueprints/B01b.pdf)
+[![Blueprint B01B](blueprints/B01B.svg)](blueprints/B01b.pdf)
 
 ### Headers `IRC TABLE R502.5(1)`
 
