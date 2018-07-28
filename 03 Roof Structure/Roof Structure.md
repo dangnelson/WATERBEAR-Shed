@@ -2,24 +2,11 @@
 
 The roof is designed with a steep 45 degree pitch to shed water and debris quickly so it will last longer. It has wide overhangs to help keep the siding dry. The roofing material used is mill finish Galvalume steel, which is perfect for rainwater harvesting. 
 
-1. [Raised Top Plate](#raisedtopplate)
-* [Gables](#gables)
-* [Rafter Overhangs](#rafteroverhangs)
-* [Ridge Beam](#ridgebeam)
-* [Rafters](#rafters)
-* [Collar Ties](#collarties)
-* [Roof Sheathing](#roofsheathing)
-* [Gable Sheathing](#gablesheathing)
-* [Gable Felt](#gablefelt)
-* [Roof Felt](#rooffelt)
-
-[Supplies List](#supplies)
-
 ![](images/RoofVocab.svg)
 
 Wait to start the roof until you have a good few days to work on it. It will be hard to cover until at least the roof sheathing is up because of wind. Precut the rafters and assemble the gables in advance. Now that the shed is enclosed, you can store the supplies for the roof inside. To help with organization we recommend building a simple lumber rack to accommodate the larger materials. 
 
-## 01 Raised Top Plate {#raisedtopplate}
+## 01 Raised Top Plate 
 
 Cut the 2x4s to size using the *Battery Powered Handheld Circular Saw* and install them using the *Battery Powered Electric Nail Gun*.
 
@@ -33,7 +20,7 @@ Cut the 2x4s to size using the *Battery Powered Handheld Circular Saw* and insta
 
 ![](blueprints/C01.svg)
 
-## 02 Gables {#gables}
+## 02 Gables 
 
 Cut, then assemble the gables on a flat surface. Cut a forty five degree edge onto the end of a spare 2x4x8. Stand up a gable and nail it to the joist below. Have someone level the gable while someone else attaches the notched 2x4 to the center beam and a floor joist to keep it from tipping until the rafters and roof sheathing are installed.
 
@@ -42,7 +29,7 @@ Cut, then assemble the gables on a flat surface. Cut a forty five degree edge on
 ![](blueprints/C02.svg)
 
 
-## 03 Rafter Overhangs {#rafteroverhangs}
+## 03 Rafter Overhangs 
 
 ![](images/C03.svg)
 
@@ -58,7 +45,7 @@ Pre-assemble three of the rafters, which connect to the outriggers, with the ove
 
 ![](blueprints/C03D.svg)
 
-## 04 Ridge Beam {#ridgebeam}
+## 04 Ridge Beam 
 
 ![](images/C04.svg)
 
@@ -68,7 +55,7 @@ For additional support during construction, add *Connecting Plates* to the ridge
 
 ![](blueprints/C04.svg)
 
-## 05 Rafters {#rafters}
+## 05 Rafters 
 
 ![](images/C05.svg)
 
@@ -84,7 +71,7 @@ Install the remaining rafters using the provided nailing schedule. Attach *Hurri
 | Rafter to ridge, toe nail | 3.5" | 4 | 32 | 128
 |**Total**|||| 192
 
-## 06 Collar Ties {#collarties}
+## 06 Collar Ties 
  
 ![](images/C06.svg)
 
@@ -99,7 +86,7 @@ Install collar ties to help prevent the rafters from coming apart at the top.
 | --- | --- | ---
 | Collar tie to rafter, face nail | 3" | 3 nails on each side | 6 connections (9 Nails)
 
-## 07 Roof Sheathing {#roofsheathing}
+## 07 Roof Sheathing 
 
 ![](images/C07.svg) 
 
@@ -137,7 +124,7 @@ Ladder safety is extremely important, especially with a roof of this slope. You'
 
 This is a good time to figure out how to cover the structure with a tarp so the shed is protected from rain and you can take a break while finishing the gables. We wrapped a tarp over the roof and under the rake overhangs, tying off to the overhang blocking. Until we had the gable felt installed, we tied another tarp off starting with a corner under the ridge overhang and down to the eaves.
 
-## 08 Gable Sheathing {#gablesheathing}
+## 08 Gable Sheathing 
 
 ![](images/C08.svg)
 
@@ -156,11 +143,11 @@ This is a good time to figure out how to cover the structure with a tarp so the 
 
 
 
-## 09 Gable Felt {#gablefelt}
+## 09 Gable Felt 
 
 ![](images/C09.svg)
 
-## 10 Roof Felt {#rooffelt}
+## 10 Roof Felt 
 
 ![](images/C10.svg) 
 
@@ -170,7 +157,7 @@ Installing the *Roof Felt* can be tricky because of the angle of the roof. The r
 
 Cut an 8 inch strip of Roof Felt to cover the ridge beam. This will make the structure water proof enough for you to no longer have to use a tarp as cover. Nail it down with cap nails as it will be prone to fly off in heavy wind. You'll remove this piece once you're ready to install the ridge cap for the roofing.
 
-## Supplies {#supplies}
+## Supplies 
 
 ### Existing Tools
 
