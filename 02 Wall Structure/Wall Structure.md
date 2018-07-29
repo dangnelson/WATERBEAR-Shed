@@ -20,8 +20,6 @@ Build the west back wall (Blueprint B.01A) first using the shed floor as a surfa
 | Top or Bottom Plate to Stud| End Nail | 3.5" | 2 nails | 82 (164 Nails)
 |**Total**| | | | 12 3" Nails, <br/>196 3.5" Nails
 
-[![Blueprint B01A](blueprints/B01A.svg)](blueprints/B01a.pdf)
-
 [![Blueprint B01B](blueprints/B01B.svg)](blueprints/B01b.pdf)
 
 ### Headers `IRC TABLE R502.5(1)`
