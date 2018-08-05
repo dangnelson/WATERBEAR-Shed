@@ -2,13 +2,33 @@
 
 ## Fascia 
 
-![](images/C12.svg)
+![](images/D01.svg)
 
-Install flashing over the fascia to keep carpenter bees away
+## Roof Eave
 
-## Roofing 
+![](images/D02.svg)
 
-![](images/C13.svg)
+Plumb Eave Flashing
+
+Standing Seam Clip
+
+Double Beaded Butyl Tape
+
+Sealant
+
+1" #10 Pancake Head Woodscrew
+
+
+## Floating Rake
+
+Square Eave Flashing
+
+1" #10 Pancake Head Woodscrew
+
+
+## Roofing
+
+![](images/D03.svg)
 
 ### Pricing
 Advantage-Lok
@@ -22,21 +42,14 @@ Drip edge is 10.5 feet long regardless
 Ridge Vent
 &#36;15.90 / each 32" wide
 
-## Eave End Blocking 
-
-![](images/C11.svg)
-
-Use Scrap lumber from the rafters to build out the eave end blocking. This will give you something to attach the fascia to.  
-
-![](blueprints/C11.svg)
-
------
 
 ### Panels
 
 Standing Seam Panels
 
-### Roof Ridge
+## Roof Ridge
+
+![](images/D04.svg)
 
 Ridge Flashing
 
@@ -52,31 +65,7 @@ Pop Rivet
 
 Double Beaded Butyl Tape
 
-### Roof Eave
 
-Plumb Eave Flashing
-
-Standing Seam Clip
-
-Double Beaded Butyl Tape
-
-Sealant
-
-1" #10 Pancake Head Woodscrew
-
-### Floating Rake
-
-Square Eave Flashing
-
-1" #10 Pancake Head Woodscrew
-
-## gutters
-
-gutter slope is set between 1/4 to 1/2 inch per 10 feet of guttering.
-
-75 degree elbows are standard
-
-You’ll need 3 for outlets and 4 for rain barrels
 
 ## Supplies 
 

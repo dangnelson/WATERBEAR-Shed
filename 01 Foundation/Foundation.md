@@ -30,7 +30,7 @@ Use the *Shovel(s)* and *Wheel Barrow* to remove any grass, shrubs or debris fro
 
 ### Level Ground
 
-Attach *String Line Levels* to the strings on all four sides. Level starting roughly an inch above the ground at the highest point. Use this as a guide to remove top soil until the ground is leveled.
+Attach *String Line Levels* to the strings on all four sides. Level starting roughly an inch above the ground at the highest point. Use this as a guide to remove top soil until the ground is leveled. Tamp the toil with a *Tamper*.
 
 ### Retaining Wall (avoid)
 
@@ -179,8 +179,9 @@ Bricks on tarp
 | Pair of Cleaning Gloves | 1 | 1.98
 | Drill | 1| 159.00
 | Bit for Drilling Bolt holes | 1 | 9.97
-| 1/2" Socket Wrench | 1| 26.19
-|**Estimated Total**||**1117.09**
+| 1/2" Socket Wrench | 1 | 26.19
+| [Tamper](https://en.wikipedia.org/wiki/Tamp) | 1 | 26.98
+|**Estimated Total**||**1144.07**
 
 ### Materials
 
