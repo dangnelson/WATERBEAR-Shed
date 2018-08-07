@@ -171,6 +171,8 @@ Using a *Battery-Powered Drill* drill through the bottom plates and into the flo
 | Item | # | Cost
 |---|---|
 | 48 Inch Level | 1
+| Speed Square | 1  
+
 | [Carpenter's Pencils] (https://en.wikipedia.org/wiki/Carpenter_pencil) with sharpener | 1
 | 8 ft Step Ladder | 1
 | [Large Propane Torch](https://en.wikipedia.org/wiki/Propane_torch)

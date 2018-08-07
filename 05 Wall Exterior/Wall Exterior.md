@@ -2,7 +2,7 @@
 
 The space between wall paper and siding is called a rain screen. It assumes that water will eventually get behind the siding due to horizontal rain, and when it does, gives the water a place to go, and enough ventilation for it to dry.
 
-### Insect Screen
+### 01. Insect Screen
 
 ![](images/E01.svg)
 
@@ -18,7 +18,7 @@ Attachment schedule?
 
 28 4' strips total
 
-## Furring Strips
+## 02. Furring Strips
 
 ![](images/E02.svg)
 
@@ -31,7 +31,7 @@ Attachment schedule?
 |1x2x8 Furring Strips | 50
 
 
-## Eave End Blocking 
+## 03. Eave End Blocking 
 
 ![](images/E03.svg)
 
@@ -41,7 +41,7 @@ Use Scrap lumber from the rafters to build out the eave end blocking. This will 
 
 -----
 
-### Siding
+## 04. Siding
 
 
 ![](images/E04.svg)
@@ -88,7 +88,7 @@ Coarse Brush
 
 Burn until black, ash patches means your overdone. Not a big deal, it will come off with brushing. Burn from the female side, it will reduce how often the sides catch fire. Brush all excess off until you see the grain. Wash the remaining dust off. Oil the wood using a rag or brush and install.
 
-## Soffit Vents
+## 05. Soffit Vents
 
 
 ### Ramp
@@ -102,7 +102,7 @@ Burn until black, ash patches means your overdone. Not a big deal, it will come 
 
 Install flashing over the fascia to keep carpenter bees away
 
-## gutters
+## Gutters
 
 gutter slope is set between 1/4 to 1/2 inch per 10 feet of guttering.
 
