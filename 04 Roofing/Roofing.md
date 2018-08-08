@@ -1,10 +1,10 @@
 # Roof
 
-The roofing material used is mill finish Galvalume steel, which is perfect for rainwater harvesting. Unpainted or Mill Finish avoids the use of paint.
+The roofing material used is mill finish Snap-Lock Galvalume steel, which is perfect for rainwater harvesting. Unpainted or Mill Finish avoids the use of paint.
 
-## Use Installers Manual
+## Read the Manufacturer Instructions
 
-This 
+This chapter covers generally what you should expect when installing snap-lock roofing. However, there are several manufactures of this type of roofing in the US, and the instructions will vary slightly depending on who you use. Consult with the manufacturer or supplier to get the proper instructions for your installation.
 
 ## 01. Fascia 
 
@@ -15,31 +15,26 @@ Burn & oil two 1x6x8s and two 1x6x12s to use as Eave Fascia. Rather than trustin
 
 Install the boards 1.5” below where the fascia meets the sheathing. This will maintain the 45 degree pitch. Level each board as you install. Tack the boards in first using *2 1/2” galvanized finishing nails* loaded in the *Finishing Nailer*. Then use two *2 1/2” Hex Deck Screws* to attach the boards to the rafters. This will help provide additional strength to the rafters, and insures the gutters have plenty of support during rainfall.
 
-### Cutting Tip
+### Cutting & Burning Tip
 You can measure and precut the boards before burning & oiling them or you can cut them afterwards and use a *Butane Torch* loaded with *Butane* to touch up the exposed areas.
 
 ### Rake Fascia
-To measure and cut the four 1x8x12 Boards for the Rake Fascia, first cut 45 degree angles at the end of the boards, then tack them up in place using a *16 Gauge Finishing Nailer* loaded with *1 1/4" Finishing Nails*. This will allow you then mark the bottom edge using the Eave Fascia to make sure they'll line up. Carefully pry the boards away and hammer out the finishing nails before making your cuts.
+To measure and cut the four 1x8x12 Boards for the Rake Fascia, first cut 45 degree angles at the end of the boards, then tack them up in place using a *16 Gauge Finishing Nailer* loaded with *1 1/2" Finishing Nails*. This will allow you then mark the bottom edge using the Eave Fascia to make sure they'll line up. Carefully pry the boards away and hammer out the finishing nails before correcting your marks with a *Speed Square* and making your cuts.
 
-## 02. Roof Flashing
+After finishing the boards, install them with *1 1/2" Finishing Nails* where needed and two *2 1/2" Hex Deck Screws*.
 
-### Eave Flashing
-Install
+## 02. Roof Drip Edge
+
+### Eave Drip Edge
+Install the eave drip edge lapped under the underlayment  at the eave using *1" Pancake Head Woodscrews* and a *
 
 ![](images/D02.svg)
 
 Plumb Eave Flashing
 
-Standing Seam Clip
+### Rake Drip Edge
 
-Double Beaded Butyl Tape
-
-Sealant
-
-1" #10 Pancake Head Woodscrew
-
-
-### Rake Flashing
+Install the rake drip edge over the underlayment
 
 Square Eave Flashing
 
@@ -94,7 +89,7 @@ Double Beaded Butyl Tape
 | Butane Torch | 1
 | Butane | 1
 | 16 Gauge Finishing Nailer | 1
-| 
+| Speed Square | 1  
 
 ## Supplies 
 

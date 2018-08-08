@@ -73,7 +73,7 @@ Wait a day and remove the *Cardboard Concrete Form Tubes* from around the piers.
 
 ### Cut & Insert Piers
 
-Cut the *Treated 4x4x8s* to size and insert them into the *Galvanized Post Bases*
+Cut the *Treated 4x4x8s* to size and insert them into the *Galvanized Post Bases*. Drill the bolt holes out using a *Battery Powered Drill* and a *1/2" diameter 6" long brad point bit*. Insert the *6" Galvanized Carriage Bolts* and tighten the *1/2" Galvanized Washers* and *1/2" Galvanized Nuts* with a *1/2" Socket Wrench*.
 
 ### Treated wood
 
@@ -181,6 +181,9 @@ Bricks on tarp
 | Bit for Drilling Bolt holes | 1 | 9.97
 | 1/2" Socket Wrench | 1 | 26.19
 | [Tamper](https://en.wikipedia.org/wiki/Tamp) | 1 | 26.98
+| Battery-Powered Drill | 1 |
+| Battery-Powered Impact Driver | 1
+| 1/2" diameter 6" long brad point bit 
 |**Estimated Total**||**1144.07**
 
 ### Materials

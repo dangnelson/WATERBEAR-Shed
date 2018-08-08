@@ -170,6 +170,7 @@ Cut an 8 inch strip of Roof Felt to cover the ridge beam. This will make the str
 | String Line
 | String Line Level
 | Hammer Tacker 
+| Speed Square 
 
 ### New Tools
 

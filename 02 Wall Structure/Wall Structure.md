@@ -165,14 +165,15 @@ Using a *Battery-Powered Drill* drill through the bottom plates and into the flo
 | Battery Powered Handheld Circular Saw 
 | Battery Powered Electric Nail Gun 
 | Hammer |
+| Speed Square 
+| Battery-Powered Drill | 1 |
+
 
 ### New Tools
 
 | Item | # | Cost
 |---|---|
 | 48 Inch Level | 1
-| Speed Square | 1  
-
 | [Carpenter's Pencils] (https://en.wikipedia.org/wiki/Carpenter_pencil) with sharpener | 1
 | 8 ft Step Ladder | 1
 | [Large Propane Torch](https://en.wikipedia.org/wiki/Propane_torch)
@@ -182,9 +183,7 @@ Using a *Battery-Powered Drill* drill through the bottom plates and into the flo
 | Rag
 | [Thick / Long Rubber Gloves](https://en.wikipedia.org/wiki/Rubber_glove)
 | [Hammer Tacker](https://en.wikipedia.org/wiki/Hammer_tacker)
-| Battery-Powered Drill | 1 |
 | 3/4" Ratchet Bit | 1
-| Battery-Powered Impact Driver | 1
 | 1/4" Male Hex to 1/4" Square Drive Adapter | 1
 | 1/2" Drill Bit | 
 
