@@ -11,13 +11,15 @@ This
 ![](images/D01.svg)
 	
 ### Eave Fascia
-Burn & oil 2 1x6x8s and 2 1x6x12s to use as Eave Fascia. Rather than trusting blueprints for finishing pieces, it's better to measure the actual structure to compensate for any warping that may have occurred. 
+Burn & oil two 1x6x8s and two 1x6x12s to use as Eave Fascia. Rather than trusting blueprints for finishing pieces, it's better to measure the actual structure to compensate for any warping that may have occurred. 
+
+Install the boards 1.5” below where the fascia meets the sheathing. This will maintain the 45 degree pitch. Level each board as you install. Tack the boards in first using *2 1/2” galvanized finishing nails* loaded in the *Finishing Nailer*. Then use two *2 1/2” Hex Deck Screws* to attach the boards to the rafters. This will help provide additional strength to the rafters, and insures the gutters have plenty of support during rainfall.
 
 ### Cutting Tip
 You can measure and precut the boards before burning & oiling them or you can cut them afterwards and use a *Butane Torch* loaded with *Butane* to touch up the exposed areas.
 
 ### Rake Fascia
-To measure and cut the 4 1x8x12 Boards for the Rake Fascia, first cut 45 degree angles at the end of the boards, then tack them up in place using a *16 Gauge Finishing Nailer* loaded with *1 1/4" Finishing Nails*. This will allow you then mark the bottom edge using the Eave Fascia to make sure they'll line up. Carefully pry the boards away and hammer out the finishing nails before making your cuts.
+To measure and cut the four 1x8x12 Boards for the Rake Fascia, first cut 45 degree angles at the end of the boards, then tack them up in place using a *16 Gauge Finishing Nailer* loaded with *1 1/4" Finishing Nails*. This will allow you then mark the bottom edge using the Eave Fascia to make sure they'll line up. Carefully pry the boards away and hammer out the finishing nails before making your cuts.
 
 ## 02. Roof Flashing
 
@@ -102,3 +104,5 @@ Double Beaded Butyl Tape
 | 1x6x12 | 2 | Fascia
 | 1x6x8 | 2 | Fascia
 | 1x8x12 | 4 | Fascia
+| 1 1/2” galvanized finishing nails
+| 2 1/2” galvanized finishing nails
