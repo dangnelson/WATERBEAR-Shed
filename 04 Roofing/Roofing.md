@@ -2,6 +2,11 @@
 
 The roofing material used is mill finish Snap-Lock Galvalume steel, which is perfect for rainwater harvesting. Unpainted or Mill Finish avoids the use of paint.
 
+## What to Order
+
+Plumb Rake
+Square Eave
+
 ## Read the Manufacturer Instructions
 
 This chapter covers generally what you should expect when installing snap-lock roofing. However, there are several manufactures of this type of roofing in the US, and the instructions will vary slightly depending on who you use. Consult with the manufacturer or supplier to get the proper instructions for your installation.
@@ -25,20 +30,12 @@ After finishing the boards, install them with *1 1/2" Finishing Nails* where nee
 
 ## 02. Roof Drip Edge
 
-### Eave Drip Edge
-Install the eave drip edge lapped under the underlayment  at the eave using *1" Pancake Head Woodscrews* and a *
-
 ![](images/D02.svg)
 
-Plumb Eave Flashing
+Install the *Eave Drip Edge* lapped under the underlayment  at the eave using *1" Pancake Head Woodscrews*. Join pieces by trimming the folded sections of the edges so that one can slide into the other. Next install the *Rake Drip Edge* over the underlayment starting at the top.
 
-### Rake Drip Edge
-
-Install the rake drip edge over the underlayment
-
-Square Eave Flashing
-
-1" #10 Pancake Head Woodscrew
+### Cutting Metal
+To trim metal use *Metal Snips* for detail work, and a *Shears Attachment Accessory* attached to your *Driver* for long cuts. 
 
 
 ## 03. Roofing
@@ -80,8 +77,12 @@ Pop Rivet
 
 Double Beaded Butyl Tape
 
+## Existing Tools
 
-
+| Item | Amount |
+|---|---|
+| Speed Square | 1 
+ 
 ## Tools
 
 | Item | Amount |
@@ -89,7 +90,8 @@ Double Beaded Butyl Tape
 | Butane Torch | 1
 | Butane | 1
 | 16 Gauge Finishing Nailer | 1
-| Speed Square | 1  
+| Metal Snips |
+
 
 ## Supplies 
 
