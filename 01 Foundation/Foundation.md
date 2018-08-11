@@ -162,6 +162,7 @@ Bricks on tarp
 | [Hand Saw](https://en.wikipedia.org/wiki/Hand_saw) | 1 | 9.94
 | [Hoe](https://en.wikipedia.org/wiki/Hoe_(tool)) | 1 | 15.97
 | [Hand-held Circular Saw](https://en.wikipedia.org/wiki/Circular_saw) (Battery Powered)| 1 | 279.00
+| Circular Saw Rip [Fence](https://en.wikipedia.org/wiki/Fence_(woodworking)) | 1 |
 | [Nail Gun](https://en.wikipedia.org/wiki/Nail_gun)  (Battery Powered)| 1 | 399.00
 | Marking Spray Paint | 1 | 5.27
 | 2 ft Wooden [Stakes](https://en.wikipedia.org/wiki/Survey_stakes) | 4 | 4.97
