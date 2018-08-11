@@ -67,9 +67,11 @@ For the remaining panels prep them by trimming and bending the bottom edge. Then
 
 ### Last Panel
 
+For the last panel, snap the bottom on and rest the seam on the lock edge so you can draw a line using the drip edge on the panel as your guide. Take the panel down and measure 1 1/8" out from the line and mark it with your chalk line. Cut and bend the edge before sliding and snapping it into place.
 
+## 04. Vented Roof Ridge
 
-## 04. Roof Ridge
+Install the ventilation 
 
 ![](images/D04.svg)
 
