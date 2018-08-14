@@ -98,9 +98,13 @@ To insure the bottom pieces are at the right angle, make  a guide out of two 2x4
 
 Install the inner roof cap at the marked angles one side at a time per manufacturer instructions.
 
-For the top ridge section, finish the end first. Measure the depth of the standing seam and combine with 1 1/8" for the underside seam. Mark the end of the cap using the measurements. Cut the top fold to the end of the mark. Use the *3" Hand Seamer * to fold the deepest edge. Fold 180 degrees to finish the edge and unfold it 90 degrees. Then use the *16" Hemming Tool* for the underside. On the other end, cut 
+For the top ridge section, finish the end first. Measure the depth of the standing seam and combine with 1 1/8" for the underside seam. Mark the end of the cap using the measurements. Cut the top fold to the end of the mark. Use the *3" Hand Seamer * to fold the deepest edge. Fold 180 degrees to finish the edge and unfold it 90 degrees. Then use the *16" Hemming Tool* for the underside. On the other end, cut the seam off 4 inches in so the opposite piece can slide onto the other side.
 
-Slide it onto the lower piece and onto the roof until into place. For the second piece cut the folded 
+To slide the piece into place, have one person hold the end you want to slide on towards the ridge using the *24' Extension Ladder* and have another person brace the center by placing a 2x4x8 underneath while standing on the *8' Step Ladder*. Slide it all the way on.
+
+For the next piece it may be easier to slide it on and fit it before marking your lines. This is because it can be difficult to measure the length at that height. To get it on, slide it as far as it will go before climbing the ladders towards to center to join them at the joint.
+
+You'll want to use *Pop Rivets* inserted in to a *Pop Rivet Gun* to compress and flush out the joints. Pre-drill 
 
 ## Existing Tools
 
@@ -108,7 +112,11 @@ Slide it onto the lower piece and onto the roof until into place. For the second
 |---|---|
 | Speed Square | 1 
 | Plumb Chalk Line | 1
-| 8 Foot Step Ladder | 
+| 8' Step Ladder | 
+| 24' Extension Ladder | 1 | 169.99
+| Ladder Lock | 1 | 39.39
+| 8' Straight Ladder | 1 | 86.22
+| Ladder Hook with Wheel | 2 | 45.50
  
 ## Tools
 
