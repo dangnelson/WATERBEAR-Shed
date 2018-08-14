@@ -33,17 +33,27 @@ To measure and cut the four 1x8x12 Boards for the Rake Fascia, first cut 45 degr
 
 After finishing the boards, install them with *1 1/2" Finishing Nails* where needed and two *2 1/2" Hex Deck Screws*.
 
-## 02. Roof Drip Edge
+## 02. Drip Edge
 
 ![](images/D02.svg)
 
-Install the *Eave Drip Edge* lapped under the underlayment  at the eave using *1" Pancake Head Woodscrews*. Join pieces by trimming the folded sections of the edges so that one can slide into the other. Next install the *Rake Drip Edge* over the underlayment starting at the top.
 
 ### Cutting Metal
 To trim metal use *Metal Snips* for detail work, and a *Shears Attachment Accessory* attached to your *Driver* for long cuts. 
 
+### Eave Drip Edge
+Install the *Eave Drip Edge* lapped under the underlayment  at the eave using *1" Pancake Head Woodscrews*. Join pieces by trimming the folded sections of the edges so that one can slide into the other. 
 
-## 03. Roofing
+If the drip edge is difficult to screw through, pre-drill holes as often as needed.
+
+### Rake Drip Edge
+Next install the *Rake Drip Edge* over the underlayment starting at the top. Cut the top edge at a 45 degree angle leaving the first side with some excess on the face which is flush with the fascia. This will allow the second side to sit overtop and give a cleaner look at the joint.
+
+Have one person hold the bottom using the *8 Foot Step Ladder* while another uses the *24' Extension Ladder* attached to the eave with the *Ladder Lock* and the *8' Straight Ladder* hanging over the ridge to climb to the top and screw the drip edge to the sheathing.
+
+For additional pieces, trim the folded sections and slide the lower piece into the upper piece.
+
+## 03. Roofing Panels
 
 ![](images/D03.svg)
 
@@ -69,12 +79,28 @@ For the remaining panels prep them by trimming and bending the bottom edge. Then
 
 For the last panel, snap the bottom on and rest the seam on the lock edge so you can draw a line using the drip edge on the panel as your guide. Take the panel down and measure 1 1/8" out from the line and mark it with your chalk line. Cut and bend the edge before sliding and snapping it into place.
 
-## 04. Vented Roof Ridge
+Repeat these steps for the other side of the roof.
 
-Install the ventilation 
+Close the bends using a *3" Hand Seamer*.
+
+## 04. Vented Ridge Cap
 
 ![](images/D04.svg)
 
+Install the ventilation per manufacturer instructions. 
+
+The ridge cap normally comes in 2 parts, an inner part which screws to the roof and an outer part which slides over it to conceal the screws. 
+
+### Angle Guide
+To insure the bottom pieces are at the right angle, make  a guide out of two 2x4s by screwing them together end to end at a 45 degree  angle and cut so the inside of the guide matches the size of the ridge cap. This will allow you to place the guide on the top of the standing seams on the ridge and mark the angle needed on the seams.
+
+### Installation
+
+Install the inner roof cap at the marked angles one side at a time per manufacturer instructions.
+
+For the top ridge section, finish the end first. Measure the depth of the standing seam and combine with 1 1/8" for the underside seam. Mark the end of the cap using the measurements. Cut the top fold to the end of the mark. Use the *3" Hand Seamer * to fold the deepest edge. Fold 180 degrees to finish the edge and unfold it 90 degrees. Then use the *16" Hemming Tool* for the underside. On the other end, cut 
+
+Slide it onto the lower piece and onto the roof until into place. For the second piece cut the folded 
 
 ## Existing Tools
 
@@ -94,6 +120,7 @@ Install the ventilation
 | Metal Snips | |
 | Shears Attachment Accessory
 | 16" Roofing Bending Tool
+| 3" Metal Hand Seamer
 
 
 ## Supplies 
