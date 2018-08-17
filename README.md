@@ -12,12 +12,12 @@
 
 ## Goals
 
-Here are some goals we're working towards:
+Here are some goals we're working towards with this design:
 
 * Plastic-free
 * Paint-free
-* Compostable / Recyclable construction.
-* Off-grid solar power.
+* Compostable / Recyclable.
+* Off-grid Solar Power.
 
 ## Supplies Lists
 

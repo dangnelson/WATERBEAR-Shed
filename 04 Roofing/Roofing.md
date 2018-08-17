@@ -2,13 +2,25 @@
 
 The roofing material used is mill finish Standing Seam Snap-Lock Galvalume steel, which is perfect for rainwater harvesting. Unpainted or Mill Finish avoids the use of paint.
 
+## Larger Question:
+
+Do I do research on what other companies sell in order to figure  out if there's any standardization?
+
 ## What to Order
 
-standing seam Snap Lock Mill Finish
+[](../03RoofStructure/blueprints/C05.svg)
 
-Plumb Rake
+24 Gauge 16" Width Standing Seam Snap Lock Striated with Mill Finish
 
-Square Eave
+Drip Edge themselves are a typically a little over 10 feet
+
+X panels at X length
+
+5 sections or 50' - Plumb Rake Drip Edge
+
+4 sections or 40' - Square Eave Drip Edge
+
+2 sections or 20' - Ridge Cap
 
 12:12 pitch
 
@@ -18,7 +30,7 @@ This chapter covers generally what you should expect when installing snap-lock r
 
 ## 01. Fascia 
 
-![](images/D01.svg)
+![](./images/D01.svg)
 	
 ### Eave Fascia
 Burn & oil two 2x6x8s and two 2x6x12s to use as Eave Fascia. Rather than trusting blueprints for finishing pieces, it's better to measure the actual structure to compensate for any warping that may have occurred. 

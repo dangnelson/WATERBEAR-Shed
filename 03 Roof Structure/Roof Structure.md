@@ -1,6 +1,6 @@
 # Roof Structure
 
-The roof is designed with a steep 45 degree pitch to shed water and debris quickly so it will last longer. It has wide overhangs to help keep the siding dry.
+The roof is designed with a steep 45 degree (12:12) pitch to shed water and debris quickly so it will last longer. It has wide overhangs to help keep the siding dry.
 
 ![](images/RoofVocab.svg)
 
