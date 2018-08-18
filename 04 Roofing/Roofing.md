@@ -8,7 +8,7 @@ Do I do research on what other companies sell in order to figure  out if there's
 
 ## What to Order
 
-[](../03RoofStructure/blueprints/C05.svg)
+[](../03%20Roof%20Structure/blueprints/C05.svg)
 
 24 Gauge 16" Width Standing Seam Snap Lock Striated with Mill Finish
 
