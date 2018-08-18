@@ -8,21 +8,36 @@ Do I do research on what other companies sell in order to figure  out if there's
 
 ## What to Order
 
-[](../03%20Roof%20Structure/blueprints/C05.svg)
+[![](../blueprints/D01.svg)](../blueprints/D01.pdf)
 
-24 Gauge 16" Width Standing Seam Snap Lock Striated with Mill Finish
+### Type
+24 Gauge 16" Width Standing-Seam Snap-Lock Striated Galvalume Coated Steel Roofing with Mill Finish
 
 Drip Edge themselves are a typically a little over 10 feet
 
-X panels at X length
+30 panels at 10' 6" length
 
-5 sections or 50' - Plumb Rake Drip Edge
+5 ~10' sections or 50' - Plumb Rake Drip Edge (12:12 pitch)
 
-4 sections or 40' - Square Eave Drip Edge
+4 ~10' sections or 40' - Square Eave Drip Edge
 
-2 sections or 20' - Ridge Cap
+2 ~10' sections or 20' - Ridge Cap (12:12 pitch)
 
-12:12 pitch
+Screws
+
+### Pricing
+* Advantage-Lok $2.53 / linear ft
+* Drip Edge $23 / piece 10.5 ft
+* Drip edge is 10.5 feet long regardless
+* Ridge Vent $15.90 / each 32" wide
+* Standing Seam Panels
+* Ridge Flashing
+* Vented Ridge Closure
+* Ventco Ridge Cap Anchor Clip
+* Pop Rivet
+* 1" #10 Pancake Head Woodscrew
+* 2" Pancake Head Woodscrew
+* Double Beaded Butyl Tape
 
 ## Read the Manufacturer Instructions
 
@@ -153,33 +168,3 @@ You'll want to use *Pop Rivets* inserted in to a *Pop Rivet Gun* to compress and
 | 1x8x12 | 4 | Fascia
 | 1 1/2” galvanized finishing nails
 | 2 1/2” galvanized finishing nails
-
-
-### Pricing
-Advantage-Lok
-&#36;2.53 / linear ft
-
-Drip Edge
-&#36;23 / piece 10.5 ft
-
-Drip edge is 10.5 feet long regardless
-
-Ridge Vent
-&#36;15.90 / each 32" wide
-
-
-Standing Seam Panels
-
-Ridge Flashing
-
-Vented Ridge Closure
-
-Ventco Ridge Cap Anchor Clip
-
-Pop Rivet
-
-1" #10 Pancake Head Woodscrew
-
-2" Pancake Head Woodscrew
-
-Double Beaded Butyl Tape
