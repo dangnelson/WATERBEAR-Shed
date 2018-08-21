@@ -1,45 +1,16 @@
 # Roofing
 
-The roofing material used is mill finish Standing Seam Snap-Lock Galvalume steel, which is perfect for rainwater harvesting. Unpainted or Mill Finish avoids the use of paint.
+Look for 24-Gauge, 16" Width, Standing Seam, Snap Lock, Striated, Galvalume Coated, Steel Roofing with Unpainted Mill Finish.
 
-## Larger Question:
+This type of roofing is perfect for rainwater harvesting and ordering it "mill finish" avoids the use of paint.
 
-Do I do research on what other companies sell in order to figure  out if there's any standardization?
+### Dimensions
 
-## What to Order
+If your supplier asks you for the roof dimensions, tell them the roofing coverage area is 10' 6" tall by 19' 1/2" wide.
 
 [![](../blueprints/D01.svg)](../blueprints/D01.pdf)
 
-### Type
-24 Gauge 16" Width Standing-Seam Snap-Lock Striated Galvalume Coated Steel Roofing with Mill Finish
-
-Drip Edge themselves are a typically a little over 10 feet
-
-30 panels at 10' 6" length
-
-5 ~10' sections or 50' - Plumb Rake Drip Edge (12:12 pitch)
-
-4 ~10' sections or 40' - Square Eave Drip Edge
-
-2 ~10' sections or 20' - Ridge Cap (12:12 pitch)
-
-Screws
-
-### Pricing
-* Advantage-Lok $2.53 / linear ft
-* Drip Edge $23 / piece 10.5 ft
-* Drip edge is 10.5 feet long regardless
-* Ridge Vent $15.90 / each 32" wide
-* Standing Seam Panels
-* Ridge Flashing
-* Vented Ridge Closure
-* Ventco Ridge Cap Anchor Clip
-* Pop Rivet
-* 1" #10 Pancake Head Woodscrew
-* 2" Pancake Head Woodscrew
-* Double Beaded Butyl Tape
-
-## Read the Manufacturer Instructions
+###s Read the Manufacturer Instructions
 
 This chapter covers generally what you should expect when installing snap-lock roofing. However, there are several manufacturers of this type of roofing in the US, and the instructions will vary slightly depending on who you use. Consult with the manufacturer or supplier to get the proper instructions for your installation.
 
@@ -48,9 +19,9 @@ This chapter covers generally what you should expect when installing snap-lock r
 ![](./images/D01.svg)
 	
 ### Eave Fascia
-Burn & oil two 2x6x8s and two 2x6x12s to use as Eave Fascia. Rather than trusting blueprints for finishing pieces, it's better to measure the actual structure to compensate for any warping that may have occurred. 
+Burn & oil two 2x6x8s and two 2x6x12s to use as Eave Fascia. Rather than trusting blueprints for your cuts, it's better to measure the actual structure using a *Tape Measure* to compensate for any warping that may have occurred during construction.
 
-Install the boards 1.5” below where the fascia meets the sheathing. This will maintain the 45 degree pitch. Level each board as you install. Tack the boards in first using *2 1/2” galvanized finishing nails* loaded in the *Finishing Nailer*. Then use two *2 1/2” Hex Deck Screws* to attach the boards to the rafters. This will help provide additional strength to the rafters, and insures the gutters have plenty of support during rainfall.
+Install the boards 1.5” below where the fascia meets the sheathing. This will maintain the 45 degree pitch and insure the roofing extends past the fascia. Level each board as you install. Tack the boards in first using *2 1/2” Galvanized Finishing nails* loaded in the *Finishing Nailer*. Then use two *2 1/2” Hex Deck Screws* to attach the boards to the rafters using your *Impact Driver*. This will help provide additional strength to the rafters, and insures the gutters have plenty of support during rainfall.
 
 ### Cutting & Burning Tip
 You can measure and precut the boards before burning & oiling them or you can cut them afterwards and use a *Butane Torch* loaded with *Butane* to touch up the exposed areas.
@@ -140,10 +111,13 @@ You'll want to use *Pop Rivets* inserted in to a *Pop Rivet Gun* to compress and
 | Speed Square | 1 
 | Plumb Chalk Line | 1
 | 8' Step Ladder | 
-| 24' Extension Ladder | 1 | 169.99
-| Ladder Lock | 1 | 39.39
-| 8' Straight Ladder | 1 | 86.22
-| Ladder Hook with Wheel | 2 | 45.50
+| 24' Extension Ladder | 1
+| Ladder Lock | 1
+| 8' Straight Ladder | 1
+| Ladder Hook with Wheel | 2
+| Tape Measure | 1
+| Finishing Nailer |
+| Battery-Powered Impact Driver |
  
 ## Tools
 
@@ -168,3 +142,29 @@ You'll want to use *Pop Rivets* inserted in to a *Pop Rivet Gun* to compress and
 | 1x8x12 | 4 | Fascia
 | 1 1/2” galvanized finishing nails
 | 2 1/2” galvanized finishing nails
+
+
+30 panels at 10' 6" length
+
+5 ~10' sections or 50' - Plumb Rake Drip Edge (12:12 pitch)
+
+4 ~10' sections or 40' - Square Eave Drip Edge
+
+2 ~10' sections or 20' - Ridge Cap (12:12 pitch)
+
+Screws
+
+### Pricing
+* Advantage-Lok $2.53 / linear ft
+* Drip Edge $23 / piece 10.5 ft
+* Drip edge is 10.5 feet long regardless
+* Ridge Vent $15.90 / each 32" wide
+* Standing Seam Panels
+* Ridge Flashing
+* Vented Ridge Closure
+* Ventco Ridge Cap Anchor Clip
+* Pop Rivet
+* 1" #10 Pancake Head Woodscrew
+* 2" Pancake Head Woodscrew
+* Double Beaded Butyl Tape
+

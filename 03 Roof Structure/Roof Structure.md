@@ -59,7 +59,7 @@ For additional support during construction, add *Connecting Plates* to the ridge
 
 ![](images/C05.svg)
 
-Install the remaining rafters using the provided nailing schedule. Attach *Hurricane Ties* using *Hurricane Tie Screws* where the rafters meet the raised top plate using a *Battery Powered Driver*.
+Install the remaining rafters using the provided nailing schedule. Attach *Hurricane Ties* using *Hurricane Tie Screws* where the rafters meet the raised top plate using a *Battery Powered Impact Driver*.
 
 [![Blueprint C05](blueprints/C05.svg)](blueprints/C08.pdf)
 
@@ -165,6 +165,7 @@ Cut an 8 inch strip of Roof Felt to cover the ridge beam. This will make the str
 |---|
 | Battery Powered Handheld Circular Saw 
 | Battery Powered Electric Nail Gun 
+| Battery Powered Impact Driver
 | 48 Inch Level 
 | Hammer
 | String Line

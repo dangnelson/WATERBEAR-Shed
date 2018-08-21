@@ -178,11 +178,10 @@ Bricks on tarp
 | [Wheel Barrow](https://en.wikipedia.org/wiki/Wheelbarrow) | 1 | 49.97
 | [N95 Dust Mask](https://en.wikipedia.org/wiki/Dust_mask) | 2 | 7.47
 | Pair of Cleaning Gloves | 1 | 1.98
-| Drill | 1| 159.00
+| Battery Powered Drill | 1| 159.00
 | Bit for Drilling Bolt holes | 1 | 9.97
 | 1/2" Socket Wrench | 1 | 26.19
 | [Tamper](https://en.wikipedia.org/wiki/Tamp) | 1 | 26.98
-| Battery-Powered Drill | 1 |
 | Battery-Powered Impact Driver | 1
 | 1/2" diameter 6" long brad point bit 
 |**Estimated Total**||**1144.07**

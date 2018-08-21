@@ -9,6 +9,7 @@
 * Perfect for rainwater collection.
 * Charred-wood siding.
 * Code Compliant
+* Battery-Powered Construction
 
 ## Goals
 
