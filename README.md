@@ -17,7 +17,7 @@ Here are some goals we're working towards with this design:
 
 * Plastic-free
 * Paint-free
-* Compostable / Recyclable.
+* Fully compostable / Recyclable.
 * Off-grid Solar Power.
 
 ## Supplies Lists

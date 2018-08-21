@@ -124,7 +124,12 @@ This is a good time to figure out how to cover the structure with a tarp so you 
 
 ![](images/B06.svg)
 
-Wearing proper attire, scorch the 1x6s using a *Propane Torch* attached to a *Propane Tank* until the surface begins to char. Avoid plastic or loose hanging clothing. Once cool, brush the soot off with a deck brush, you may want to wear a mask. Wash the remaining soot off with a *Handheld Sprayer* filled with water. Once dry, coat the wood with an oil (we used tung oil) using a rag (rip up an old towel) and protective gloves. Let the oil dry before installing. Install 3/4" out from the doorway so it will match up with the rain screen later. Hang up used rags to dry before throwing them away, rags soaked in tung oil can spontaneously combust.
+Finish the 1x6s using the Shou Sugi Ban technique. Install them 3/4" out from the doorway so it will match up with the rain screen later. 
+
+### Wood Burning (Shou Sugi Ban)
+Wearing proper attire, using a *Propane Torch* attached to a *Propane Tank* until the surface begins to char. Avoid plastic or loose hanging clothing. Once cool, brush the soot off with a *Deck Brush*, you may want to wear a mask. Wash the remaining soot off with a *Handheld Sprayer* filled with water. Once dry, coat the wood with an oil (we used tung oil) using a rag (rip up an old towel) and protective gloves. Let the oil dry before installing. Hang up used rags outside to dry before throwing them away, rags soaked in tung oil can spontaneously combust.
+
+You can measure and precut the boards before burning & oiling them or you can cut them afterwards and use a *Butane Torch* loaded with *Butane* to touch up the exposed areas.
 
 [![](blueprints/B06.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/02%20Wall%20Structure/blueprints/B06.pdf)
 
@@ -179,13 +184,14 @@ Using a *Battery-Powered Drill* drill through the bottom plates and into the flo
 | [Large Propane Torch](https://en.wikipedia.org/wiki/Propane_torch)
 | [20 lb Propane Tank](https://en.wikipedia.org/wiki/Propane)
 | Handheld Weed Sprayer
-| [Tung Oil](https://en.wikipedia.org/wiki/Tung_oil)
-| Rag
-| [Thick / Long Rubber Gloves](https://en.wikipedia.org/wiki/Rubber_glove)
+| [Butane Torch](https://en.wikipedia.org/wiki/Butane_torch)
+| Butane Canister
+| Deck Brush |
 | [Hammer Tacker](https://en.wikipedia.org/wiki/Hammer_tacker)
 | 3/4" Ratchet Bit | 1
 | 1/4" Male Hex to 1/4" Square Drive Adapter | 1
 | 1/2" Drill Bit | 
+| Solar Surveyor App | 1 | $10
 
 ### Materials
 
@@ -219,3 +225,6 @@ Using a *Battery-Powered Drill* drill through the bottom plates and into the flo
 | 1/2" x 4 in. Galvanized Hex Lag Screw | 11
 | 1/2" Galvanized Washer | 11
 | T50 Staples |
+| [Tung Oil](https://en.wikipedia.org/wiki/Tung_oil)
+| Rags
+| [Thick / Long Rubber Gloves](https://en.wikipedia.org/wiki/Rubber_glove)

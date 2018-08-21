@@ -10,6 +10,10 @@ Check your local zoning regulations for `Setback Requirements`. Find the minimum
 ### Find Level Location
 To avoid major excavation, find a location which is fairly level. You can do this easily by using a *String Line* tied between two stakes with a *String Line Level* attached to the string to gauge slope.
 
+### Solar South
+
+Solar south will vary based on your location. *Sun Surveyor* is a great app for smart phones that can help you determine where solar south is and how much shade a location will get on winter solstice. The shed is designed so the side to the left of the doors faces south. This is so one side of the roof can be used for solar, and the other for rainwater collection.
+
 ## 1. Excavation 
 
 ![](images/A01.svg)
