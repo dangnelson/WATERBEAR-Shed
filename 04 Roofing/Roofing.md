@@ -6,7 +6,7 @@ This type of roofing is perfect for rainwater harvesting and ordering it with a 
 
 ### Dimensions
 
-A good supplier will order what you need for the roof based on the dimensions. The roofing coverage area is 2 sections which are both 10' 6" tall by 19' 1/2" wide.
+A good supplier will order what you need for the roof based on the dimensions and pitch. The roofing coverage area is 2 sections which are both 10' 6" tall by 19' 1/2" wide. The pitch of the roof is 12:12.
 
 [![](../blueprints/D01.svg)](../blueprints/D01.pdf)
 
@@ -130,36 +130,29 @@ The design of the ridge caps varies greatly by which manufacture you use, so fol
 ## Supplies 
 
 
-| Item | Amount | Use 
+| Item | Amount | Use | Pricing
 |---|---|---|---|
 | 2x6x12 | 2 | Fascia
 | 2x6x8 | 2 | Fascia
 | 1x8x12 | 4 | Fascia
-| 1 1/2” galvanized finishing nails
-| 2 1/2” galvanized finishing nails
+| 1 1/2” Galvanized finishing nails
+| 2 1/2” Galvanized finishing nails
+| Advantage-Lok |||$2.53 / linear ft
+| Drip Edge |||$23 / 10.5 ft piece
+| Drip edge is 10.5 feet long regardless
+| Ridge Vent |||$15.90 / each 32" wide
+| 10' 6" long Standing Seam Panels | 30 
+| Ridge Flashing
+| Vented Ridge Closure
+| Ventco Ridge Cap Anchor Clip
+| Pop Rivet
+| 1" #10 Pancake Head Woodscrew
+| 2" Pancake Head Woodscrew
+| Double Beaded Butyl Tape
+| Plumb Rake Drip Edge | 5 ~10' sections or 50'
+| Square Eave Drip Edge | 4 ~10' sections or 40'
+| Ridge Cap | 2 ~10' sections or 20' - 
+| Screws
 
 
-30 panels at 10' 6" length
-
-5 ~10' sections or 50' - Plumb Rake Drip Edge (12:12 pitch)
-
-4 ~10' sections or 40' - Square Eave Drip Edge
-
-2 ~10' sections or 20' - Ridge Cap (12:12 pitch)
-
-Screws
-
-### Pricing
-* Advantage-Lok $2.53 / linear ft
-* Drip Edge $23 / piece 10.5 ft
-* Drip edge is 10.5 feet long regardless
-* Ridge Vent $15.90 / each 32" wide
-* Standing Seam Panels
-* Ridge Flashing
-* Vented Ridge Closure
-* Ventco Ridge Cap Anchor Clip
-* Pop Rivet
-* 1" #10 Pancake Head Woodscrew
-* 2" Pancake Head Woodscrew
-* Double Beaded Butyl Tape
 
