@@ -1,12 +1,12 @@
 # Roof Structure
 
-The roof is designed with a steep 45 degree pitch to shed water and debris quickly so it will last longer. It has wide overhangs to help keep the siding dry. The roofing material used is mill finish Galvalume steel, which is perfect for rainwater harvesting. 
+The roof is designed with a steep 45 degree (12:12) pitch to shed water and debris quickly so it will last longer. It has wide overhangs to help keep the siding dry.
 
 ![](images/RoofVocab.svg)
 
 Wait to start the roof until you have a good few days to work on it. It will be hard to cover until at least the roof sheathing is up because of wind. Precut the rafters and assemble the gables in advance. Now that the shed is enclosed, you can store the supplies for the roof inside. To help with organization we recommend building a simple lumber rack to accommodate the larger materials. 
 
-## 01 Raised Top Plate 
+## 01. Raised Top Plate 
 
 Cut the 2x4s to size using the *Battery Powered Handheld Circular Saw* and install them using the *Battery Powered Electric Nail Gun*.
 
@@ -18,18 +18,18 @@ Cut the 2x4s to size using the *Battery Powered Handheld Circular Saw* and insta
 
 ![](images/C01.svg)
 
-![](blueprints/C01.svg)
+[![](blueprints/C01.svg)](blueprints/C01.pdf)
 
-## 02 Gables 
+## 02. Gables 
 
 Cut, then assemble the gables on a flat surface. Cut a forty five degree edge onto the end of a spare 2x4x8. Stand up a gable and nail it to the joist below. Have someone level the gable while someone else attaches the notched 2x4 to the center beam and a floor joist to keep it from tipping until the rafters and roof sheathing are installed.
 
 ![](images/C02.svg)
 
-![](blueprints/C02.svg)
+[![](blueprints/C02.svg)](blueprints/C02.pdf)
 
 
-## 03 Rafter Overhangs 
+## 03. Rafter Overhangs 
 
 ![](images/C03.svg)
 
@@ -37,15 +37,15 @@ Cut the rafters to size using the dimensions provided (C.03A). Make sure to cut 
 
 Pre-assemble three of the rafters, which connect to the outriggers, with the overhang blocking (C.03D) before lifting them into place. Nail the rafter bottoms into the raised top plate and nail up from under the gable to secure the center rafter. Repeat for all four corners. See Rafter section for fastening.
 
-![](blueprints/C03A.svg)
+[![](blueprints/C03A.svg)](blueprints/C03A.pdf)
 
-![](blueprints/C03B.svg)
+[![](blueprints/C03B.svg)](blueprints/C03B.pdf)
 
-![](blueprints/C03C.svg)
+[![](blueprints/C03C.svg)](blueprints/C03C.pdf)
 
-![](blueprints/C03D.svg)
+[![](blueprints/C03D.svg)](blueprints/C03D.pdf)
 
-## 04 Ridge Beam 
+## 04. Ridge Beam 
 
 ![](images/C04.svg)
 
@@ -53,15 +53,15 @@ Next, run a *String Line* with a *String Line Level* east to west to determine a
 
 For additional support during construction, add *Connecting Plates* to the ridge beam joint.
 
-![](blueprints/C04.svg)
+[![Blueprint C04](blueprints/C04.svg)](blueprints/C04.pdf)
 
-## 05 Rafters 
+## 05. Rafters 
 
 ![](images/C05.svg)
 
-Install the remaining rafters using the provided nailing schedule. Attach *Hurricane Ties* using *Hurricane Tie Screws* where the rafters meet the raised top plate using a *Battery Powered Driver*.
+Install the remaining rafters using the provided nailing schedule. Attach *Hurricane Ties* using *Hurricane Tie Screws* where the rafters meet the raised top plate using a *Battery Powered Impact Driver*.
 
-![](blueprints/C05.svg)
+[![Blueprint C05](blueprints/C05.svg)](blueprints/C08.pdf)
 
 ### Rafter Nail Fastening
 
@@ -71,14 +71,14 @@ Install the remaining rafters using the provided nailing schedule. Attach *Hurri
 | Rafter to ridge, toe nail | 3.5" | 4 | 32 | 128
 |**Total**|||| 192
 
-## 06 Collar Ties 
+## 06. Collar Ties 
  
-![](images/C06.svg)
+[![Blueprint C06](images/C06.svg)](blueprints/C06.pdf)
 
 Install collar ties to help prevent the rafters from coming apart at the top. 
 
-![](blueprints/C06A.svg)
-![](blueprints/C06B.svg)
+[![Blueprint C06A](blueprints/C06A.svg)](blueprints/C06A.pdf)
+[![Blueprint C06B](blueprints/C06B.svg)](blueprints/C06B.pdf)
 
 ### Collar Tie Fastening `IRC Table 602.3(1)`
 
@@ -86,9 +86,9 @@ Install collar ties to help prevent the rafters from coming apart at the top.
 | --- | --- | ---
 | Collar tie to rafter, face nail | 3" | 3 nails on each side | 6 connections (9 Nails)
 
-## 07 Roof Sheathing 
+## 07. Roof Sheathing 
 
-![](images/C07.svg) 
+[![Blueprint C07](images/C07.svg)](blueprints/C07.pdf) 
 
 Roof sheathing must be at least 5/8 inches thick (IRC TABLE R803.1)
 
@@ -103,7 +103,7 @@ Install H-Clips between the panels to add spacing between the panels so they can
 
 It may be difficult to reach across far enough to nail each piece in completely. In this case secure each piece as much as possible and make a note to finish the nailing schedule with a ladder once you're done.
 
-![](blueprints/C07.svg) 
+[![Blueprint C07](blueprints/C07.svg)](blueprints/C07.pdf)
 
 ### Sheathing Fastening  `IRC TABLE R602.3(1)`
 
@@ -124,11 +124,11 @@ Ladder safety is extremely important, especially with a roof of this slope. You'
 
 This is a good time to figure out how to cover the structure with a tarp so the shed is protected from rain and you can take a break while finishing the gables. We wrapped a tarp over the roof and under the rake overhangs, tying off to the overhang blocking. Until we had the gable felt installed, we tied another tarp off starting with a corner under the ridge overhang and down to the eaves.
 
-## 08 Gable Sheathing 
+## 08. Gable Sheathing 
 
 ![](images/C08.svg)
 
-![](blueprints/C08.svg)
+[![Blueprint C08](blueprints/C08.svg)](blueprints/C08.pdf)
 
 ### Sheathing Fastening
 
@@ -143,11 +143,11 @@ This is a good time to figure out how to cover the structure with a tarp so the 
 
 
 
-## 09 Gable Felt 
+## 09. Gable Felt 
 
 ![](images/C09.svg)
 
-## 10 Roof Felt 
+## 10. Roof Felt 
 
 ![](images/C10.svg) 
 
@@ -165,11 +165,13 @@ Cut an 8 inch strip of Roof Felt to cover the ridge beam. This will make the str
 |---|
 | Battery Powered Handheld Circular Saw 
 | Battery Powered Electric Nail Gun 
+| Battery Powered Impact Driver
 | 48 Inch Level 
 | Hammer
 | String Line
 | String Line Level
 | Hammer Tacker 
+| Speed Square 
 
 ### New Tools
 

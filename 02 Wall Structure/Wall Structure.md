@@ -7,7 +7,7 @@
 ### Build Walls
 Build the west back wall (Blueprint B.01A) first using the shed floor as a surface. Cut studs to size using a *Battery Powered Circular Saw*. Mark the top and bottom plates using a *Carpenter's Pencil* and *Measuring Tape* and nail them together using a *Battery Powered Nail Gun*. Use a *Hammer* to finish driving any nails that stick out. Stand up the wall and nail spare 2x4s at about a 45 degree angle on either side to the end of the floor joists while leveling using a *48 Inch Level*. Next stand up the north/south walls (Blueprint B.01B), and finally the other east/west wall (Blueprint B.01C).
 
-[![](blueprints/B01A.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/02%20Wall%20Structure/blueprints/B01a.pdf)
+[![Blueprint B01A](blueprints/B01A.svg)](blueprints/B01a.pdf)
 
 ### Stud & Header Nail Fastening `IRC Table 602.3(1)`
 
@@ -20,9 +20,7 @@ Build the west back wall (Blueprint B.01A) first using the shed floor as a surfa
 | Top or Bottom Plate to Stud| End Nail | 3.5" | 2 nails | 82 (164 Nails)
 |**Total**| | | | 12 3" Nails, <br/>196 3.5" Nails
 
-[![](blueprints/B01A.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/02%20Wall%20Structure/blueprints/B01a.pdf)
-
-[![](blueprints/B01B.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/02%20Wall%20Structure/blueprints/B01b.pdf)
+[![Blueprint B01B](blueprints/B01B.svg)](blueprints/B01b.pdf)
 
 ### Headers `IRC TABLE R502.5(1)`
 
@@ -126,7 +124,12 @@ This is a good time to figure out how to cover the structure with a tarp so you 
 
 ![](images/B06.svg)
 
-Wearing proper attire, scorch the 1x6s using a *Propane Torch* attached to a *Propane Tank* until the surface begins to char. Avoid plastic or loose hanging clothing. Once cool, brush the soot off with a deck brush, you may want to wear a mask. Wash the remaining soot off with a *Handheld Sprayer* filled with water. Once dry, coat the wood with an oil (we used tung oil) using a rag (rip up an old towel) and protective gloves. Let the oil dry before installing. Install 3/4" out from the doorway so it will match up with the rain screen later. Hang up used rags to dry before throwing them away, rags soaked in tung oil can spontaneously combust.
+Finish the 1x6s using the Shou Sugi Ban technique. Install them 3/4" out from the doorway so it will match up with the rain screen later. 
+
+### Wood Burning (Shou Sugi Ban)
+Wearing proper attire, using a *Propane Torch* attached to a *Propane Tank* until the surface begins to char. Avoid plastic or loose hanging clothing. Once cool, brush the soot off with a *Deck Brush*, you may want to wear a mask. Wash the remaining soot off with a *Handheld Sprayer* filled with water. Once dry, coat the wood with an oil (we used tung oil) using a rag (rip up an old towel) and protective gloves. Let the oil dry before installing. Hang up used rags outside to dry before throwing them away, rags soaked in tung oil can spontaneously combust.
+
+You can measure and precut the boards before burning & oiling them or you can cut them afterwards and use a *Butane Torch* loaded with *Butane* to touch up the exposed areas.
 
 [![](blueprints/B06.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/02%20Wall%20Structure/blueprints/B06.pdf)
 
@@ -167,6 +170,9 @@ Using a *Battery-Powered Drill* drill through the bottom plates and into the flo
 | Battery Powered Handheld Circular Saw 
 | Battery Powered Electric Nail Gun 
 | Hammer |
+| Speed Square 
+| Battery-Powered Drill | 1 |
+
 
 ### New Tools
 
@@ -174,19 +180,18 @@ Using a *Battery-Powered Drill* drill through the bottom plates and into the flo
 |---|---|
 | 48 Inch Level | 1
 | [Carpenter's Pencils] (https://en.wikipedia.org/wiki/Carpenter_pencil) with sharpener | 1
-| 8 ft Step Ladder | 1
+| 8' Step Ladder | 1
 | [Large Propane Torch](https://en.wikipedia.org/wiki/Propane_torch)
 | [20 lb Propane Tank](https://en.wikipedia.org/wiki/Propane)
 | Handheld Weed Sprayer
-| [Tung Oil](https://en.wikipedia.org/wiki/Tung_oil)
-| Rag
-| [Thick / Long Rubber Gloves](https://en.wikipedia.org/wiki/Rubber_glove)
+| [Butane Torch](https://en.wikipedia.org/wiki/Butane_torch)
+| Butane Canister
+| Deck Brush |
 | [Hammer Tacker](https://en.wikipedia.org/wiki/Hammer_tacker)
-| Battery-Powered Drill | 1 |
 | 3/4" Ratchet Bit | 1
-| Battery-Powered Impact Driver | 1
 | 1/4" Male Hex to 1/4" Square Drive Adapter | 1
 | 1/2" Drill Bit | 
+| Solar Surveyor App | 1 | $10
 
 ### Materials
 
@@ -220,3 +225,6 @@ Using a *Battery-Powered Drill* drill through the bottom plates and into the flo
 | 1/2" x 4 in. Galvanized Hex Lag Screw | 11
 | 1/2" Galvanized Washer | 11
 | T50 Staples |
+| [Tung Oil](https://en.wikipedia.org/wiki/Tung_oil)
+| Rags
+| [Thick / Long Rubber Gloves](https://en.wikipedia.org/wiki/Rubber_glove)

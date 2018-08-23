@@ -10,6 +10,10 @@ Check your local zoning regulations for `Setback Requirements`. Find the minimum
 ### Find Level Location
 To avoid major excavation, find a location which is fairly level. You can do this easily by using a *String Line* tied between two stakes with a *String Line Level* attached to the string to gauge slope.
 
+### Solar South
+
+Solar south will vary based on your location. *Sun Surveyor* is a great app for smart phones that can help you determine where solar south is and how much shade a location will get on winter solstice. The shed is designed so the side to the left of the doors faces south. This is so one side of the roof can be used for solar, and the other for rainwater collection.
+
 ## 1. Excavation 
 
 ![](images/A01.svg)
@@ -30,7 +34,7 @@ Use the *Shovel(s)* and *Wheel Barrow* to remove any grass, shrubs or debris fro
 
 ### Level Ground
 
-Attach *String Line Levels* to the strings on all four sides. Level starting roughly an inch above the ground at the highest point. Use this as a guide to remove top soil until the ground is leveled.
+Attach *String Line Levels* to the strings on all four sides. Level starting roughly an inch above the ground at the highest point. Use this as a guide to remove top soil until the ground is leveled. Tamp the toil with a *Tamper*.
 
 ### Retaining Wall (avoid)
 
@@ -73,7 +77,7 @@ Wait a day and remove the *Cardboard Concrete Form Tubes* from around the piers.
 
 ### Cut & Insert Piers
 
-Cut the *Treated 4x4x8s* to size and insert them into the *Galvanized Post Bases*
+Cut the *Treated 4x4x8s* to size and insert them into the *Galvanized Post Bases*. Drill the bolt holes out using a *Battery Powered Drill* and a *1/2" diameter 6" long brad point bit*. Insert the *6" Galvanized Carriage Bolts* and tighten the *1/2" Galvanized Washers* and *1/2" Galvanized Nuts* with a *1/2" Socket Wrench*.
 
 ### Treated wood
 
@@ -162,6 +166,7 @@ Bricks on tarp
 | [Hand Saw](https://en.wikipedia.org/wiki/Hand_saw) | 1 | 9.94
 | [Hoe](https://en.wikipedia.org/wiki/Hoe_(tool)) | 1 | 15.97
 | [Hand-held Circular Saw](https://en.wikipedia.org/wiki/Circular_saw) (Battery Powered)| 1 | 279.00
+| Circular Saw Rip [Fence](https://en.wikipedia.org/wiki/Fence_(woodworking)) | 1 |
 | [Nail Gun](https://en.wikipedia.org/wiki/Nail_gun)  (Battery Powered)| 1 | 399.00
 | Marking Spray Paint | 1 | 5.27
 | 2 ft Wooden [Stakes](https://en.wikipedia.org/wiki/Survey_stakes) | 4 | 4.97
@@ -177,10 +182,13 @@ Bricks on tarp
 | [Wheel Barrow](https://en.wikipedia.org/wiki/Wheelbarrow) | 1 | 49.97
 | [N95 Dust Mask](https://en.wikipedia.org/wiki/Dust_mask) | 2 | 7.47
 | Pair of Cleaning Gloves | 1 | 1.98
-| Drill | 1| 159.00
+| Battery Powered Drill | 1| 159.00
 | Bit for Drilling Bolt holes | 1 | 9.97
-| 1/2" Socket Wrench | 1| 26.19
-|**Estimated Total**||**1117.09**
+| 1/2" Socket Wrench | 1 | 26.19
+| [Tamper](https://en.wikipedia.org/wiki/Tamp) | 1 | 26.98
+| Battery-Powered Impact Driver | 1
+| 1/2" diameter 6" long brad point bit 
+|**Estimated Total**||**1144.07**
 
 ### Materials
 

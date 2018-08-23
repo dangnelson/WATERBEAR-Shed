@@ -1,6 +1,6 @@
 # Off-Grid Shed
 
-![Finished Shed](05%20Wall%20Exterior/images/D03.svg)
+![Finished Shed](05%20Wall%20Exterior/images/E04.svg)
 
 
 ## Features
@@ -9,14 +9,16 @@
 * Perfect for rainwater collection.
 * Charred-wood siding.
 * Code Compliant
+* Battery-Powered Construction
 
 ## Goals
 
-Here are some goals we're working towards:
+Here are some goals we're working towards with this design:
 
-* Plastic-free construction
-* Compostable / Recyclable construction.
-* Off-grid solar power.
+* Plastic-free
+* Paint-free
+* Fully compostable / Recyclable.
+* Off-grid Solar Power.
 
 ## Supplies Lists
 
@@ -33,3 +35,6 @@ You can find a version of the code adopted for your area here:
 
 Purchase Battery-Powered Tools from the same manufacturer that use the same batteries. This will save you money as you can buy "Tool-Only" versions online once you have a 3-4 batteries on hand. Make sure the manufacturer makes a car charger for the batteries. Car cigarette lighter outlets provide DC power and are common ports used by simple solar panel setups. This will allow you to charge your batteries directly off a solar panel with a charge controller rather than having to use a more expensive power inverter setup.
 
+## Suppliers
+
+Finding suppliers can be difficult if you're new. Talk with local contractors or read reviews of local supply companies. Look for a roofing supplier and lumber yard early and make sure they carry what you'll need before working with them and establishing a relationship. Working with suppliers can be a much more personal experience than going to a big box store as they tend to work with the same contractors for years and know each other on a first name basis.
