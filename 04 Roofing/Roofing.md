@@ -109,11 +109,7 @@ The design of the ridge caps varies greatly by which manufacture you use, so fol
 | Large Propane Torch
 | 20 lb Propane Tank
 | Butane Torch
-| Butane
 | Handheld Weed Sprayer
-| Tung Oil
-| Rag
-| Thick / Long Rubber Gloves
 | Deck Brush |
  
 ## New Tools
@@ -125,6 +121,8 @@ The design of the ridge caps varies greatly by which manufacture you use, so fol
 | Shears Attachment Accessory
 | 16" Roofing Bending Tool
 | 3" Metal Hand Seamer
+| Caulking Gun
+| Rubber Mallet
 
 
 ## Supplies 
@@ -135,24 +133,22 @@ The design of the ridge caps varies greatly by which manufacture you use, so fol
 | 2x6x12 | 2 | Fascia
 | 2x6x8 | 2 | Fascia
 | 1x8x12 | 4 | Fascia
+| 2 1/2” Hex Deck Screws
 | 1 1/2” Galvanized finishing nails
 | 2 1/2” Galvanized finishing nails
-| Advantage-Lok |||$2.53 / linear ft
-| Drip Edge |||$23 / 10.5 ft piece
-| Drip edge is 10.5 feet long regardless
-| Ridge Vent |||$15.90 / each 32" wide
-| 10' 6" long Standing Seam Panels | 30 
-| Ridge Flashing
-| Vented Ridge Closure
-| Ventco Ridge Cap Anchor Clip
-| Pop Rivet
+| Tung Oil
+| Rags
+| Thick / Long Rubber Gloves
+| Butane
+| Plumb Rake Drip Edge | 5 ~10' sections or 50'||$23 / 10.5 ft piece
+| Square Eave Drip Edge | 4 ~10' sections or 40'
+| Ridge Cap | 2 ~10' sections or 20' ||$15.90 / each 32" wide
+| 10' 6" long Standing Seam Panels | 30 ||$2.53 / linear ft
+| Pop Rivets
 | 1" #10 Pancake Head Woodscrew
 | 2" Pancake Head Woodscrew
 | Double Beaded Butyl Tape
-| Plumb Rake Drip Edge | 5 ~10' sections or 50'
-| Square Eave Drip Edge | 4 ~10' sections or 40'
-| Ridge Cap | 2 ~10' sections or 20' - 
-| Screws
+
 
 
 
