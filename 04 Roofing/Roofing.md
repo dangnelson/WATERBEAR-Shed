@@ -1,8 +1,6 @@
 # Roofing
 
-Look for 24-Gauge, 16" Width, Standing Seam, Snap Lock, Striated, Galvalume Coated, Steel Roofing with Unpainted Mill Finish.
-
-This type of roofing is perfect for rainwater harvesting and ordering it with a "mill finish" avoids the use of paint.
+Look for 24-Gauge, 16" Width, Standing Seam, Snap Lock, Striated, Galvalume Coated, Steel Roofing with Unpainted Mill Finish. This type of roofing is perfect for rainwater harvesting and ordering it with a "mill finish" avoids the use of paint.
 
 ### Dimensions
 
@@ -35,11 +33,7 @@ To measure and cut the four 1x8x12 Boards for the Rake Fascia, first cut 45 degr
 To trim metal use *Metal Snips* for detail work, and a *Shears Attachment Accessory* attached to your *Driver* for long cuts. 
 
 ### Eave Drip Edge
-Install the *Eave Drip Edge* lapped under the underlayment  at the eave using *1" Pancake Head Woodscrews*. Join pieces by trimming the folded sections of the edges so that one can slide into the other. 
-
-If the drip edge is difficult to screw through, pre-drill holes as often as required in the manufacturer instructions.
-
-Use *Pop Rivets* inserted in to a *Pop Rivet Gun* to join any seams so that they become flush.
+Install the *Eave Drip Edge* lapped under the underlayment  at the eave using *1" Pancake Head Woodscrews*. Join pieces by trimming the folded sections of the edges so that one can slide into the other. If the drip edge is difficult to screw through, pre-drill holes as often as required in the manufacturer instructions. Use *Pop Rivets* inserted in to a *Pop Rivet Gun* to join any seams so that they become flush.
 
 ### Rake Drip Edge
 Next install the *Rake Drip Edge* over the underlayment starting at the top. Cut the top edge at a 45 degree angle leaving the first side with some excess on the face which is flush with the fascia. This will allow the second side to sit overtop and give a cleaner look at the joint.
@@ -72,9 +66,7 @@ For the remaining panels prep them by trimming and bending the bottom edge. Then
 
 ### Last Panel
 
-For the last panel, snap the bottom on and rest the seam on the lock edge so you can draw a line using the drip edge on the panel as your guide. Take the panel down and measure 1 1/8" out from the line and mark it with your chalk line. Cut and bend the edge before sliding and snapping it into place. Close the bends as desired using a *3" Hand Seamer*.
-
-Repeat these steps for the other side of the roof.
+For the last panel, snap the bottom on and rest the seam on the lock edge so you can draw a line using the drip edge on the panel as your guide. Take the panel down and measure 1 1/8" out from the line and mark it with your chalk line. Cut and bend the edge before sliding and snapping it into place. Close the bends as desired using a *3" Hand Seamer*. Repeat these steps for the other side of the roof.
 
 ## 04. Vented Ridge Cap
 
@@ -85,9 +77,7 @@ To insure the bottom pieces are at the right angle, make  a guide out of two 2x4
 
 ### Installation
 
-Install the inner roof cap at the marked angles one side at a time per manufacturer instructions.
-
-The design of the ridge caps varies greatly by which manufacture you use, so follow the instructions you're given. You made need a *Caulking Gun* if the manufacturer recommends using sealant.
+Install the inner roof cap at the marked angles one side at a time per manufacturer instructions. The design of the ridge caps varies greatly by which manufacture you use, so follow the instructions you're given. You made need a *Caulking Gun* if the manufacturer recommends using sealant.
 
 ## Existing Tools
 
@@ -115,7 +105,7 @@ The design of the ridge caps varies greatly by which manufacture you use, so fol
 ## New Tools
 
 | Item | Amount |
-|---|---|---|
+|---|---|
 | 16 Gauge Finishing Nailer | 1 |
 | Metal Snips | 
 | Shears Attachment Accessory
