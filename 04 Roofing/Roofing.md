@@ -8,7 +8,7 @@ This type of roofing is perfect for rainwater harvesting and ordering it with a 
 
 A good supplier will order what you need for the roof based on the dimensions and pitch. The roofing coverage area is 2 sections which are both 10' 6" tall by 19' 1/2" wide. The pitch of the roof is 12:12.
 
-[![](../blueprints/D01.svg)](../blueprints/D01.pdf)
+[![](./blueprints/D01.svg)](./blueprints/D01.pdf)
 
 ### Read the Manufacturer Instructions
 
