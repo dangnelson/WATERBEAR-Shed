@@ -6,43 +6,27 @@ The space between wall paper and siding is called a rain screen. It assumes that
 
 ![](images/E01.svg)
 
-Insect screen is installed at the top and bottom of the rain screen to keep insects from living behind your siding.
+An insect screen is installed at the top and bottom of the rain screen to keep insects from living behind your siding while allowing ventilation and drainage.
 
-We used a product called Coravent, which is corrugated plastic with a plastic fabric mesh on one side. We’re currently looking for a plastic-free alternative. Please contact us if you’re aware of one.
+We used a product called *Coravent*, corrugated plastic strips with a plastic fabric mesh on one side. We’re currently looking for a plastic-free alternative. Please contact us if you’re aware of one.
 
-Attachment schedule?
-
-12 4' strips on bottom
-
-16 4' strips for top
-
-28 4' strips total
+Tack the strips in first using *2 1/2” Galvanized Finishing nails* loaded in the *Finishing Nailer* as needed.
 
 ## 02. Furring Strips
 
 ![](images/E02.svg)
 
-Furring strips are attached vertically inline with the studs. Since the rafters line up with the studs, simply place the top of a strip inline with the rafter center at the top and then level, resting the bottom on the insect screen.
-
-Attachment schedule?
-
-| Item | Amount |
-|---|---|---|---|
-|1x2x8 Furring Strips | 50
-
+*1"x2"x8' Furring Strips* are attached vertically inline with the studs. Since the rafters line up with the studs, simply place the top of a strip inline with the rafter center at the top and then *Level*, resting the bottom on the insect screen. Tack in with finishing nails as needed.
 
 ## 03. Eave End Blocking 
 
 ![](images/E03.svg)
 
-Use Scrap lumber from the rafters to build out the eave end blocking. This will give you something to attach the fascia to.  
+Use leftover lumber from the rafters to build out eave end blocking. This will give you something to attach the siding to. Install using the *Battery Powered Electric Nail Gun* loaded with *2.5" Nails*.
 
 ![](blueprints/C11.svg)
 
------
-
 ## 04. Siding
-
 
 ![](images/E04.svg)
 
@@ -69,34 +53,13 @@ Sold in precut lengths:
 | 12' lengths | 14' | east / west | 30 | 22.2 | 666
 | **Total** | ||&#36;1727.4
 
-####Shou Sugi Ban
 
-Propane Torch
-
-Propane
-
-Oil (tung or other)
-
-Bucket for oil
-
-Rag or brush for oil
-
-Gloves
-
-Coarse Brush
 
 
 Burn until black, ash patches means your overdone. Not a big deal, it will come off with brushing. Burn from the female side, it will reduce how often the sides catch fire. Brush all excess off until you see the grain. Wash the remaining dust off. Oil the wood using a rag or brush and install.
 
 ## 05. Soffit Vents
 
-
-### Ramp
-
-| Item | Amount |
-|---|---|---|---| 
-| 2x12x12 treated | 2
-| 4x8 19/32" exterior plywood | 2
 
 ## Fascia Flashing
 
@@ -109,3 +72,16 @@ gutter slope is set between 1/4 to 1/2 inch per 10 feet of guttering.
 75 degree elbows are standard
 
 You’ll need 3 for outlets and 4 for rain barrels
+
+## Existing Tools
+
+| 48 Inch Level | 1
+
+## New Tools
+
+## Supplies
+
+| Item | Amount | Use | Pricing
+|---|---|---|---|
+| 4' Coravent Strips | 28
+| 1"x2"x8' Furring Strips | 50
