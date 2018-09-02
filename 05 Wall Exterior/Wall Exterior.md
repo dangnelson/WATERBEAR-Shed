@@ -88,22 +88,22 @@ For the side under the rake fascia, start by cutting a 45 degree angle so it sli
 
 For the rake underside, *Measure* the cut by having one person stand on the *Extension Ladder* while another stands on the *Step Ladder*. To install, pass the siding up to the person at the ridge and have the other hold it in place at the eave end. Nail it in twice at each piece of blocking. Install  with the grove against the wall so the second piece can slide into the first.
 
-## Fascia Flashing
+## 05. Eave Fascia Flashing
 
-Fascia tends to be a favorite place for carpenters bees to nest. An easy way to protect against this is to install flashing over top. To create the flashing, find a local shop that has a brake. It’s a large metal bending tool. Purchase a roll of 10 inch flashing and cut four 10 foot sections. Bend 
+Eave fascia tends to be a favorite place for carpenters bees to nest. An easy way to protect against this is to install flashing over top. To create the flashing, find a local shop that has a brake. It’s a large metal bending tool. Purchase a roll of *10 inch roll of flashing* and cut four 10 foot sections. Mark and bend each piece at 5 1/2 inches and then 7 inches. The flashing can then slide under the eave drip edge and lap over the fascia. Attach it to the fascia using *1” Roofing Nails* just use enough to keep it in place until the gutters are installed.
 
-Install flashing over the fascia to keep carpenter bees away.
-
-## 05. Soffit Vents
+## 06. Soffit Vents
 Install J-Channels first on the inside of the fascia. To make it easier to install, you can cut flaps in the upper section and fold them up to screw them in. Install them about 1/2”-1” above the bottom of the fascia edge. Use a level to mark the siding for the j-channel which runs along the siding. Measure up the same distance and install it using your marks. Measure the distance between the fascia and the wall and subtract 1/8” to get the size of your soffit vent cuts.
 
-## Gutters
+## 07. Gutters
 
-Gutter slope is set between 1/4 to 1/2 inch per 10 feet of guttering.
+4 Inch Half Round Aluminum gutters
 
-75 degree elbows are standard
+Gutter slope is set between 1/4 to 1/2 inch per 10 feet of gutter. 75 degree elbows are standard
 
-You’ll need 3 for outlets and 4 for rain barrels
+24" on center spacing
+
+You’ll need 3 for outlets and 4 elbows for rain barrels.
 
 ## Rain Barrels
 
