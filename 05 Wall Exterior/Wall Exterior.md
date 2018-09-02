@@ -76,7 +76,17 @@ Once the small door is cut out completely, sever the nails you put in to hold th
 
 Next, finish your remaining cuts to open the double doors.
 
-### Siding Detailing
+### Eave End Siding
+
+To cover the eave ends, start at the top underside of the rake and work your way down. For the first piece, cut a 45 degree lip in a small section of siding that can slide up to the 45 degree angle of the rake underside. 
+
+45 degree cuts can be easily done by adjusting your *Circular Saw* to 45 degrees and using your *Rip Guide* against the siding edge to get a straight cut.
+
+For the side under the rake fascia, start by cutting a 45 degree angle so it slides under the rake fascia.
+
+### Rake Underside Siding
+
+For the rake underside, *Measure* the cut by having one person stand on the *Extension Ladder* while another stands on the *Step Ladder*. To install, 
 
 ## Fascia Flashing
 
