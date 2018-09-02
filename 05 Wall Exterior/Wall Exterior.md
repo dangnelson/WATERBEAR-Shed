@@ -86,18 +86,20 @@ For the side under the rake fascia, start by cutting a 45 degree angle so it sli
 
 ### Rake Underside Siding
 
-For the rake underside, *Measure* the cut by having one person stand on the *Extension Ladder* while another stands on the *Step Ladder*. To install, 
+For the rake underside, *Measure* the cut by having one person stand on the *Extension Ladder* while another stands on the *Step Ladder*. To install, pass the siding up to the person at the ridge and have the other hold it in place at the eave end. Nail it in twice at each piece of blocking. Install  with the grove against the wall so the second piece can slide into the first.
 
 ## Fascia Flashing
 
-Install flashing over the fascia to keep carpenter bees away
+Fascia tends to be a favorite place for carpenters bees to nest. An easy way to protect against this is to install flashing over top. To create the flashing, find a local shop that has a brake. It’s a large metal bending tool. Purchase a roll of 10 inch flashing and cut four 10 foot sections. Bend 
+
+Install flashing over the fascia to keep carpenter bees away.
 
 ## 05. Soffit Vents
 Install J-Channels first on the inside of the fascia. To make it easier to install, you can cut flaps in the upper section and fold them up to screw them in. Install them about 1/2”-1” above the bottom of the fascia edge. Use a level to mark the siding for the j-channel which runs along the siding. Measure up the same distance and install it using your marks. Measure the distance between the fascia and the wall and subtract 1/8” to get the size of your soffit vent cuts.
 
 ## Gutters
 
-gutter slope is set between 1/4 to 1/2 inch per 10 feet of guttering.
+Gutter slope is set between 1/4 to 1/2 inch per 10 feet of guttering.
 
 75 degree elbows are standard
 
@@ -106,6 +108,8 @@ You’ll need 3 for outlets and 4 for rain barrels
 ## Rain Barrels
 
 ## Door Flashing & Hardware
+
+## Trim
 
 ## Siding Corners
 
