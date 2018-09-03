@@ -1,6 +1,6 @@
 # Off-Grid Shed
 
-![Finished Shed](05%20Wall%20Exterior/images/E04.svg)
+![Finished Shed](05%20Wall%20Exterior/images/E08.svg)
 
 
 ## Features
