@@ -30,7 +30,7 @@ Use leftover lumber from the rafters to build out eave end blocking. This will g
 
 ## 04. Siding
 
-![](images/E05.svg)
+![](images/E04.svg)
 
 ### Preparation
 Finishing the outer of the siding using the Shoe Sugi Ban method can take time. Rather than finishing it all in advance, switching between installation and finishing can help break up the work, or having one person install, while the other finishes.
