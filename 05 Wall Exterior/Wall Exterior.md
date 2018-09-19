@@ -54,13 +54,13 @@ The east / west sides are identical except for the doors. To finish the peak, yo
 The doors may take a few days to finish and you won’t have access to inside of the shed while your working. So plan carefully.
 
 #### Rebuild Doors
-Take the doors down from their temporary hinges using your *Battery Powered Driver* and set them aside. Count the number of siding levels you'll need to finish the siding which covers the door gaps using the north or south wall. Pull out enough siding to finish that section and wrap it in a *Tarp* weighed down with *Bricks*. Put the doors into place by hammering shins into all four sides while someone else holds the door. Next use *2 1/2” Finishing Nails* loaded in your *Finishing Nailer* to tack the door into place by shooting a nail at a 45 degree angle through the door and into the door frame. Nail twice towards the top and bottom of both sides and once at the top. These will be cut later once the doors are cut out and mounted.
+Take the doors down from their temporary hinges using your *Battery Powered Driver* and set them aside. Count the number of siding rows you'll need to finish the siding which covers the door gaps using the north or south wall. Pull out enough siding to finish that section and wrap it in a *Tarp* weighed down with *Bricks*. Put the doors into place by hammering shins into all four sides while someone else holds the door. Next use *2 1/2” Finishing Nails* loaded in your *Finishing Nailer* to tack the door into place by shooting a nail at a 45 degree angle through the door and into the door frame. Nail twice towards the top and bottom of both sides and once at the top. These will be cut later once the doors are cut out and mounted.
 
 #### Door Siding
 Install the siding over the doors marking each piece where the all the door gaps are so you can confirm your cut lines later. Nail the pieces as you normally would into the furring strips. In addition, nail through into the door frame and add additional nails at the bottom near cut edges both inside and outside the cut. This is to reinforce the siding since the doors move. 
 
 #### Mark the Door Cuts
-Before covering the top edge of the doors, run a *String Line* with *String Line Levels* on it matched up with the top gaps. Marks on the north / south siding where the string line is. Then after installing the next piece, use the *Chalk Line* to mark it. Also mark the vertical door gap lines by using the *Chalk Line* as a plumb bob and matching it up to your gap marks.
+Before covering the top edge of the doors, run a *String Line* with *String Line Levels* on it matched up with the top gaps. Mark the north & south siding where the string line is. Then after installing the next piece, use the *Chalk Line* to mark it. Also mark the vertical door gap lines by using the *Chalk Line* as a plumb bob and matching it up to your gap marks.
 
 #### Saw Guide
 Measure the distance between the saw guide edge and the blade. Tack furring strips on the siding to act as a rip guide at the distance you measured. To confirm the distance is correct, run your blade over the siding using your guide and make sure it runs along your mark. 
@@ -69,7 +69,7 @@ Measure the distance between the saw guide edge and the blade. Tack furring stri
 Start with the edges which will have hinges on them first. One they’re done, drill the holes for the *Hinges* and insert the *Bolts* through the hinges to hold the weight until you can get the *Washers* and *Nuts* tightened on.
 
 #### Door Cutting Technique
-To cut the doors, adjust your saw to be about an 1/8 deeper than the siding. You can do this easily by adjusting the blade while holding in on one edge of the wall. To cut, start the blade above the siding with the top edge resting against your guide and the blade out away from the siding. Start the saw and slowly insert the blade all the way and start your cut. Since the blade is curved you will end up with a small amount uncut where the marks meet. Use a small hand saw to finish the cuts.
+To cut the doors, adjust your *Circular Saw* to be about an 1/8 deeper than the siding. You can do this easily by adjusting the blade while holding in on one edge of the wall. To cut, start the blade above the siding with the top edge resting against your *Circular Saw Rip Guide* and the blade out away from the siding. Start the saw and slowly insert the blade all the way and start your cut. Since the blade is curved you will end up with a small amount uncut where the marks meet. Use a small hand saw to finish the cuts.
 
 #### Open the Small Door First
 Once the small door is cut out completely, sever the nails you put in to hold the door in place using a *Mini Hacksaw*. Carefully attempt to open the door, keeping in mind the bolts are not actually attached yet. If there is resistance, you may need to confirm with your hand saw that there’s no parts uncut. Once the door is open, attach the nuts and washers on all the doors using a *Socket Wrench*. 
@@ -80,17 +80,18 @@ Next, finish your remaining cuts to open the double doors.
 
 To cover the eave ends, start at the top underside of the rake and work your way down. For the first piece, cut a 45 degree lip in a small section of siding that can slide up to the 45 degree angle of the rake underside. 
 
-45 degree cuts can be easily done by adjusting your *Circular Saw* to 45 degrees and using your *Rip Guide* against the siding edge to get a straight cut.
+45 degree cuts can be easily done by adjusting your *Circular Saw* to 45 degrees and using your *Circular Saw Rip Guide* against the siding edge to get a straight cut.
 
 For the side under the rake fascia, start by cutting a 45 degree angle so it slides under the rake fascia.
 
 #### Rake Underside Siding
 
-For the rake underside, *Measure* the cut by having one person stand on the *Extension Ladder* while another stands on the *Step Ladder*. To install, pass the siding up to the person at the ridge and have the other hold it in place at the eave end. Nail it in twice at each piece of blocking. Install  with the grove against the wall so the second piece can slide into the first.
+For the rake underside, *Measure* the cut by having one person stand on the *Extension Ladder* while another stands on the *Step Ladder*. To install, pass the siding up to the person at the ridge and have the other hold it in place at the eave end. Nail it in twice at each piece of blocking. Install with the groove against the wall so the second piece can slide into the first.
 
 #### Corners
 
 #### Trim
+
 
 
 ## 05. Door Flashing & Hardware
@@ -120,37 +121,53 @@ You’ll need 3 for outlets and 4 elbows for rain barrels.
 
 ## Existing Tools
 
+| Item | Amount | Use | Chapter
+|---|---|---|---|
 | 48 Inch Level | 1
+| Finishing Nailer
+| Battery Powered Electric Nail Gun
+| 8' Step Ladder
+| Hammer
+| Rubber Hammer
+| Battery Powered Driver
+| String Line
+| String Line Levels
+| Chalk Line
+| Tarp
+| Bricks
+| Circular Saw
+| Circular Saw Rip Guide
+| Socket Wrench
+| Measuring Tape
+| Extension Ladder
 
 ## New Tools
 
+| Item | Amount | Use | Chapter
+|---|---|---|---|
+| Mini Hacksaw
+| Socket Wrench piece
+
 ## Supplies
 
-| Item | Amount | Use | Pricing
+| Item | Amount | Use | Pricing | Total
 |---|---|---|---|
 | 4' Coravent Strips | 28
 | 1"x2"x8' Furring Strips | 50
+| 14' 16V-Joint	3/4" x 6-7/8"	Yellow Pine Tongue & Groove Siding | 72 | | $28.70 | $2,066.40
+| Hinges
+| Bolts
+| Washers
+| Nuts
+| 8 inch roll of flashing
+| 1” Roofing Nails
+| Soffit vents
+| J-Channels
+| Gutters
 
-### Siding
-1x8 Siding
+## Existing Supplies
 
-16V-Joint	3/4" x 6-7/8"	Yellow Pine
-Tongue & Groove
-V-Joint
-
-Sold in precut lengths:
-8, 10, 12, 14, 16
-
-&#36;2.05 / linear ft
-
-22.5 - north/south
-
-22 - east west
-
-| Item | Order | Area |Amount | Cost / Piece | Price
-|---|---|---|---|---|---|
-| 13' lengths | 14' | north / south |  20 | &#36;25.90 | &#36;518
-| 12' lengths | 12'  | north / south | 12 | 22.2 | 266.4
-| 30 2.5' | 14' | east / west | 6 | 18.5 | 277
-| 12' lengths | 14' | east / west | 30 | 22.2 | 666
-| **Total** | ||&#36;1727.4
+| Item | Amount | Use | Pricing
+|---|---|---|---|
+| 2.5" Nails*
+| 2 1/2” Galvanized Finishing nails
