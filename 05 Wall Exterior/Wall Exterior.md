@@ -111,13 +111,55 @@ Install J-Channels first on the inside of the fascia. To make it easier to insta
 
 ![](images/E08.svg)
 
-4 Inch Half Round Aluminum gutters
+Depending on the slope of your lot, you may want to choose to drain on one side or the other. You may find it easier to drain on the western side so you don't have to keep the swing of the doors in mind.
 
-Gutter slope is set between 1/4 to 1/2 inch per 10 feet of gutter. 75 degree elbows are standard
+Gutters have to slope around a 1/2 inch per every 10 feet of gutter.
 
-24" on center spacing
+*Measure* the height of your hanger mount and mark the low side. Next and add an inch to the amount and mark that amount on the high on one side. Draw a *Chalk Line* between the two marks for your hanger mount guide. Measure in 2 inches from either side for your first mounts. Mark your center at 9' 6 1/2". Then mark every 2' 3 3/4" until you have all 9 marks. Install your *Hanger Mounts* using your *Battery Powered Driver* and *1" Sheet Metal Screws*.
 
-You’ll need 3 for outlets and 4 elbows for rain barrels.
+
+
+2 Half round b style outlets
+
+8 4” mill finish elbows - 75 degrees
+
+4" Half Round Aluminum gutters
+
+4 End Caps
+
+2 10' downspouts
+
+2 20' sections of 6" Mill Finish Gutter
+
+18 Hanger Munts - 24" on center spacing
+
+Order an additional elbow for a rain barrel 
+
+----
+
+
+4 end caps
+	Half Round “C” Style End Caps
+	6" HR Mill Finish Aluminum End Cap ( CENMF6 )
+
+12 hanger mounts
+	6" HR #10 Galvanized Steel Combo Circle & Shank w/ Spring Clip ( CCS106 )
+8 45 degree elbows
+
+4" PR Mill Finish Aluminum Elbow (.024) ( PR 1 MF4 )
+
+2 downspouts
+	4" PR Mill Finish Aluminum Downspout (.024) ( DSPRPMF4 )
+
+4 downspout straps
+
+4" Round Galvanized Steel Sickle Hook for Wood ( PWHGL4 )
+
+2 outlets	
+	4" HR Mill Finish Aluminum B-Style Outlet ( RBOMF4 )
+
+2 20’ halfround gutters ALUMINUM — Mill Finish
+	6" HR Gutter SB (.032) ( L 20 MF6 )
 
 ## Existing Tools
 
@@ -140,6 +182,7 @@ You’ll need 3 for outlets and 4 elbows for rain barrels.
 | Socket Wrench
 | Measuring Tape
 | Extension Ladder
+| Carpenter's Pencil
 
 ## New Tools
 
@@ -164,6 +207,7 @@ You’ll need 3 for outlets and 4 elbows for rain barrels.
 | Soffit vents
 | J-Channels
 | Gutters
+| 1" Sheet Metal Screws
 
 ## Existing Supplies
 
