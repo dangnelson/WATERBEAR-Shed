@@ -90,9 +90,11 @@ For the rake underside, *Measure* the cut by having one person stand on the *Ext
 
 #### Corners
 
+Corners of a building can be its most vulnerable. To protect them, cut *4x4 cedar posts* 1" from the side on two sides and 2.5" deep using your *Circular Saw* and *Rip Guide* to form a corner piece. Hold the pieces up to the side and mark the bottom edge to cut the corners to size. Finish them and install them using your *Finishing Nailer* and *2.5" Finishing Nails*.
+
 #### Trim
 
-
+Cut 4 3/4" strips from a piece of *Siding* using your *Circular Saw* and *Rip Guide*. 
 
 ## 05. Door Flashing & Hardware
 
@@ -177,7 +179,7 @@ Order an additional elbow for a rain barrel
 | Chalk Line
 | Tarp
 | Bricks
-| Circular Saw
+| 7-1/4-in Circular Saw
 | Circular Saw Rip Guide
 | Socket Wrench
 | Measuring Tape
