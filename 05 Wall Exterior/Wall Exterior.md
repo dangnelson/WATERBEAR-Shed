@@ -94,11 +94,17 @@ Corners of a building can be its most vulnerable. To protect them, cut *4x4 ceda
 
 #### Trim
 
-Cut 4 3/4" strips from a piece of *Siding* using your *Circular Saw* and *Rip Guide*. 
+Cut the end of a piece of *Siding* using your *Circular Saw* and *Rip Guide* to create a flat edge.
+
+Next Cut a 45 degree angle to half the depth of the siding. Then cut 3/4 inches from that edge to create a piece of trim. Repeat for all four pieces.
+
+Install the trim on the edge between the wall siding and the rake underside to cover any gaps. Use your *Finishing Nailer* and *2.5" Finishing Nails* to install the trim against the angled cut of the trim.
 
 ## 05. Door Flashing & Hardware
 
 ![](images/E05.svg)
+
+The easiest way to install the *Deadbolt* is to buy a *Doorlock installation kit* which will clamp to the door and provide the proper size hole saws.
 
 ## 06. Eave Fascia Flashing
 
