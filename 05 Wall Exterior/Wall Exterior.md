@@ -98,13 +98,17 @@ Cut the end of a piece of *Siding* using your *Circular Saw* and *Rip Guide* to 
 
 Next Cut a 45 degree angle to half the depth of the siding. Then cut 3/4 inches from that edge to create a piece of trim. Repeat for all four pieces.
 
-Install the trim on the edge between the wall siding and the rake underside to cover any gaps. Use your *Finishing Nailer* and *2.5" Finishing Nails* to install the trim against the angled cut of the trim.
+Install the trim on the edge between the wall siding and the rake underside to cover any gaps. Use your *Finishing Nailer* and *2.5" Finishing Nails* against the angled cut of the trim to install.
 
 ## 05. Door Flashing & Hardware
 
 ![](images/E05.svg)
 
-The easiest way to install the *Deadbolt* is to buy a *Doorlock installation kit* which will clamp to the door and provide the proper size hole saws.
+The easiest way to install the *Deadbolt* is to buy a *Doorlock installation kit* which will clamp to the door and provide the proper size hole saws. Install the bolt in the center of a piece of siding.
+
+To protect the doors from water potentially dripping from the rain screen, install flashing over the top and nail it into the 2x4 on top with *Roofing Nails*. Cut the corners of the backside of the flashing so it doesn't catch on the door stop trim.
+
+Install handles on the inside and outside to make opening and closing the doors easier. Install the outer handles centered from a siding joint.
 
 ## 06. Eave Fascia Flashing
 
@@ -125,7 +129,15 @@ Gutters have to slope around a 1/2 inch per every 10 feet of gutter.
 
 *Measure* the height of your hanger mount and mark the low side. Next and add an inch to the amount and mark that amount on the high on one side. Draw a *Chalk Line* between the two marks for your hanger mount guide. Measure in 2 inches from either side for your first mounts. Mark your center at 9' 6 1/2". Then mark every 2' 3 3/4" until you have all 9 marks. Install your *Hanger Mounts* using your *Battery Powered Driver* and *1" Sheet Metal Screws*.
 
+Place your *Gutter* on the hanger mounts and move one side so it's about 1/2" past the end of the roof. Mark the opposite side at the same location and take it back down. Cut off the excess using the *Shears Attachment Accessory* attached to your *Battery Powered Driver*.  
 
+Flip the gutter over and rest your outlet a few inches back from the end of your gutter.  Using a pencil trace the edge of the outlet. Draw a smaller circle on the inside of the trace to compensate for the outlet lip. Drill a large hole in the center of the marked circle and cut in a spiral motion working towards the inner mark. Confirm the cut by sitting the outlet inside the  hole. Attach the outlet to the gutter by drilling holes against the edge of the outlet and through the gutter using a *1/8" Drill Bit*. Then insert *Pop Rivets* into the holes and pop them to secure the outlet to the gutter.
+
+Place the gutter onto the mounts and secure it using *Hanger Mount Clips*.
+
+## Gutter Supplies
+
+---
 
 2 Half round b style outlets
 
@@ -139,12 +151,13 @@ Gutters have to slope around a 1/2 inch per every 10 feet of gutter.
 
 2 20' sections of 6" Mill Finish Gutter
 
-18 Hanger Munts - 24" on center spacing
+18 Hanger Mounts - 24" on center spacing
+
+Mount clips
 
 Order an additional elbow for a rain barrel 
 
-----
-
+---
 
 4 end caps
 	Half Round “C” Style End Caps
@@ -191,6 +204,7 @@ Order an additional elbow for a rain barrel
 | Measuring Tape
 | Extension Ladder
 | Carpenter's Pencil
+| 1/8" Drill Bit
 
 ## New Tools
 
@@ -219,7 +233,8 @@ Order an additional elbow for a rain barrel
 
 ## Existing Supplies
 
-| Item | Amount | Use | Pricing
+| Item | Amount | Use | Chapter
 |---|---|---|---|
 | 2.5" Nails*
 | 2 1/2” Galvanized Finishing nails
+| Roofing Nails
