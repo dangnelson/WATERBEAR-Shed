@@ -127,13 +127,17 @@ Depending on the slope of your lot, you may want to choose to drain on one side 
 
 Gutters have to slope around a 1/2 inch per every 10 feet of gutter.
 
-*Measure* the height of your hanger mount and mark the low side. Next and add an inch to the amount and mark that amount on the high on one side. Draw a *Chalk Line* between the two marks for your hanger mount guide. Measure in 2 inches from either side for your first mounts. Mark your center at 9' 6 1/2". Then mark every 2' 3 3/4" until you have all 9 marks. Install your *Hanger Mounts* using your *Battery Powered Driver* and *1" Sheet Metal Screws*.
+### Hanger Mounts
+*Measure* the height of your hanger mount and mark the low side. Next and add an inch to the amount and mark that amount on the high on one side. Draw a *Chalk Line* between the two marks for your hanger mount guide. Measure in 2 inches from either side for your first mounts. Mark your center at 9' 6 1/2". Then mark every 2' 3 3/4" until you have all 9 marks. Install your *Hanger Mounts* using your *Battery Powered Driver* and *1" Stainless Steel Sheet Metal Screws*.
 
+### Gutter
 Place your *Gutter* on the hanger mounts and move one side so it's about 1/2" past the end of the roof. Mark the opposite side at the same location and take it back down. Cut off the excess using the *Shears Attachment Accessory* attached to your *Battery Powered Driver*.  
 
-Flip the gutter over and rest your outlet a few inches back from the end of your gutter.  Using a pencil trace the edge of the outlet. Draw a smaller circle on the inside of the trace to compensate for the outlet lip. Drill a large hole in the center of the marked circle and cut in a spiral motion working towards the inner mark. Confirm the cut by sitting the outlet inside the  hole. Attach the outlet to the gutter by drilling holes against the edge of the outlet and through the gutter using a *1/8" Drill Bit*. Then insert *Pop Rivets* into the holes and pop them to secure the outlet to the gutter.
+### Gutter Outlet
+Flip the gutter over and rest your outlet a few inches back from the end of your gutter. If you're installing on the side with the doors, you may want to set your outlet back further to give the doors more room. Using a pencil trace the edge of the outlet. Draw a smaller circle on the inside of the trace to compensate for the outlet lip. Drill a large hole in the center of the marked circle and cut in a spiral motion working towards the inner mark. Confirm the cut by sitting the outlet inside the  hole. Attach the outlet to the gutter by drilling holes against the edge of the outlet and through the gutter using a *1/8" Drill Bit*. Then insert *Pop Rivets* into the holes and pop them to secure the outlet to the gutter. Place the gutter onto the mounts and secure it using *Hanger Mount Clips*. Place the *End Caps* on the end and secure them using *Pop Rivets*.
 
-Place the gutter onto the mounts and secure it using *Hanger Mount Clips*.
+### Downspout
+Start by trimming the 10' downspout to 6' 6" with the crimp on the longer section. Place an elbow on the crimped end. With the elbow at the bottom, install it about 4-6" back from the corner using 2 *Downspout straps* and the *Battery Powered Driver* with *1" Stainless Steel Sheet Metal Screws*. Place one elbow on the outlet, another on the remaining section of downspout. Hold the section up next to the installed downspout to mark both the length of the downspout joining the elbows, and the length of the downspout strapped to the siding. Remove the strapped downspout, cut it to size, and re-install with the additional elbows attached.
 
 ## Gutter Supplies
 
