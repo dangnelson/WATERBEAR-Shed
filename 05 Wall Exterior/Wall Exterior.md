@@ -139,53 +139,6 @@ Flip the gutter over and rest your outlet a few inches back from the end of your
 ### Downspout
 Start by trimming the 10' downspout to 6' 6" with the crimp on the longer section. Place an elbow on the crimped end. With the elbow at the bottom, install it about 4-6" back from the corner using 2 *Downspout straps* and the *Battery Powered Driver* with *1" Stainless Steel Sheet Metal Screws*. Place one elbow on the outlet, another on the remaining section of downspout. Hold the section up next to the installed downspout to mark both the length of the downspout joining the elbows, and the length of the downspout strapped to the siding. Remove the strapped downspout, cut it to size, and re-install with the additional elbows attached.
 
-## Gutter Supplies
-
----
-
-2 Half round b style outlets
-
-8 4” mill finish elbows - 75 degrees
-
-4" Half Round Aluminum gutters
-
-4 End Caps
-
-2 10' downspouts
-
-2 20' sections of 6" Mill Finish Gutter
-
-18 Hanger Mounts - 24" on center spacing
-
-Mount clips
-
-Order an additional elbow for a rain barrel 
-
----
-
-4 end caps
-	Half Round “C” Style End Caps
-	6" HR Mill Finish Aluminum End Cap ( CENMF6 )
-
-12 hanger mounts
-	6" HR #10 Galvanized Steel Combo Circle & Shank w/ Spring Clip ( CCS106 )
-8 45 degree elbows
-
-4" PR Mill Finish Aluminum Elbow (.024) ( PR 1 MF4 )
-
-2 downspouts
-	4" PR Mill Finish Aluminum Downspout (.024) ( DSPRPMF4 )
-
-4 downspout straps
-
-4" Round Galvanized Steel Sickle Hook for Wood ( PWHGL4 )
-
-2 outlets	
-	4" HR Mill Finish Aluminum B-Style Outlet ( RBOMF4 )
-
-2 20’ halfround gutters ALUMINUM — Mill Finish
-	6" HR Gutter SB (.032) ( L 20 MF6 )
-
 ## Existing Tools
 
 | Item | Amount | Use | Chapter
@@ -232,8 +185,14 @@ Order an additional elbow for a rain barrel
 | 1” Roofing Nails
 | Soffit vents
 | J-Channels
-| Gutters
 | 1" Sheet Metal Screws
+| 4" Hanger Mounts with Spring Clips | 18
+| 20' sections of 4" Mill Finish Aluminum Gutter | 2
+| Half round b style gutter outlets | 2
+| 4" Half Round Gutter End Caps | 4
+| 4" 10' Gutter downspouts | 2
+| Gutter downspout straps | 4
+| 4” mill 75 degrees Gutter elbows | 8
 
 ## Existing Supplies
 
