@@ -149,6 +149,8 @@ This door installation will be temporary to make the shed lockable until you can
 
 Use a *2 1/8-inch Hole Saw Bit* to drill a hole for a deadbolt. Use a *1-inch Hole Saw Bit* to drill the holes needed for the bolt latch.
 
+Install 1x2 door stop trim on the inside of the doors to keep them from swinging through the frame.
+
 ## 9. Wall Felt 
 
 ![](images/B09.svg)
@@ -210,6 +212,7 @@ Using a *Battery-Powered Drill* drill through the bottom plates and into the flo
 | 4x8 3/8" plywood | 3
 | 2x4x6'9" | 6
 | 2x4x8 | 3
+| 1x2x8
 | 1x6x8 Cedar | 6
 | Deadbolt for Door | 1
 | 6 in Galvanized Barrel Bolt | 3

@@ -203,4 +203,4 @@ Cut an 8 inch strip of Roof Felt to cover the ridge beam. This will make the str
 | 1x3x7 | 3 | Collar Ties
 | 4x8 3/8" plywood | 6 | Gable Sheathing
 | Roof Felt | 380 sq ft
-| Connecting Plates | 2
+| Connecting Plates | 2 

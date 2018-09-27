@@ -33,7 +33,7 @@ To measure and cut the four 1x8x12 Boards for the Rake Fascia, first cut 45 degr
 To trim metal use *Metal Snips* for detail work, and a *Shears Attachment Accessory* attached to your *Driver* for long cuts. 
 
 ### Eave Drip Edge
-Install the *Eave Drip Edge* lapped under the underlayment  at the eave using *1" Pancake Head Woodscrews*. Join pieces by trimming the folded sections of the edges so that one can slide into the other. If the drip edge is difficult to screw through, pre-drill holes as often as required in the manufacturer instructions. Use *Pop Rivets* inserted in to a *Pop Rivet Gun* to join any seams so that they become flush.
+Install the *Eave Drip Edge* lapped under the underlayment  at the eave using *1" Pancake Head Woodscrews*. Join pieces by trimming the folded sections of the edges so that one can slide into the other. If the drip edge is difficult to screw through, pre-drill holes as often as required in the manufacturer instructions. Use *Pop Rivets* inserted in to a *Pop Rivet Gun* to join any seams so that they become flush. Pre-drill the holes for the rivets using a *1/8" Drill Bit*
 
 ### Rake Drip Edge
 Next install the *Rake Drip Edge* over the underlayment starting at the top. Cut the top edge at a 45 degree angle leaving the first side with some excess on the face which is flush with the fascia. This will allow the second side to sit overtop and give a cleaner look at the joint.
@@ -79,6 +79,8 @@ To insure the bottom pieces are at the right angle, make  a guide out of two 2x4
 
 Install the inner roof cap at the marked angles one side at a time per manufacturer instructions. The design of the ridge caps varies greatly by which manufacture you use, so follow the instructions you're given. You made need a *Caulking Gun* if the manufacturer recommends using sealant.
 
+For the outer roof cap, slide it onto the inner cap from either side after prepping one side to slide into the other. Use pop rivets at seams to close the gap.
+
 ## Existing Tools
 
 | Item | Amount |
@@ -113,6 +115,8 @@ Install the inner roof cap at the marked angles one side at a time per manufactu
 | 3" Metal Hand Seamer
 | Caulking Gun
 | Rubber Mallet
+| Pop Rivet Gun
+| 1/8" Drill Bit
 
 
 ## Supplies 
@@ -134,10 +138,11 @@ Install the inner roof cap at the marked angles one side at a time per manufactu
 | Square Eave Drip Edge | 4 ~10' sections or 40'
 | Ridge Cap | 2 ~10' sections or 20' ||$15.90 / each 32" wide
 | 10' 6" long Standing Seam Panels | 30 ||$2.53 / linear ft
-| Pop Rivets
+| 1/8" Pop Rivets
 | 1" #10 Pancake Head Woodscrew
 | 2" Pancake Head Woodscrew
 | Double Beaded Butyl Tape
+| Pop Rivets
 
 
 
