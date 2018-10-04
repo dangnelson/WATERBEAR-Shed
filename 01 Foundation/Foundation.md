@@ -34,19 +34,23 @@ Use the *Shovel(s)* and *Wheel Barrow* to remove any grass, shrubs or debris fro
 
 ### Level Ground
 
-Attach *String Line Levels* to the strings on all four sides. Level starting roughly an inch above the ground at the highest point. Use this as a guide to remove top soil until the ground is leveled. Tamp the toil with a *Tamper*.
+Attach *String Line Levels* to the strings on all four sides. Level starting roughly an inch above the ground at the highest point. Use this as a guide to remove top soil until the ground is leveled. Tamp the soil with a *Tamper*.
 
 ### Retaining Wall (avoid)
 
-We built on an incline, and ended up with a soil ledge on one side, and had to build a retaining wall to avoid erosion. We also dug a trench for a french drain on the inside of the retaining wall and filled it with crushed stone. This increased our build time, and building on an incline is not recommended for that reason.
+We built on an incline, and ended up with a soil ledge on one side, and had to build a retaining wall to avoid erosion. We also dug a trench for a french drain is on the inside of the retaining wall and filled it with crushed stone. This increased our build time, and building on an incline is not recommended for that reason.
 
 ### Dig Pier Holes
 
-Rent an 8-12" *Auger* and use the *Digging Tools* if you have rocky soil.
+Rent an 8-12" *Auger* and use the *Digging Bar* and *Small Post Hole Digger* if you have rocky soil.
 
 Dig out the bottom of the hole so it flares to create a footing. This helps resist frost heave and lift from strong winds.
 
-The depth will need to change based on the region you build in. Correct the Frost Depth based on your local code.
+The depth will need to change based on the region you build in. Correct the frost depth based on your local code.
+
+### Gravel
+
+Add about an inch of *All Purpose Gravel* to the bottom of every hole.
 
 ## 2. Piers 
 
@@ -59,9 +63,9 @@ In retrospect we should have added rebar into the footings for additional streng
 ### Pour Piers
 Cut the *Concrete Tube Forms* to size using a *Hand Saw*.
 
-Nail the sides of the *Cardboard Concrete Form Tubes* to the center of 2 2x4s. The tube should hang about 12 inches up from the bottom of the footing.
+Attach *3.5 Exterior Nails* to the sides of the *Cardboard Concrete Form Tubes* to the center of *2 2x4s*. The tube should hang about 12 inches up from the bottom of the footing.
 
-Make sure to wear a *Respiratory Mask* to avoid breathing in  concrete dust, and *Cleaning Gloves* to protect your skin for this next step.
+Make sure to wear a *N95 Dust Mask* to avoid breathing in  concrete dust, and *Cleaning Gloves* to protect your skin for this next step.
 
 Slowly pour *Water* over 1 *Bag of Concrete* in the *Wheel Barrow*. Mix the contents using the *Garden Hoe* and add water gradually until you have a thick consistency.
 
@@ -77,7 +81,7 @@ Wait a day and remove the *Cardboard Concrete Form Tubes* from around the piers.
 
 ### Cut & Insert Piers
 
-Cut the *Treated 4x4x8s* to size and insert them into the *Galvanized Post Bases*. Drill the bolt holes out using a *Battery Powered Drill* and a *1/2" diameter 6" long brad point bit*. Insert the *6" Galvanized Carriage Bolts* and tighten the *1/2" Galvanized Washers* and *1/2" Galvanized Nuts* with a *1/2" Socket Wrench*.
+Mark the *Treated 4x4x8s* to size using a *Carpenter's Pencil* and *Square* then cut using a *Battery Powered Hand-held Circular Saw* and insert them into the *Galvanized Post Bases*. Drill the bolt holes out using a *Battery Powered Drill* and a *1/2" diameter 6" long brad point bit*. Insert the *1/2" x 6" Galvanized Carriage Bolts* and tighten the *1/2" Galvanized Washers* and *1/2" Galvanized Nuts* with a *1/2" Socket Wrench*.
 
 ### Treated wood
 
@@ -89,9 +93,9 @@ We’re open to alternatives to improve this design.
 
 ![](images/A04.svg)
 
-Place the end plates temporarily on two *Concrete Deck Blocks* and use *Shims* to level them until they all line up with each other at the corners.
+Place 2 *Treated 2x6x12s* and 2 *Treated 2x6x16s* as end plates on *Concrete Deck Blocks* and use *Shims*  and a *4' Level* to level them until they all line up with each other at the corners.
 
-Drill the holes for the bolts. Then bolt the 4x4s to the end plates.
+Drill the holes for the bolts and bolt the 4x4s to the end plates like you did the piers.
 
 ## 5. Deck Blocks 
 
@@ -99,11 +103,13 @@ Drill the holes for the bolts. Then bolt the 4x4s to the end plates.
 
 Mark the longer end plates for the floor joists. 
 
-Roughly place the *concrete blocks* in place by inserting the floor joists into them, and aligning the joists roughly with the marks.
+Cut the remaining *2x6x12s* to 11' 9" to use as floor joists.
+
+Roughly place the *Concrete Blocks* in place by inserting the floor joists into them, and aligning the joists roughly with the marks.
 
 After each board is lined up, remove an inch of soil under each block and add *All Purpose Gravel* under each block until the joists are level with the side beams.
 
-Carefully mark the unattached floor joists with numbers so you can place them back in the same place later. Then remove them for the next step.
+Carefully mark the unattached floor joists with numbers using a *Carpenter's Pencil* so you can place them back in the same place later. Then remove them for the next step.
 
 [![](blueprints/A04.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/01%20Foundation/blueprints/A04.pdf)
 
@@ -111,7 +117,7 @@ Carefully mark the unattached floor joists with numbers so you can place them ba
 
 ![](images/A06.svg)
 
-Use the *Shovel* and the *Hoe* to spread a layer of gravel around the blocks to improve drainage.
+Use the *Shovel* and the *Hoe* to spread a layer of *#57 Drainage Gravel* around the blocks to improve drainage.
 
 ## 7. Floor Joists 
 
@@ -131,7 +137,7 @@ Hammer 2 *3.5" Exterior Nails* into each end of each joist.
 
 ![](images/A08.svg)
 
-Load the *Nail Gun* with *2.5" Nails*.
+Load the *Battery Powered Nail Gun* with *2.5" Interior Nails*.
 
 Lay *5/8" (19/32) Plywood* down on top of the joists end to end, nailing the corners as you go. `IRC TABLE R503.1`
 
@@ -153,67 +159,67 @@ Nail the plywood in using the following nailing schedule:
 
 ## Cover until next step
 
-Place a 
-Bricks on tarp
+Place *Bricks* on *Tarp*
 
-## Supplies List 
-
-### New Tools
+## Tools
 
 |Item | # | Cost
 |---|---|---|
-| [Hammer](https://en.wikipedia.org/wiki/Hammer) | 1 | 4.98
-| [Hand Saw](https://en.wikipedia.org/wiki/Hand_saw) | 1 | 9.94
-| [Hoe](https://en.wikipedia.org/wiki/Hoe_(tool)) | 1 | 15.97
-| [Hand-held Circular Saw](https://en.wikipedia.org/wiki/Circular_saw) (Battery Powered)| 1 | 279.00
-| Circular Saw Rip [Fence](https://en.wikipedia.org/wiki/Fence_(woodworking)) | 1 |
-| [Nail Gun](https://en.wikipedia.org/wiki/Nail_gun)  (Battery Powered)| 1 | 399.00
-| Marking Spray Paint | 1 | 5.27
-| 2 ft Wooden [Stakes](https://en.wikipedia.org/wiki/Survey_stakes) | 4 | 4.97
-| 25' or greater [Tape Measure](https://en.wikipedia.org/wiki/Tape_measure) | 1 | 9.88
 | 100' String Line | 1 | 2.98
-| [String Line Levels](https://en.wikipedia.org/wiki/Spirit_level#Line_level) | 4 | 5.86
-| [Plumb Chalk Line](https://en.wikipedia.org/wiki/Chalk_line) | 1 | 5.97
-| [8" Auger](https://en.wikipedia.org/wiki/Auger_(drill)) | Rent | 50.00
-| [Small Post Hole Digger](https://en.wikipedia.org/wiki/Post_hole_digger) | 1 | 24.97
-| [Digging Bar](https://en.wikipedia.org/wiki/Digging_bar) | 1 | 31.97
+| [String Line Levels](https://en.wikipedia.org/wiki/Spirit_level#Line_level) | 4 | 5.86 
+| Sun Surveyor App 
+| Marking Spray Paint | 1 | 5.27
+| 25'+ [Tape Measure](https://en.wikipedia.org/wiki/Tape_measure) | 1 | 9.88
+| 2 ft Wooden [Stakes](https://en.wikipedia.org/wiki/Survey_stakes) | 4 | 4.97
+| [Hammer](https://en.wikipedia.org/wiki/Hammer) | 1 | 4.98
 | [Digging Shovel](https://en.wikipedia.org/wiki/Shovel) | 1 | 5.98
-| [Margin Trowel](https://en.wikipedia.org/wiki/Trowel) | 1 | 5.77
 | [Wheel Barrow](https://en.wikipedia.org/wiki/Wheelbarrow) | 1 | 49.97
-| [N95 Dust Mask](https://en.wikipedia.org/wiki/Dust_mask) | 2 | 7.47
-| Pair of Cleaning Gloves | 1 | 1.98
-| Battery Powered Drill | 1| 159.00
-| Bit for Drilling Bolt holes | 1 | 9.97
-| 1/2" Socket Wrench | 1 | 26.19
 | [Tamper](https://en.wikipedia.org/wiki/Tamp) | 1 | 26.98
-| Battery-Powered Impact Driver | 1
-| 1/2" diameter 6" long brad point bit 
+| [8" Auger](https://en.wikipedia.org/wiki/Auger_(drill)) | Rent | 50.00
+| [Digging Bar](https://en.wikipedia.org/wiki/Digging_bar) | 1 | 31.97
+| [Small Post Hole Digger](https://en.wikipedia.org/wiki/Post_hole_digger) | 1 | 24.97
+| [Hand Saw](https://en.wikipedia.org/wiki/Hand_saw) | 1 | 9.94
+| [N95 Dust Mask](https://en.wikipedia.org/wiki/Dust_mask) | 2 | 7.47
+| Cleaning Gloves | 1 | 1.98
+| [Hoe](https://en.wikipedia.org/wiki/Hoe_(tool)) | 1 | 15.97
+| [Margin Trowel](https://en.wikipedia.org/wiki/Trowel) | 1 | 5.77
+| Carpenter's Pencil
+| Square
+| Gloves
+| Battery Powered [Hand-held Circular Saw](https://en.wikipedia.org/wiki/Circular_saw) | 1 | 279.00
+| Battery Powered Drill | 1| 159.00
+| 1/2" diameter 6" long brad point bit | 1 | 9.97
+| 1/2" Socket Wrench | 1 | 26.19
+| 4' Level |
+| Battery Powered [Nail Gun](https://en.wikipedia.org/wiki/Nail_gun)| 1 | 399.00
+| [Plumb Chalk Line](https://en.wikipedia.org/wiki/Chalk_line) | 1 | 5.97
 |**Estimated Total**||**1144.07**
 
-### Materials
+## Materials
 
 |Item | # | Note | Cost
 |---|---|---|---|
-| Concrete Deck Blocks | 28 | Heavy | 193.20
-| 1 Cubic Yard of #57 Drainage Gravel|  | Heavy | 29.00 | 
-| 1/4 Cubic Yard of Compactable Fill / Top Soil |  | | 9.42
-| All Purpose Gravel 50 lb Bag | 6 | Heavy | 24.90
-| Concrete 80 lb bags | 8 | Heavy, Cost Varies | 39.76
-| 8" x 4' Concrete Tube Forms | 2 | Cost Varies | 19.00
+| All Purpose Gravel 50 lb Bag | 6? | Heavy | 24.90
 | 1/2" x 2' Rebar | 4 | Cost Varies | 7.88
-| 5 gallon Water Jugs or Water Source |  3 | Cost Varies |50.82
-| 4" x 4" Galvanized Post Base | 4 | | 45.48
+| 3.5" Exterior Nails | 60 | | 4.97
+| 8" x 4' Concrete Tube Forms | 2 | Cost Varies | 19.00
 | 2x4x8 | 2 | | 6.22
+| 5 gallon Water Jugs or Water Source |  3 | Cost Varies |50.82
+| Concrete 80 lb bags | 8 | Heavy, Cost Varies | 39.76
+| 4" x 4" Galvanized Post Base | 4 | | 45.48
+| 1/4 Cubic Yard of Compactable Fill / Top Soil |  | | 9.42
+| Treated 4x4x8 | 1 | | 7.98 
+| 1/2" x 6" Galvanized Carriage Bolts | 16 ||40.48
+| 1/2" Galvanized Washers | 16 | | 5.28
+| 1/2" Galvanized Nuts | 16 | | 6.08
 | Treated 2x6x12 | 14 | Large | 124.32
 | Treated 2x6x16 | 2 | Large | 23.14
-| Treated 4x4x8 | 1 | | 7.98 
-| 4x8 5/8" (19/32) Plywood | 7 || 141.19
-| 2.5" Interior Nails for Nail Gun | 384 | | 37.97
-| 3.5" Exterior Nails | 60 | | 4.97
+| Concrete Deck Blocks | 28 | Heavy | 193.20
 | Shims | | | 4.95
-| 1/2" x 6" Galvanized Carriage Bolt | 16 ||40.48
-| 1/2" Galvanized Washer | 16 | | 5.28
-| 1/2" Galvanized Nut | 16 | | 6.08
+| 1 Cubic Yard of #57 Drainage Gravel|  | Heavy | 29.00 | | 2.5" Interior Nails for Nail Gun | 384 | | 37.97
+| 4x8 5/8" (19/32) Plywood | 7 || 141.19
+| Bricks
+| Tarp
 |**Estimated Total**|||**822.04**
 
 Total cost does not include Tax or Delivery fees. Materials noted as "Cost Varies" depends on the frost depth for your location.

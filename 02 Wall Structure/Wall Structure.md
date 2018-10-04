@@ -5,7 +5,7 @@
 ![](images/B01.svg)
 
 ### Build Walls
-Build the west back wall (Blueprint B.01A) first using the shed floor as a surface. Cut studs to size using a *Battery Powered Circular Saw*. Mark the top and bottom plates using a *Carpenter's Pencil* and *Measuring Tape* and nail them together using a *Battery Powered Nail Gun*. Use a *Hammer* to finish driving any nails that stick out. Stand up the wall and nail spare 2x4s at about a 45 degree angle on either side to the end of the floor joists while leveling using a *48 Inch Level*. Next stand up the north/south walls (Blueprint B.01B), and finally the other east/west wall (Blueprint B.01C).
+Build the west back wall (Blueprint B.01A) first using the shed floor as a surface. Cut studs to size using a *Battery Powered Circular Saw*. Mark the top and bottom plates using a *Carpenter's Pencil* and *Measuring Tape* and nail them together using a *Battery Powered Nail Gun*. Use a *Hammer* to finish driving any nails that stick out. Stand up the wall and nail spare *2x4s* at about a 45 degree angle on either side to the end of the floor joists while leveling using a *48 Inch Level*. Next stand up the north/south walls (Blueprint B.01B), and finally the other east/west wall (Blueprint B.01C).
 
 [![Blueprint B01A](blueprints/B01A.svg)](blueprints/B01a.pdf)
 
@@ -24,7 +24,7 @@ Build the west back wall (Blueprint B.01A) first using the shed floor as a surfa
 
 ### Headers `IRC TABLE R502.5(1)`
 
-Sandwich 1/2" plywood between 2 2x12s and attach them Face Nail to build the headers which support the wall above the doorways before installing them in the wall.
+Sandwich *1/2" Plywood* between *2 2x12s* and attach them *Face Nail* to build the headers which support the wall above the doorways before installing them in the wall.
 
 [![](blueprints/B01C.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/02%20Wall%20Structure/blueprints/B01c.pdf)
 
@@ -32,13 +32,13 @@ Sandwich 1/2" plywood between 2 2x12s and attach them Face Nail to build the hea
 
 | Placement  | Size | Frequency | Occurrences 
 |---|---|---|---|
-| Header with 1/2" plywood spacer | 3.5" | 16" on center along each edge | 260" length (18 Nails)
+| Header with *1/2" Plywood Spacer* | 3.5" | 16" on center along each edge | 260" length (18 Nails)
 
 ## 2. Top Plate 
 
 ![](images/B02.svg)
 
-Walls must be capped with a second top plate, offset at least 24 inches at joints (IRC 602.3.2). Overlap the corners so they overlap the wall joints. Attach them by nailing Face Nail downwards stepping on a *8 ft Step Ladder*.
+Walls must be capped with a second top plate, offset at least 24 inches at joints (IRC 602.3.2). Overlap the corners so they overlap the wall joints. Attach them by nailing *Face Nail* downwards stepping on a *8 ft Step Ladder*.
 
 [![](blueprints/B02.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/02%20Wall%20Structure/blueprints/B02.pdf)
 
@@ -84,7 +84,7 @@ Hammer a nail lightly in between each panel. This will create an 1/8 inch gap be
 
 [![](blueprints/B04.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/02%20Wall%20Structure/blueprints/B04.pdf)
 
-2x6 joists should just about line up with the wall studs, 16 inches on center `IRC Table 802.4(1)`. Mark the end plates first, then prop up the joists over the ceiling span. Be careful not to stand in the shed while you do this in case the joists fall. Frame enough to form a box and toe nail the box into place. This should give you enough structure to add in the remaining joists.
+*2x6 Joists* should just about line up with the wall studs, 16 inches on center `IRC Table 802.4(1)`. Mark the end plates first, then prop up the joists over the ceiling span. Be careful not to stand in the shed while you do this in case the joists fall. Frame enough to form a box and toe nail the box into place. This should give you enough structure to add in the remaining joists.
 
 ### Joist Fastening `IRC Table 602.3(1)`
 No blocking is needed because the distance between the raised top plate and the top of the parallel rafter is 7 & 1/8".  (IRC 602.10.6.2). The ends of each joist must touch the top plate for at least 1.5 inches (IRC 802.6).
@@ -101,7 +101,7 @@ No blocking is needed because the distance between the raised top plate and the 
 
 [![](blueprints/B05.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/02%20Wall%20Structure/blueprints/B05.pdf)
 
-Lay one sheet up first and secure it to the joists enough to be able to get on top of it and finish fastening. Have one person pass sheets up while the other fastens. For the access hole lay the sheet on before fastening and mark the edges of the hole from the bottom. Measure out 3/4" from your line to increase the panel size and cut it out with the circular saw.
+Lay one sheet up first and secure it to the joists enough to be able to get on top of it and finish fastening. Have one person pass sheets up while the other fastens. For the access hole lay the sheet on before fastening and mark the edges of the hole from the bottom. Measure out 3/4" from your line to increase the panel size and cut it out with the *Circular Saw*.
 
 ### Sheathing Fastening
 
@@ -137,13 +137,13 @@ You can measure and precut the boards before burning & oiling them or you can cu
 
 ![](images/B07.svg)
 
-Cut a roll of flashing for the top and bottom of the doorway. Notch it so it can fold into place and overlap the edges. Place a board over it and hammer the board to shape the flashing.
+Cut a roll of *Flashing* for the top and bottom of the doorway. Notch it so it can fold into place and overlap the edges. Place a board over it and hammer the board to shape the flashing.
 
 ## 8. Doors 
 
 ![](images/B08.svg)
 
-Build the doors and insert them into place using *Shims* to create some spacing to make sure they fit and hold them in place. Insert the Hinges into the gap and mark where they should go on the jam and the door. also mark the hinge for distance it should extend out. Make sure the hinge pin extends past the jam so the doors can open 180 degrees.
+Build the doors and insert them into place using *Shims* to create some spacing to make sure they fit and hold them in place. Insert the *Hinges* into the gap and mark where they should go on the jam and the door. also mark the hinge for distance it should extend out. Make sure the hinge pin extends past the jam so the doors can open 180 degrees.
 
 This door installation will be temporary to make the shed lockable until you can finish the siding.
 
@@ -155,11 +155,11 @@ Install 1x2 door stop trim on the inside of the doors to keep them from swinging
 
 ![](images/B09.svg)
 
-Install from the bottom up overlap horizontally 4 at least inches and vertically 2 inches. Use a *Hammer Tacker* to get the paper up and hammer in *Metal Cap Nails* every 6 feet to keep the paper from blowing off. Install spare felt paper on the doors to protect them temporarily until the siding can be installed over top. 
+Install from the bottom up overlap horizontally 4 at least inches and vertically 2 inches. Use a *Hammer Tacker* to get the paper up and hammer in *Metal Cap Nails* every 6 feet to keep the paper from blowing off. Install spare *Felt Paper* on the doors to protect them temporarily until the siding can be installed over top. 
 
 ## Tie-Downs
 
-Using a *Battery-Powered Drill* drill through the bottom plates and into the floor joists using a *1/2" Drill Bit* a few inches from the end of each cut and once in the center of the western wall. Insert a *1/2" x 4" Galvanized Hex Lag Screw* with a  *1/2" Washer* into each hole and tighten using a *3/4" Ratchet Bit* inserted into a *Battery-Powered Impact Driver* with a *1/4" Male Hex to 1/4" Square Drive Adapter*. This will help keep the framing from pulling off in high-winds.
+Using a *Battery-Powered Drill*, drill through the bottom plates and into the floor joists using a *1/2" Drill Bit* a few inches from the end of each cut and once in the center of the western wall. Insert a *1/2" x 4" Galvanized Hex Lag Screw* with a  *1/2" Washer* into each hole and tighten using a *3/4" Ratchet Bit* inserted into a *Battery-Powered Impact Driver* with a *1/4" Male Hex to 1/4" Square Drive Adapter*. This will help keep the framing from pulling off in high-winds.
 
 ## Cover until next step
 
