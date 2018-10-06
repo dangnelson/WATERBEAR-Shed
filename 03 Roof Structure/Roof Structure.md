@@ -1,10 +1,10 @@
 # Roof Structure
 
-The roof is designed with a steep 45 degree (12:12) pitch to shed water and debris quickly so it will last longer. It has wide overhangs to help keep the siding dry.
+The roof is designed with a steep 45 degree (12:12) pitch to shed water and debris quickly so it will last longer. It has long overhangs to help keep the siding dry.
 
 ![](images/RoofVocab.svg)
 
-Wait to start the roof until you have a good few days to work on it. It will be hard to cover until at least the roof sheathing is up because of wind. Precut the rafters and assemble the gables in advance. Now that the shed is enclosed, you can store the supplies for the roof inside. To help with organization we recommend building a simple lumber rack to accommodate the larger materials. 
+Wait to start the roof until you have a few dry days to work on it. It will be hard to cover until at least the roof sheathing is up because of wind. Precut the rafters and assemble the gables in advance. Now that the shed is enclosed, you can store the supplies for the roof inside. To help with organization we recommend building a simple lumber rack to accommodate the larger materials. 
 
 ## 01. Raised Top Plate 
 
@@ -157,12 +157,23 @@ Installing the *Roof Felt* can be tricky because of the angle of the roof. The r
 
 Cut an 8 inch strip of Roof Felt to cover the ridge beam. This will make the structure water proof enough for you to no longer have to use a tarp as cover. Nail it down with cap nails as it will be prone to fly off in heavy wind. You'll remove this piece once you're ready to install the ridge cap for the roofing.
 
-## Supplies 
+## Tools 
+
+### New Tools
+
+|Item|Cost|
+|---|---|
+| [1" Chisel](https://en.wikipedia.org/wiki/Chisel) | 10.96
+| 24' Extension Ladder | 169.99
+| Ladder Lock | 39.39
+| 8' Straight Ladder | 86.22
+| 2 Ladder Hooks with Wheel | 45.50
+|**Estimated Total**|**352.06**
 
 ### Existing Tools
 
-| Item 
-|---|
+| Item | Chapter
+|---|---|
 | Battery Powered Handheld Circular Saw 
 | Battery Powered Electric Nail Gun 
 | Battery Powered Impact Driver
@@ -173,18 +184,9 @@ Cut an 8 inch strip of Roof Felt to cover the ridge beam. This will make the str
 | Hammer Tacker 
 | Speed Square 
 
-### New Tools
+## Supplies
 
-|Item | # | Cost
-|---|---|---|
-| [1" Chisel](https://en.wikipedia.org/wiki/Chisel) | 1 | 10.96
-| 24' Extension Ladder | 1 | 169.99
-| Ladder Lock | 1 | 39.39
-| 8' Straight Ladder | 1 | 86.22
-| Ladder Hook with Wheel | 2 | 45.50
-	|**Estimated Total**||**352.06**
-
-### Materials
+### New Supplies
 
 | Item | Amount | Use 
 |---|---|---|
@@ -204,3 +206,9 @@ Cut an 8 inch strip of Roof Felt to cover the ridge beam. This will make the str
 | 4x8 3/8" plywood | 6 | Gable Sheathing
 | Roof Felt | 380 sq ft
 | Connecting Plates | 2 
+
+### Existing Supplies
+
+| Item | Chapter
+|---|---|
+| | |

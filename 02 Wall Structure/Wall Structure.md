@@ -237,6 +237,6 @@ Install the *Felt Paper* from the bottom up overlap horizontally 4 at least inch
 
 ### Existing Supplies
 
-| Item | Chapter
-|---|
+| Item | Chapter |
+|---|---|
 | 2.5" Interior Nails for nail gun | Foundation
