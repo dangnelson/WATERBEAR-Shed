@@ -33,7 +33,7 @@ Cut, then assemble the gables on a flat surface. Cut a forty five degree edge on
 
 ![](images/C03.svg)
 
-Cut the rafters to size using the dimensions provided (C.03A). Make sure to cut notches in four of the rafters for the outriggers to sit into (C.03C). To remove the notches, adjust the *Battery Powered Handheld Circular Saw* to the depth required and cut multiple grooves until it is easy to use a *Chisel* and *Hammer* to remove the excess.
+Cut the *2x6x12* rafters to size using the dimensions provided (C.03A). Make sure to cut notches in four of the rafters for the outriggers to sit into (C.03C). To remove the notches, adjust the *Battery Powered Handheld Circular Saw* to the depth required and cut multiple grooves until it is easy to use a *Chisel* and *Hammer* to remove the excess.
 
 Pre-assemble three of the rafters, by connecting to the outriggers, with the overhang blocking (C.03D) before lifting them into place. Nail the rafter bottoms into the raised top plate and nail up from under the gable to secure the center rafter. Repeat for all four corners. See Rafter section for fastening.
 
@@ -49,7 +49,7 @@ Pre-assemble three of the rafters, by connecting to the outriggers, with the ove
 
 ![](images/C04.svg)
 
-Next, run a *String Line* with a *String Line Level* east to west to determine a straight ridge line. Because of the length of the ridge beam, it is built in two pieces. Cut one of the pieces to size (C.04) and measure out and mark where the last two rafters should sit. Install the ridge beam by placing it on a gable and nailing two additional rafters at the end in place. Make sure the ridge beam stays true to your line to keep your roof from being warped. Nail the ridge beam to the rafters that are supported by the outriggers. Repeat for other side.
+Next, run a *String Line* with a *String Line Level* east to west to determine a straight ridge line. Because of the length of the ridge beam, it is built in two pieces. Cut the *1x10x8* beam to size (C.04) and measure out and mark where the last two rafters should sit. Install the ridge beam by placing it on a gable and nailing two additional rafters at the end in place. Make sure the ridge beam stays true to your line to keep your roof from being warped. Nail the ridge beam to the rafters that are supported by the outriggers. Repeat for other side.
 
 For additional support during construction, add *Connecting Plates* to the ridge beam joint.
 
@@ -93,7 +93,7 @@ Install collar ties to help prevent the rafters from coming apart at the top.
 Roof sheathing must be at least 5/8 inches thick (IRC TABLE R803.1)
 
 ### Sliding Sheathing Up
-Installing the roof sheathing is the most laborious part of this design. Make sure to have at least two additional people helping you. Build simple slides out of four 2x6x12’s help you guide the sheathing up to the roof. Make the slides by attaching 2 of the boards together at the edges to make an angle and tacking them to the rafters ends. Notch a square corner out of a spare 2x4 to use as a pushing stick. Have one or two people lift the plywood up to the 2 people on the roof. Have one person on the roof tack the plywood into place using the nail gun once you confirm it is square to the bottom of the rafters. 
+Installing the *4x8 19/32"* roof sheathing is the most laborious part of this design. Make sure to have at least two additional people helping you. Build simple slides out of four 2x6x12’s help you guide the sheathing up to the roof. Make the slides by attaching 2 of the boards together at the edges with 3.5" nails to make an angle and tacking them to the rafters ends with 2.5" nails driven at an angle. Notch a square corner out of a spare 2x4 to use as a pushing stick. Have one or two people lift the plywood up to the 2 people on the roof. Have one person on the roof tack the plywood into place using the nail gun once you confirm it is square to the bottom of the rafters. 
 
 ### Safety
 Never have anyone stand under or in the slide in case someone on the roof loses their grip. Never have anyone reach out over the edge of the roof to grab a piece of sheathing. A good setup shouldn't require comprising safety.
@@ -118,11 +118,11 @@ It may be difficult to reach across far enough to nail each piece in completely.
 
 ## Using a Ladder
 
-Ladder safety is extremely important, especially with a roof of this slope. You'll need to use an *Extension Ladder* at an angle of one foot back for every four feet of height. Attach the ladder at the top to the sheathing or rafters using a *Ladder Lock* to help prevent side to side movement. You'll need a second *8 ft Straight Ladder* to rest on the roof itself with 2 *Ladder Hooks with Wheels* attached. The wheels help you get the ladder up the roof until you can flip it over the ridge. Watch ladder safety videos and makes sure you're knowledgeable and comfortable before starting.
+Ladder safety is extremely important, especially with a roof of this slope. You'll need to use the *24' Extension Ladder* at an angle of one foot back for every four feet of height. Attach the ladder at the top to the sheathing or rafters using a *Ladder Lock* to help prevent side to side movement. You'll need a second *8 ft Straight Ladder* to rest on the roof itself with 2 *Ladder Hooks with Wheels* attached. The wheels help you get the ladder up the roof until you can flip it over the ridge. Watch ladder safety videos and makes sure you're knowledgeable and comfortable before starting.
 
 ## Cover with Tarp
 
-This is a good time to figure out how to cover the structure with a tarp so the shed is protected from rain and you can take a break while finishing the gables. We wrapped a tarp over the roof and under the rake overhangs, tying off to the overhang blocking. Until we had the gable felt installed, we tied another tarp off starting with a corner under the ridge overhang and down to the eaves.
+This is a good time to figure out how to cover the structure with the *Tarp* so the shed is protected from rain and you can take a break while finishing the gables. We wrapped a tarp over the roof and under the rake overhangs, tying off to the overhang blocking. Until we had the gable felt installed, we tied another tarp off starting with a corner under the ridge overhang and down to the eaves.
 
 ## 08. Gable Sheathing 
 
@@ -151,11 +151,11 @@ This is a good time to figure out how to cover the structure with a tarp so the 
 
 ![](images/C10.svg) 
 
-Installing the *Roof Felt* can be tricky because of the angle of the roof. The roll has a tendency to slip down to roof. We gerry-rigged a tool to keep the roll at the right height by screwing a dowel to a horizontal stake at the bottom inserting it through the roll and then screwing a vertical stake at the top. This allowed us to slide the roll across the entire roof. We adjusted the tool for the higher roll, It also makes sense to precut sections for the roof length to reduce the roll weight.
+Installing the *Roof Felt* can be tricky because of the angle of the roof. The roll has a tendency to slip down to roof. We gerry-rigged a tool to keep the roll at the right height by screwing a *Dowel* to a horizontal stake at the bottom inserting it through the roll and then screwing a vertical stake at the top. This allowed us to slide the roll across the entire roof. We adjusted the tool for the higher roll, It also makes sense to precut sections for the roof length to reduce the roll weight.
 
 ## Cover Until Next Step
 
-Cut an 8 inch strip of Roof Felt to cover the ridge beam. This will make the structure water proof enough for you to no longer have to use a tarp as cover. Nail it down with cap nails as it will be prone to fly off in heavy wind. You'll remove this piece once you're ready to install the ridge cap for the roofing.
+Cut an 8 inch strip of *Roof Felt* to cover the ridge beam. This will make the structure water proof enough for you to no longer have to use a tarp as cover. Nail it down with *Cap nails* as it will be prone to fly off in heavy wind. You'll remove this piece once you're ready to install the ridge cap for the roofing.
 
 ## Tools 
 
@@ -164,16 +164,17 @@ Cut an 8 inch strip of Roof Felt to cover the ridge beam. This will make the str
 |Item|Cost|
 |---|---|
 | [1" Chisel](https://en.wikipedia.org/wiki/Chisel) | 10.96
-
 | Ladder Lock | 39.39
 | 8' Straight Ladder | 86.22
 | 2 Ladder Hooks with Wheel | 45.50
+| Tarp | 
 |**Estimated Total**|**352.06**
 
 ### Existing Tools
 
 | Item |   Chapter
 |---|---|
+| Measuring Tape | Foundation
 | Battery Powered Handheld Circular Saw | Foundation
 | Battery Powered Electric Nail Gun | Foundation 
 | 4' Level | Foundation
@@ -182,37 +183,45 @@ Cut an 8 inch strip of Roof Felt to cover the ridge beam. This will make the str
 | Hammer | Foundation
 | String Line | Foundation
 | String Line Level | Foundation
-
 | Battery Powered Impact Driver | Foundation
+| 24' Extension Ladder | Wall Structure
+| Tarp | Foundation
 | Hammer Tacker  | Wall Structure
+| Stakes | Foundation
 
 ## Supplies
 
 ### New Supplies
 
-| Item | Amount | Use | Cost
+| Item | Use | Amount | Cost
 |---|---|---|
-| 2x4x8 | 23
-| | 5 | Raised Top Plate 
-| | 2 | Gables
-| | 6 | Overhang Blocking
-| | 10 | Outriggers
-| 2x4x6 | 10 | Gables
-| 2x4x12 | 2 | Gables
-| 2x6x12 | 36 | Rafters
-| 1x10x12 | 1 | Ridge Beam
-| 1x10x8 | 1 | Ridge Beam
-| Hurricane Ties | 26 | Tie-down Rafters
-| Hurricane Tie Screws | 260 | With Hurricane Ties
-| 4x8 19/32" | 12 | Roof Sheathing
-| 1x3x7 | 3 | Collar Ties
-| 4x8 3/8" plywood | 6 | Gable Sheathing
-| Roof Felt | 380 sq ft
-| Connecting Plates | 2 
+| 2x4x8 | Raised Top Plate | 5 
+| | Gables | 2 
+| | Overhang Blocking | 6 
+| | Outriggers | 10 
+| | **Total** | 23
+| 2x4x6 | Gables | 10 
+| 2x4x12 | Gables | 2 
+| 2x6x12  | Rafters | 32 
+| | Sheathing Slide | 4 
+| | **Total** | 36
+| 1x10x8 | Ridge Beam | 1 
+| 1x10x12 | Ridge Beam | 1 
+| Connecting Plates | Ridge Beam | 2
+| Hurricane Ties | Tie-down Rafters| 26 
+| Hurricane Tie Screws | Tie-down Rafters | 260 
+| 1x3x7 | Collar Ties | 3 
+| 4x8 19/32" | Roof Sheathing| 12 
+| H-Clips | 
+| 4x8 3/8" plywood | Gable Sheathing| 6 
+| Roof Felt | Roof | 380 sq ft
+| Dowel
 
 ### Existing Supplies
 
 | Item | # | Chapter
 |---|---|
+| 2.5" Interior Nails for nail gun | | Foundation
 | 3" Interior Nails for nail gun | 19 | Wall Structure
 | 3.5" Interior Nails for nail gun | | Wall Structure
+| Metal Cap Nails | Wall Structure
