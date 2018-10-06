@@ -184,7 +184,7 @@ Place *Bricks* on *Tarp*
 | [Hoe](https://en.wikipedia.org/wiki/Hoe_(tool)) | 1 | 15.97
 | [Margin Trowel](https://en.wikipedia.org/wiki/Trowel) | 1 | 5.77
 | Carpenter's Pencil
-| Square
+| Speed Square
 | Gloves
 | Battery Powered [Hand-held Circular Saw](https://en.wikipedia.org/wiki/Circular_saw) | 1 | 279.00
 | Battery Powered Drill | 1| 159.00
@@ -216,7 +216,8 @@ Place *Bricks* on *Tarp*
 | Treated 2x6x16 | 2 | Large | 23.14
 | Concrete Deck Blocks | 28 | Heavy | 193.20
 | Shims | | | 4.95
-| 1 Cubic Yard of #57 Drainage Gravel|  | Heavy | 29.00 | | 2.5" Interior Nails for Nail Gun | 384 | | 37.97
+| 1 Cubic Yard of #57 Drainage Gravel|  | Heavy | 29.00 | 
+| 2.5" Interior Nails for Nail Gun | 384 | | 37.97
 | 4x8 5/8" (19/32) Plywood | 7 || 141.19
 | Bricks
 | Tarp

@@ -5,7 +5,7 @@
 ![](images/B01.svg)
 
 ### Build Walls
-Build the west back wall (Blueprint B.01A) first using the shed floor as a surface. Cut studs to size using a *Battery Powered Circular Saw*. Mark the top and bottom plates using a *Carpenter's Pencil* and *Measuring Tape* and nail them together using a *Battery Powered Nail Gun*. Use a *Hammer* to finish driving any nails that stick out. Stand up the wall and nail spare *2x4s* at about a 45 degree angle on either side to the end of the floor joists while leveling using a *48 Inch Level*. Next stand up the north/south walls (Blueprint B.01B), and finally the other east/west wall (Blueprint B.01C).
+Build the west back wall (Blueprint B.01A) first using the shed floor as a surface. Cut *2x4x92 5/8"* to size using a *Battery Powered Handheld Circular Saw*. Mark the top and bottom *2x4x12* plates using a *Carpenter's Pencil* and *Measuring Tape* and nail them together using a *Battery Powered Nail Gun*. Use a *Hammer* to finish driving any nails that stick out. Stand up the wall and nail spare *2x4s* at about a 45 degree angle on either side to the end of the floor joists while leveling using a *4' Level*. Next stand up the north/south walls (Blueprint B.01B), and finally the other east/west wall (Blueprint B.01C).
 
 [![Blueprint B01A](blueprints/B01A.svg)](blueprints/B01a.pdf)
 
@@ -24,7 +24,7 @@ Build the west back wall (Blueprint B.01A) first using the shed floor as a surfa
 
 ### Headers `IRC TABLE R502.5(1)`
 
-Sandwich *1/2" Plywood* between *2 2x12s* and attach them *Face Nail* to build the headers which support the wall above the doorways before installing them in the wall.
+Sandwich *5/8" Plywood* between *2 2x12s* and attach them *Face Nail* to build the headers which support the wall above the doorways before installing them in the wall.
 
 [![](blueprints/B01C.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/02%20Wall%20Structure/blueprints/B01c.pdf)
 
@@ -32,7 +32,7 @@ Sandwich *1/2" Plywood* between *2 2x12s* and attach them *Face Nail* to build t
 
 | Placement  | Size | Frequency | Occurrences 
 |---|---|---|---|
-| Header with *1/2" Plywood Spacer* | 3.5" | 16" on center along each edge | 260" length (18 Nails)
+| Header with *5/8" Plywood Spacer* | 3.5" | 16" on center along each edge | 260" length (18 Nails)
 
 ## 2. Top Plate 
 
@@ -55,9 +55,9 @@ Walls must be capped with a second top plate, offset at least 24 inches at joint
 
 ![](images/B03.svg)
 
-The structure will be flexible when it's just studs. Sheathing adds shear strength. Confirm everything's level while installing the sheathing.
+The structure will be flexible when it's just studs. *3/8" Plywood* sheathing adds shear strength. Confirm everything's level while installing the sheathing.
 
-Hammer a nail lightly in between each panel. This will create an 1/8 inch gap between boards to allow for expansion and prevent buckling.
+*Hammer* *3.5" nails* lightly in between each panel. This will create an 1/8 inch gap between boards to allow for expansion and prevent buckling.
 
 [![](blueprints/B03A.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/02%20Wall%20Structure/blueprints/B03a.pdf)
 
@@ -163,16 +163,20 @@ Using a *Battery-Powered Drill*, drill through the bottom plates and into the fl
 
 ## Cover until next step
 
-## Supplies List 
+## Tools
 
 ### Existing Tools
 
-| Item 
+| Item | Amount | Use | Chapter
 |---|
 | Battery Powered Handheld Circular Saw 
-| Battery Powered Electric Nail Gun 
+| [Carpenter's Pencils] (https://en.wikipedia.org/wiki/Carpenter_pencil) with sharpener | 1
+| Measuring Tape
+| Battery Powered Nail Gun 
 | Hammer |
 | Speed Square 
+| 4' Level | 1
+
 | Battery-Powered Drill | 1 |
 
 
@@ -180,8 +184,6 @@ Using a *Battery-Powered Drill*, drill through the bottom plates and into the fl
 
 | Item | # | Cost
 |---|---|
-| 48 Inch Level | 1
-| [Carpenter's Pencils] (https://en.wikipedia.org/wiki/Carpenter_pencil) with sharpener | 1
 | 8' Step Ladder | 1
 | [Large Propane Torch](https://en.wikipedia.org/wiki/Propane_torch)
 | [20 lb Propane Tank](https://en.wikipedia.org/wiki/Propane)
@@ -195,23 +197,24 @@ Using a *Battery-Powered Drill*, drill through the bottom plates and into the fl
 | 1/2" Drill Bit | 
 | Solar Surveyor App | 1 | $10
 
-### Materials
+## Supplies
+
+### New Supplies
 
 | Item | # | Cost |
 |---|---|---|
+| 2x4x92 5/8" | 51
 | 2x4x12 | 3
-| 2x4x16 | 4
-| 2x4x7.5" | 45
+| 2x4x8 | 10
+| 4x8 5/8" plywood | 7
 | 2x12x8 | 3
-| 2x4x8 | 7
-| 4x8 3/8" plywood | 13
+| 3" Interior Nails for nail gun |
+| 3.5" Interior Nails for nail gun |
+| 4x8 3/8" plywood | 16
 | 2x6x12 | 16
 | 2x6x8 | 4
+
 | Post Frame Hangers | 4
-| 4x8 5/8" plywood | 7
-| 4x8 3/8" plywood | 3
-| 2x4x6'9" | 6
-| 2x4x8 | 3
 | 1x2x8
 | 1x6x8 Cedar | 6
 | Deadbolt for Door | 1
@@ -219,9 +222,6 @@ Using a *Battery-Powered Drill*, drill through the bottom plates and into the fl
 | Hinges | 6
 | Handle | 1
 | Wall Felt | 558 sq ft
-| 2.5" Nails for nail cup | 
-| 3" Nails for nail gun|
-| 3.5" Nails for nail gun
 | Metal Cap Nails 
 | Stakes | 6
 | Rope | 
@@ -231,3 +231,9 @@ Using a *Battery-Powered Drill*, drill through the bottom plates and into the fl
 | [Tung Oil](https://en.wikipedia.org/wiki/Tung_oil)
 | Rags
 | [Thick / Long Rubber Gloves](https://en.wikipedia.org/wiki/Rubber_glove)
+
+### Existing Supplies
+
+| Item | # | Cost |
+|---|---|---|
+| 2.5" Interior Nails for nail gun | 
