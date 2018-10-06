@@ -105,7 +105,7 @@ No blocking is needed because the distance between the raised top plate and the 
 
 [![](blueprints/B05.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/02%20Wall%20Structure/blueprints/B05.pdf)
 
-Lay one sheet up first and secure it to the joists enough to be able to get on top of it and finish fastening. Have one person pass sheets up while the other fastens. For the access hole lay the sheet on before fastening and mark the edges of the hole from the bottom. Flip it over and measure out 3/4" from your line to increase the panel size and cut it out with the *Battery Powered Handheld Circular Saw*. 
+Lay one sheet up first and secure it to the joists enough to be able to get on top of it using a *24' Extension Ladder* and finish fastening. Have one person pass sheets up while the other fastens. For the access hole lay the sheet on before fastening and mark the edges of the hole from the bottom. Flip it over and measure out 3/4" from your line to increase the panel size and cut it out with the *Battery Powered Handheld Circular Saw*. 
 
 ### Sheathing Fastening
 
@@ -174,6 +174,7 @@ Install the *Felt Paper* from the bottom up overlap horizontally 4 at least inch
 | Item | Cost
 |---|---|
 | 8' Step Ladder 
+| 24' Extension Ladder | 169.99
 | 1/2" Drill Bit 
 | 3/4" Ratchet Bit 
 | 1/4" Male Hex to 1/4" Square Drive Adapter 
@@ -199,6 +200,7 @@ Install the *Felt Paper* from the bottom up overlap horizontally 4 at least inch
 | Hammer | Foundation
 | Speed Square | Foundation
 | 4' Level | Foundation
+
 | Tarp | Foundation
 
 ## Supplies

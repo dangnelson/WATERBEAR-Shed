@@ -8,7 +8,7 @@ Wait to start the roof until you have a few dry days to work on it. It will be h
 
 ## 01. Raised Top Plate 
 
-Cut the 2x4s to size using the *Battery Powered Handheld Circular Saw* and install them using the *Battery Powered Electric Nail Gun*.
+Cut the *2x4x8s* to size using the *Battery Powered Handheld Circular Saw* and install them using the *Battery Powered Electric Nail Gun*.
 
 ### Fastening
 
@@ -22,7 +22,7 @@ Cut the 2x4s to size using the *Battery Powered Handheld Circular Saw* and insta
 
 ## 02. Gables 
 
-Cut, then assemble the gables on a flat surface. Cut a forty five degree edge onto the end of a spare 2x4x8. Stand up a gable and nail it to the joist below. Have someone level the gable while someone else attaches the notched 2x4 to the center beam and a floor joist to keep it from tipping until the rafters and roof sheathing are installed.
+Cut, then assemble the gables on a flat surface. Cut a forty five degree edge onto the end of a spare *2x4x8*. Stand up a gable and nail it to the joist below. Have someone *Level* the gable while someone else attaches the notched 2x4 to the center beam and a floor joist to keep it from tipping until the rafters and roof sheathing are installed.
 
 ![](images/C02.svg)
 
@@ -33,9 +33,9 @@ Cut, then assemble the gables on a flat surface. Cut a forty five degree edge on
 
 ![](images/C03.svg)
 
-Cut the rafters to size using the dimensions provided (C.03A). Make sure to cut notches in four of the rafters for the outriggers to sit into (C.03C). To remove the notches, adjust the *Circular Saw* to the depth required and cut multiple grooves until it is easy to use a *Chisel* and *Hammer* to remove the excess.
+Cut the rafters to size using the dimensions provided (C.03A). Make sure to cut notches in four of the rafters for the outriggers to sit into (C.03C). To remove the notches, adjust the *Battery Powered Handheld Circular Saw* to the depth required and cut multiple grooves until it is easy to use a *Chisel* and *Hammer* to remove the excess.
 
-Pre-assemble three of the rafters, which connect to the outriggers, with the overhang blocking (C.03D) before lifting them into place. Nail the rafter bottoms into the raised top plate and nail up from under the gable to secure the center rafter. Repeat for all four corners. See Rafter section for fastening.
+Pre-assemble three of the rafters, by connecting to the outriggers, with the overhang blocking (C.03D) before lifting them into place. Nail the rafter bottoms into the raised top plate and nail up from under the gable to secure the center rafter. Repeat for all four corners. See Rafter section for fastening.
 
 [![](blueprints/C03A.svg)](blueprints/C03A.pdf)
 
@@ -164,7 +164,7 @@ Cut an 8 inch strip of Roof Felt to cover the ridge beam. This will make the str
 |Item|Cost|
 |---|---|
 | [1" Chisel](https://en.wikipedia.org/wiki/Chisel) | 10.96
-| 24' Extension Ladder | 169.99
+
 | Ladder Lock | 39.39
 | 8' Straight Ladder | 86.22
 | 2 Ladder Hooks with Wheel | 45.50
@@ -172,36 +172,39 @@ Cut an 8 inch strip of Roof Felt to cover the ridge beam. This will make the str
 
 ### Existing Tools
 
-| Item | Chapter
+| Item |   Chapter
 |---|---|
-| Battery Powered Handheld Circular Saw 
-| Battery Powered Electric Nail Gun 
-| Battery Powered Impact Driver
-| 48 Inch Level 
-| Hammer
-| String Line
-| String Line Level
-| Hammer Tacker 
-| Speed Square 
+| Battery Powered Handheld Circular Saw | Foundation
+| Battery Powered Electric Nail Gun | Foundation 
+| 4' Level | Foundation
+| Speed Square | Foundation 
+| Carpenter's Pencil | Foundation
+| Hammer | Foundation
+| String Line | Foundation
+| String Line Level | Foundation
+
+| Battery Powered Impact Driver | Foundation
+| Hammer Tacker  | Wall Structure
 
 ## Supplies
 
 ### New Supplies
 
-| Item | Amount | Use 
+| Item | Amount | Use | Cost
 |---|---|---|
-| 2x4x8 | 5 | Raised Top Plate
+| 2x4x8 | 23
+| | 5 | Raised Top Plate 
+| | 2 | Gables
+| | 6 | Overhang Blocking
+| | 10 | Outriggers
 | 2x4x6 | 10 | Gables
-| 2x4x8 | 2 | Gables
 | 2x4x12 | 2 | Gables
-| 2x4x1.5' | 28 (6 2x4x8s) | Overhang Blocking
-| 2x4x2.5' | 28 (10 2x4x8s) | Outriggers
 | 2x6x12 | 36 | Rafters
 | 1x10x12 | 1 | Ridge Beam
 | 1x10x8 | 1 | Ridge Beam
 | Hurricane Ties | 26 | Tie-down Rafters
 | Hurricane Tie Screws | 260 | With Hurricane Ties
-|4x8 19/32" | 12 | Roof Sheathing
+| 4x8 19/32" | 12 | Roof Sheathing
 | 1x3x7 | 3 | Collar Ties
 | 4x8 3/8" plywood | 6 | Gable Sheathing
 | Roof Felt | 380 sq ft
@@ -209,6 +212,7 @@ Cut an 8 inch strip of Roof Felt to cover the ridge beam. This will make the str
 
 ### Existing Supplies
 
-| Item | Chapter
+| Item | # | Chapter
 |---|---|
-| | |
+| 3" Interior Nails for nail gun | 19 | Wall Structure
+| 3.5" Interior Nails for nail gun | | Wall Structure
