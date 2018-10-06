@@ -79,6 +79,10 @@ Once full, smooth out the top of the form with the *Margin Trowel*. Then insert 
 
 Wait a day and remove the *Cardboard Concrete Form Tubes* from around the piers. Backfill with *Compactable Fill* and tamp using the *Digging Bar*.
 
+### Cutting Lumber
+
+To safely cut lumber, create 2 sawhorses using 45 *2x4x8s* cut into eight 3 foot sections and inserted into 4 *Sawhorse Brackets*. Always wear *Work Gloves* and *Safety Glasses* when using electrically powered equipment.
+
 ### Cut & Insert Piers
 
 Mark the *Treated 4x4x8s* to size using a *Carpenter's Pencil* and *Square* then cut using a *Battery Powered Hand-held Circular Saw* and insert them into the *Galvanized Post Bases*. Drill the bolt holes out using a *Battery Powered Drill* and a *1/2" diameter 6" long brad point bit*. Insert the *1/2" x 6" Galvanized Carriage Bolts* and tighten the *1/2" Galvanized Washers* and *1/2" Galvanized Nuts* with a *1/2" Socket Wrench*.
@@ -167,7 +171,7 @@ Place *Bricks* on *Tarp*
 |---|---|---|
 | 100' String Line | 1 | 2.98
 | [String Line Levels](https://en.wikipedia.org/wiki/Spirit_level#Line_level) | 4 | 5.86 
-| Sun Surveyor App 
+| Solar Surveyor App | 1 | $10
 | Marking Spray Paint | 1 | 5.27
 | 25'+ [Tape Measure](https://en.wikipedia.org/wiki/Tape_measure) | 1 | 9.88
 | 2 ft Wooden [Stakes](https://en.wikipedia.org/wiki/Survey_stakes) | 4 | 4.97
@@ -185,7 +189,9 @@ Place *Bricks* on *Tarp*
 | [Margin Trowel](https://en.wikipedia.org/wiki/Trowel) | 1 | 5.77
 | Carpenter's Pencil
 | Speed Square
-| Gloves
+| Sawhorse Brackets | 2 sets
+| Work Gloves
+| Safety Glasses
 | Battery Powered [Hand-held Circular Saw](https://en.wikipedia.org/wiki/Circular_saw) | 1 | 279.00
 | Battery Powered Drill | 1| 159.00
 | 1/2" diameter 6" long brad point bit | 1 | 9.97

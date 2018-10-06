@@ -7,6 +7,10 @@
 ### Build Walls
 Build the west back wall (Blueprint B.01A) first using the shed floor as a surface. Cut *2x4x92 5/8"* to size using a *Battery Powered Handheld Circular Saw*. Mark the top and bottom *2x4x12* plates using a *Carpenter's Pencil* and *Measuring Tape* and nail them together using a *Battery Powered Nail Gun*. Use a *Hammer* to finish driving any nails that stick out. Stand up the wall and nail spare *2x4s* at about a 45 degree angle on either side to the end of the floor joists while leveling using a *4' Level*. Next stand up the north/south walls (Blueprint B.01B), and finally the other east/west wall (Blueprint B.01C).
 
+### Tie-Downs
+
+Using a *Battery-Powered Drill*, drill through the bottom plates and into the floor joists using a *1/2" Drill Bit* a few inches from the end of each cut and once in the center of the western wall. Insert a *1/2" x 4" Galvanized Hex Lag Screw* with a  *1/2" Washer* into each hole and tighten using a *3/4" Ratchet Bit* inserted into a *Battery-Powered Impact Driver* with a *1/4" Male Hex to 1/4" Square Drive Adapter*. This will help keep the framing from pulling off in high-winds.
+
 [![Blueprint B01A](blueprints/B01A.svg)](blueprints/B01a.pdf)
 
 ### Stud & Header Nail Fastening `IRC Table 602.3(1)`
@@ -87,7 +91,7 @@ The structure will be flexible when it's just studs. *3/8" Plywood* sheathing ad
 *2x6 Joists* should just about line up with the wall studs, 16 inches on center `IRC Table 802.4(1)`. Mark the end plates first, then prop up the joists over the ceiling span. Be careful not to stand in the shed while you do this in case the joists fall. Frame enough to form a box and toe nail the box into place. This should give you enough structure to add in the remaining joists.
 
 ### Joist Fastening `IRC Table 602.3(1)`
-No blocking is needed because the distance between the raised top plate and the top of the parallel rafter is 7 & 1/8".  (IRC 602.10.6.2). The ends of each joist must touch the top plate for at least 1.5 inches (IRC 802.6).
+No blocking is needed because the distance between the raised top plate and the top of the parallel rafter is 7 & 1/8".  (IRC 602.10.6.2). The ends of each joist must touch the top plate for at least 1.5 inches (IRC 802.6). Use *Post Frame Hangers* to reinforce the opening the the ceiling.
 
 | Placement | Technique | Nail Size | Frequency | Occurances
 |---|---|---|---|---|
@@ -101,7 +105,7 @@ No blocking is needed because the distance between the raised top plate and the 
 
 [![](blueprints/B05.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/02%20Wall%20Structure/blueprints/B05.pdf)
 
-Lay one sheet up first and secure it to the joists enough to be able to get on top of it and finish fastening. Have one person pass sheets up while the other fastens. For the access hole lay the sheet on before fastening and mark the edges of the hole from the bottom. Measure out 3/4" from your line to increase the panel size and cut it out with the *Circular Saw*.
+Lay one sheet up first and secure it to the joists enough to be able to get on top of it and finish fastening. Have one person pass sheets up while the other fastens. For the access hole lay the sheet on before fastening and mark the edges of the hole from the bottom. Flip it over and measure out 3/4" from your line to increase the panel size and cut it out with the *Battery Powered Handheld Circular Saw*. 
 
 ### Sheathing Fastening
 
@@ -127,9 +131,9 @@ This is a good time to figure out how to cover the structure with a tarp so you 
 Finish the 1x6s using the Shou Sugi Ban technique. Install them 3/4" out from the doorway so it will match up with the rain screen later. 
 
 ### Wood Burning (Shou Sugi Ban)
-Wearing proper attire, using a *Propane Torch* attached to a *Propane Tank* until the surface begins to char. Avoid plastic or loose hanging clothing. Once cool, brush the soot off with a *Deck Brush*, you may want to wear a mask. Wash the remaining soot off with a *Handheld Sprayer* filled with water. Once dry, coat the wood with an oil (we used tung oil) using a rag (rip up an old towel) and protective gloves. Let the oil dry before installing. Hang up used rags outside to dry before throwing them away, rags soaked in tung oil can spontaneously combust.
+Wearing proper attire, using a *Propane Torch* attached to a *Propane Tank* until the surface begins to char. Burn on a non-combustable surface such as asphalt or concrete. Have a *Handhelp Weed Sprayer* filled with water nearby incase anything ignites. Avoid plastic or loose hanging clothing. Once cool, coat the wood with an oil (we used tung oil) using a rag (rip up an old towel) and protective gloves. Let the oil dry before installing. Hang up used rags outside to dry before throwing them away. Don't store inside as rags soaked in tung oil can spontaneously combust.
 
-You can measure and precut the boards before burning & oiling them or you can cut them afterwards and use a *Butane Torch* loaded with *Butane* to touch up the exposed areas.
+You can measure and precut the boards before burning & oiling them or you can cut them afterwards and use a *Butane Torch* loaded using a *Butane Canister* to touch up the exposed areas.
 
 [![](blueprints/B06.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/02%20Wall%20Structure/blueprints/B06.pdf)
 
@@ -147,55 +151,55 @@ Build the doors and insert them into place using *Shims* to create some spacing 
 
 This door installation will be temporary to make the shed lockable until you can finish the siding.
 
-Use a *2 1/8-inch Hole Saw Bit* to drill a hole for a deadbolt. Use a *1-inch Hole Saw Bit* to drill the holes needed for the bolt latch.
+The easiest way to install the *Deadbolt* is to buy a *Doorlock installation kit* which will clamp to the door and provide the proper size hole saws.
 
-Install 1x2 door stop trim on the inside of the doors to keep them from swinging through the frame.
+Install *1x2x8s* as a door stop trim on the inside of the doors to keep them from swinging through the frame.
+
+Install *6 in Galvanized Barrel Bolts* on the large doors. Two at the top center by the opening, and one at the center of the opening to connect the two doors.
+
+Use two *2.5" Screws* to install a small 3 inch door stop at the bottom to keep the doors from swinging to far at the bottom.
 
 ## 9. Wall Felt 
 
 ![](images/B09.svg)
 
-Install from the bottom up overlap horizontally 4 at least inches and vertically 2 inches. Use a *Hammer Tacker* to get the paper up and hammer in *Metal Cap Nails* every 6 feet to keep the paper from blowing off. Install spare *Felt Paper* on the doors to protect them temporarily until the siding can be installed over top. 
-
-## Tie-Downs
-
-Using a *Battery-Powered Drill*, drill through the bottom plates and into the floor joists using a *1/2" Drill Bit* a few inches from the end of each cut and once in the center of the western wall. Insert a *1/2" x 4" Galvanized Hex Lag Screw* with a  *1/2" Washer* into each hole and tighten using a *3/4" Ratchet Bit* inserted into a *Battery-Powered Impact Driver* with a *1/4" Male Hex to 1/4" Square Drive Adapter*. This will help keep the framing from pulling off in high-winds.
+Install the *Felt Paper* from the bottom up overlap horizontally 4 at least inches and vertically 2 inches. Use a *Hammer Tacker* loaded with *T50 staples* to get the paper up and hammer in *Metal Cap Nails* every 6 feet to keep the paper from blowing off. Install spare *Felt Paper* on the doors to protect them temporarily until the siding can be installed later. 
 
 ## Cover until next step
 
 ## Tools
 
-### Existing Tools
-
-| Item | Amount | Use | Chapter
-|---|
-| Battery Powered Handheld Circular Saw 
-| [Carpenter's Pencils] (https://en.wikipedia.org/wiki/Carpenter_pencil) with sharpener | 1
-| Measuring Tape
-| Battery Powered Nail Gun 
-| Hammer |
-| Speed Square 
-| 4' Level | 1
-
-| Battery-Powered Drill | 1 |
-
-
 ### New Tools
 
-| Item | # | Cost
+| Item | Cost
 |---|---|
-| 8' Step Ladder | 1
+| 8' Step Ladder 
+| 1/2" Drill Bit 
+| 3/4" Ratchet Bit 
+| 1/4" Male Hex to 1/4" Square Drive Adapter 
+| Tarp Stakes
+| Tarp Rope
 | [Large Propane Torch](https://en.wikipedia.org/wiki/Propane_torch)
 | [20 lb Propane Tank](https://en.wikipedia.org/wiki/Propane)
 | Handheld Weed Sprayer
 | [Butane Torch](https://en.wikipedia.org/wiki/Butane_torch)
 | Butane Canister
-| Deck Brush |
+| Doorlock installation kit
 | [Hammer Tacker](https://en.wikipedia.org/wiki/Hammer_tacker)
-| 3/4" Ratchet Bit | 1
-| 1/4" Male Hex to 1/4" Square Drive Adapter | 1
-| 1/2" Drill Bit | 
-| Solar Surveyor App | 1 | $10
+
+### Existing Tools
+
+| Item | Chapter
+|---|
+| Battery Powered Handheld Circular Saw | Foundation
+| [Carpenter's Pencils] (https://en.wikipedia.org/wiki/Carpenter_pencil) with sharpener | Foundation
+| Measuring Tape | Foundation
+| Battery Powered Nail Gun | Foundation
+| Battery-Powered Impact Driver | Foundation
+| Hammer | Foundation
+| Speed Square | Foundation
+| 4' Level | Foundation
+| Tarp | Foundation
 
 ## Supplies
 
@@ -206,34 +210,33 @@ Using a *Battery-Powered Drill*, drill through the bottom plates and into the fl
 | 2x4x92 5/8" | 51
 | 2x4x12 | 3
 | 2x4x8 | 10
+| 1/2" x 4 in. Galvanized Hex Lag Screw | 11
+| 1/2" Galvanized Washer | 11
 | 4x8 5/8" plywood | 7
-| 2x12x8 | 3
 | 3" Interior Nails for nail gun |
 | 3.5" Interior Nails for nail gun |
+| 2x12x8 | 3
 | 4x8 3/8" plywood | 16
 | 2x6x12 | 16
 | 2x6x8 | 4
-
 | Post Frame Hangers | 4
-| 1x2x8
-| 1x6x8 Cedar | 6
-| Deadbolt for Door | 1
-| 6 in Galvanized Barrel Bolt | 3
-| Hinges | 6
-| Handle | 1
-| Wall Felt | 558 sq ft
-| Metal Cap Nails 
-| Stakes | 6
-| Rope | 
-| 1/2" x 4 in. Galvanized Hex Lag Screw | 11
-| 1/2" Galvanized Washer | 11
-| T50 Staples |
+| 1x6x8 | 6
 | [Tung Oil](https://en.wikipedia.org/wiki/Tung_oil)
 | Rags
 | [Thick / Long Rubber Gloves](https://en.wikipedia.org/wiki/Rubber_glove)
+| Flashing
+| Shims
+| Hinges | 6
+| 1x2x8 | 
+| Deadbolt for Door | 1
+| 6 in Galvanized Barrel Bolt | 3
+| 2.5" Screws
+| Felt Paper | 558 sq ft
+| Metal Cap Nails 
+| T50 Staples |
 
 ### Existing Supplies
 
-| Item | # | Cost |
-|---|---|---|
-| 2.5" Interior Nails for nail gun | 
+| Item | Chapter
+|---|
+| 2.5" Interior Nails for nail gun | Foundation

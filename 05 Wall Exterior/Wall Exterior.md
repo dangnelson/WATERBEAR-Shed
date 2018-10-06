@@ -54,7 +54,7 @@ The east / west sides are identical except for the doors. To finish the peak, yo
 The doors may take a few days to finish and you won’t have access to inside of the shed while your working. So plan carefully.
 
 #### Rebuild Doors
-Take the doors down from their temporary hinges using your *Battery Powered Driver* and set them aside. Count the number of siding rows you'll need to finish the portion of the siding which covers the doors using the north or south wall. Pull out enough siding to finish that section and set it aside wrapped in a *Tarp* weighed down with *Bricks*. Take the sheathing off the doors and put the frame of the first door into place by hammering shims into all four sides while someone else holds the door. Next use *2 1/2” Finishing Nails* loaded in your *Finishing Nailer* to tack the door into place by shooting a nail at a 45 degree angle through the door and into the door frame. Nail twice towards the very top and bottom of both sides and once at the  middle top. These will be cut later once the siding is cut out and the doors are mounted. Repeat for each door.
+Take the doors down from their temporary hinges using your *Battery Powered Driver*. Replace the section of 2x4 which had the deadbolt attached to it. Count the number of siding rows you'll need to finish the portion of the siding which covers the doors using the north or south wall. Pull out enough siding to finish that section and set it aside wrapped in a *Tarp* weighed down with *Bricks*. Take the sheathing off the doors and put the frame of the first door into place by hammering shims into all four sides while someone else holds the door. Next use *2 1/2” Finishing Nails* loaded in your *Finishing Nailer* to tack the door into place by shooting a nail at a 45 degree angle through the door and into the door frame. Nail twice towards the very top and bottom of both sides and once at the  middle top. These will be cut later once the siding is cut out and the doors are mounted. Repeat for each door.
 
 #### Door Siding
 Install the siding over the doors and mark each piece where the the door gaps are so you can confirm your cut lines later. Nail the pieces as you normally would into the furring strips. In addition, nail through into the door frame and add additional nails at the bottom near cut edges both inside and outside the cut. This is to reinforce the siding since the doors move. 
@@ -104,7 +104,7 @@ Install the trim on the edge between the wall siding and the rake underside to c
 
 ![](images/E05.svg)
 
-The easiest way to install the *Deadbolt* is to buy a *Doorlock installation kit* which will clamp to the door and provide the proper size hole saws. Install the bolt in the center of a piece of siding.
+Reinstall the *Deadbolt* using the *Doorlock installation kit*.
 
 To protect the doors from water potentially dripping from the rain screen, install flashing over the top and nail it into the 2x4 on top with *Roofing Nails*. Cut the corners of the backside of the flashing so it doesn't catch on the door stop trim.
 
