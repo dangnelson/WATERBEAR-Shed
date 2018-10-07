@@ -22,7 +22,7 @@ Here are some goals we're working towards with this design:
 
 ## Supplies Lists
 
-Materials and Tools are italicized and listed  at the end of each chapter with their estimated cost from 2017-2018. The tools budget only includes new tools needed for each chapter. The lists are kept separate in case you already own the tools needed for the chapter.
+Supplies and Tools are italicized and listed  at the end of each chapter with their estimated cost from 2017-2018. The lists are kept separate in case you already own the tools needed for the chapter.
 
 ## International Residential Code Compliant
 

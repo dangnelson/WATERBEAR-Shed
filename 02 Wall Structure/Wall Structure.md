@@ -184,7 +184,6 @@ Install the *Felt Paper* from the bottom up overlap horizontally 4 at least inch
 | [20 lb Propane Tank](https://en.wikipedia.org/wiki/Propane)
 | Handheld Weed Sprayer
 | [Butane Torch](https://en.wikipedia.org/wiki/Butane_torch)
-| Butane Canister
 | Doorlock installation kit
 | [Hammer Tacker](https://en.wikipedia.org/wiki/Hammer_tacker)
 
@@ -225,6 +224,7 @@ Install the *Felt Paper* from the bottom up overlap horizontally 4 at least inch
 | 1x6x8 || 6
 | [Tung Oil](https://en.wikipedia.org/wiki/Tung_oil)
 | Rags
+| Butane Canister
 | [Thick / Long Rubber Gloves](https://en.wikipedia.org/wiki/Rubber_glove)
 | Flashing
 | Shims

@@ -17,12 +17,12 @@ This chapter covers generally what you should expect when installing snap-lock r
 ![](./images/D01.svg)
 	
 ### Eave Fascia
-Burn & oil two 2x6x8s and two 2x6x12s to use as Eave Fascia. Rather than trusting blueprints for your cuts, it's better to measure the actual structure using a *Tape Measure* to compensate for any warping that may have occurred during construction.
+Burn & oil two *2x6x8s* and two *2x6x12s* to use as Eave Fascia. Rather than trusting blueprints for your cuts, it's better to measure the actual structure using a *Tape Measure* to compensate for any warping that may have occurred during construction.
 
-Standing on the *8' Step ladder* install the boards 1.5” below where the fascia meets the sheathing. This will maintain the 45 degree pitch and insure the roofing extends past the fascia. *Level* each board as you install them. Tack the boards in first using *2 1/2” Galvanized Finishing nails* loaded in the *Finishing Nailer*. Then use two *2 1/2” Hex Deck Screws* to attach the boards to each rafter using your *Impact Driver*. This will help provide additional strength to the rafters, and insures the gutters have plenty of support during rainfall.
+Standing on the *8' Step ladder* install the boards 1.5” below where the fascia meets the sheathing. This will maintain the 45 degree pitch and insure the roofing extends past the fascia. *Level* each board as you install them. Tack the boards in first using *2 1/2” Galvanized Finishing nails* loaded in the *Battery-Powered 16 Gauge Finishing Nailer*. Then use two *2 1/2” Hex Deck Screws* to attach the boards to each rafter using your *Battery-Powered Impact Driver*. This will help provide additional strength to the rafters, and insures the gutters have plenty of support during rainfall.
 
 ### Rake Fascia
-To measure and cut the four 1x8x12 Boards for the Rake Fascia, first cut 45 degree angles at the end of the boards, then tack them up in place using a *16 Gauge Finishing Nailer* loaded with *1 1/2" Finishing Nails*. This will allow you then mark the bottom edge using the Eave Fascia to make sure they'll line up. Carefully pry the boards away and hammer out the finishing nails before correcting your marks with a *Speed Square* and making your cuts. After finishing the boards, install them with *1 1/2" Finishing Nails* where needed and two *2 1/2" Hex Deck Screws*.
+To measure and cut the four *1x8x12* Boards for the Rake Fascia, first cut 45 degree angles at the end of the boards, then tack them up in place using the *Battery-Powered 16 Gauge Finishing Nailer* loaded with *1 1/2" Galvanized Finishing Nails*. This will allow you then mark the bottom edge using the Eave Fascia to make sure they'll line up. Carefully pry the boards away and hammer out the finishing nails before correcting your marks with a *Speed Square* and making your cuts. After finishing the boards, install them with *1 1/2" Finishing Nails* where needed and two *2 1/2" Hex Deck Screws*.
 
 ## 02. Drip Edge
 
@@ -30,15 +30,15 @@ To measure and cut the four 1x8x12 Boards for the Rake Fascia, first cut 45 degr
 
 
 ### Cutting Metal
-To trim metal use *Metal Snips* for detail work, and a *Shears Attachment Accessory* attached to your *Driver* for long cuts. 
+To trim metal use *Metal Snips* for detail work, and a *Shears Attachment Accessory* attached to your *Battery-Powered Impact Driver* for long cuts. 
 
 ### Eave Drip Edge
-Install the *Eave Drip Edge* lapped under the underlayment  at the eave using *1" Pancake Head Woodscrews*. Join pieces by trimming the folded sections of the edges so that one can slide into the other. If the drip edge is difficult to screw through, pre-drill holes as often as required in the manufacturer instructions. Use *Pop Rivets* inserted in to a *Pop Rivet Gun* to join any seams so that they become flush. Pre-drill the holes for the rivets using a *1/8" Drill Bit*
+Install the *Plumb Eave Drip Edge* lapped under the underlayment  at the eaves using *1" Pancake Head Woodscrews*. Join pieces by trimming the folded sections of the edges so that one can slide into the other. If the drip edge is difficult to screw through, pre-drill holes as often as required in the manufacturer instructions. Use *1/8" Pop Rivets* inserted in to a *Pop Rivet Gun* to join any seams so that they become flush. Pre-drill the holes for the rivets using a *1/8" Drill Bit*
 
 ### Rake Drip Edge
-Next install the *Rake Drip Edge* over the underlayment starting at the top. Cut the top edge at a 45 degree angle leaving the first side with some excess on the face which is flush with the fascia. This will allow the second side to sit overtop and give a cleaner look at the joint.
+Next install the *Square Rake Drip Edge* over the underlayment starting at the top. Cut the top edge at a 45 degree angle leaving the first side with some excess on the face which is flush with the fascia. This will allow the second side to sit overtop and give a cleaner look at the joint.
 
-Have one person hold the bottom using the *8 Foot Step Ladder* while another uses the *24' Extension Ladder* attached to the eave with the *Ladder Lock* and the *8' Straight Ladder* hanging over the ridge to climb to the top and screw the drip edge to the sheathing.
+Have one person hold the bottom using the *8' Step Ladder* while another uses the *24' Extension Ladder* attached to the eave with the *Ladder Lock* and the *8' Straight Ladder* hanging over the ridge with the *Ladder Hooks with Wheels* to climb to the top and screw the drip edge to the sheathing.
 
 For additional pieces, trim the folded sections and slide the lower piece into the upper piece.
 
@@ -46,7 +46,7 @@ For additional pieces, trim the folded sections and slide the lower piece into t
 
 ![](images/D03.svg)
 
-Start on the west side and work west to east. This will maximize the time you spend in the shade in the morning and evening hours.
+Start on the west side and work west to east to install the *10' 6" x 16" Standing Seam Panels*. This will maximize the time you spend in the shade in the morning and evening hours.
 
 ### First Panel
 
@@ -59,7 +59,7 @@ Next measure 1 1/8" from the bottom of the panel and cut away the standing seam 
 Bend the bottom edge 180 degrees by using a *16" Hemming Tool*. Next bend the trimmed side half way along the whole edge to minimize buckling and then to 180 degrees.
 
 #### Installation
-Slide the panel onto the roof with the drip edge sliding into the folds. Have one person hold the bottom using the *8 Foot Step Ladder* while another uses the *24' Extension Ladder* attached to the eave with the *Ladder Lock* and the *8' Straight Ladder* hanging over the ridge to climb to the top and screw the panel in using one of the panels manufactured holes. Screw the bottom in using the *Driver* and *1" Pancake Head Woodscrews* and work your way back up using the recommended fastener scheduling from your manufacturer.
+Slide the panel onto the roof with the drip edge sliding into the folds. Have one person hold the bottom using the *8 Foot Step Ladder* while another uses the *24' Extension Ladder* attached to the eave with the *Ladder Lock* and the *8' Straight Ladder* hanging over the ridge to climb to the top and screw the panel in using one of the panels manufactured holes. Screw the bottom in using the *Battery-Powered Impact Driver* and *1" Pancake Head Woodscrews* and work your way back up using the recommended fastener scheduling from your manufacturer.
 
 ### Repeating Panels
 For the remaining panels prep them by trimming and bending the bottom edge. Then slide the standing seam along the edge of the previous panel with the end sliding under the drip edge. Use the *Rubber Mallet* to snap the seam into place at the bottom and place the first screw in at the bottom to hold the panel in place. Next snap the rest of the panel into place as you work your way towards the ridge. Once it's snapped in place screw the panel in and move on to the next one.
@@ -73,11 +73,15 @@ For the last panel, snap the bottom on and rest the seam on the lock edge so you
 ![](images/D04.svg)
 
 ### Angle Guide
-To insure the bottom pieces are at the right angle, make  a guide out of two 2x4s by screwing them together end to end at a 45 degree angle and cut so the inside of the guide matches the size of the ridge cap. This will allow you to place the guide on the top of the standing seams on the ridge and mark the angle needed on the seams.
+To insure the bottom pieces are at the right angle, make a guide out of two 2x4s by screwing them together at their ends to make a 45 degree angle V and cut it so the inside of the guide matches the size of the ridge cap. This will allow you to place the guide on the top of the standing seams on the ridge and mark the angle needed every few seams.
 
-### Installation
+### Ventilation
 
-Install the inner roof cap at the marked angles one side at a time per manufacturer instructions. The design of the ridge caps varies greatly by which manufacture you use, so follow the instructions you're given. You made need a *Caulking Gun* if the manufacturer recommends using sealant.
+You made need a *Caulking Gun* with *Sealant* and *Double Beaded Butyl Tape* depending on manufacturer instructions.
+
+### Cap
+
+Install the inner roof cap at the marked angles one side at a time per manufacturer instructions. You'll need longer *2" Pancake Head Woodscrews* to reach the roof. The design of the ridge caps varies greatly by which manufacture you use, so follow the instructions you're given. 
 
 For the outer roof cap, slide it onto the inner cap from either side after prepping one side to slide into the other. Use pop rivets at seams to close the gap.
 
@@ -87,39 +91,37 @@ For the outer roof cap, slide it onto the inner cap from either side after prepp
 
 | Item | Cost |
 |---|---|
-| 16 Gauge Finishing Nailer |
+| Battery Powered 16 Gauge Finishing Nailer |
 | Metal Snips | 
 | Shears Attachment Accessory
-| 16" Roofing Bending Tool
+| Pop Rivet Gun
+| 1/8" Drill Bit |
+| 16" Hemming Tool
+| Rubber Mallet
 | 3" Metal Hand Seamer
 | Caulking Gun
-| Rubber Mallet
-| Pop Rivet Gun
-| 1/8" Drill Bit
 
 ### Existing Tools
 
 | Item | Source |
 |---|---|
-| Speed Square | 
-| Plumb Chalk Line |
-| 8' Step Ladder |
-| 24' Extension Ladder |
-| Ladder Lock |
-| 8' Straight Ladder |
-| Ladder Hooks with Wheel |
-| Tape Measure |
-| Finishing Nailer |
-| Battery-Powered Impact Driver |
-| 48 Inch Level |
-| Carpenter's Pencils |
-| 8' Step Ladder |
-| Large Propane Torch
-| 20 lb Propane Tank
-| Butane Torch
-| Handheld Weed Sprayer
-| Deck Brush 
-
+| 20 lb Propane Tank | Wall Structure
+| Large Propane Torch | Wall Structure
+| Butane Torch | Wall Structure
+| Handheld Weed Sprayer | Wall Structure
+| Battery Powered Handheld Circular Saw | Foundation
+| Speed Square | Foundation
+| Carpenter's Pencils | Foundation
+| Tape Measure | Foundation
+| 8' Step Ladder | Wall Structure
+| 4' Level | Foundation
+| Battery-Powered Impact Driver | Wall Structure
+| 8' Step Ladder | Wall Structure
+| 24' Extension Ladder | Wall Structure
+| Ladder Lock | Roof Structure
+| 8' Straight Ladder | Roof Structure
+| Ladder Hooks with Wheel | Roof Structure
+| Plumb Chalk Line | Foundation
 
 ## Supplies
 
@@ -127,30 +129,27 @@ For the outer roof cap, slide it onto the inner cap from either side after prepp
 
 | Item | Use | # | Cost |
 |---|---|---|
-| 2x6x12 | Fascia | 2 
-| 2x6x8 | Fascia | 2 
-| 1x8x12 | Fascia | 4 
-| 2 1/2” Hex Deck Screws
-| 1 1/2” Galvanized finishing nails
-| 2 1/2” Galvanized finishing nails
-| Tung Oil
-| Rags
-| Thick / Long Rubber Gloves
-| Butane
-| Plumb Rake Drip Edge || 5 ~10' sections or 50'| $23 / 10.5 ft piece
-| Square Eave Drip Edge || 4 ~10' sections or 40'
-| Ridge Cap || 2 ~10' sections or 20' |$15.90 / each 32" wide
-| 10' 6" long Standing Seam Panels || 30 |$2.53 / linear ft
+| 2x6x8 | Eave Fascia | 2 
+| 2x6x12 | Eave Fascia | 2 
+| 2 1/2” Galvanized finishing nails | Eave Fascia
+| 2 1/2” Hex Deck Screws | Eave Fascia
+| 1x8x12 | Rake Fascia | 4 
+| 1 1/2” Galvanized finishing nails | Rake Fascia
+| Plumb Eave Drip Edge | Drip Edge | 4 ~10' sections or 40'
+| 1" #10 Pancake Head Woodscrews
 | 1/8" Pop Rivets
-| 1" #10 Pancake Head Woodscrew
-| 2" Pancake Head Woodscrew
+| Square Rake Drip Edge | Drip Edge | 5 ~10' sections or 50'| $23 / 10.5 ft piece
+| 10' 6" x 16" Standing Seam Panels | | 30 |$2.53 / linear ft
+| Ridge Cap | | 2 ~10' sections or 20' |$15.90 / each 32" wide
 | Double Beaded Butyl Tape
-| Pop Rivets
+| Sealant 
+| 2" Pancake Head Woodscrews
 
 ### Existing Supplies
 
 | Item | Use | # | Source |
 |---|---|---|
-| | | |
-
+| Tung Oil | Fascia |  | Wall Structure
+| Rags | Fascia | | Wall Structure
+| Butane Canister | Fascia | | Wall Structure
 

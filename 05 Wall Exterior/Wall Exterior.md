@@ -151,7 +151,7 @@ Start by trimming the 10' downspout to 6' 6" with the crimp on the longer sectio
 
 | Item | Source |
 |---|---|
-| 48 Inch Level 
+| 4' Level 
 | Finishing Nailer
 | Battery Powered Electric Nail Gun
 | 8' Step Ladder
