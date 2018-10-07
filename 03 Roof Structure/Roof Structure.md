@@ -157,11 +157,11 @@ Installing the *Roof Felt* can be tricky because of the angle of the roof. The r
 
 Cut an 8 inch strip of *Roof Felt* to cover the ridge beam. This will make the structure water proof enough for you to no longer have to use a tarp as cover. Nail it down with *Cap nails* as it will be prone to fly off in heavy wind. You'll remove this piece once you're ready to install the ridge cap for the roofing.
 
-## Tools 
+## Tools
 
 ### New Tools
 
-|Item|Cost|
+| Item | Cost |
 |---|---|
 | [1" Chisel](https://en.wikipedia.org/wiki/Chisel) | 10.96
 | Ladder Lock | 39.39
@@ -172,7 +172,7 @@ Cut an 8 inch strip of *Roof Felt* to cover the ridge beam. This will make the s
 
 ### Existing Tools
 
-| Item |   Chapter
+| Item | Source |
 |---|---|
 | Measuring Tape | Foundation
 | Battery Powered Handheld Circular Saw | Foundation
@@ -193,7 +193,7 @@ Cut an 8 inch strip of *Roof Felt* to cover the ridge beam. This will make the s
 
 ### New Supplies
 
-| Item | Use | Amount | Cost
+| Item | Use | # | Cost |
 |---|---|---|
 | 2x4x8 | Raised Top Plate | 5 
 | | Gables | 2 
@@ -217,11 +217,12 @@ Cut an 8 inch strip of *Roof Felt* to cover the ridge beam. This will make the s
 | Roof Felt | Roof | 380 sq ft
 | Dowel
 
+
 ### Existing Supplies
 
-| Item | # | Chapter
-|---|---|
-| 2.5" Interior Nails for nail gun | | Foundation
-| 3" Interior Nails for nail gun | 19 | Wall Structure
-| 3.5" Interior Nails for nail gun | | Wall Structure
-| Metal Cap Nails | Wall Structure
+| Item | Use | # | Source |
+|---|---|---|
+| 2.5" Interior Nails for nail gun ||| Foundation
+| 3" Interior Nails for nail gun || 19 | Wall Structure
+| 3.5" Interior Nails for nail gun ||| Wall Structure
+| Metal Cap Nails ||| Wall Structure

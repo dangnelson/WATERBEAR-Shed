@@ -167,66 +167,70 @@ Place *Bricks* on *Tarp*
 
 ## Tools
 
-|Item | # | Cost
-|---|---|---|
-| 100' String Line | 1 | 2.98
-| [String Line Levels](https://en.wikipedia.org/wiki/Spirit_level#Line_level) | 4 | 5.86 
-| Solar Surveyor App | 1 | $10
-| Marking Spray Paint | 1 | 5.27
-| 25'+ [Tape Measure](https://en.wikipedia.org/wiki/Tape_measure) | 1 | 9.88
-| 2 ft Wooden [Stakes](https://en.wikipedia.org/wiki/Survey_stakes) | 4 | 4.97
-| [Hammer](https://en.wikipedia.org/wiki/Hammer) | 1 | 4.98
-| [Digging Shovel](https://en.wikipedia.org/wiki/Shovel) | 1 | 5.98
-| [Wheel Barrow](https://en.wikipedia.org/wiki/Wheelbarrow) | 1 | 49.97
-| [Tamper](https://en.wikipedia.org/wiki/Tamp) | 1 | 26.98
-| [8" Auger](https://en.wikipedia.org/wiki/Auger_(drill)) | Rent | 50.00
-| [Digging Bar](https://en.wikipedia.org/wiki/Digging_bar) | 1 | 31.97
-| [Small Post Hole Digger](https://en.wikipedia.org/wiki/Post_hole_digger) | 1 | 24.97
-| [Hand Saw](https://en.wikipedia.org/wiki/Hand_saw) | 1 | 9.94
-| [N95 Dust Mask](https://en.wikipedia.org/wiki/Dust_mask) | 2 | 7.47
-| Cleaning Gloves | 1 | 1.98
-| [Hoe](https://en.wikipedia.org/wiki/Hoe_(tool)) | 1 | 15.97
-| [Margin Trowel](https://en.wikipedia.org/wiki/Trowel) | 1 | 5.77
+### New Tools
+
+| Item | Cost |
+|---|---|
+| 100' String Line | 2.98
+| 4 [String Line Levels](https://en.wikipedia.org/wiki/Spirit_level#Line_level) | 5.86 
+| Solar Surveyor App | 10
+| Marking Spray Paint | 5.27
+| 25'+ [Tape Measure](https://en.wikipedia.org/wiki/Tape_measure) | 9.88
+| 4 2-ft Wooden [Stakes](https://en.wikipedia.org/wiki/Survey_stakes) | 4.97
+| [Hammer](https://en.wikipedia.org/wiki/Hammer) | 4.98
+| [Digging Shovel](https://en.wikipedia.org/wiki/Shovel) | 5.98
+| [Wheel Barrow](https://en.wikipedia.org/wiki/Wheelbarrow) | 49.97
+| [Tamper](https://en.wikipedia.org/wiki/Tamp) | 26.98
+| 8" [Auger](https://en.wikipedia.org/wiki/Auger_(drill)) Rental | 50.00
+| [Digging Bar](https://en.wikipedia.org/wiki/Digging_bar) | 31.97
+| [Small Post Hole Digger](https://en.wikipedia.org/wiki/Post_hole_digger) | 24.97
+| [Hand Saw](https://en.wikipedia.org/wiki/Hand_saw) | 9.94
+| 2 [N95 Dust Mask](https://en.wikipedia.org/wiki/Dust_mask)s | 7.47
+| Cleaning Gloves | 1.98
+| [Hoe](https://en.wikipedia.org/wiki/Hoe_(tool)) | 15.97
+| [Margin Trowel](https://en.wikipedia.org/wiki/Trowel) | 5.77
 | Carpenter's Pencil
 | Speed Square
-| Sawhorse Brackets | 2 sets
+| 2 Sawhorse Brackets Sets 
 | Work Gloves
 | Safety Glasses
-| Battery Powered [Hand-held Circular Saw](https://en.wikipedia.org/wiki/Circular_saw) | 1 | 279.00
-| Battery Powered Drill | 1| 159.00
-| 1/2" diameter 6" long brad point bit | 1 | 9.97
-| 1/2" Socket Wrench | 1 | 26.19
+| Battery Powered [Hand-held Circular Saw](https://en.wikipedia.org/wiki/Circular_saw) | 279.00
+| Battery Powered Drill | 159.00
+| 1/2" diameter 6" long brad point bit | 9.97
+| 1/2" Socket Wrench | 26.19
 | 4' Level |
-| Battery Powered [Nail Gun](https://en.wikipedia.org/wiki/Nail_gun)| 1 | 399.00
-| [Plumb Chalk Line](https://en.wikipedia.org/wiki/Chalk_line) | 1 | 5.97
-|**Estimated Total**||**1144.07**
+| Battery Powered [Nail Gun](https://en.wikipedia.org/wiki/Nail_gun)| 399.00
+| [Plumb Chalk Line](https://en.wikipedia.org/wiki/Chalk_line) | 5.97
+|**Estimated Total**|**1144.07**
 
-## Materials
+## Supplies
 
-|Item | # | Note | Cost
-|---|---|---|---|
-| All Purpose Gravel 50 lb Bag | 6? | Heavy | 24.90
-| 1/2" x 2' Rebar | 4 | Cost Varies | 7.88
-| 3.5" Exterior Nails | 60 | | 4.97
-| 8" x 4' Concrete Tube Forms | 2 | Cost Varies | 19.00
-| 2x4x8 | 2 | | 6.22
-| 5 gallon Water Jugs or Water Source |  3 | Cost Varies |50.82
-| Concrete 80 lb bags | 8 | Heavy, Cost Varies | 39.76
-| 4" x 4" Galvanized Post Base | 4 | | 45.48
-| 1/4 Cubic Yard of Compactable Fill / Top Soil |  | | 9.42
-| Treated 4x4x8 | 1 | | 7.98 
-| 1/2" x 6" Galvanized Carriage Bolts | 16 ||40.48
-| 1/2" Galvanized Washers | 16 | | 5.28
-| 1/2" Galvanized Nuts | 16 | | 6.08
-| Treated 2x6x12 | 14 | Large | 124.32
-| Treated 2x6x16 | 2 | Large | 23.14
-| Concrete Deck Blocks | 28 | Heavy | 193.20
-| Shims | | | 4.95
-| 1 Cubic Yard of #57 Drainage Gravel|  | Heavy | 29.00 | 
-| 2.5" Interior Nails for Nail Gun | 384 | | 37.97
-| 4x8 5/8" (19/32) Plywood | 7 || 141.19
+### New Supplies
+
+| Item | Use | # | Cost |
+|---|---|---|
+| All Purpose Gravel 50 lb Bag || 6? | 24.90
+| 1/2" x 2' Rebar (varies) || 4 | 7.88
+| 3.5" Exterior Nails || 60 | 4.97
+| 8"x4' Concrete Tube Forms (varies) || 2 | 19.00
+| 2x4x8 || 2 | 6.22
+| 5 gallon Water Jugs or Water Source ||  3 | 50.82
+| Concrete 80 lb bags (varies ) || 8 | 39.76
+| 4" x 4" Galvanized Post Base || 4 | 45.48
+| 1/4 Cubic Yard of Compactable Fill / Top Soil | | | 9.42
+| Treated 4x4x8 || 1 | 7.98 
+| 1/2" x 6" Galvanized Carriage Bolts || 16 |40.48
+| 1/2" Galvanized Washers || 16 | 5.28
+| 1/2" Galvanized Nuts || 16 | 6.08
+| Treated 2x6x12 || 14 | 124.32
+| Treated 2x6x16 || 2 | 23.14
+| Concrete Deck Blocks || 28 | 193.20
+| Shims || | 4.95
+|Cubic Yard of #57 Drainage Gravel|  | 1 | 29.00 | 
+| 2.5" Interior Nails for Nail Gun || 384 | 37.97
+| 4x8 5/8" (19/32) Plywood || 7 |141.19
 | Bricks
-| Tarp
+| Tarp ||  1
 |**Estimated Total**|||**822.04**
 
-Total cost does not include Tax or Delivery fees. Materials noted as "Cost Varies" depends on the frost depth for your location.
+Total cost does not include Tax or Delivery fees. Materials noted as "(varies)" depends on the frost depth for your location.

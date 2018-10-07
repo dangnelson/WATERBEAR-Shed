@@ -171,7 +171,7 @@ Install the *Felt Paper* from the bottom up overlap horizontally 4 at least inch
 
 ### New Tools
 
-| Item | Cost
+| Item | Cost |
 |---|---|
 | 8' Step Ladder 
 | 24' Extension Ladder | 169.99
@@ -190,8 +190,8 @@ Install the *Felt Paper* from the bottom up overlap horizontally 4 at least inch
 
 ### Existing Tools
 
-| Item | Chapter
-|---|
+| Item | Source |
+|---|---|
 | Battery Powered Handheld Circular Saw | Foundation
 | [Carpenter's Pencils] (https://en.wikipedia.org/wiki/Carpenter_pencil) with sharpener | Foundation
 | Measuring Tape | Foundation
@@ -207,38 +207,38 @@ Install the *Felt Paper* from the bottom up overlap horizontally 4 at least inch
 
 ### New Supplies
 
-| Item | # | Cost |
+| Item | Use | # | Cost |
 |---|---|---|
-| 2x4x92 5/8" | 51
-| 2x4x12 | 3
-| 2x4x8 | 10
-| 1/2" x 4 in. Galvanized Hex Lag Screw | 11
-| 1/2" Galvanized Washer | 11
-| 4x8 5/8" plywood | 7
-| 3" Interior Nails for nail gun |
-| 3.5" Interior Nails for nail gun |
-| 2x12x8 | 3
-| 4x8 3/8" plywood | 16
-| 2x6x12 | 16
-| 2x6x8 | 4
-| Post Frame Hangers | 4
-| 1x6x8 | 6
+| 2x4x92 5/8" || 51
+| 2x4x12 || 3
+| 2x4x8 || 10
+| 1/2" x 4 in. Galvanized Hex Lag Screw || 11
+| 1/2" Galvanized Washer || 11
+| 4x8 5/8" plywood || 7
+| 3" Interior Nails for nail gun ||
+| 3.5" Interior Nails for nail gun ||
+| 2x12x8 || 3
+| 4x8 3/8" plywood || 16
+| 2x6x12 || 16
+| 2x6x8 || 4
+| Post Frame Hangers || 4
+| 1x6x8 || 6
 | [Tung Oil](https://en.wikipedia.org/wiki/Tung_oil)
 | Rags
 | [Thick / Long Rubber Gloves](https://en.wikipedia.org/wiki/Rubber_glove)
 | Flashing
 | Shims
-| Hinges | 6
+| Hinges || 6
 | 1x2x8 | 
-| Deadbolt for Door | 1
-| 6 in Galvanized Barrel Bolt | 3
+| Deadbolt for Door || 1
+| 6 in Galvanized Barrel Bolt || 3
 | 2.5" Screws
-| Felt Paper | 558 sq ft
+| Felt Paper || 558 sq ft
 | Metal Cap Nails 
 | T50 Staples |
 
 ### Existing Supplies
 
-| Item | Chapter |
-|---|---|
+| Item | Use | # | Source |
+|---|---|---|
 | 2.5" Interior Nails for nail gun | Foundation

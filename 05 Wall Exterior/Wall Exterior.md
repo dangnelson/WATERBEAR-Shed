@@ -137,11 +137,21 @@ Flip the gutter over and rest your outlet a few inches back from the end of your
 ### Downspout
 Start by trimming the 10' downspout to 6' 6" with the crimp on the longer section. Place an elbow on the crimped end. With the elbow at the bottom, install it about 4-6" back from the corner using 2 *Downspout straps* and the *Battery Powered Driver* with *1" Stainless Steel Sheet Metal Screws*. Place one elbow on the outlet, another on the remaining section of downspout. Hold the section up next to the installed downspout to mark both the length of the downspout joining the elbows, and the length of the downspout strapped to the siding. Remove the strapped downspout, cut it to size, and re-install with the additional elbows attached.
 
-## Existing Tools
+## Tools
 
-| Item | Amount | Use | Chapter
-|---|---|---|---|
-| 48 Inch Level | 1
+### New Tools
+
+| Item | Cost |
+|---|---|
+| Small Hand Saw
+| Mini Hacksaw
+| Socket Wrench piece
+
+### Existing Tools
+
+| Item | Source |
+|---|---|
+| 48 Inch Level 
 | Finishing Nailer
 | Battery Powered Electric Nail Gun
 | 8' Step Ladder
@@ -161,21 +171,15 @@ Start by trimming the 10' downspout to 6' 6" with the crimp on the longer sectio
 | Carpenter's Pencil
 | 1/8" Drill Bit
 
-## New Tools
-
-| Item | Amount | Use | Chapter
-|---|---|---|---|
-| Small Hand Saw
-| Mini Hacksaw
-| Socket Wrench piece
-
 ## Supplies
 
-| Item | Amount | Use | Pricing | Total
-|---|---|---|---|
-| 4' Coravent Strips | 28
-| 1"x2"x8' Furring Strips | 50
-| 14' 16V-Joint	3/4" x 6-7/8"	Yellow Pine Tongue & Groove Siding | 72 | | $28.70 | $2,066.40
+### New Supplies
+
+| Item | Use | # | Cost |
+|---|---|---|
+| 4' Coravent Strips || 28
+| 1"x2"x8' Furring Strips || 50
+| 14' 16V-Joint	3/4" x 6-7/8"	Yellow Pine Tongue & Groove Siding || 72  | $28.70 | $2,066.40
 | Hinges
 | Bolts
 | Washers
@@ -185,13 +189,13 @@ Start by trimming the 10' downspout to 6' 6" with the crimp on the longer sectio
 | Soffit vents
 | J-Channels
 | 1" Sheet Metal Screws
-| 4" Hanger Mounts with Spring Clips | 18
-| 20' sections of 4" Mill Finish Aluminum Gutter | 2
-| Half round b style gutter outlets | 2
-| 4" Half Round Gutter End Caps | 4
-| 4" 10' Gutter downspouts | 2
-| Gutter downspout straps | 4
-| 4” mill 75 degrees Gutter elbows | 6
+| 4" Hanger Mounts with Spring Clips || 18
+| 20' sections of 4" Mill Finish Aluminum Gutter || 2
+| Half round b style gutter outlets || 2
+| 4" Half Round Gutter End Caps || 4
+| 4" 10' Gutter downspouts || 2
+| Gutter downspout straps || 4
+| 4” mill 75 degrees Gutter elbows || 6
 
 ## Existing Supplies
 

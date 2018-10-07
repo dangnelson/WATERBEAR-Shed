@@ -81,34 +81,13 @@ Install the inner roof cap at the marked angles one side at a time per manufactu
 
 For the outer roof cap, slide it onto the inner cap from either side after prepping one side to slide into the other. Use pop rivets at seams to close the gap.
 
-## Existing Tools
+## Tools
 
-| Item | Amount |
-|---|---|
-| Speed Square | 1 
-| Plumb Chalk Line | 1
-| 8' Step Ladder | 1
-| 24' Extension Ladder | 1
-| Ladder Lock | 1
-| 8' Straight Ladder | 1
-| Ladder Hook with Wheel | 2
-| Tape Measure | 1
-| Finishing Nailer |
-| Battery-Powered Impact Driver |
-| 48 Inch Level | 1
-| Carpenter's Pencils| 1
-| 8' Step Ladder | 1
-| Large Propane Torch
-| 20 lb Propane Tank
-| Butane Torch
-| Handheld Weed Sprayer
-| Deck Brush |
- 
-## New Tools
+### New Tools
 
-| Item | Amount |
+| Item | Cost |
 |---|---|
-| 16 Gauge Finishing Nailer | 1 |
+| 16 Gauge Finishing Nailer |
 | Metal Snips | 
 | Shears Attachment Accessory
 | 16" Roofing Bending Tool
@@ -118,15 +97,39 @@ For the outer roof cap, slide it onto the inner cap from either side after prepp
 | Pop Rivet Gun
 | 1/8" Drill Bit
 
+### Existing Tools
 
-## Supplies 
+| Item | Source |
+|---|---|
+| Speed Square | 
+| Plumb Chalk Line |
+| 8' Step Ladder |
+| 24' Extension Ladder |
+| Ladder Lock |
+| 8' Straight Ladder |
+| Ladder Hooks with Wheel |
+| Tape Measure |
+| Finishing Nailer |
+| Battery-Powered Impact Driver |
+| 48 Inch Level |
+| Carpenter's Pencils |
+| 8' Step Ladder |
+| Large Propane Torch
+| 20 lb Propane Tank
+| Butane Torch
+| Handheld Weed Sprayer
+| Deck Brush 
 
 
-| Item | Amount | Use | Pricing
-|---|---|---|---|
-| 2x6x12 | 2 | Fascia
-| 2x6x8 | 2 | Fascia
-| 1x8x12 | 4 | Fascia
+## Supplies
+
+### New Supplies
+
+| Item | Use | # | Cost |
+|---|---|---|
+| 2x6x12 | Fascia | 2 
+| 2x6x8 | Fascia | 2 
+| 1x8x12 | Fascia | 4 
 | 2 1/2” Hex Deck Screws
 | 1 1/2” Galvanized finishing nails
 | 2 1/2” Galvanized finishing nails
@@ -134,16 +137,20 @@ For the outer roof cap, slide it onto the inner cap from either side after prepp
 | Rags
 | Thick / Long Rubber Gloves
 | Butane
-| Plumb Rake Drip Edge | 5 ~10' sections or 50'||$23 / 10.5 ft piece
-| Square Eave Drip Edge | 4 ~10' sections or 40'
-| Ridge Cap | 2 ~10' sections or 20' ||$15.90 / each 32" wide
-| 10' 6" long Standing Seam Panels | 30 ||$2.53 / linear ft
+| Plumb Rake Drip Edge || 5 ~10' sections or 50'| $23 / 10.5 ft piece
+| Square Eave Drip Edge || 4 ~10' sections or 40'
+| Ridge Cap || 2 ~10' sections or 20' |$15.90 / each 32" wide
+| 10' 6" long Standing Seam Panels || 30 |$2.53 / linear ft
 | 1/8" Pop Rivets
 | 1" #10 Pancake Head Woodscrew
 | 2" Pancake Head Woodscrew
 | Double Beaded Butyl Tape
 | Pop Rivets
 
+### Existing Supplies
 
+| Item | Use | # | Source |
+|---|---|---|
+| | | |
 
 
