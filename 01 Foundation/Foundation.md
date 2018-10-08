@@ -194,7 +194,7 @@ Place *Bricks* on *Tarp*
 | 2 Sawhorse Brackets Sets 
 | Work Gloves
 | Safety Glasses
-| Battery Powered [Hand-held Circular Saw](https://en.wikipedia.org/wiki/Circular_saw) | 279.00
+| Battery Powered 7-1/4-in [Hand-held Circular Saw](https://en.wikipedia.org/wiki/Circular_saw) | 279.00
 | Battery Powered Drill | 159.00
 | 1/2" diameter 6" long brad point bit | 9.97
 | 1/2" Socket Wrench | 26.19

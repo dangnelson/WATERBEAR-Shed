@@ -103,6 +103,8 @@ Install H-Clips between the panels to add spacing between the panels so they can
 
 It may be difficult to reach across far enough to nail each piece in completely. In this case secure each piece as much as possible and make a note to finish the nailing schedule with a ladder once you're done.
 
+To find the nailing locations, run a *Plumb Bob Chalk Line* down from each rafter and across the sheathing.
+
 [![Blueprint C07](blueprints/C07.svg)](blueprints/C07.pdf)
 
 ### Sheathing Fastening  `IRC TABLE R602.3(1)`
@@ -184,6 +186,7 @@ Cut an 8 inch strip of *Roof Felt* to cover the ridge beam. This will make the s
 | String Line | Foundation
 | String Line Level | Foundation
 | Battery Powered Impact Driver | Foundation
+| Plumb Bob Chalk Line | Wall Structure
 | 24' Extension Ladder | Wall Structure
 | Tarp | Foundation
 | Hammer Tacker  | Wall Structure

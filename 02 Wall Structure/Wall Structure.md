@@ -63,6 +63,8 @@ The structure will be flexible when it's just studs. *3/8" Plywood* sheathing ad
 
 *Hammer* *3.5" nails* lightly in between each panel. This will create an 1/8 inch gap between boards to allow for expansion and prevent buckling.
 
+To find where to nail, drop a *Plumb Bob Chalk Line* from the top, lined up with each stud location, and pop a line.
+
 [![](blueprints/B03A.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/02%20Wall%20Structure/blueprints/B03a.pdf)
 
 [![](blueprints/B03B.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/02%20Wall%20Structure/blueprints/B03b.pdf)
@@ -105,7 +107,7 @@ No blocking is needed because the distance between the raised top plate and the 
 
 [![](blueprints/B05.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/02%20Wall%20Structure/blueprints/B05.pdf)
 
-Lay one sheet up first and secure it to the joists enough to be able to get on top of it using a *24' Extension Ladder* and finish fastening. Have one person pass sheets up while the other fastens. For the access hole lay the sheet on before fastening and mark the edges of the hole from the bottom. Flip it over and measure out 3/4" from your line to increase the panel size and cut it out with the *Battery Powered Handheld Circular Saw*. 
+Lay one sheet up first and secure it to the joists enough to be able to get on top of it using a *24' Extension Ladder* and finish fastening. Have one person pass sheets up while the other fastens. For the access hole lay the sheet on before fastening and mark the edges of the hole from the bottom. Flip it over and measure out 3/4" from your line to increase the panel size and cut it out with the *Battery Powered Handheld Circular Saw*. To make it easier, nail the edges first, then run a *Chalk Line* across lined up with each Joist.
 
 ### Sheathing Fastening
 
@@ -141,7 +143,7 @@ You can measure and precut the boards before burning & oiling them or you can cu
 
 ![](images/B07.svg)
 
-Cut a roll of *Flashing* for the top and bottom of the doorway. Notch it so it can fold into place and overlap the edges. Place a board over it and hammer the board to shape the flashing.
+Cut a roll of *Flashing* for the top and bottom of the doorway. Notch it so it can fold into place and overlap the edges. Place a board over it and hammer the board to shape the flashing. Install it using *Roofing Nails*.
 
 ## 8. Doors 
 
@@ -174,6 +176,7 @@ Install the *Felt Paper* from the bottom up overlap horizontally 4 at least inch
 | Item | Cost |
 |---|---|
 | 8' Step Ladder 
+| Plumb Bob Chalk Line 
 | 24' Extension Ladder | 169.99
 | 1/2" Drill Bit 
 | 3/4" Ratchet Bit 
@@ -199,7 +202,6 @@ Install the *Felt Paper* from the bottom up overlap horizontally 4 at least inch
 | Hammer | Foundation
 | Speed Square | Foundation
 | 4' Level | Foundation
-
 | Tarp | Foundation
 
 ## Supplies
@@ -227,6 +229,7 @@ Install the *Felt Paper* from the bottom up overlap horizontally 4 at least inch
 | Butane Canister
 | [Thick / Long Rubber Gloves](https://en.wikipedia.org/wiki/Rubber_glove)
 | Flashing
+| Roofing Nails
 | Shims
 | Hinges || 6
 | 1x2x8 | 
