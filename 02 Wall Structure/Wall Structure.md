@@ -175,20 +175,21 @@ Install the *Felt Paper* from the bottom up overlap horizontally 4 at least inch
 
 | Item | Cost |
 |---|---|
-| 8' Step Ladder 
-| Plumb Bob Chalk Line 
-| 24' Extension Ladder | 169.99
-| 1/2" Drill Bit 
-| 3/4" Ratchet Bit 
-| 1/4" Male Hex to 1/4" Square Drive Adapter 
-| Tarp Stakes
-| Tarp Rope
-| [Large Propane Torch](https://en.wikipedia.org/wiki/Propane_torch)
-| [20 lb Propane Tank](https://en.wikipedia.org/wiki/Propane)
-| Handheld Weed Sprayer
-| [Butane Torch](https://en.wikipedia.org/wiki/Butane_torch)
-| Doorlock installation kit
-| [Hammer Tacker](https://en.wikipedia.org/wiki/Hammer_tacker)
+| 6' Aluminum Step Ladder | 69.96
+| Plumb Bob Chalk Line | 5.97
+| 24' Extension Ladder | 159.00
+| 1/2" Drill Bit | 10.97
+| 3/4" Socket | 12.06
+| 1/4" Male Hex Shank Socket Adapter | 1.98
+| Yard Stake Set | 9.98
+| 100 ft 1/2" Rope | 14.98
+| [Large Propane Torch](https://en.wikipedia.org/wiki/Propane_torch) | 49.97
+| [20 lb Propane Tank](https://en.wikipedia.org/wiki/Propane) | 49.97
+| Garden Sprayer | 16.28
+| [Micro Butane Torch](https://en.wikipedia.org/wiki/Butane_torch) | 25.97
+| Doorlock installation kit | 19.98
+| [Hammer Tacker](https://en.wikipedia.org/wiki/Hammer_tacker) | 19.97
+|**Total** | 467.04
 
 ### Existing Tools
 
@@ -208,7 +209,7 @@ Install the *Felt Paper* from the bottom up overlap horizontally 4 at least inch
 
 ### New Supplies
 
-| Item | Use | # | Cost |
+| Item | Use | # | Cost | Total
 |---|---|---|
 | 2x4x92 5/8" || 51
 | 2x4x12 || 3

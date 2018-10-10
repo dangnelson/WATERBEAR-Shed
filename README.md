@@ -15,6 +15,7 @@
 | Chapter | Tools | Supplies | Total
 |---|---|---|
 | Foundation | 1217.12 | 992.87 | 2209.99 |
+| Wall Structure | 467.04
 
 ## Goals
 
