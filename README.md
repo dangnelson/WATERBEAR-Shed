@@ -12,9 +12,9 @@
 
 ## Budget
 
-| Chapter | Tools | Supplies |
+| Chapter | Tools | Supplies | Total
 |---|---|---|
-| Foundation | 1217.12 | 
+| Foundation | 1217.12 | 992.87 | 2209.99 |
 
 ## Goals
 

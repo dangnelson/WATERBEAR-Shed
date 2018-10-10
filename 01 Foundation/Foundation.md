@@ -63,7 +63,7 @@ In retrospect we should have added rebar into the footings for additional streng
 ### Pour Piers
 Cut the *Concrete Tube Forms* to size using a *Hand Saw*.
 
-Attach *3.5 Exterior Nails* to the sides of the *Cardboard Concrete Form Tubes* to the center of *2 2x4s*. The tube should hang about 12 inches up from the bottom of the footing.
+Attach *3.5 Exterior Nails* to the sides of the *Cardboard Concrete Form Tubes* to the center of a *2x4* cut to 2 feet. The tube should hang about 12 inches up from the bottom of the footing.
 
 Make sure to wear a *N95 Dust Mask* to avoid breathing in  concrete dust, and *Cleaning Gloves* to protect your skin for this next step.
 
@@ -207,31 +207,30 @@ Place *Bricks* on *Tarp*
 
 ### New Supplies
 
-| Item | Use | # | Cost |
+| Item | Use | # | Cost | Total |
 |---|---|---|
-| All Purpose Gravel 50 lb Bag || 6 | 28.2
-| 1/2" x 2' Rebar (varies) || 4 | 7.88
-
-| 3.5" Exterior Nails || 60 | 4.97
-| 8"x4' Concrete Tube Forms (varies) || 2 | 19.00
-| 2x4x8 || 2 | 6.22
-| 5 gallon Water Jugs or Water Source ||  3 | 50.82
-| Concrete 80 lb bags (varies ) || 8 | 39.76
-| 4" x 4" Galvanized Post Base || 4 | 45.48
-| 1/4 Cubic Yard of Compactable Fill / Top Soil | | | 9.42
-| Treated 4x4x8 || 1 | 7.98 
-| 1/2" x 6" Galvanized Carriage Bolts || 16 |40.48
-| 1/2" Galvanized Washers || 16 | 5.28
-| 1/2" Galvanized Nuts || 16 | 6.08
-| Treated 2x6x12 || 14 | 124.32
-| Treated 2x6x16 || 2 | 23.14
-| Concrete Deck Blocks || 28 | 193.20
-| Shims || | 4.95
-|Cubic Yard of #57 Drainage Gravel|  | 1 | 29.00 | 
-| 2.5" Interior Nails for Nail Gun || 384 | 37.97
-| 4x8 5/8" (19/32) Plywood || 7 |141.19
-| Bricks
-| Tarp ||  1
-|**Estimated Total**|||**822.04**
+| All Purpose Gravel 50 lb Bag | Piers, Blocks| 6 | 4.70 | 28.2
+| 1/2" x 2' Rebar (varies) | Piers| 4 | 2.47 |19.46
+| 1 lb pack of 3.5" Exterior Nails | Joists | 2 | 4.27 | 9.94
+| 8"x4' Concrete Tube Forms (varies) | Piers | 2 | 9.50 | 19.00
+| 2x4x8 | Piers | 1 | | 6.22
+| 5-Gallon Water Jugs ||  3 | 19.99 | 59.97
+| Concrete 80 lb bags (varies ) | Piers | 8 | 5.97 | 47.76
+| 4" x 4" Galvanized Post Base | Piers | 4 | 11.37 | 45.48
+| Cubic Yards of Compactable Fill | Piers | .25  | | 9.42
+| Treated 4x4x8 | Piers | 1 | | 8.32 
+| 1/2" x 6" Galvanized Carriage Bolts | Piers, Joists | 16 | 2.53 | 40.48
+| 1/2" Galvanized Washers | Piers, Joists | 16 | 0.24 | 5.28
+| 1/2" Galvanized Nuts | Piers, Joists | 16 | 0.38 | 6.08
+| Treated 2x6x12 | Joists | 14 | 9.45 | 124.32
+| Treated 2x6x16 | Joists| 2 | 12.42 | 23.14
+| Concrete Deck Blocks || 28 | 9.60 | 193.20
+| Pack of Shims | Deck Blocks | 1 | | 4.95
+| Cubic Yard of #57 Drainage Gravel | Drainage  | 1 | | 29.00 | 
+| 2000 pack  of 2.5" Interior Nails for your Nail Gun | Sheathing |  2  | 38.7 | 77.40
+| 4x8 5/8" (19/32) Plywood | Sheathing | 7 | 19.57 | 136.99
+| Bricks | Cover | 12 | .69 | 8.28
+| 20'30' Heavy Duty Tarp | Cover |  1  || 89.98 | 
+|**Estimated Total**||||**992.87**
 
 Total cost does not include Tax or Delivery fees. Materials noted as "(varies)" depends on the frost depth for your location.
