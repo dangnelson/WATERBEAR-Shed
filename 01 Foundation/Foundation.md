@@ -189,19 +189,19 @@ Place *Bricks* on *Tarp*
 | Cleaning Gloves | 1.98
 | [Hoe](https://en.wikipedia.org/wiki/Hoe_(tool)) | 15.97
 | [Margin Trowel](https://en.wikipedia.org/wiki/Trowel) | 5.77
-| Carpenter's Pencil
-| Speed Square
-| 2 Sawhorse Brackets Sets 
-| Work Gloves
-| Safety Glasses
+| Carpenter's Pencil Set | 3.49
+| Speed Square | 7.67
+| 2 Sawhorse Brackets Sets | 13.94
+| Work Gloves | 9.99
+| Safety Glasses | 12.99
 | Battery Powered 7-1/4-in [Hand-held Circular Saw](https://en.wikipedia.org/wiki/Circular_saw) | 279.00
 | Battery Powered Drill | 159.00
 | 1/2" diameter 6" long brad point bit | 9.97
 | 1/2" Socket Wrench | 26.19
-| 4' Level |
+| 4' Level | 14.97
 | Battery Powered [Nail Gun](https://en.wikipedia.org/wiki/Nail_gun)| 399.00
 | [Plumb Chalk Line](https://en.wikipedia.org/wiki/Chalk_line) | 5.97
-|**Estimated Total**|**1144.07**
+|**Estimated Total**|**1217.12**
 
 ## Supplies
 
@@ -209,8 +209,9 @@ Place *Bricks* on *Tarp*
 
 | Item | Use | # | Cost |
 |---|---|---|
-| All Purpose Gravel 50 lb Bag || 6? | 24.90
+| All Purpose Gravel 50 lb Bag || 6 | 28.2
 | 1/2" x 2' Rebar (varies) || 4 | 7.88
+
 | 3.5" Exterior Nails || 60 | 4.97
 | 8"x4' Concrete Tube Forms (varies) || 2 | 19.00
 | 2x4x8 || 2 | 6.22

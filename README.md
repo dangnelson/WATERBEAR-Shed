@@ -2,7 +2,6 @@
 
 ![](05%20Wall%20Exterior/images/E08.svg)
 
-
 ## Features
 
 * Holds 16' dimensional lumber.
@@ -10,6 +9,12 @@
 * Charred-wood siding.
 * Code Compliant
 * Battery-Powered Construction
+
+## Budget
+
+| Chapter | Tools | Supplies |
+|---|---|---|
+| Foundation | 1217.12 | 
 
 ## Goals
 
