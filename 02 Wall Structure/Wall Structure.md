@@ -216,7 +216,7 @@ Install *Felt Paper* from the bottom up overlap horizontally 4 at least inches a
 ### New Supplies
 
 | Item | Use | # | Cost | Total |
-|---|---|---|
+|---|---|---|---|---|
 | 2x4x8 | Framing | 54 | | |
 | | Second Top Plate | 8 | |
 | | **Total** | 62 | 3.13 | 190.93 |
