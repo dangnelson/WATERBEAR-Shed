@@ -169,8 +169,7 @@ Cut an 8 inch strip of *Roof Felt* to cover the ridge beam. This will make the s
 | Ladder Lock | 39.39
 | 8' Straight Ladder | 86.22
 | 2 Ladder Hooks with Wheel | 45.50
-| Tarp | 
-|**Estimated Total**|**352.06**
+|**Estimated Total**|**182.07**
 
 ### Existing Tools
 
