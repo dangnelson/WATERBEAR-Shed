@@ -133,9 +133,9 @@ Insert the floor joists back into place using your marks.
 
 Hammer 2 *3.5" Exterior Nails* into each end of each joist.
 
-| Placement | Technique | Nail Size | Nail Frequency / Number | Occurances | 3.5" Nails
-|---|---|---|---|---|---|---|
-| End Plate | End Nail | 3.5" | 2 nails | 26 | 60
+| Placement | Technique | Nail Size | Nail Frequency / Number | Occurances | 3.5" Nails |
+|---|---|---|---|---|---|
+| End Plate | End Nail | 3.5" | 2 nails | 26 | 60 |
 
 ## 8. Flooring Sheathing 
 
@@ -157,9 +157,9 @@ Nail the plywood in using the following nailing schedule:
 
 | Placement | Nail Size | Nail Frequency / Number | Occurances | Nails / Sheet | 2.5"  Nails
 |---|---|---|---|---|---|
-| Edges on Studs | 2 or 2.5" | Every 6" on center | 6 sheets | 48 | 288
-| Center on Studs | 2 or 2.5" | Every 12" on center | 6 sheets | 16 | 96
-|**Total**||| | |384
+| Edges on Studs | 2 or 2.5" | Every 6" on center | 6 sheets | 48 | 288 |
+| Center on Studs | 2 or 2.5" | Every 12" on center | 6 sheets | 16 | 96 |
+|**Total**||||| 384 |
 
 ## Cover until next step
 
@@ -171,36 +171,36 @@ Place *Bricks* on *Tarp*
 
 | Item | Cost |
 |---|---|
-| 100' String Line | 2.98
-| 4 [String Line Levels](https://en.wikipedia.org/wiki/Spirit_level#Line_level) | 5.86 
-| Solar Surveyor App | 10
-| Marking Spray Paint | 5.27
-| 25'+ [Tape Measure](https://en.wikipedia.org/wiki/Tape_measure) | 9.88
-| 4 2-ft Wooden [Stakes](https://en.wikipedia.org/wiki/Survey_stakes) | 4.97
-| [Hammer](https://en.wikipedia.org/wiki/Hammer) | 4.98
-| [Digging Shovel](https://en.wikipedia.org/wiki/Shovel) | 5.98
-| [Wheel Barrow](https://en.wikipedia.org/wiki/Wheelbarrow) | 49.97
-| [Tamper](https://en.wikipedia.org/wiki/Tamp) | 26.98
-| 8" [Auger](https://en.wikipedia.org/wiki/Auger_(drill)) Rental | 50.00
-| [Digging Bar](https://en.wikipedia.org/wiki/Digging_bar) | 31.97
-| [Small Post Hole Digger](https://en.wikipedia.org/wiki/Post_hole_digger) | 24.97
-| [Hand Saw](https://en.wikipedia.org/wiki/Hand_saw) | 9.94
-| 2 [N95 Dust Mask](https://en.wikipedia.org/wiki/Dust_mask)s | 7.47
-| Cleaning Gloves | 1.98
-| [Hoe](https://en.wikipedia.org/wiki/Hoe_(tool)) | 15.97
-| [Margin Trowel](https://en.wikipedia.org/wiki/Trowel) | 5.77
-| Carpenter's Pencil Set | 3.49
-| Speed Square | 7.67
-| 2 Sawhorse Brackets Sets | 13.94
-| Work Gloves | 9.99
-| Safety Glasses | 12.99
-| Battery Powered 7-1/4-in [Hand-held Circular Saw](https://en.wikipedia.org/wiki/Circular_saw) | 279.00
-| Battery Powered Drill | 159.00
-| 1/2" diameter 6" long brad point bit | 9.97
-| 1/2" Socket Wrench | 26.19
-| 4' Level | 14.97
-| Battery Powered [Nail Gun](https://en.wikipedia.org/wiki/Nail_gun)| 399.00
-| [Plumb Chalk Line](https://en.wikipedia.org/wiki/Chalk_line) | 5.97
+| 100' String Line | 2.98 |
+| 4 [String Line Levels](https://en.wikipedia.org/wiki/Spirit_level#Line_level) | 5.86 |
+| Solar Surveyor App | 10 |
+| Marking Spray Paint | 5.27 |
+| 25'+ [Tape Measure](https://en.wikipedia.org/wiki/Tape_measure) | 9.88 |
+| 4 2-ft Wooden [Stakes](https://en.wikipedia.org/wiki/Survey_stakes) | 4.97 |
+| [Hammer](https://en.wikipedia.org/wiki/Hammer) | 4.98 |
+| [Digging Shovel](https://en.wikipedia.org/wiki/Shovel) | 5.98 |
+| [Wheel Barrow](https://en.wikipedia.org/wiki/Wheelbarrow) | 49.97 |
+| [Tamper](https://en.wikipedia.org/wiki/Tamp) | 26.98 |
+| 8" [Auger](https://en.wikipedia.org/wiki/Auger_(drill)) Rental | 50.00 |
+| [Digging Bar](https://en.wikipedia.org/wiki/Digging_bar) | 31.97 |
+| [Small Post Hole Digger](https://en.wikipedia.org/wiki/Post_hole_digger) | 24.97 |
+| [Hand Saw](https://en.wikipedia.org/wiki/Hand_saw) | 9.94 |
+| 2 [N95 Dust Mask](https://en.wikipedia.org/wiki/Dust_mask)s | 7.47 |
+| Cleaning Gloves | 1.98 |
+| [Hoe](https://en.wikipedia.org/wiki/Hoe_(tool)) | 15.97 |
+| [Margin Trowel](https://en.wikipedia.org/wiki/Trowel) | 5.77 |
+| Carpenter's Pencil Set | 3.49 |
+| Speed Square | 7.67 |
+| 2 Sawhorse Brackets Sets | 13.94 |
+| Work Gloves | 9.99 |
+| Safety Glasses | 12.99 |
+| Battery Powered 7-1/4-in [Hand-held Circular Saw](https://en.wikipedia.org/wiki/Circular_saw) | 279.00 |
+| Battery Powered Drill | 159.00 |
+| 1/2" diameter 6" long brad point bit | 9.97 |
+| 1/2" Socket Wrench | 26.19 |
+| 4' Level | 14.97 |
+| Battery Powered [Nail Gun](https://en.wikipedia.org/wiki/Nail_gun)| 399.00 |
+| [Plumb Chalk Line](https://en.wikipedia.org/wiki/Chalk_line) | 5.97 |
 |**Estimated Total**|**1217.12**
 
 ## Supplies
@@ -233,6 +233,6 @@ Place *Bricks* on *Tarp*
 | 4x8 5/8" (19/32) Plywood | Sheathing | 7 | 19.57 | 136.99
 | Bricks | Cover | 12 | .69 | 8.28
 | 20'30' Heavy Duty Tarp | Cover |  1  || 89.98 | 
-|**Estimated Total**||||**954.17**
+|**Estimated Total**||||**954.17** |
 
 Total cost does not include Tax or Delivery fees. Materials noted as "(varies)" depends on the frost depth for your location.
