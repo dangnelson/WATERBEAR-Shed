@@ -208,7 +208,7 @@ Place *Bricks* on *Tarp*
 ### New Supplies
 
 | Item | Use | # | Cost | Total |
-|---|---|---|
+|---|---|---|---|---|
 | All Purpose Gravel 50 lb Bag | Piers, Blocks| 6 | 4.70 | 28.2
 | 1/2" x 2' Rebar (varies) | Piers| 4 | 2.47 |19.46
 | 1 lb pack of 3.5" Exterior Nails | Joists | 2 | 4.27 | 9.94
