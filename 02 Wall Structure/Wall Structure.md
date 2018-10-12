@@ -215,60 +215,60 @@ Install *Felt Paper* from the bottom up overlap horizontally 4 at least inches a
 
 ### New Supplies
 
-| Item | Use | # | Cost | Total
+| Item | Use | # | Cost | Total |
 |---|---|---|
-| 2x4x8 | Framing | 54 
-| | Second Top Plate | 8 
-| | **Total** | 62 | 3.13 | 190.93
-| 2x4x12 | Top & Bottom Plates | 3 | 5.40 | 16.2
-| 3" Interior Nails for nail gun | Stud | 12
-| | Top Plate | 36
-| | **Total** | 48
-| | Total in Pack | 1000 |  | 43.96
-| | Remaining | 952
-| 3.5" Interior Nails for nail gun | Stud | 196 |
-| | Header | 18 |
-| | Top Plate | 8 |
-| | Joist | 60 |
-| | **Total** | 86
-| | Total in Pack | 1000 | | 43.50
-| | Remaining | 914
-| 1/2" x 4 in. Galvanized Hex Lag Screw | Tie-Downs | 11 | 2.42 | 26.62
-| 1/2" Galvanized Washer | Tie-Downs| 11 | 1.18 | 12.98
-| 4x8 5/8" (19/32) plywood | Headers, Ceiling | 7 | 19.57 | 136.99
-| 2x12x8 | Headers | 3 | 8.53 | 25.59
-| 4x8 3/8" (11/32) plywood | Sheathing | 16 | 12.53 | 200.48
-| 2x6x12 | Joists | 16 | 8.03 | 128.48
-| 2x6x8 | Joists | 4 | 5.66 | 22.64
-| Post Frame Hangers | Access Hole| 4 | 3.85 | 15.40
-| 1x6x8 | Door Jambs | 6 | 8.14 | 48.84
-| Quart of [Tung Oil](https://en.wikipedia.org/wiki/Tung_oil) | Door Jambs | 1 | | 19.87
-| Pack of Cloth Rags | Door Jambs | 1 | | 3.97
-| 5.5oz Butane Canister | Door Jambs | 1 |  | 4.97
-| [Thick / Long Rubber Gloves](https://en.wikipedia.org/wiki/Rubber_glove) | Door Jambs | 1 |  | 12.98
-| 50' Roll of 10" Flashing | Doors | 1 | | 27.96
-| 1 lb of 1" Roofing Nails | Doors | 1 | | 2.98
-| 12-pack of Shims | Doors | 1 | | 1.82
-| 3 1/2 Galvanized Hinge | Doors | 6 | 7.57 | 45.42
-| 1x3x8 | Doors | 6 | 4.45 | 26.7
-| Deadbolt for Door | Doors | 1 | |17.97
-| 1/2" x 6" Galvanized Barrel Bolt | Doors | 3 | 11.27 | 33.81
-| 1 lb of 2.5" Exterior Screws | Doors | 1 | | 7.77
-| #30 216 Sq Ft Roll of Felt Paper | Wall Exterior | 558
-| | Total in Roll | 216
-| | Rolls Needed | 3 | 18.65 | 55.95
-| | Remaining | 90 |
-| 3 lb Metal 1" Cap Nails | Wall Felt | 1 |  | 10.68
-| T50 5/16 x 3/8" 5000 Pack of Staples | Wall Felt | 1 | | 10.22
-| **Total** | | | | **1195.68**
+| 2x4x8 | Framing | 54 | | |
+| | Second Top Plate | 8 | |
+| | **Total** | 62 | 3.13 | 190.93 |
+| 2x4x12 | Top & Bottom Plates | 3 | 5.40 | 16.2 |
+| 3" Interior Nails for nail gun | Stud | 12 |
+| | Top Plate | 36 | |
+| | **Total** | 48 | |
+| | Total in Pack | 1000 |  | 43.96 |
+| | Remaining | 952 | | |
+| 3.5" Interior Nails for nail gun | Stud | 196 | | |
+| | Header | 18 | |
+| | Top Plate | 8 | |
+| | Joist | 60 | |
+| | **Total** | 86 | |
+| | Total in Pack | 1000 | | 43.50 |
+| | Remaining | 914 | |
+| 1/2" x 4 in. Galvanized Hex Lag Screw | Tie-Downs | 11 | 2.42 | 26.62 |
+| 1/2" Galvanized Washer | Tie-Downs| 11 | 1.18 | 12.98 |
+| 4x8 5/8" (19/32) plywood | Headers, Ceiling | 7 | 19.57 | 136.99 |
+| 2x12x8 | Headers | 3 | 8.53 | 25.59 |
+| 4x8 3/8" (11/32) plywood | Sheathing | 16 | 12.53 | 200.48 |
+| 2x6x12 | Joists | 16 | 8.03 | 128.48 |
+| 2x6x8 | Joists | 4 | 5.66 | 22.64 |
+| Post Frame Hangers | Access Hole| 4 | 3.85 | 15.40 |
+| 1x6x8 | Door Jambs | 6 | 8.14 | 48.84 |
+| Quart of [Tung Oil](https://en.wikipedia.org/wiki/Tung_oil) | Door Jambs | 1 | | 19.87 |
+| Pack of Cloth Rags | Door Jambs | 1 | | 3.97 |
+| 5.5oz Butane Canister | Door Jambs | 1 |  | 4.97 |
+| [Thick / Long Rubber Gloves](https://en.wikipedia.org/wiki/Rubber_glove) | Door Jambs | 1 |  | 12.98 |
+| 50' Roll of 10" Flashing | Doors | 1 | | 27.96 |
+| 1 lb of 1" Roofing Nails | Doors | 1 | | 2.98 |
+| 12-pack of Shims | Doors | 1 | | 1.82 |
+| 3 1/2 Galvanized Hinge | Doors | 6 | 7.57 | 45.42 |
+| 1x3x8 | Doors | 6 | 4.45 | 26.7 |
+| Deadbolt for Door | Doors | 1 | |17.97 |
+| 1/2" x 6" Galvanized Barrel Bolt | Doors | 3 | 11.27 | 33.81 |
+| 1 lb of 2.5" Exterior Screws | Doors | 1 | | 7.77 |
+| #30 216 Sq Ft Roll of Felt Paper | Wall Exterior | 558 | |
+| | Total in Roll | 216 | |
+| | Rolls Needed | 3 | 18.65 | 55.95 |
+| | Remaining | 90 | | |
+| 3 lb Metal 1" Cap Nails | Wall Felt | 1 |  | 10.68 |
+| T50 5/16 x 3/8" 5000 Pack of Staples | Wall Felt | 1 | | 10.22 |
+| **Total** | | | | **1195.68** |
 
 ### Existing Supplies
 
 | Item | Use | # | Source |
-|---|---|---|
-| 2.5" Interior Nails for nail gun | Wall Sheathing | 832 
-| | Joist | 60
-| | Ceiling Sheathing | 448
-| | **Total** | 1340
-| | Left Over | 1616 | Foundation
-| | Remaining | 276
+|---|---|---|---|
+| 2.5" Interior Nails for nail gun | Wall Sheathing | 832 | |
+| | Joist | 60 | |
+| | Ceiling Sheathing | 448 | |
+| | **Total** | 1340 | |
+| | Left Over | 1616 | Foundation |
+| | Remaining | 276 | |
