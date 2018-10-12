@@ -195,18 +195,18 @@ Cut an 8 inch strip of *Roof Felt* to cover the ridge beam. This will make the s
 
 ### New Supplies
 
-| Item | Use | # | Cost |
-|---|---|---|
-| 2x4x8 | Raised Top Plate | 5 
-| | Gables | 2 
-| | Overhang Blocking | 6 
-| | Outriggers | 10 
-| | **Total** | 23
-| 2x4x6 | Gables | 10 
-| 2x4x12 | Gables | 2 
-| 2x6x12  | Rafters | 32 
-| | Sheathing Slide | 4 
-| | **Total** | 36
+| Item | Use | # | Cost | Total |
+|---|---|---|---|---|
+| 2x4x8 | Raised Top Plate | 5 | | |
+| | Gables | 12 | | |
+| | Overhang Blocking | 6 | | |
+| | Outriggers | 10 | | |
+| | **Total** | 33 | 3.13 | 103.29 |
+| 2x4x12 | Gables | 2 | 5.40 | 10.80
+| 2x6x12  | Rafters | 32 | | |
+| | Sheathing Slide | 4 | | |
+| | **Total** | 36 | 8.03 | 289.08
+
 | 1x10x8 | Ridge Beam | 1 
 | 1x10x12 | Ridge Beam | 1 
 | Connecting Plates | Ridge Beam | 2

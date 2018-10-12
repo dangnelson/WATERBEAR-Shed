@@ -213,7 +213,7 @@ Place *Bricks* on *Tarp*
 | 1/2" x 2' Rebar (varies) | Piers| 4 | 2.47 |19.46
 | 1 lb pack of 3.5" Exterior Nails | Joists | 2 | 4.27 | 9.94
 | 8"x4' Concrete Tube Forms (varies) | Piers | 2 | 9.50 | 19.00
-| 2x4x8 | Piers | 1 | | 6.22
+| 2x4x8 | Piers | 1 | | 3.13
 | 5-Gallon Water Jugs ||  3 | 19.99 | 59.97
 | Concrete 80 lb bags (varies ) | Piers | 8 | 5.97 | 47.76
 | 4" x 4" Galvanized Post Base | Piers | 4 | 11.37 | 45.48
@@ -233,6 +233,6 @@ Place *Bricks* on *Tarp*
 | 4x8 5/8" (19/32) Plywood | Sheathing | 7 | 19.57 | 136.99
 | Bricks | Cover | 12 | .69 | 8.28
 | 20'30' Heavy Duty Tarp | Cover |  1  || 89.98 | 
-|**Estimated Total**||||**954.17** |
+|**Estimated Total**||||**951.08** |
 
 Total cost does not include Tax or Delivery fees. Materials noted as "(varies)" depends on the frost depth for your location.

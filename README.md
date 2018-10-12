@@ -14,8 +14,8 @@
 
 | | Chapter | Tools | Supplies | Total |
 |---|---|---|---|---|
-| ![](01%20Foundation/images/A08.svg) | Foundation | 1217.12 | 954.17 | 2171.29 |
-| ![](02%20Wall%20Structure/images/B09.svg) | Wall Structure | 456.07 | 1195.68 | 1651.75 |
+| ![](01%20Foundation/images/A08.svg) | Foundation | 1217.12 | 951.08 |  |
+| ![](02%20Wall%20Structure/images/B09.svg) | Wall Structure | 456.07 | 1195.68 |  |
 | ![](03%20Roof%20Structure/images/C10.svg) | Roof Structure | 182.07 |  | 
 | ![](04%20Roofing/images/D04.svg) | Roofing | | |
 | ![](05%20Wall%20Exterior/images/E06.svg) | Wall Exterior | | |
