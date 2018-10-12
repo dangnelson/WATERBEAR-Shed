@@ -227,10 +227,12 @@ Place *Bricks* on *Tarp*
 | Concrete Deck Blocks || 28 | 9.60 | 193.20
 | Pack of Shims | Deck Blocks | 1 | | 4.95
 | Cubic Yard of #57 Drainage Gravel | Drainage  | 1 | | 29.00 | 
-| 2000 pack  of 2.5" Interior Nails for your Nail Gun | Sheathing |  2  | 38.7 | 77.40
+| 2.5" Interior Nails for your Nail Gun | Sheathing | 384
+| | **Total in Pack** | 2000 | | 38.7
+| | Remaining | 1616
 | 4x8 5/8" (19/32) Plywood | Sheathing | 7 | 19.57 | 136.99
 | Bricks | Cover | 12 | .69 | 8.28
 | 20'30' Heavy Duty Tarp | Cover |  1  || 89.98 | 
-|**Estimated Total**||||**992.87**
+|**Estimated Total**||||**954.17**
 
 Total cost does not include Tax or Delivery fees. Materials noted as "(varies)" depends on the frost depth for your location.

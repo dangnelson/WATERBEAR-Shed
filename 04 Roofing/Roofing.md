@@ -127,8 +127,8 @@ For the outer roof cap, slide it onto the inner cap from either side after prepp
 
 ### New Supplies
 
-| Item | Use | # | Cost |
-|---|---|---|
+| Item | Use | # | Cost | Total |
+|---|---|---|---|---|
 | 2x6x8 | Eave Fascia | 2 
 | 2x6x12 | Eave Fascia | 2 
 | 2 1/2” Galvanized finishing nails | Eave Fascia
@@ -148,7 +148,7 @@ For the outer roof cap, slide it onto the inner cap from either side after prepp
 ### Existing Supplies
 
 | Item | Use | # | Source |
-|---|---|---|
+|---|---|---|---|
 | Tung Oil | Fascia |  | Wall Structure
 | Rags | Fascia | | Wall Structure
 | Butane Canister | Fascia | | Wall Structure

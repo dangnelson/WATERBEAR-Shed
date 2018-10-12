@@ -5,7 +5,9 @@
 ![](images/B01.svg)
 
 ### Build Walls
-Build the west back wall (Blueprint B.01A) first using the shed floor as a surface. Cut *2x4x92 5/8"* to size using a *Battery Powered Handheld Circular Saw*. Mark the top and bottom *2x4x12* plates using a *Carpenter's Pencil* and *Measuring Tape* and nail them together using a *Battery Powered Nail Gun*. Use a *Hammer* to finish driving any nails that stick out. Stand up the wall and nail spare *2x4s* at about a 45 degree angle on either side to the end of the floor joists while leveling using a *4' Level*. Next stand up the north/south walls (Blueprint B.01B), and finally the other east/west wall (Blueprint B.01C).
+Build the west back wall (Blueprint B.01A) first using the shed floor as a surface. Cut *2x4x8s* to size using a *Battery Powered Handheld Circular Saw*. Mark the top and bottom *2x4x12* plates using a *Carpenter's Pencil* and *Measuring Tape* and nail them together using a *Battery Powered Nail Gun*. Use a *Hammer* to finish driving any nails that stick out. Stand up the wall and nail spare *2x4s* at about a 45 degree angle on either side to the end of the floor joists while leveling using a *4' Level*. 
+
+Next stand up the north/south walls (Blueprint B.01B), and finally the other east/west wall (Blueprint B.01C).
 
 ### Tie-Downs
 
@@ -13,7 +15,7 @@ Using a *Battery-Powered Drill*, drill through the bottom plates and into the fl
 
 [![Blueprint B01A](blueprints/B01A.svg)](blueprints/B01a.pdf)
 
-### Stud & Header Nail Fastening `IRC Table 602.3(1)`
+### Stud Nail Fastening `IRC Table 602.3(1)`
 
 ![Nailing Techniques](images/Nailing.svg)
 
@@ -53,7 +55,7 @@ Walls must be capped with a second top plate, offset at least 24 inches at joint
 | Double top plates | 3" | 24" on center | 55' (28 Nails)
 | Double top plates in lapped area. | 3.5" | 8 nails 
 | Top plates, overlaps at corners | 3" | 2 nails | 4 (8 Nails)
-|**Total**||| 36 Nails | 
+|**Total**||| 36 3" Nails, <br/>8 3.5" Nails | 
 
 ## 3. Sheathing 
 
@@ -107,7 +109,10 @@ No blocking is needed because the distance between the raised top plate and the 
 
 [![](blueprints/B05.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/02%20Wall%20Structure/blueprints/B05.pdf)
 
-Lay one sheet up first and secure it to the joists enough to be able to get on top of it using a *24' Extension Ladder* and finish fastening. Have one person pass sheets up while the other fastens. For the access hole lay the sheet on before fastening and mark the edges of the hole from the bottom. Flip it over and measure out 3/4" from your line to increase the panel size and cut it out with the *Battery Powered Handheld Circular Saw*. To make it easier, nail the edges first, then run a *Chalk Line* across lined up with each Joist.
+Lay one sheet up first and secure it to the joists enough to be able to get on top of it using a *24' Extension Ladder* and finish fastening. Have one person pass sheets up while the other fastens. 
+
+### Access Hole
+For the access hole lay the sheet on before fastening and mark the edges of the hole from the bottom. Flip it over and measure out 3/4" from your line to increase the panel size and cut it out with the *Battery Powered Handheld Circular Saw*. To make it easier, nail the edges first, then run a *Chalk Line* across lined up with each Joist.
 
 ### Sheathing Fastening
 
@@ -165,7 +170,7 @@ Use two *2.5" Screws* to install a small 3 inch door stop at the bottom to keep 
 
 ![](images/B09.svg)
 
-Install the *Felt Paper* from the bottom up overlap horizontally 4 at least inches and vertically 2 inches. Use a *Hammer Tacker* loaded with *T50 staples* to get the paper up and hammer in *Metal Cap Nails* every 6 feet to keep the paper from blowing off. Install spare *Felt Paper* on the doors to protect them temporarily until the siding can be installed later. 
+Install *Felt Paper* from the bottom up overlap horizontally 4 at least inches and vertically 2 inches. Use a *Hammer Tacker* loaded with *T50 staples* to get the paper up and hammer in *Metal Cap Nails* every 6 feet to keep the paper from blowing off. Install spare *Felt Paper* on the doors to protect them temporarily until the siding can be installed later. 
 
 ## Cover until next step
 
@@ -178,7 +183,6 @@ Install the *Felt Paper* from the bottom up overlap horizontally 4 at least inch
 | 6' Aluminum Step Ladder | 69.96
 | Plumb Bob Chalk Line | 5.97
 | 24' Extension Ladder | 159.00
-| 1/2" Drill Bit | 10.97
 | 3/4" Socket | 12.06
 | 1/4" Male Hex Shank Socket Adapter | 1.98
 | Yard Stake Set | 9.98
@@ -189,7 +193,7 @@ Install the *Felt Paper* from the bottom up overlap horizontally 4 at least inch
 | [Micro Butane Torch](https://en.wikipedia.org/wiki/Butane_torch) | 25.97
 | Doorlock installation kit | 19.98
 | [Hammer Tacker](https://en.wikipedia.org/wiki/Hammer_tacker) | 19.97
-|**Total** | 467.04
+|**Total** | **456.07**
 
 ### Existing Tools
 
@@ -199,6 +203,8 @@ Install the *Felt Paper* from the bottom up overlap horizontally 4 at least inch
 | [Carpenter's Pencils] (https://en.wikipedia.org/wiki/Carpenter_pencil) with sharpener | Foundation
 | Measuring Tape | Foundation
 | Battery Powered Nail Gun | Foundation
+| Battery-Powered Drill | Foundation
+| 1/2" Drill Bit | Foundation
 | Battery-Powered Impact Driver | Foundation
 | Hammer | Foundation
 | Speed Square | Foundation
@@ -211,38 +217,58 @@ Install the *Felt Paper* from the bottom up overlap horizontally 4 at least inch
 
 | Item | Use | # | Cost | Total
 |---|---|---|
-| 2x4x92 5/8" || 51
-| 2x4x12 || 3
-| 2x4x8 || 10
-| 1/2" x 4 in. Galvanized Hex Lag Screw || 11
-| 1/2" Galvanized Washer || 11
-| 4x8 5/8" plywood || 7
-| 3" Interior Nails for nail gun ||
-| 3.5" Interior Nails for nail gun ||
-| 2x12x8 || 3
-| 4x8 3/8" plywood || 16
-| 2x6x12 || 16
-| 2x6x8 || 4
-| Post Frame Hangers || 4
-| 1x6x8 || 6
-| [Tung Oil](https://en.wikipedia.org/wiki/Tung_oil)
-| Rags
-| Butane Canister
-| [Thick / Long Rubber Gloves](https://en.wikipedia.org/wiki/Rubber_glove)
-| Flashing
-| Roofing Nails
-| Shims
-| Hinges || 6
-| 1x2x8 | 
-| Deadbolt for Door || 1
-| 6 in Galvanized Barrel Bolt || 3
-| 2.5" Screws
-| Felt Paper || 558 sq ft
-| Metal Cap Nails 
-| T50 Staples |
+| 2x4x8 | Framing | 54 
+| | Second Top Plate | 8 
+| | **Total** | 62 | 3.13 | 190.93
+| 2x4x12 | Top & Bottom Plates | 3 | 5.40 | 16.2
+| 3" Interior Nails for nail gun | Stud | 12
+| | Top Plate | 36
+| | **Total** | 48
+| | Total in Pack | 1000 |  | 43.96
+| | Remaining | 952
+| 3.5" Interior Nails for nail gun | Stud | 196 |
+| | Header | 18 |
+| | Top Plate | 8 |
+| | Joist | 60 |
+| | **Total** | 86
+| | Total in Pack | 1000 | | 43.50
+| | Remaining | 914
+| 1/2" x 4 in. Galvanized Hex Lag Screw | Tie-Downs | 11 | 2.42 | 26.62
+| 1/2" Galvanized Washer | Tie-Downs| 11 | 1.18 | 12.98
+| 4x8 5/8" (19/32) plywood | Headers, Ceiling | 7 | 19.57 | 136.99
+| 2x12x8 | Headers | 3 | 8.53 | 25.59
+| 4x8 3/8" (11/32) plywood | Sheathing | 16 | 12.53 | 200.48
+| 2x6x12 | Joists | 16 | 8.03 | 128.48
+| 2x6x8 | Joists | 4 | 5.66 | 22.64
+| Post Frame Hangers | Access Hole| 4 | 3.85 | 15.40
+| 1x6x8 | Door Jambs | 6 | 8.14 | 48.84
+| Quart of [Tung Oil](https://en.wikipedia.org/wiki/Tung_oil) | Door Jambs | 1 | | 19.87
+| Pack of Cloth Rags | Door Jambs | 1 | | 3.97
+| 5.5oz Butane Canister | Door Jambs | 1 |  | 4.97
+| [Thick / Long Rubber Gloves](https://en.wikipedia.org/wiki/Rubber_glove) | Door Jambs | 1 |  | 12.98
+| 50' Roll of 10" Flashing | Doors | 1 | | 27.96
+| 1 lb of 1" Roofing Nails | Doors | 1 | | 2.98
+| 12-pack of Shims | Doors | 1 | | 1.82
+| 3 1/2 Galvanized Hinge | Doors | 6 | 7.57 | 45.42
+| 1x3x8 | Doors | 6 | 4.45 | 26.7
+| Deadbolt for Door | Doors | 1 | |17.97
+| 1/2" x 6" Galvanized Barrel Bolt | Doors | 3 | 11.27 | 33.81
+| 1 lb of 2.5" Exterior Screws | Doors | 1 | | 7.77
+| #30 216 Sq Ft Roll of Felt Paper | Wall Exterior | 558
+| | Total in Roll | 216
+| | Rolls Needed | 3 | 18.65 | 55.95
+| | Remaining | 90 |
+| 3 lb Metal 1" Cap Nails | Wall Felt | 1 |  | 10.68
+| T50 5/16 x 3/8" 5000 Pack of Staples | Wall Felt | 1 | | 10.22
+| **Total** | | | | **1195.68**
 
 ### Existing Supplies
 
 | Item | Use | # | Source |
 |---|---|---|
-| 2.5" Interior Nails for nail gun | Foundation
+| 2.5" Interior Nails for nail gun | Wall Sheathing | 832 
+| | Joist | 60
+| | Ceiling Sheathing | 448
+| | **Total** | 1340
+| | Left Over | 1616 | Foundation
+| | Remaining | 276
