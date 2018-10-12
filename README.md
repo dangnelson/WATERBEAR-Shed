@@ -12,10 +12,10 @@
 
 ## Budget
 
-| Chapter | Tools | Supplies | Total
-|---|---|---|
-| Foundation | 1217.12 | 954.17 | 2171.29
-| Wall Structure | 456.07 | 1195.68 | 1651.75
+| | Chapter | Tools | Supplies | Total |
+|---|---|---|---|---|
+| ![](01%20Foundation/images/A08.svg) | Foundation | 1217.12 | 954.17 | 2171.29 |
+| ![](02%20Wall%20Structure/images/B09.svg) | Wall Structure | 456.07 | 1195.68 | 1651.75 |
 
 ## Goals
 
