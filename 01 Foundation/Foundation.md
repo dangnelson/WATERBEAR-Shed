@@ -232,7 +232,7 @@ Place *Bricks* on *Tarp*
 | | Remaining | 1616
 | 4x8 5/8" (19/32) Plywood | Sheathing | 7 | 19.57 | 136.99
 | Bricks | Cover | 12 | .69 | 8.28
-| 20'30' Heavy Duty Tarp | Cover |  1  || 89.98 | 
+| 20' x 30' Heavy Duty Tarp | Cover |  1  || 89.98 | 
 |**Estimated Total**||||**951.08** |
 
 Total cost does not include Tax or Delivery fees. Materials noted as "(varies)" depends on the frost depth for your location.

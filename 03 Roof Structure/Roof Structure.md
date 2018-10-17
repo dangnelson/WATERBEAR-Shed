@@ -158,11 +158,21 @@ This is a good time to figure out how to cover the structure with the *Tarp* so 
 
 ![](images/C09.svg)
 
+Attach 
+
+| Nail Size | Frequency | Occurrences
+|---|---|---|
+| 1 1/4" Cap Nails | Every 6' | 28 Nails |
+
 ## 10. Roof Felt 
 
 ![](images/C10.svg) 
 
 Installing the *Roof Felt* can be tricky because of the angle of the roof. The roll has a tendency to slip down to roof. We gerry-rigged a tool to keep the roll at the right height by screwing a *Dowel* to a horizontal stake at the bottom inserting it through the roll and then screwing a vertical stake at the top. This allowed us to slide the roll across the entire roof. We adjusted the tool for the higher roll, It also makes sense to precut sections for the roof length to reduce the roll weight.
+
+| Nail Size | Frequency | Occurrences
+|---|---|---|
+| 1 1/4" Cap Nails | Every 6' | 30 Nails |
 
 ## Cover Until Next Step
 
@@ -222,11 +232,15 @@ Cut an 8 inch strip of *Roof Felt* to cover the ridge beam. This will make the s
 | Hurricane Tie Screws | Tie-down Rafters | 260 | | |
 | | 100 Pack | 3 | 10.27 | 30.81 |
 | 1x3x8 | Collar Ties | 3 | 4.45 | 13.35 |
+| 4x8 5/8" (19/32) | Roof Sheathing| 12 | 19.57 | 234.84 |
+| 2.5" Interior Nails for your Nail Gun | Total in Pack | 2000 | | 38.7
+| H-Clips | Roof Sheathing | 20 | | |
+| | Total in Pack  | 50 | | 8.11 |
+| 4x8 3/8" (11/32) plywood | Gable Sheathing | 6 | 12.53 | 75.18 |
 
-| 4x8 19/32" | Roof Sheathing| 12 
-| H-Clips | 
-| 4x8 3/8" plywood | Gable Sheathing| 6 
-| Roof Felt | Roof | 380 sq ft
+| Roof Felt | Gables  | X
+| | Roof | 380 sq ft
+
 | Dowel
 
 
@@ -234,10 +248,30 @@ Cut an 8 inch strip of *Roof Felt* to cover the ridge beam. This will make the s
 
 | Item | Use | # | Source |
 |---|---|---|
-| 2.5" Interior Nails for nail gun | Sheathing | 768 | Foundation
-| 3" Interior Nails for nail gun | Raised Top Plate | 19 | Wall Structure |
+| 2.5" Interior Nails for nail gun | Roof Sheathing | 768 | |
+| | Gable Sheathing | 256 | |
+| | **Total** | 1024 | |
+| | Left Over | 276 | Wall Structure
+| | Needed | 748 | |
+| | Remaining | 1,252 | |
+| 3" Interior Nails for nail gun | Raised Top Plate | 19 | |
+| | Collar Ties | 9 |  |
+| | **Total** | 28 | |
+| | Left Over | 952 | Wall Structure |
+| | Remaining | 924 | 
 | 3.5" Interior Nails for nail gun | Gables | 76 | |
 | | Outriggers | 168 | |
 | | Rafters | 192 | |
-| | **Total** | | Wall Structure |
-| Metal Cap Nails ||| Wall Structure
+| | **Total** | 376 | |
+| | Left Over | 914 | Wall Structure |
+| | Remaining | 538 | 
+| Metal Cap Nails | Gables | 28 | |
+| | Roof | 30 | |
+| | **Total** | 58 | |
+| | Left Over | 149 | Wall Structure | 
+| | Remaining | 91 | |
+| #30 216 Sq Ft Roll of Felt Paper | Gables |  sqft |
+| | Roof | 380 sqft
+| | **Total** | | |
+| | Left Over | 90 sqft | Wall Structure |
+| | Remaining

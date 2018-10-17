@@ -172,6 +172,11 @@ Use two *2.5" Screws* to install a small 3 inch door stop at the bottom to keep 
 
 Install *Felt Paper* from the bottom up overlap horizontally 4 at least inches and vertically 2 inches. Use a *Hammer Tacker* loaded with *T50 staples* to get the paper up and hammer in *Metal Cap Nails* every 6 feet to keep the paper from blowing off. Install spare *Felt Paper* on the doors to protect them temporarily until the siding can be installed later. 
 
+
+| Nail Size | Frequency | Occurrences
+|---|---|---|
+| 1 1/4" Cap Nails | Every 6' | 51 Nails |
+
 ## Cover until next step
 
 ## Tools
@@ -255,10 +260,12 @@ Install *Felt Paper* from the bottom up overlap horizontally 4 at least inches a
 | 1/2" x 6" Galvanized Barrel Bolt | Doors | 3 | 11.27 | 33.81
 | 1 lb of 2.5" Exterior Screws | Doors | 1 | | 7.77
 | #30 216 Sq Ft Roll of Felt Paper | Wall Exterior | 558
-| | Total in Roll | 216
+| | **Total in Roll** | 216
 | | Rolls Needed | 3 | 18.65 | 55.95
 | | Remaining | 90 |
-| 3 lb Metal 1" Cap Nails | Wall Felt | 1 |  | 10.68
+| 2 lb Metal 1 1/4" Cap Nails | Wall Felt | 51 |  
+| | **Total in Pack** | 200 | | 10.68
+| | Remaining | 149 | | |
 | T50 5/16 x 3/8" 5000 Pack of Staples | Wall Felt | 1 | | 10.22
 | **Total** | | | | **1195.68**
 
