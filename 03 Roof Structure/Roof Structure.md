@@ -28,6 +28,9 @@ Cut, then assemble the gables on a flat surface. Cut a forty five degree edge on
 
 [![](blueprints/C02.svg)](blueprints/C02.pdf)
 
+| Placement | Technique | Size | Frequency | Occurrences 
+|---|---|---|---|---|
+| Plate to Stud | End Nail | 3.5" | 2 nails | 38 (76 Nails)
 
 ## 03. Rafter Overhangs 
 
@@ -44,6 +47,13 @@ Pre-assemble three of the rafters, by connecting to the outriggers, with the ove
 [![](blueprints/C03C.svg)](blueprints/C03C.pdf)
 
 [![](blueprints/C03D.svg)](blueprints/C03D.pdf)
+
+| Placement | Technique | Size | Frequency | Occurrences 
+|---|---|---|---|---|
+| Rafter to Outriggers | End Nail | 3.5" | 2 nails | 28 (56 Nails) | 
+| Outriggers to Center Rafter | Face Nail | 3.5" | 2 nails | 28 (56 Nails) | 
+| Rafter to Blocking | End Nail | 3.5" | 2 nails | 28 (56 Nails)
+| **Total** |||| 168 Nails |
 
 ## 04. Ridge Beam 
 
@@ -144,7 +154,6 @@ This is a good time to figure out how to cover the structure with the *Tarp* so 
 |**Total**|||256 Nails
 
 
-
 ## 09. Gable Felt 
 
 ![](images/C09.svg)
@@ -206,13 +215,14 @@ Cut an 8 inch strip of *Roof Felt* to cover the ridge beam. This will make the s
 | 2x6x12  | Rafters | 32 | | |
 | | Sheathing Slide | 4 | | |
 | | **Total** | 36 | 8.03 | 289.08
+| 1x10x8 | Ridge Beam | 1 | | 18.36 |
+| 1x10x12 | Ridge Beam | 1 | | 27.46 |
+| Connecting Plates | Ridge Beam | 2 | .98 | 1.96 |
+| Hurricane Ties | Tie-down Rafters| 26 | .84 | 21.84 |
+| Hurricane Tie Screws | Tie-down Rafters | 260 | | |
+| | 100 Pack | 3 | 10.27 | 30.81 |
+| 1x3x8 | Collar Ties | 3 | 4.45 | 13.35 |
 
-| 1x10x8 | Ridge Beam | 1 
-| 1x10x12 | Ridge Beam | 1 
-| Connecting Plates | Ridge Beam | 2
-| Hurricane Ties | Tie-down Rafters| 26 
-| Hurricane Tie Screws | Tie-down Rafters | 260 
-| 1x3x7 | Collar Ties | 3 
 | 4x8 19/32" | Roof Sheathing| 12 
 | H-Clips | 
 | 4x8 3/8" plywood | Gable Sheathing| 6 
@@ -224,7 +234,10 @@ Cut an 8 inch strip of *Roof Felt* to cover the ridge beam. This will make the s
 
 | Item | Use | # | Source |
 |---|---|---|
-| 2.5" Interior Nails for nail gun ||| Foundation
-| 3" Interior Nails for nail gun || 19 | Wall Structure
-| 3.5" Interior Nails for nail gun ||| Wall Structure
+| 2.5" Interior Nails for nail gun | Sheathing | 768 | Foundation
+| 3" Interior Nails for nail gun | Raised Top Plate | 19 | Wall Structure |
+| 3.5" Interior Nails for nail gun | Gables | 76 | |
+| | Outriggers | 168 | |
+| | Rafters | 192 | |
+| | **Total** | | Wall Structure |
 | Metal Cap Nails ||| Wall Structure
