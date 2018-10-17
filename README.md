@@ -14,12 +14,12 @@
 
 | | Chapter | Tools | Supplies | Total |
 |---|---|---|---|---|
-| ![](01%20Foundation/images/A08.svg) | Foundation | 1217.12 | 951.08 |  |
-| ![](02%20Wall%20Structure/images/B09.svg) | Wall Structure | 456.07 | 1195.68 |  |
-| ![](03%20Roof%20Structure/images/C10.svg) | Roof Structure | 182.07 |  | 
+| ![](01%20Foundation/images/A08.svg) | Foundation | 1217.12 | 951.08 | 2168.20 |
+| ![](02%20Wall%20Structure/images/B09.svg) | Wall Structure | 456.07 | 1195.68 | 1651.75 |
+| ![](03%20Roof%20Structure/images/C10.svg) | Roof Structure | 182.07 | 914.06 | 1096.13
 | ![](04%20Roofing/images/D04.svg) | Roofing | | |
 | ![](05%20Wall%20Exterior/images/E06.svg) | Wall Exterior | | |
-
+|| **Total** | | |  |
 ## Goals
 
 Here are some goals we're working towards with this design:

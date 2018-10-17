@@ -237,11 +237,9 @@ Cut an 8 inch strip of *Roof Felt* to cover the ridge beam. This will make the s
 | H-Clips | Roof Sheathing | 20 | | |
 | | Total in Pack  | 50 | | 8.11 |
 | 4x8 3/8" (11/32) plywood | Gable Sheathing | 6 | 12.53 | 75.18 |
-
-| Roof Felt | Gables  | X
-| | Roof | 380 sq ft
-
-| Dowel
+| Roof Felt | Rolls Needed  | 2 | 18.65 | 37.30 |
+| 3/4" x 4' Dowel | | | | 2.98 |
+| **Total** | | | | 914.06 |
 
 
 ### Existing Supplies
@@ -270,8 +268,8 @@ Cut an 8 inch strip of *Roof Felt* to cover the ridge beam. This will make the s
 | | **Total** | 58 | |
 | | Left Over | 149 | Wall Structure | 
 | | Remaining | 91 | |
-| #30 216 Sq Ft Roll of Felt Paper | Gables |  sqft |
+| #30 216 Sq Ft Roll of Felt Paper | Gables | 156 sqft |
 | | Roof | 380 sqft
-| | **Total** | | |
+| | **Total** | 536 sqft | |
 | | Left Over | 90 sqft | Wall Structure |
-| | Remaining
+| | Needed | 446 sqft | | |
