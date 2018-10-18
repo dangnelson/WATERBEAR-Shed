@@ -201,7 +201,7 @@ Place *Bricks* on *Tarp*
 | 4' Level | 14.97 |
 | Battery Powered [Nail Gun](https://en.wikipedia.org/wiki/Nail_gun)| 399.00 |
 | [Plumb Chalk Line](https://en.wikipedia.org/wiki/Chalk_line) | 5.97 |
-|**Estimated Total**|**1217.12**
+|**Total**|**1,217.12**
 
 ## Supplies
 
@@ -233,6 +233,6 @@ Place *Bricks* on *Tarp*
 | 4x8 5/8" (19/32) Plywood | Sheathing | 7 | 19.57 | 136.99
 | Bricks | Cover | 12 | .69 | 8.28
 | 20' x 30' Heavy Duty Tarp | Cover |  1  || 89.98 | 
-|**Estimated Total**||||**951.08** |
+|**Total**||||**951.08** |
 
 Total cost does not include Tax or Delivery fees. Materials noted as "(varies)" depends on the frost depth for your location.

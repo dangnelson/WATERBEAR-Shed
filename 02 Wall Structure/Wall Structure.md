@@ -267,7 +267,7 @@ Install *Felt Paper* from the bottom up overlap horizontally 4 at least inches a
 | | **Total in Pack** | 200 | | 10.68
 | | Remaining | 149 | | |
 | T50 5/16 x 3/8" 5000 Pack of Staples | Wall Felt | 1 | | 10.22
-| **Total** | | | | **1195.68**
+| **Total** | | | | **1,195.68**
 
 ### Existing Supplies
 

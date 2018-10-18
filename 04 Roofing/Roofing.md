@@ -91,15 +91,16 @@ For the outer roof cap, slide it onto the inner cap from either side after prepp
 
 | Item | Cost |
 |---|---|
-| Battery Powered 16 Gauge Finishing Nailer |
-| Metal Snips | 
-| Shears Attachment Accessory
-| Pop Rivet Gun
-| 1/8" Drill Bit |
-| 16" Hemming Tool
-| Rubber Mallet
-| 3" Metal Hand Seamer
-| Caulking Gun
+| Battery Powered 16 Gauge Finishing Nailer | 327.95 |
+| Metal Snips | 16.97 |
+| Shears Attachment Accessory | 59.98 |
+| Pop Rivet Gun | 19.98 |
+| 1/8" Drill Bit | 2.97 |
+| 16" Hemming Tool | 49.50 |
+| Rubber Mallet | 4.97 |
+| 3" Metal Hand Seamer | 29.97 |
+| Caulking Gun | 2.58 |
+| **Total** | **514.87** |
 
 ### Existing Tools
 
@@ -129,21 +130,25 @@ For the outer roof cap, slide it onto the inner cap from either side after prepp
 
 | Item | Use | # | Cost | Total |
 |---|---|---|---|---|
-| 2x6x8 | Eave Fascia | 2 
-| 2x6x12 | Eave Fascia | 2 
-| 2 1/2” Galvanized finishing nails | Eave Fascia
-| 2 1/2” Hex Deck Screws | Eave Fascia
-| 1x8x12 | Rake Fascia | 4 
-| 1 1/2” Galvanized finishing nails | Rake Fascia
-| Plumb Eave Drip Edge | Drip Edge | 4 ~10' sections or 40'
-| 1" #10 Pancake Head Woodscrews
-| 1/8" Pop Rivets
-| Square Rake Drip Edge | Drip Edge | 5 ~10' sections or 50'| $23 / 10.5 ft piece
-| 10' 6" x 16" Standing Seam Panels | | 30 |$2.53 / linear ft
-| Ridge Cap | | 2 ~10' sections or 20' |$15.90 / each 32" wide
-| Double Beaded Butyl Tape
-| Sealant 
-| 2" Pancake Head Woodscrews
+| 2x6x8 | Eave Fascia | 2 | 5.84 | 11.68 |
+| 2x6x12 | Eave Fascia | 2 | 8.73 | 17.46 |
+| 2 1/2” Galvanized finishing nails, 2500 Pack | Eave Fascia | 1 | | 24.16
+| 3 1/2” Hex Deck Screws, 1lb pack | Eave Fascia | 2 | 8.90 | 17.80 |
+| 1x8x12 | Rake Fascia | 4 | 19.82 | 79.28 |
+| Quart of Tung Oil | Fascia | 2 | 19.87 | 39.74 |
+| 1 1/2” Galvanized finishing nails, 2500 Pack | Rake Fascia | 1 | | 19.90
+| 10' 6" Plumb Eave Drip Edge Section | Drip Edge | 4 | 22.04 | 88.16 |
+| 1" #10 Pancake Head Woodscrews, 250 Pack | Drip Edge, Roof Panels | 1 | |11.80
+| 1/8" Pop Rivets, 100 Pack |  | 1 | | 8.65 |
+| 10' 6" Square Rake Drip Edge Section | Drip Edge | 5 | 22.04 | 110.20
+| 10' 6" x 16" Standing Seam Panels | Roofing | 30 | 26.56 | 796.80 |
+| 10' 6" Ridge Cap Section | Ridge Cap | 2 | 32.25 | 64.50 |
+| 10' 6" Ridge Retainer Section | Ridge Cap | 2 | 30.02 | 60.04 |
+| 32" Vented Closures | Ridge Cap | 15 | 10.80 | 162.00 |
+| Double Beaded Butyl Tape | Ridge Cap | 1 | | 9.06 |
+| Sealant | Ridge Cap | 1 | | 5.95 |
+| 2 1/2" Pancake Head Woodscrews, 250 Pack | Ridge Cap | 1 | | 25.34 |
+| **Total** | | | | **1,552.52** |
 
 ### Existing Supplies
 

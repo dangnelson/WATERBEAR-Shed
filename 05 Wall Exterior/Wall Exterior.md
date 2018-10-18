@@ -187,7 +187,7 @@ Start by trimming a *4" 10' Gutter Downspout* to 6' 6" with the crimp on the lon
 
 ### New Supplies
 
-| Item | Use | # | Cost |
+| Item | Use | # | Cost | Total |
 |---|---|---|
 | 4' Coravent Strips | Insect Screen | 28
 | 1"x2"x8' Furring Strips | Rain Screen | 50

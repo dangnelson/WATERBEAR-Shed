@@ -188,7 +188,7 @@ Cut an 8 inch strip of *Roof Felt* to cover the ridge beam. This will make the s
 | Ladder Lock | 39.39
 | 8' Straight Ladder | 86.22
 | 2 Ladder Hooks with Wheel | 45.50
-|**Estimated Total**|**182.07**
+|**Total**|**182.07**
 
 ### Existing Tools
 
@@ -239,7 +239,7 @@ Cut an 8 inch strip of *Roof Felt* to cover the ridge beam. This will make the s
 | 4x8 3/8" (11/32) plywood | Gable Sheathing | 6 | 12.53 | 75.18 |
 | Roof Felt | Rolls Needed  | 2 | 18.65 | 37.30 |
 | 3/4" x 4' Dowel | | | | 2.98 |
-| **Total** | | | | 914.06 |
+| **Total** | | | | **914.06** |
 
 
 ### Existing Supplies

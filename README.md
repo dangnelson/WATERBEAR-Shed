@@ -14,10 +14,10 @@
 
 | | Chapter | Tools | Supplies | Total |
 |---|---|---|---|---|
-| ![](01%20Foundation/images/A08.svg) | Foundation | 1217.12 | 951.08 | 2168.20 |
-| ![](02%20Wall%20Structure/images/B09.svg) | Wall Structure | 456.07 | 1195.68 | 1651.75 |
-| ![](03%20Roof%20Structure/images/C10.svg) | Roof Structure | 182.07 | 914.06 | 1096.13
-| ![](04%20Roofing/images/D04.svg) | Roofing | | |
+| ![](01%20Foundation/images/A08.svg) | Foundation | 1,217.12 | 951.08 | 2,168.20 |
+| ![](02%20Wall%20Structure/images/B09.svg) | Wall Structure | 456.07 | 1,195.68 | 1,651.75 |
+| ![](03%20Roof%20Structure/images/C10.svg) | Roof Structure | 182.07 | 914.06 | 1,096.13
+| ![](04%20Roofing/images/D04.svg) | Roofing | 514.87 | 1,552.52 | 2,067.39 |
 | ![](05%20Wall%20Exterior/images/E06.svg) | Wall Exterior | | |
 || **Total** | | |  |
 ## Goals
