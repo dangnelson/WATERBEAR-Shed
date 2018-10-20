@@ -18,7 +18,7 @@
 | ![](02%20Wall%20Structure/images/B09.svg) | Wall Structure | 456.07 | 1,195.68 | 1,651.75 |
 | ![](03%20Roof%20Structure/images/C10.svg) | Roof Structure | 182.07 | 914.06 | 1,096.13
 | ![](04%20Roofing/images/D04.svg) | Roofing | 514.87 | 1,552.52 | 2,067.39 |
-| ![](05%20Wall%20Exterior/images/E06.svg) | Wall Exterior | 43.20 | 3,668.33 | 3,711.53
+| ![](05%20Wall%20Exterior/images/E08.svg) | Wall Exterior | 43.20 | 3,668.33 | 3,711.53
 || Pre-Tax Total | 2,417.11 | 8,281.67 | 10,698.78
 || 6% Sales Tax | 145.02 | 496.9 | 641.92
 || **Total** | $2,562.13 | $8,778.57 | $11,340.70
