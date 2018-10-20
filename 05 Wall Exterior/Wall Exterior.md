@@ -14,7 +14,7 @@ Tack the strips in first using *2 1/2” Galvanized Finishing Nails* loaded in t
 
 For the north & south sides, rest furring strips on the bottom vent strips to get the location/height for the top vent strips.
 
-Cut the strips to size as needed using a *Small Hand Saw*.
+Cut the strips to size as needed using a *Small Jab Saw*.
 
 ## 02. Furring Strips
 
@@ -71,10 +71,10 @@ Measure the distance between the *Circular Saw* plate edge and the blade. Tack f
 Start with the edges which will have *Hinges* on them first. One they’re done, drill the holes and insert the *Bolts* through the hinges to hold the weight until you can get the *Washers* and *Nuts* tightened on.
 
 #### Door Cutting Technique
-To cut the doors, adjust your *Circular Saw* to be about an 1/8 deeper than the siding. You can do this easily by adjusting the blade while holding in on one edge of the wall to compare it to the siding depth. To cut, start the blade above the siding towards the bottom, with the top edge resting against your rip guide and the blade pulled out away from the siding. Start the saw and slowly insert the blade all the way in, then start your cut upwards. Since the blade is curved you will end up with a small amount uncut where the marks meet. Use a *Small Hand Saw* to finish the cuts.
+To cut the doors, adjust your *Circular Saw* to be about an 1/8 deeper than the siding. You can do this easily by adjusting the blade while holding in on one edge of the wall to compare it to the siding depth. To cut, start the blade above the siding towards the bottom, with the top edge resting against your rip guide and the blade pulled out away from the siding. Start the saw and slowly insert the blade all the way in, then start your cut upwards. Since the blade is curved you will end up with a small amount uncut where the marks meet. Use a *Small Jab Saw* to finish the cuts.
 
 #### Open the Small Door First
-Once the small door is cut out completely, sever the nails you put in to hold the door in place using a *Mini Hacksaw*. Carefully attempt to open the door, keeping in mind the bolts are not actually attached yet. If there is resistance, you may need to confirm with your hand saw that there’s no section of siding uncut. Once the door is open, attach the nuts and washers on all the doors using a *Socket Wrench*. 
+Once the small door is cut out completely, sever the nails you put in to hold the door in place using a *Mini Hacksaw*. Carefully attempt to open the door, keeping in mind the bolts are not actually attached yet. If there is resistance, you may need to confirm with your jab saw that there’s no section of siding uncut. Once the door is open, attach the nuts and washers on all the doors using a *Socket Wrench* with a *1/4" Socket*
 
 Finish your remaining cuts to open the double doors.
 
@@ -148,12 +148,12 @@ Start by trimming a *4" 10' Gutter Downspout* to 6' 6" with the crimp on the lon
 
 | Item | Cost |
 |---|---|
-| Small Hand Saw
-| Mini Hacksaw
-| Socket Wrench piece
-| Circular Saw Rip Guide
-| Brake (Rent / Use) | 0
-| 1/2" Metal Drill Bit
+| Small Jab Saw | 7.97  |
+| Mini Hacksaw | 8.97 |
+| Circular Saw Rip Fence | 19.97 |
+| Brake (Rent / Use) | 0 |
+| 1/2" Metal Drill Bit | 6.29
+| **Total** | **43.20** |
 
 ### Existing Tools
 
@@ -161,9 +161,9 @@ Start by trimming a *4" 10' Gutter Downspout* to 6' 6" with the crimp on the lon
 |---|---|
 | Battery-Powered 16 Gauge Finishing Nailer | Roofing
 | 4' Level | Foundation
-| Battery-Powered Electric Nail Gun | Foundation=
-| 8' Step Ladder
-| Carpenter's Pencil
+| Battery-Powered Electric Nail Gun | Foundation
+| 8' Step Ladder | Wall Structure |
+| Carpenter's Pencil | Foundation |
 | Battery-Powered Handheld Circular Saw | Foundation
 | Speed Square | Foundation
 | Carpenter's Pencils | Foundation
@@ -178,6 +178,7 @@ Start by trimming a *4" 10' Gutter Downspout* to 6' 6" with the crimp on the lon
 | Socket Wrench | Foundation
 | Extension Ladder | Wall Structure
 | Doorlock installation kit | Wall Structure
+| 1/4" Drive SAE Socket Wrench Set | Foundation |
 | Hammer | Foundation
 | Shears Attachment Accessory | Roofing
 | Battery Powered Drill | Foundation
@@ -189,26 +190,27 @@ Start by trimming a *4" 10' Gutter Downspout* to 6' 6" with the crimp on the lon
 
 | Item | Use | # | Cost | Total |
 |---|---|---|
-| 4' Coravent Strips | Insect Screen | 28
-| 1"x2"x8' Furring Strips | Rain Screen | 50
-| 14' 16V-Joint	3/4" x 6-7/8"	Tongue & Groove Siding || 72  | $28.70 | $2,066.40
-| Hinges
-| Bolts
-| Washers
-| Nuts
-| 4x4 cedar posts | Siding Corners
-| 8 inch Flashing | Door & Eave
-| Handles
-| J-Channels
-| Soffit vents
-| 1" Sheet Metal Screws
-| 4" Hanger Mounts with Spring Clips || 18
-| 20' sections of 4" Mill Finish Aluminum Gutter || 2
-| Half round Gutter Outlets || 2
-| 4" Half Round Gutter End Caps || 4
-| 4" 10' Gutter Downspouts || 2
-| Gutter downspout straps || 4
-| 4” 75 degrees Gutter Elbows || 6
+| 4' SV5 Coravent Strips, Box of 15 | Insect Screen | 2 | 81.89   | 163.78 |
+| 1"x2"x8' Furring Strips | Rain Screen | 50 | 1.13 | 56.50 |
+| 14' 16V-Joint	3/4" x 6-7/8"	Tongue & Groove Siding || 88  | 28.70 | 2,525.60 |
+| 8" Zinc-Plate Hinges | Doors | 6 | 5.98 | 35.88 |
+| 1/4" x 3" Galvanized Coarse Thread Carriage Bolt | Doors | 50 | Pack | 20.77 |
+| 1/4" Galvanized Washers | Doors | 50 | Pack | 9.86 |
+| 1/4" Galvanized Nuts | Doors | 50 | Pack | 10.67 | 
+| 4x4 cedar posts | Siding Corners | 4 | 14.16 | 56.64 |
+| 8 inch Flashing, 50 ft roll | Door & Eave | 1 | | 27.96 |
+| 6 1/2" Stainless Steel Handles | Doors | 6 | 5.87 | 35.22 |
+| 10' 6" Galvalume J-Channels sized for Vent Panels | Soffits | 8 | 10.41 | 83.28 | 
+| 10'6" Galvalume Soffit Vent Panel | Soffits | 5 | 39.27 | 196.35 | 
+| 1" Sheet Metal Screws, 25 Pack | Soffits, Gutters | 6 | 2.87 | 17.22 |
+| 4" Hanger Mounts with Spring Clips | Gutters | 18 | 8.20 | 147.60 |
+| 20' sections of 4" Mill Finish Aluminum Gutter | Gutters | 2 | 52.50 | 105.00
+| Half Round Gutter Outlets | Gutters | 2 | 3.58 | 7.16 |
+| 4" Half Round Gutter End Caps | Gutters | 4 | 3.25 | 13.00 |
+| 4" 10' Gutter Downspouts | Gutters | 2 | 32.50 | 65.00
+| Gutter downspout straps | Gutters | 4 | 1.25 | 5.00 |
+| 4” 75 degrees Gutter Elbows | Gutters | 8 | 10.73 | 85.84 |
+|**Total** ||||**3668.33**
 
 ## Existing Supplies
 

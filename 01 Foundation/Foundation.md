@@ -197,11 +197,11 @@ Place *Bricks* on *Tarp*
 | Battery Powered 7-1/4-in [Hand-held Circular Saw](https://en.wikipedia.org/wiki/Circular_saw) | 279.00 |
 | Battery Powered Drill | 159.00 |
 | 1/2" diameter 6" long brad point bit | 9.97 |
-| 1/2" Socket Wrench | 26.19 |
+| 1/4" Drive SAE Socket Wrench Set | 29.97 |
 | 4' Level | 14.97 |
 | Battery Powered [Nail Gun](https://en.wikipedia.org/wiki/Nail_gun)| 399.00 |
 | [Plumb Chalk Line](https://en.wikipedia.org/wiki/Chalk_line) | 5.97 |
-|**Total**|**1,217.12**
+|**Total**|**1,220.90**
 
 ## Supplies
 
