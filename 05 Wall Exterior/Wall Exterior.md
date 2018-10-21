@@ -189,7 +189,7 @@ Start by trimming a *4" 10' Gutter Downspout* to 6' 6" with the crimp on the lon
 ### New Supplies
 
 | Item | Use | # | Cost | Total |
-|---|---|---|
+|---|---|---|---|---|
 | 4' SV5 Coravent Strips, Box of 15 | Insect Screen | 2 | 81.89   | 163.78 |
 | 1"x2"x8' Furring Strips | Rain Screen | 50 | 1.13 | 56.50 |
 | 14' 16V-Joint	3/4" x 6-7/8"	Tongue & Groove Siding || 88  | 28.70 | 2,525.60 |
@@ -210,13 +210,13 @@ Start by trimming a *4" 10' Gutter Downspout* to 6' 6" with the crimp on the lon
 | 4" 10' Gutter Downspouts | Gutters | 2 | 32.50 | 65.00
 | Gutter downspout straps | Gutters | 4 | 1.25 | 5.00 |
 | 4” 75 degrees Gutter Elbows | Gutters | 8 | 10.73 | 85.84 |
-|**Total** ||||**3668.33**
+|**Total** |||| **3668.33** |
 
 ## Existing Supplies
 
-| Item | Amount | Use | Chapter
+| Item | Amount | Use | Chapter |
 |---|---|---|---|
-| 2 1/2” Galvanized Finishing nails | | Various | Roofing
-| 2.5" Interior Nails for Nail Gun | | Eave End Blocking | Foundation
-| Roofing Nails | | Door Flashing | Wall Structure
-| Pop Rivets
+| 2 1/2” Galvanized Finishing nails | | Various | Roofing |
+| 2.5" Interior Nails for Nail Gun | | Eave End Blocking | Foundation |
+| Roofing Nails | | Door Flashing | Wall Structure |
+| Pop Rivets | | Roofing |
