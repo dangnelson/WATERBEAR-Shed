@@ -214,9 +214,9 @@ Start by trimming a *4" 10' Gutter Downspout* to 6' 6" with the crimp on the lon
 
 ## Existing Supplies
 
-| Item | Amount | Use | Chapter |
-|---|---|---|---|
-| 2 1/2” Galvanized Finishing nails | | Various | Roofing |
-| 2.5" Interior Nails for Nail Gun | | Eave End Blocking | Foundation |
-| Roofing Nails | | Door Flashing | Wall Structure |
-| Pop Rivets | | Roofing |
+| Item | Use | Chapter |
+|---|---|---|
+| 2 1/2” Galvanized Finishing Nails | Various | Roofing |
+| 2.5" Interior Nails for Nail Gun | Eave End Blocking | Foundation |
+| Roofing Nails | Door Flashing | Wall Structure |
+| Pop Rivets | Gutters | Roofing |

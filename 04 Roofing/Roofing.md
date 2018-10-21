@@ -152,9 +152,9 @@ For the outer roof cap, slide it onto the inner cap from either side after prepp
 
 ### Existing Supplies
 
-| Item | Use | # | Source |
-|---|---|---|---|
-| Tung Oil | Fascia |  | Wall Structure
-| Rags | Fascia | | Wall Structure
-| Butane Canister | Fascia | | Wall Structure
+| Item | Use | Source |
+|---|---|---|
+| Tung Oil | Fascia | Wall Structure
+| Rags | Fascia | Wall Structure
+| Butane Canister | Fascia | Wall Structure
 

@@ -201,7 +201,7 @@ Place *Bricks* on *Tarp*
 | 4' Level | 14.97 |
 | Battery Powered [Nail Gun](https://en.wikipedia.org/wiki/Nail_gun)| 399.00 |
 | [Plumb Chalk Line](https://en.wikipedia.org/wiki/Chalk_line) | 5.97 |
-|**Total**|**1,220.90**
+|**Total**|**1,220.90** |
 
 ## Supplies
 
