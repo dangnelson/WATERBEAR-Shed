@@ -53,7 +53,7 @@ Walls must be capped with a second top plate, offset at least 24 inches at joint
 | Placement | Nail Size | Frequency | Occurances 
 |---|---|---|---
 | Double top plates | 3" | 24" on center | 55' (28 Nails)
-| Double top plates in lapped area. | 3.5" | 8 nails 
+| Double top plates in lapped area. | 3.5" | | 8 nails |
 | Top plates, overlaps at corners | 3" | 2 nails | 4 (8 Nails)
 |**Total**||| 36 3" Nails, <br/>8 3.5" Nails | 
 
@@ -222,22 +222,22 @@ Install *Felt Paper* from the bottom up overlap horizontally 4 at least inches a
 
 | Item | Use | # | Cost | Total |
 |---|---|---|---|---|
-| 2x4x8 | Framing | 54 |
-| | Second Top Plate | 8 |
+| 2x4x8 | Framing | 54 | | |
+| | Second Top Plate | 8 | | |
 | | **Total** | 62 | 3.13 | 190.93 |
 | 2x4x12 | Top & Bottom Plates | 3 | 5.40 | 16.2 |
-| 3" Interior Nails for nail gun | Stud | 12 |
-| | Top Plate | 36 |
-| | **Total** | 48 |
+| 3" Interior Nails for nail gun | Stud | 12 | | |
+| | Top Plate | 36 | | |
+| | **Total** | 48 | | |
 | | Total in Pack | 1000 |  | 43.96 |
-| | Remaining | 952 |
-| 3.5" Interior Nails for nail gun | Stud | 196 |
-| | Header | 18 |
-| | Top Plate | 8 |
-| | Joist | 60 |
-| | **Total** | 86 |
+| | Remaining | 952 | | |
+| 3.5" Interior Nails for nail gun | Stud | 196 | | |
+| | Header | 18 | | |
+| | Top Plate | 8 | | |
+| | Joist | 60 | | |
+| | **Total** | 86 | | |
 | | Total in Pack | 1000 | | 43.50 |
-| | Remaining | 914 |
+| | Remaining | 914 | | |
 | 1/2" x 4 in. Galvanized Hex Lag Screw | Tie-Downs | 11 | 2.42 | 26.62 |
 | 1/2" Galvanized Washer | Tie-Downs| 11 | 1.18 | 12.98 |
 | 4x8 5/8" (19/32) plywood | Headers, Ceiling | 7 | 19.57 | 136.99 |
@@ -259,11 +259,11 @@ Install *Felt Paper* from the bottom up overlap horizontally 4 at least inches a
 | Deadbolt for Door | Doors | 1 | |17.97 |
 | 1/2" x 6" Galvanized Barrel Bolt | Doors | 3 | 11.27 | 33.81 |
 | 1 lb of 2.5" Exterior Screws | Doors | 1 | | 7.77 |
-| #30 216 Sq Ft Roll of Felt Paper | Wall Exterior | 558 |
-| | **Total in Roll** | 216 |
+| #30 216 Sq Ft Roll of Felt Paper | Wall Exterior | 558 | | |
+| | **Total in Roll** | 216 | | |
 | | Rolls Needed | 3 | 18.65 | 55.95 |
-| | Remaining | 90 |
-| 2 lb Metal 1 1/4" Cap Nails | Wall Felt | 51 |  
+| | Remaining | 90 | | |
+| 2 lb Metal 1 1/4" Cap Nails | Wall Felt | 51 | | |
 | | **Total in Pack** | 200 | | 10.68 |
 | | Remaining | 149 | | |
 | T50 5/16 x 3/8" 5000 Pack of Staples | Wall Felt | 1 | | 10.22 |
@@ -273,9 +273,9 @@ Install *Felt Paper* from the bottom up overlap horizontally 4 at least inches a
 
 | Item | Use | # | Source |
 |---|---|---|---|
-| 2.5" Interior Nails for nail gun | Wall Sheathing | 832 |
-| | Joist | 60 |
-| | Ceiling Sheathing | 448 |
-| | **Total** | 1340 |
+| 2.5" Interior Nails for nail gun | Wall Sheathing | 832 | |
+| | Joist | 60 | |
+| | Ceiling Sheathing | 448 | |
+| | **Total** | 1340 | |
 | | Left Over | 1616 | Foundation |
-| | Remaining | 276 |
+| | Remaining | 276 | |

@@ -92,8 +92,8 @@ Install collar ties to help prevent the rafters from coming apart at the top.
 
 ### Collar Tie Fastening `IRC Table 602.3(1)`
 
-| Placement | Size | Frequency
-| --- | --- | ---
+| Placement | Size | Frequency | Occurrences |
+|---|---|---|---|
 | Collar tie to rafter, face nail | 3" | 3 nails on each side | 6 connections (9 Nails)
 
 ## 07. Roof Sheathing 
@@ -256,20 +256,20 @@ Cut an 8 inch strip of *Roof Felt* to cover the ridge beam. This will make the s
 | | Collar Ties | 9 |  |
 | | **Total** | 28 | |
 | | Left Over | 952 | Wall Structure |
-| | Remaining | 924 | 
+| | Remaining | 924 | |
 | 3.5" Interior Nails for nail gun | Gables | 76 | |
 | | Outriggers | 168 | |
 | | Rafters | 192 | |
 | | **Total** | 376 | |
 | | Left Over | 914 | Wall Structure |
-| | Remaining | 538 | 
+| | Remaining | 538 | |
 | Metal Cap Nails | Gables | 28 | |
 | | Roof | 30 | |
 | | **Total** | 58 | |
 | | Left Over | 149 | Wall Structure | 
 | | Remaining | 91 | |
-| #30 216 Sq Ft Roll of Felt Paper | Gables | 156 sqft |
-| | Roof | 380 sqft
+| #30 216 Sq Ft Roll of Felt Paper | Gables | 156 sqft | |
+| | Roof | 380 sqft | |
 | | **Total** | 536 sqft | |
 | | Left Over | 90 sqft | Wall Structure |
 | | Needed | 446 sqft | | |
