@@ -245,7 +245,7 @@ Cut an 8 inch strip of *Roof Felt* to cover the ridge beam. This will make the s
 ### Existing Supplies
 
 | Item | Use | # | Source |
-|---|---|---|
+|---|---|---|---|
 | 2.5" Interior Nails for nail gun | Roof Sheathing | 768 | |
 | | Gable Sheathing | 256 | |
 | | **Total** | 1024 | |
