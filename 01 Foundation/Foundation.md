@@ -235,4 +235,4 @@ Place *Bricks* on *Tarp*
 | 20' x 30' Heavy Duty Tarp | Cover |  1  || 89.98 | 
 |**Total**||||**951.08** |
 
-Total cost does not include Tax or Delivery fees. Materials noted as "(varies)" depends on the frost depth for your location.
+Materials noted as "(varies)" depends on the frost depth for your location.
