@@ -85,6 +85,10 @@ Install the inner roof cap at the marked angles one side at a time per manufactu
 
 For the outer roof cap, slide it onto the inner cap from either side after prepping one side to slide into the other. Use pop rivets at seams to close the gap.
 
+## 05. Snow Guards
+
+Install *Snow Guards* on every other seam, starting at 2 feet from the Eave. and then every 2 feet until you have 3 rows. Alternate the rows so there aren't seams without guards on them.
+
 ## Tools
 
 ### New Tools
@@ -148,7 +152,8 @@ For the outer roof cap, slide it onto the inner cap from either side after prepp
 | Double Beaded Butyl Tape | Ridge Cap | 1 | | 9.06 |
 | Sealant | Ridge Cap | 1 | | 5.95 |
 | 2 1/2" Pancake Head Woodscrews, 250 Pack | Ridge Cap | 1 | | 25.34 |
-| **Total** | | | | **1,552.52** |
+| Standing Seam Snow Guards | Roofing | 46 | 14.03 | 645.68
+| **Total** | | | | **2,198.20** |
 
 ### Existing Supplies
 

@@ -188,6 +188,11 @@ Start by trimming a *4" 10' Gutter Downspout* to 6' 6" with the crimp on the lon
 
 ### New Supplies
 
+1.95 / ft - 1x8 bevel cedar
+2.30 / ft - 1x6 t&g cedar
+
+2.05 / ft - 1x7 t&g yellow pine
+
 | Item | Use | # | Cost | Total |
 |---|---|---|---|---|
 | 4' SV5 Coravent Strips, Box of 15 | Insect Screen | 2 | 81.89   | 163.78 |
