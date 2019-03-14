@@ -32,7 +32,7 @@ Using a *Battery-Powered Drill*, drill through the bottom plates and into the fl
 
 Sandwich *5/8" Plywood* between *2 2x12s* and attach them *Face Nail* to build the headers which support the wall above the doorways before installing them in the wall.
 
-[![](blueprints/B01C.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/02%20Wall%20Structure/blueprints/B01C.pdf)
+[![](blueprints/B01C.svg)](blueprints/B01C.pdf)
 
 #### Header Fastening
 
@@ -46,7 +46,7 @@ Sandwich *5/8" Plywood* between *2 2x12s* and attach them *Face Nail* to build t
 
 Walls must be capped with a second top plate, offset at least 24 inches at joints (IRC 602.3.2). Overlap the corners so they overlap the wall joints. Attach them by nailing *Face Nail* downwards stepping on a *8 ft Step Ladder*.
 
-[![](blueprints/B02.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/02%20Wall%20Structure/blueprints/B02.pdf)
+[![](blueprints/B02.svg)](blueprints/B02.pdf)
 
 ### Top Plate Fastening `IRC Table 602.3(1)`
 
@@ -67,11 +67,11 @@ The structure will be flexible when it's just studs. *3/8" Plywood* sheathing ad
 
 To find where to nail, drop a *Plumb Bob Chalk Line* from the top, lined up with each stud location, and pop a line.
 
-[![](blueprints/B03A.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/02%20Wall%20Structure/blueprints/B03A.pdf)
+[![](blueprints/B03A.svg)](blueprints/B03A.pdf)
 
-[![](blueprints/B03B.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/02%20Wall%20Structure/blueprints/B03B.pdf)
+[![](blueprints/B03B.svg)](blueprints/B03B.pdf)
 
-[![](blueprints/B03C.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/02%20Wall%20Structure/blueprints/B03C.pdf)
+[![](blueprints/B03C.svg)](blueprints/B03C.pdf)
 
 ### Sheathing Fastening
 
@@ -90,7 +90,7 @@ To find where to nail, drop a *Plumb Bob Chalk Line* from the top, lined up with
 
 ![](images/B04.svg)
 
-[![](blueprints/B04.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/02%20Wall%20Structure/blueprints/B04.pdf)
+[![](blueprints/B04.svg)](blueprints/B04.pdf)
 
 *2x6 Joists* should just about line up with the wall studs, 16 inches on center `IRC Table 802.4(1)`. Mark the end plates first, then prop up the joists over the ceiling span. Be careful not to stand in the shed while you do this in case the joists fall. Frame enough to form a box and toe nail the box into place. This should give you enough structure to add in the remaining joists.
 
@@ -107,7 +107,7 @@ No blocking is needed because the distance between the raised top plate and the 
 
 ![](images/B05.svg)
 
-[![](blueprints/B05.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/02%20Wall%20Structure/blueprints/B05.pdf)
+[![](blueprints/B05.svg)](blueprints/B05.pdf)
 
 Lay one sheet up first and secure it to the joists enough to be able to get on top of it using a *24' Extension Ladder* and finish fastening. Have one person pass sheets up while the other fastens. 
 
@@ -142,7 +142,7 @@ Wearing proper attire, using a *Propane Torch* attached to a *Propane Tank* unti
 
 You can measure and precut the boards before burning & oiling them or you can cut them afterwards and use a *Butane Torch* loaded using a *Butane Canister* to touch up the exposed areas.
 
-[![](blueprints/B06.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/02%20Wall%20Structure/blueprints/B06.pdf)
+[![](blueprints/B06.svg)](blueprints/B06.pdf)
 
 ## 7. Door Flashing 
 
