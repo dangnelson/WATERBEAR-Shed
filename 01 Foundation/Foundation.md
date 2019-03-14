@@ -25,6 +25,7 @@ Use *Marking Chalk Spray Paint* and a *Tape Measure* to roughly mark the locatio
 Use the *String Line* to connect the stakes to make a rectangle. Measure out 12 inches from the string and mark several points then use the marking spray paint to connect the points to create a box.
 
 ![](blueprints/A01.svg)
+
 [A01.pdf](blueprints/A01.pdf)
 
 ### Remove Grass & Debris
@@ -74,7 +75,9 @@ Shovel the concrete into the forms and occasionally insert the *Margin Trowel* i
 
 Once full, smooth out the top of the form with the *Margin Trowel*. Then insert a *Galvanized Post Base* into the form, squaring it up with the other corners, centering it with where the post should be.
 
-[![](blueprints/A02.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/01%20Foundation/blueprints/A02.pdf)
+![](blueprints/A02.svg)
+
+[A02.pdf](blueprints/A02.pdf)
 
 ## 3. Fill 
 
@@ -116,7 +119,9 @@ After each board is lined up, remove an inch of soil under each block and add *A
 
 Carefully mark the unattached floor joists with numbers using a *Carpenter's Pencil* so you can place them back in the same place later. Then remove them for the next step.
 
-[![](blueprints/A04.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/01%20Foundation/blueprints/A04.pdf)
+![](blueprints/A04.svg)
+
+[A04.pdf](blueprints/A04.pdf)
 
 ## 6. Gravel 
 
@@ -150,7 +155,9 @@ Plywood should be run so the direction of the grain runs perpendicular to the jo
 
 Once in place Mark a *Chalk Line* across the plywood for each joist using the nails on either end as a guide for nailing.
 
-[![](blueprints/A09.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/01%20Foundation/blueprints/A09.pdf)
+![](blueprints/A09.svg)
+
+[A09.pdf](blueprints/A09.pdf)
 
 ### Plywood Connection `IRC TABLE R602.3(1)`
 
