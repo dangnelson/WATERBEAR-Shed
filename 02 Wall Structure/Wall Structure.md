@@ -67,7 +67,8 @@ The structure will be flexible when it's just studs. *3/8" Plywood* sheathing ad
 
 To find where to nail, drop a *Plumb Bob Chalk Line* from the top, lined up with each stud location, and pop a line.
 
-[![](blueprints/B03A.svg)](blueprints/B03A.pdf)
+![](blueprints/B03A.svg)
+[B03A.pdf](blueprints/B03A.pdf)
 
 [![](blueprints/B03B.svg)](blueprints/B03B.pdf)
 
