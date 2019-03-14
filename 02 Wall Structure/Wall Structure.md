@@ -13,7 +13,7 @@ Next stand up the north/south walls (Blueprint B.01B), and finally the other eas
 
 Using a *Battery-Powered Drill*, drill through the bottom plates and into the floor joists using a *1/2" Drill Bit* a few inches from the end of each cut and once in the center of the western wall. Insert a *1/2" x 4" Galvanized Hex Lag Screw* with a  *1/2" Washer* into each hole and tighten using a *3/4" Ratchet Bit* inserted into a *Battery-Powered Impact Driver* with a *1/4" Male Hex to 1/4" Square Drive Adapter*. This will help keep the framing from pulling off in high-winds.
 
-[![Blueprint B01A](blueprints/B01A.svg)](blueprints/B01a.pdf)
+[![Blueprint B01A](blueprints/B01A.svg)](blueprints/B01A.pdf)
 
 ### Stud Nail Fastening `IRC Table 602.3(1)`
 
@@ -26,13 +26,13 @@ Using a *Battery-Powered Drill*, drill through the bottom plates and into the fl
 | Top or Bottom Plate to Stud| End Nail | 3.5" | 2 nails | 82 (164 Nails)
 |**Total**| | | | 12 3" Nails, <br/>196 3.5" Nails
 
-[![Blueprint B01B](blueprints/B01B.svg)](blueprints/B01b.pdf)
+[![Blueprint B01B](blueprints/B01B.svg)](blueprints/B01B.pdf)
 
 ### Headers `IRC TABLE R502.5(1)`
 
 Sandwich *5/8" Plywood* between *2 2x12s* and attach them *Face Nail* to build the headers which support the wall above the doorways before installing them in the wall.
 
-[![](blueprints/B01C.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/02%20Wall%20Structure/blueprints/B01c.pdf)
+[![](blueprints/B01C.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/02%20Wall%20Structure/blueprints/B01C.pdf)
 
 #### Header Fastening
 
@@ -67,11 +67,11 @@ The structure will be flexible when it's just studs. *3/8" Plywood* sheathing ad
 
 To find where to nail, drop a *Plumb Bob Chalk Line* from the top, lined up with each stud location, and pop a line.
 
-[![](blueprints/B03A.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/02%20Wall%20Structure/blueprints/B03a.pdf)
+[![](blueprints/B03A.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/02%20Wall%20Structure/blueprints/B03A.pdf)
 
-[![](blueprints/B03B.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/02%20Wall%20Structure/blueprints/B03b.pdf)
+[![](blueprints/B03B.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/02%20Wall%20Structure/blueprints/B03B.pdf)
 
-[![](blueprints/B03C.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/02%20Wall%20Structure/blueprints/B03c.pdf)
+[![](blueprints/B03C.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/02%20Wall%20Structure/blueprints/B03C.pdf)
 
 ### Sheathing Fastening
 
