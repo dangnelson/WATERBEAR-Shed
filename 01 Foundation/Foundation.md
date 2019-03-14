@@ -24,7 +24,8 @@ Use *Marking Chalk Spray Paint* and a *Tape Measure* to roughly mark the locatio
 
 Use the *String Line* to connect the stakes to make a rectangle. Measure out 12 inches from the string and mark several points then use the marking spray paint to connect the points to create a box.
 
-[![](blueprints/A01.svg)](https://github.com/dangnelson/WATERBEAR-Shed/blob/master/01%20Foundation/blueprints/A01.pdf)
+![](blueprints/A01.svg)
+[A01.pdf](blueprints/A01.pdf)
 
 ### Remove Grass & Debris
 
