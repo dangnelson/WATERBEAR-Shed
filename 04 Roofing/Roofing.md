@@ -6,7 +6,9 @@ Look for 24-Gauge, 16" Width, Standing Seam, Snap Lock, Striated, Galvalume Coat
 
 A good supplier will order what you need for the roof based on the dimensions and pitch. The roofing coverage area is 2 sections which are both 10' 6" tall by 19' 1/2" wide. The pitch of the roof is 12:12.
 
-[![](./blueprints/D01.svg)](./blueprints/D01.pdf)
+![Blueprint D01](blueprints/D01.svg)
+
+[D01.pdf](/blueprints/D01.pdf)
 
 ### Read the Manufacturer Instructions
 
@@ -14,7 +16,7 @@ This chapter covers generally what you should expect when installing snap-lock r
 
 ## 01. Fascia 
 
-![](./images/D01.svg)
+![](images/D01.svg)
 	
 ### Eave Fascia
 Burn & oil two *2x6x8s* and two *2x6x12s* to use as Eave Fascia. Rather than trusting blueprints for your cuts, it's better to measure the actual structure using a *Tape Measure* to compensate for any warping that may have occurred during construction.

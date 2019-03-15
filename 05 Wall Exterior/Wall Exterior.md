@@ -28,7 +28,9 @@ Cut the strips to size as needed using a *Small Jab Saw*.
 
 Use leftover lumber from the rafters to build out eave end blocking. This will give you something to attach the siding to. Install using the *Battery Powered Electric Nail Gun* loaded with *2.5" Interior Nails* while standing on the *8' Step Ladder*.
 
-![](blueprints/C11.svg)
+![Blueprint E03](blueprints/E03.svg)
+
+[E03.pdf](blueprints/E03.pdf)
 
 ## 04. Siding
 
