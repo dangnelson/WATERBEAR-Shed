@@ -18,7 +18,9 @@ Cut the *2x4x8s* to size using the *Battery Powered Handheld Circular Saw* and i
 
 ![](images/C01.svg)
 
-[![](blueprints/C01.svg)](blueprints/C01.pdf)
+![](blueprints/C01.svg)
+
+[C01.pdf](blueprints/C01.pdf)
 
 ## 02. Gables 
 
@@ -26,7 +28,9 @@ Cut, then assemble the gables on a flat surface. Cut a forty five degree edge on
 
 ![](images/C02.svg)
 
-[![](blueprints/C02.svg)](blueprints/C02.pdf)
+![](blueprints/C02.svg)
+
+[C02.pdf](blueprints/C02.pdf)
 
 | Placement | Technique | Size | Frequency | Occurrences 
 |---|---|---|---|---|
@@ -40,13 +44,21 @@ Cut the *2x6x12* rafters to size using the dimensions provided (C.03A). Make sur
 
 Pre-assemble three of the rafters, by connecting to the outriggers, with the overhang blocking (C.03D) before lifting them into place. Nail the rafter bottoms into the raised top plate and nail up from under the gable to secure the center rafter. Repeat for all four corners. See Rafter section for fastening.
 
-[![](blueprints/C03A.svg)](blueprints/C03A.pdf)
+![](blueprints/C03A.svg)
 
-[![](blueprints/C03B.svg)](blueprints/C03B.pdf)
+[C03A.pdf](blueprints/C03A.pdf)
 
-[![](blueprints/C03C.svg)](blueprints/C03C.pdf)
+![](blueprints/C03B.svg)
 
-[![](blueprints/C03D.svg)](blueprints/C03D.pdf)
+[C03B.pdf](blueprints/C03B.pdf)
+
+![](blueprints/C03C.svg)
+
+[C03C.pdf](blueprints/C03C.pdf)
+
+![](blueprints/C03D.svg)
+
+[C03D.pdf](blueprints/C03D.pdf)
 
 | Placement | Technique | Size | Frequency | Occurrences 
 |---|---|---|---|---|
@@ -63,7 +75,9 @@ Next, run a *String Line* with a *String Line Level* east to west to determine a
 
 For additional support during construction, add *Connecting Plates* to the ridge beam joint.
 
-[![Blueprint C04](blueprints/C04.svg)](blueprints/C04.pdf)
+![Blueprint C04](blueprints/C04.svg)
+
+[C04.pdf](blueprints/C04.pdf)
 
 ## 05. Rafters 
 
@@ -71,7 +85,9 @@ For additional support during construction, add *Connecting Plates* to the ridge
 
 Install the remaining rafters using the provided nailing schedule. Attach *Hurricane Ties* using *Hurricane Tie Screws* where the rafters meet the raised top plate using a *Battery Powered Impact Driver*.
 
-[![Blueprint C05](blueprints/C05.svg)](blueprints/C08.pdf)
+![Blueprint C05](blueprints/C05.svg)
+
+[C05.pdf](blueprints/C05.pdf)
 
 ### Rafter Nail Fastening
 
@@ -83,7 +99,7 @@ Install the remaining rafters using the provided nailing schedule. Attach *Hurri
 
 ## 06. Collar Ties 
  
-[![Blueprint C06](images/C06.svg)](blueprints/C06.pdf)
+![](images/C06.svg)
 
 Install collar ties to help prevent the rafters from coming apart at the top. 
 
@@ -98,7 +114,7 @@ Install collar ties to help prevent the rafters from coming apart at the top.
 
 ## 07. Roof Sheathing 
 
-[![Blueprint C07](images/C07.svg)](blueprints/C07.pdf) 
+![](images/C07.svg)
 
 Roof sheathing must be at least 5/8 inches thick (IRC TABLE R803.1)
 
@@ -115,7 +131,9 @@ It may be difficult to reach across far enough to nail each piece in completely.
 
 To find the nailing locations, run a *Plumb Bob Chalk Line* down from each rafter and across the sheathing.
 
-[![Blueprint C07](blueprints/C07.svg)](blueprints/C07.pdf)
+![Blueprint C07](blueprints/C07.svg)
+
+[C07.pdf](blueprints/C07.pdf)
 
 ### Sheathing Fastening  `IRC TABLE R602.3(1)`
 
@@ -140,7 +158,9 @@ This is a good time to figure out how to cover the structure with the *Tarp* so 
 
 ![](images/C08.svg)
 
-[![Blueprint C08](blueprints/C08.svg)](blueprints/C08.pdf)
+![Blueprint C08](blueprints/C08.svg)
+
+[C08.pdf](blueprints/C08.pdf)
 
 ### Sheathing Fastening
 

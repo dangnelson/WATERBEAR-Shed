@@ -13,7 +13,9 @@ Next stand up the north/south walls (Blueprint B.01B), and finally the other eas
 
 Using a *Battery-Powered Drill*, drill through the bottom plates and into the floor joists using a *1/2" Drill Bit* a few inches from the end of each cut and once in the center of the western wall. Insert a *1/2" x 4" Galvanized Hex Lag Screw* with a  *1/2" Washer* into each hole and tighten using a *3/4" Ratchet Bit* inserted into a *Battery-Powered Impact Driver* with a *1/4" Male Hex to 1/4" Square Drive Adapter*. This will help keep the framing from pulling off in high-winds.
 
-[![Blueprint B01A](blueprints/B01A.svg)](blueprints/B01A.pdf)
+![Blueprint B01A](blueprints/B01A.svg)
+
+[B01A.pdf](blueprints/B01A.pdf)
 
 ### Stud Nail Fastening `IRC Table 602.3(1)`
 
@@ -26,13 +28,17 @@ Using a *Battery-Powered Drill*, drill through the bottom plates and into the fl
 | Top or Bottom Plate to Stud| End Nail | 3.5" | 2 nails | 82 (164 Nails)
 |**Total**| | | | 12 3" Nails, <br/>196 3.5" Nails
 
-[![Blueprint B01B](blueprints/B01B.svg)](blueprints/B01B.pdf)
+![Blueprint B01B](blueprints/B01B.svg)
+
+[B01B.pdf](blueprints/B01B.pdf)
 
 ### Headers `IRC TABLE R502.5(1)`
 
 Sandwich *5/8" Plywood* between *2 2x12s* and attach them *Face Nail* to build the headers which support the wall above the doorways before installing them in the wall.
 
-[![](blueprints/B01C.svg)](blueprints/B01C.pdf)
+![](blueprints/B01C.svg)
+
+[B01C.pdf](blueprints/B01C.pdf)
 
 #### Header Fastening
 
@@ -46,7 +52,9 @@ Sandwich *5/8" Plywood* between *2 2x12s* and attach them *Face Nail* to build t
 
 Walls must be capped with a second top plate, offset at least 24 inches at joints (IRC 602.3.2). Overlap the corners so they overlap the wall joints. Attach them by nailing *Face Nail* downwards stepping on a *8 ft Step Ladder*.
 
-[![](blueprints/B02.svg)](blueprints/B02.pdf)
+![](blueprints/B02.svg)
+
+[B02.pdf](blueprints/B02.pdf)
 
 ### Top Plate Fastening `IRC Table 602.3(1)`
 
@@ -68,11 +76,16 @@ The structure will be flexible when it's just studs. *3/8" Plywood* sheathing ad
 To find where to nail, drop a *Plumb Bob Chalk Line* from the top, lined up with each stud location, and pop a line.
 
 ![](blueprints/B03A.svg)
+
 [B03A.pdf](blueprints/B03A.pdf)
 
-[![](blueprints/B03B.svg)](blueprints/B03B.pdf)
+![](blueprints/B03B.svg)
 
-[![](blueprints/B03C.svg)](blueprints/B03C.pdf)
+[B03B.pdf](blueprints/B03B.pdf)
+
+![](blueprints/B03C.svg)
+
+[B03C.pdf](blueprints/B03C.pdf)
 
 ### Sheathing Fastening
 
@@ -91,7 +104,9 @@ To find where to nail, drop a *Plumb Bob Chalk Line* from the top, lined up with
 
 ![](images/B04.svg)
 
-[![](blueprints/B04.svg)](blueprints/B04.pdf)
+![](blueprints/B04.svg)
+
+[B04.pdf](blueprints/B04.pdf)
 
 *2x6 Joists* should just about line up with the wall studs, 16 inches on center `IRC Table 802.4(1)`. Mark the end plates first, then prop up the joists over the ceiling span. Be careful not to stand in the shed while you do this in case the joists fall. Frame enough to form a box and toe nail the box into place. This should give you enough structure to add in the remaining joists.
 
@@ -108,7 +123,9 @@ No blocking is needed because the distance between the raised top plate and the 
 
 ![](images/B05.svg)
 
-[![](blueprints/B05.svg)](blueprints/B05.pdf)
+![](blueprints/B05.svg)
+
+[B05.pdf](blueprints/B05.pdf)
 
 Lay one sheet up first and secure it to the joists enough to be able to get on top of it using a *24' Extension Ladder* and finish fastening. Have one person pass sheets up while the other fastens. 
 
@@ -143,7 +160,9 @@ Wearing proper attire, using a *Propane Torch* attached to a *Propane Tank* unti
 
 You can measure and precut the boards before burning & oiling them or you can cut them afterwards and use a *Butane Torch* loaded using a *Butane Canister* to touch up the exposed areas.
 
-[![](blueprints/B06.svg)](blueprints/B06.pdf)
+![](blueprints/B06.svg)
+
+[B06.pdf](blueprints/B06.pdf)
 
 ## 7. Door Flashing 
 
