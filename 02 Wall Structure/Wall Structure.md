@@ -117,6 +117,7 @@ No blocking is needed because the distance between the raised top plate and the 
 |---|---|---|---|---|
 | Joists to top plate,<Br/>one on each side down into top plate |  Toe Nail | 2.5" | 3 nails | 30 (60 Nails)
 | End Plate | End Nail | 3.5" | 2 nails | 30 (60 Nails)
+| Rim Joist to Top Plate| Toe Nail | 2.5” | 6” OC |
 |**Total**| |||60 2.5" Nails<br/>60 3.5" Nails
 
 ## 5. Ceiling Sheathing 
