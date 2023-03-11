@@ -13,3 +13,6 @@ _book
 # eBook build output
 *.epub
 *.mobi
+
+# macOS
+.DS_Store
